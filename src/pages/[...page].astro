@@ -1,0 +1,57 @@
+---
+import type { GetStaticPaths } from 'astro';
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import PostRow from '../components/PostRow.astro';
+
+export const getStaticPaths = (async ({ paginate }) => {
+  const posts = (await getCollection('blog', ({ data }) => !data.draft)).sort(
+    (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+  );
+  return paginate(posts, { pageSize: 10 });
+}) satisfies GetStaticPaths;
+
+const { page } = Astro.props;
+const first = page.currentPage === 1;
+---
+
+<Base>
+  {first && (
+    <section class="intro">
+      <h1 id="welcome-title">Welcome to Talha M Blog</h1><script is:inline>(function(){var h=document.getElementById('welcome-title');if(!h)return;try{if(sessionStorage.getItem('welcomeTyped'))return;sessionStorage.setItem('welcomeTyped','1');}catch(e){return;}var t=h.textContent;h.style.minHeight=h.offsetHeight+'px';h.textContent='';var i=0;(function type(){h.textContent=t.slice(0,++i);if(i<t.length)setTimeout(type,80);})();})();</script>
+      <p>
+        Every day we bring you the latest news on world events, entertainment, technology and AI
+        tools. Every story is explained step by step, in simple English that anyone can follow.
+      </p>
+    </section>
+  )}
+
+  {first && (
+    <nav class="cat-boxes" aria-label="Categories">
+      <a href="/category/pakistan-news/">Pakistan News</a>
+      <a href="/category/us-news/">US News</a>
+      <a href="/category/international-news/">International News</a>
+      <a href="/category/celebrity/">Celebrity</a>
+      <a href="/category/technology/">Technology</a>
+      <a href="/category/ai-tools/">AI Tools</a>
+    </nav>
+  )}
+
+  {page.data.length === 0 && <p class="empty">No posts yet. Add your first post in src/content/blog.</p>}
+
+  {page.data.map((post, i) => <PostRow post={post} big={first && i === 0} />)}
+
+  {(page.url.prev || page.url.next) && (
+    <nav class="pager" aria-label="Pages">
+      {page.url.prev ? <a href={page.url.prev}>Newer posts</a> : <span />}
+      {page.url.next ? <a href={page.url.next}>Older posts</a> : <span />}
+    </nav>
+  )}
+</Base>
+
+<style>
+  .cat-boxes { display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.75rem; margin: 1.5rem 0 2rem; }
+  .cat-boxes a { display: block; text-align: center; padding: 0.9rem 0.5rem; border: 1px solid color-mix(in srgb, currentColor 25%, transparent); border-radius: 10px; text-decoration: none; font-weight: 600; font-size: 0.95rem; }
+  .cat-boxes a:hover { background: color-mix(in srgb, currentColor 8%, transparent); }
+  @media (min-width: 640px) { .cat-boxes { grid-template-columns: repeat(3, 1fr); } }
+</style>

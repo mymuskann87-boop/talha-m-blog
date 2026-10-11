@@ -1,0 +1,21 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { fmtDate, readingTime, slugify } from '../utils';
+
+interface Props {
+  post: CollectionEntry<'blog'>;
+  big?: boolean;
+}
+const { post, big = false } = Astro.props;
+const d = post.data;
+---
+
+<article class:list={['row', { big }]}>
+  <a class="cat" href={`/category/${slugify(d.category)}/`}>{d.category}</a>
+  <h2><a href={`/blog/${post.id}/`}>{d.title}</a></h2>
+  <p class="desc">{d.description}</p>
+  <p class="meta">
+    <time datetime={d.pubDate.toISOString()}>{fmtDate(d.pubDate)}</time>
+    <span>{readingTime(post.body)} min read</span>
+  </p>
+</article>
