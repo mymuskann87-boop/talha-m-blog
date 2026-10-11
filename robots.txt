@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://talha-m-blog.tmblog.workers.dev/sitemap-index.xml
