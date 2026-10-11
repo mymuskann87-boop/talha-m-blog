@@ -16,9 +16,16 @@ export async function getStaticPaths() {
 }
 
 const { name, posts } = Astro.props;
+const DESCRIPTIONS: Record<string, string> = {
+  AI: 'Latest AI news, new AI tools and coding agents, explained step by step in simple English.',
+  'Pakistan News': 'Latest Pakistan news: politics, government and daily events, explained step by step in simple English.',
+  'US News': 'Important news from the United States, explained step by step in simple English.',
+  Celebrity: 'Celebrity news and life stories of famous people, explained in simple English.',
+};
+const desc = DESCRIPTIONS[name] || `Latest ${name} posts on Talha M Blog, explained step by step in simple English.`;
 ---
 
-<Base title={name} description={`Latest ${name} posts`}>
+<Base title={name} description={desc}>
   <section class="intro"><h1>{name}</h1></section>
   {posts.map((post) => <PostRow post={post} />)}
 </Base>

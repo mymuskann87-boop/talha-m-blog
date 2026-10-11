@@ -14,7 +14,7 @@ const d = post.data;
 const pubTime = d.pubDate.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', timeZone: 'Asia/Karachi' });
 ---
 
-<Base title={d.title} description={d.description} type="article" pubDate={d.pubDate} updatedDate={d.updatedDate}>
+<Base title={d.title} description={d.description} type="article" image={d.image} pubDate={d.pubDate} updatedDate={d.updatedDate}>
   <article>
     <header class="article-head">
       <a class="cat" href={`/category/${slugify(d.category)}/`}>{d.category}</a>
@@ -28,6 +28,7 @@ const pubTime = d.pubDate.toLocaleTimeString('en-US', { hour: 'numeric', minute:
         {d.updatedDate && <span>Updated: <time datetime={d.updatedDate.toISOString()}>{fmtDate(d.updatedDate)}</time></span>}
       </p>
     </header>
+    {d.image && <img class="hero-img" src={d.image} alt={d.imageAlt || d.title} width="1200" height="630" loading="eager" />}
     <div class="prose"><Content /></div>
     <aside class="author-box">
       <b>Written by Talha M</b>
@@ -38,6 +39,7 @@ const pubTime = d.pubDate.toLocaleTimeString('en-US', { hour: 'numeric', minute:
 </Base>
 
 <style>
+  .hero-img { width: 100%; height: auto; border-radius: 12px; margin: 0 0 1.5rem; }
   .live-dot { display: inline-block; width: 9px; height: 9px; border-radius: 50%; background: #9ca3af; margin-right: 6px; vertical-align: middle; }
   .live-dot.on { background: #22c55e; box-shadow: 0 0 0 3px rgba(34, 197, 94, 0.25); }
   .author-box { margin: 2rem 0 1rem; padding: 1rem 1.1rem; border: 1px solid color-mix(in srgb, currentColor 25%, transparent); border-radius: 10px; }

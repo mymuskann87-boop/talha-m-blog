@@ -3,6 +3,8 @@ title: "Emergency and governor's rule imposed in kp: what happened and what it m
 description: "The federal government has imposed an emergency and governor's rule in Khyber Pakhtunkhwa. Here is a simple, step-by-step explanation of what was decided, why, what changes in KP, and what happens next."
 pubDate: 2026-10-11T09:30:00+05:00
 category: "Pakistan News"
+image: "/images/kp-emergency-governor-rule-imposed.jpg"
+imageAlt: "Illustration of mountains in Khyber Pakhtunkhwa with a government building under dark clouds."
 ---
 
 Big news today: the federal government has imposed an **emergency** and **governor's rule** in Khyber Pakhtunkhwa (KP). This is one of the biggest steps the central government can take against a province. Here is everything explained in simple words, from the beginning.

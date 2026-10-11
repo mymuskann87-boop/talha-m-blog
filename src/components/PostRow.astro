@@ -12,6 +12,7 @@ const pubTime = d.pubDate.toLocaleTimeString('en-US', { hour: 'numeric', minute:
 ---
 
 <article class:list={['row', { big }]}>
+  {d.image && <a href={`/blog/${post.id}/`}><img class="row-img" src={d.image} alt={d.imageAlt || d.title} width="1200" height="630" loading="lazy" /></a>}
   <a class="cat" href={`/category/${slugify(d.category)}/`}>{d.category}</a>
   <h2><a href={`/blog/${post.id}/`}>{d.title}</a></h2>
   <p class="desc">{d.description}</p>
@@ -24,6 +25,7 @@ const pubTime = d.pubDate.toLocaleTimeString('en-US', { hour: 'numeric', minute:
 </article>
 
 <style>
+  .row-img { width: 100%; height: auto; border-radius: 10px; margin-bottom: 0.75rem; }
   .live-dot { display: inline-block; width: 9px; height: 9px; border-radius: 50%; background: #9ca3af; margin-right: 6px; vertical-align: middle; }
   .live-dot.on { background: #22c55e; box-shadow: 0 0 0 3px rgba(34, 197, 94, 0.25); }
 </style>

@@ -8,7 +8,7 @@ export const getStaticPaths = (async ({ paginate }) => {
   const posts = (await getCollection('blog', ({ data }) => !data.draft)).sort(
     (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
   );
-  return paginate(posts, { pageSize: 1000 });
+  return paginate(posts, { pageSize: 10 });
 }) satisfies GetStaticPaths;
 
 const { page } = Astro.props;
@@ -25,7 +25,10 @@ for (const p of allPosts) {
 const cats = [...catMap].map(([slug, name]) => ({ slug, name }));
 ---
 
-<Base>
+<Base
+  title={first ? 'News, AI Tools and Entertainment in Simple English' : undefined}
+  description={first ? 'Daily news on Pakistan, world events, AI tools and entertainment, explained step by step in simple English that anyone can follow.' : undefined}
+>
   {first && (
     <section class="intro">
       <h1 id="welcome-title">Welcome to Talha M Blog</h1><script is:inline>(function(){var h=document.getElementById('welcome-title');if(!h)return;try{if(sessionStorage.getItem('welcomeTyped'))return;sessionStorage.setItem('welcomeTyped','1');}catch(e){return;}var t=h.textContent;h.style.minHeight=h.offsetHeight+'px';h.textContent='';var i=0;(function type(){h.textContent=t.slice(0,++i);if(i<t.length)setTimeout(type,80);})();})();</script>

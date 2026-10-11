@@ -3,6 +3,8 @@ title: "AI Agents News This Week (October 2026): Claude Haiku 5.5, OpenAI Dots, 
 description: "The biggest AI agent news of the week in simple words: Claude Haiku 5.5, OpenAI's always-on agent Dots, Meta Muse on iPad, Google's Gemini agent, HackerRank Chakra and IBM Bob."
 pubDate: 2026-10-11T17:40:00+05:00
 category: "AI"
+image: "/images/ai-agents-news-this-week-october-2026.jpg"
+imageAlt: "Illustration of friendly AI robot assistants working in a modern newsroom with glowing screens."
 ---
 
 A lot happened in the world of AI agents in the first ten days of October 2026. An **AI agent** is an AI that does not only answer questions, but also takes actions for you, like writing code, booking things or finishing a task. Here is a simple summary of the most important news.

@@ -1,0 +1,56 @@
+---
+import Base from '../layouts/Base.astro';
+---
+
+<Base title="Search" description="Search all articles on Talha M Blog.">
+  <section class="article-head"><h1>Search</h1></section>
+  <div class="prose">
+    <p>Type a word to search all articles by title, summary and category.</p>
+  </div>
+  <p>
+    <input id="q" type="search" placeholder="Search articles..." autocomplete="off"
+      style="width:100%;padding:0.8rem 1rem;font-size:1rem;border:1px solid color-mix(in srgb, currentColor 30%, transparent);border-radius:10px;background:transparent;color:inherit" />
+  </p>
+  <div id="results"><p>Type above to start searching.</p></div>
+
+  <script is:inline>
+    (function () {
+      var input = document.getElementById('q');
+      var box = document.getElementById('results');
+      var posts = null;
+      function esc(s) {
+        return String(s).replace(/[&<>"]/g, function (c) {
+          return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c];
+        });
+      }
+      function render(list, q) {
+        if (!list.length) {
+          box.innerHTML = '<p>No articles found for "' + esc(q) + '". Try another word.</p>';
+          return;
+        }
+        box.innerHTML = list.map(function (p) {
+          return '<article class="row"><a class="cat" href="/category/' + esc(p.catSlug) + '/">' + esc(p.category) + '</a>' +
+            '<h2><a href="/blog/' + esc(p.slug) + '/">' + esc(p.title) + '</a></h2>' +
+            '<p class="desc">' + esc(p.description) + '</p>' +
+            '<p class="meta"><span>' + esc(p.date) + '</span></p></article>';
+        }).join('');
+      }
+      input.addEventListener('input', function () {
+        var q = input.value.trim().toLowerCase();
+        if (!q) { box.innerHTML = '<p>Type above to start searching.</p>'; return; }
+        function run() {
+          var list = posts.filter(function (p) {
+            return (p.title + ' ' + p.description + ' ' + p.category).toLowerCase().indexOf(q) !== -1;
+          });
+          render(list, input.value.trim());
+        }
+        if (posts) { run(); return; }
+        box.innerHTML = '<p>Searching...</p>';
+        fetch('/search-index.json')
+          .then(function (r) { return r.json(); })
+          .then(function (data) { posts = data; run(); })
+          .catch(function () { box.innerHTML = '<p>Search could not load. Please try again.</p>'; });
+      });
+    })();
+  </script>
+</Base>

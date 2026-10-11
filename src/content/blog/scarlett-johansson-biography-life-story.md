@@ -3,6 +3,8 @@ title: "Scarlett Johansson Life Story: From a New York Child Actress to a Global
 description: "A simple and complete look at the life of Scarlett Johansson: her childhood in New York, her early films, her big hits, her awards, her family, and what she is working on next."
 pubDate: 2026-10-11T12:30:00+05:00
 category: "Celebrity"
+image: "/images/scarlett-johansson-biography-life-story.jpg"
+imageAlt: "Illustration of a Hollywood red carpet with an actress silhouette seen from behind and camera flashes."
 ---
 
 **Scarlett Johansson** is one of the best-known actresses in the world. She started acting as a child, and today her films have earned billions of dollars. In this post I will tell her full life story in simple words, from her childhood in New York to her big movies, her awards, her family life, and her upcoming projects.
