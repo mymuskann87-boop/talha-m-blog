@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-site: 'https://talha-m-blog.tmblog.workers.dev',
+Sitemap: https://talha-m-blog.tmblog.workers.dev/sitemap-index.xml
