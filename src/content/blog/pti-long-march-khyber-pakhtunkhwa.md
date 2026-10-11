@@ -1,7 +1,7 @@
 ---
 title: "PTI long march in Khyber Pakhtunkhwa: Where it is today and what happens next"
 description: "The PTI long march led by KP Chief Minister Sohail Afridi has completed one week. Here is a simple, step-by-step explanation of what it is, where it has gone, and what may come next."
-pubDate: 2026-10-11
+pubDate: 2026-10-11T14:00:00+05:00
 category: "Pakistan News"
 ---
 

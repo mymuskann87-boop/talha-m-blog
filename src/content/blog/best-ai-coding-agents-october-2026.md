@@ -1,7 +1,7 @@
 ---
 title: "Best AI Coding Agents in October 2026: Claude Code, Codex, Cursor and More Compared"
 description: "AI coding agents can now write code, run commands and fix errors on their own. Here is a simple comparison of the top tools in October 2026, with prices and benchmark scores."
-pubDate: 2026-10-11
+pubDate: 2026-10-11T15:15:00+05:00
 category: "AI"
 ---
 
