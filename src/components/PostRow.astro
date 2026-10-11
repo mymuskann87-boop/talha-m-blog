@@ -8,6 +8,7 @@ interface Props {
 }
 const { post, big = false } = Astro.props;
 const d = post.data;
+const pubTime = d.pubDate.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', timeZone: 'Asia/Karachi' });
 ---
 
 <article class:list={['row', { big }]}>
@@ -15,7 +16,23 @@ const d = post.data;
   <h2><a href={`/blog/${post.id}/`}>{d.title}</a></h2>
   <p class="desc">{d.description}</p>
   <p class="meta">
+    <span class="live-dot" data-pub={d.pubDate.toISOString()} aria-hidden="true"></span>
     <time datetime={d.pubDate.toISOString()}>{fmtDate(d.pubDate)}</time>
+    <span>{pubTime} PKT</span>
     <span>{readingTime(post.body)} min read</span>
   </p>
 </article>
+
+<style>
+  .live-dot { display: inline-block; width: 9px; height: 9px; border-radius: 50%; background: #9ca3af; margin-right: 6px; vertical-align: middle; }
+  .live-dot.on { background: #22c55e; box-shadow: 0 0 0 3px rgba(34, 197, 94, 0.25); }
+</style>
+
+<script>
+  document.querySelectorAll<HTMLElement>('.live-dot').forEach((el) => {
+    const age = Date.now() - new Date(el.dataset.pub || '').getTime();
+    const fresh = age < 48 * 3600 * 1000;
+    el.classList.add(fresh ? 'on' : 'off');
+    el.title = fresh ? 'New' : '';
+  });
+</script>

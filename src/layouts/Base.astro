@@ -7,6 +7,7 @@ interface Props {
   description?: string;
   type?: 'website' | 'article';
   pubDate?: Date;
+  updatedDate?: Date;
 }
 
 const {
@@ -14,6 +15,7 @@ const {
   description = 'Daily news on tech, AI tools and entertainment, written in plain English.',
   type = 'website',
   pubDate,
+  updatedDate,
 } = Astro.props;
 
 const fullTitle = title ? `${title} | ${SITE_NAME}` : SITE_NAME;
@@ -27,7 +29,9 @@ const jsonLd =
         headline: title,
         description,
         datePublished: pubDate.toISOString(),
-        author: { '@type': 'Person', name: 'Talha M' },
+        dateModified: (updatedDate || pubDate).toISOString(),
+        publisher: { '@type': 'Organization', name: SITE_NAME, url: new URL('/', Astro.site).toString() },
+        author: { '@type': 'Person', name: 'Talha M', url: new URL('/about/', Astro.site).toString() },
         mainEntityOfPage: canonical.toString(),
       })
     : null;

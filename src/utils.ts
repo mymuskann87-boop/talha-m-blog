@@ -7,4 +7,4 @@ export const readingTime = (body: string | undefined = '') =>
   Math.max(1, Math.round(body.trim().split(/\s+/).length / 200));
 
 export const fmtDate = (d: Date) =>
-  d.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'UTC' });
+  d.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'Asia/Karachi' });

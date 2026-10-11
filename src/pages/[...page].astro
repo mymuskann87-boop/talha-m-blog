@@ -8,11 +8,21 @@ export const getStaticPaths = (async ({ paginate }) => {
   const posts = (await getCollection('blog', ({ data }) => !data.draft)).sort(
     (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
   );
-  return paginate(posts, { pageSize: 10 });
+  return paginate(posts, { pageSize: 1000 });
 }) satisfies GetStaticPaths;
 
 const { page } = Astro.props;
 const first = page.currentPage === 1;
+
+const allPosts = await getCollection('blog', ({ data }) => !data.draft);
+const catMap = new Map();
+for (const p of allPosts) {
+  const name = String(p.data.category || '').trim();
+  if (!name) continue;
+  const slug = name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+  if (slug && !catMap.has(slug)) catMap.set(slug, name);
+}
+const cats = [...catMap].map(([slug, name]) => ({ slug, name }));
 ---
 
 <Base>
@@ -28,12 +38,7 @@ const first = page.currentPage === 1;
 
   {first && (
     <nav class="cat-boxes" aria-label="Categories">
-      <a href="/category/pakistan-news/">Pakistan News</a>
-      <a href="/category/us-news/">US News</a>
-      <a href="/category/international-news/">International News</a>
-      <a href="/category/celebrity/">Celebrity</a>
-      <a href="/category/technology/">Technology</a>
-      <a href="/category/ai-tools/">AI Tools</a>
+      {cats.map((c) => <a href={`/category/${c.slug}/`}>{c.name}</a>)}
     </nav>
   )}
 
