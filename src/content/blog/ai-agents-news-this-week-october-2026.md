@@ -3,7 +3,7 @@ title: "AI Agents News This Week (October 2026): Claude Haiku 5.5, OpenAI Dots, 
 description: "The biggest AI agent news of the week in simple words: Claude Haiku 5.5, OpenAI's always-on agent Dots, Meta Muse on iPad, Google's Gemini agent, HackerRank Chakra and IBM Bob."
 pubDate: 2026-10-11T17:40:00+05:00
 category: "AI"
-image: "/images/ai-agents-news-this-week-october-2026.jpg"
+image: "/images/ai-agents-news-this-week-october-2026.webp"
 imageAlt: "Illustration of friendly AI robot assistants working in a modern newsroom with glowing screens."
 ---
 
