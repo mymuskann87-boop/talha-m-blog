@@ -3,7 +3,7 @@ title: "Taylor Swift to Perform at Academy Museum Gala 2026: Date, Honorees, Ven
 description: "Taylor Swift will perform at the Academy Museum Gala on October 17, 2026 in Los Angeles. Meet the honorees, the co-chairs and the cause it supports."
 pubDate: 2026-10-11T21:50:00+05:00
 category: "Celebrity"
-image: "/images/taylor-swift-academy-museum-gala-2026.jpg"
+image: "/images/taylor-swift-academy-museum-gala-2026.webp"
 imageAlt: "A singer silhouette performing on stage at a glamorous museum gala"
 ---
 
