@@ -3,7 +3,7 @@ title: "Hackers Hacked the Fridges of 700 Supermarkets in France: Temperatures H
 description: "Hackers took over the fridge systems of around 700 supermarkets in France, heating food to 50 degrees, spoiling stock and sparking fires. How it happened and why experts call it a wake-up call."
 pubDate: 2026-10-14T11:00:00+05:00
 category: "World News"
-image: "/images/france-supermarket-fridges-cyberattack.jpg"
+image: "/images/france-supermarket-fridges-cyberattack.webp"
 ---
 
 Imagine walking into your local supermarket early in the morning. The lights are on. The shelves look normal. But something feels wrong. The fridges, which should be icy cold, are warm. The milk is warm. The meat is warm. The cheese is sweating. And nobody in the store touched a single button to make it happen.
