@@ -12,6 +12,13 @@ const { post } = Astro.props;
 const { Content } = await render(post);
 const d = post.data;
 const pubTime = d.pubDate.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', timeZone: 'Asia/Karachi' });
+const allPosts = await getCollection('blog', ({ data }) => !data.draft);
+const others = allPosts
+  .filter((p) => p.id !== post.id)
+  .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+const sameCat = others.filter((p) => p.data.category === d.category);
+const related = [...sameCat, ...others.filter((p) => p.data.category !== d.category)].slice(0, 3);
+const relatedHeading = sameCat.length > 0 ? `More in ${d.category}` : 'More stories';
 ---
 
 <Base title={d.title} description={d.description} type="article" image={d.image} pubDate={d.pubDate} updatedDate={d.updatedDate}>
@@ -35,6 +42,20 @@ const pubTime = d.pubDate.toLocaleTimeString('en-US', { hour: 'numeric', minute:
       <p>Talha M Blog explains news, entertainment and AI tools in simple English. <a href="/about/">Read more about us</a>.</p>
     </aside>
   </article>
+  {related.length > 0 && (
+    <section class="related">
+      <h2>{relatedHeading}</h2>
+      <div class="related-grid">
+        {related.map((p) => (
+          <a class="related-card" href={`/blog/${p.id}/`}>
+            {p.data.image && <img src={p.data.image} alt={p.data.imageAlt || p.data.title} width="400" height="210" loading="lazy" />}
+            <span class="related-cat">{p.data.category}</span>
+            <b>{p.data.title}</b>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
   <a class="back" href="/">Back to all posts</a>
 </Base>
 
@@ -44,6 +65,13 @@ const pubTime = d.pubDate.toLocaleTimeString('en-US', { hour: 'numeric', minute:
   .live-dot.on { background: #22c55e; box-shadow: 0 0 0 3px rgba(34, 197, 94, 0.25); }
   .author-box { margin: 2rem 0 1rem; padding: 1rem 1.1rem; border: 1px solid color-mix(in srgb, currentColor 25%, transparent); border-radius: 10px; }
   .author-box p { margin: 0.35rem 0 0; font-size: 0.95rem; }
+  .related { margin: 2rem 0 1rem; }
+  .related h2 { font-size: 1.35rem; margin: 0 0 0.9rem; }
+  .related-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 0.9rem; }
+  .related-card { display: block; border: 1px solid color-mix(in srgb, currentColor 25%, transparent); border-radius: 10px; padding: 0.7rem; text-decoration: none; color: inherit; }
+  .related-card img { width: 100%; height: auto; border-radius: 8px; margin: 0 0 0.55rem; }
+  .related-cat { display: block; font-size: 0.75rem; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; opacity: 0.75; margin-bottom: 0.3rem; }
+  .related-card b { font-size: 0.98rem; line-height: 1.35; }
 </style>
 
 <script>
