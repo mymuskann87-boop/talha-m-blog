@@ -4,7 +4,7 @@ description: "The rescue operation after the Rehman Baba Express derailment near
 pubDate: 2026-10-13T21:45:00+05:00
 updatedDate: 2026-10-14T09:55:00+05:00
 category: "Pakistan News"
-image: "/images/rehman-baba-express-derailment-multan.jpg"
+image: "/images/rehman-baba-express-derailment-multan.webp"
 ---
 
 **Update — Wednesday, October 14:** The rescue operation at the accident site has now been completed, and most of the injured passengers have been sent home from hospital. But a sad confusion remains: different reports give different death tolls. Pakistan Railways' chief executive and Rescue 1122 officials say five people were killed and 49 were injured, while rescue sources quoted by some newspapers put the deaths at seven, including a baby girl of about 18 months. A formal inquiry into the crash will be held on October 17 and 18. The full updated story is below.
