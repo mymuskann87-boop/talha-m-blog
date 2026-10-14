@@ -3,7 +3,7 @@ title: "Pakistan Tests Fatah-2 Hypersonic Missile: The Second Big Test in One We
 description: "Pakistan has test-fired the Fatah-2 ER hypersonic ballistic missile days after the Fatah-4 cruise missile test. What this missile is and why it matters."
 pubDate: 2026-10-13T21:45:00+05:00
 category: "Pakistan News"
-image: "/images/pakistan-fatah-2-hypersonic-missile-test.jpg"
+image: "/images/pakistan-fatah-2-hypersonic-missile-test.webp"
 ---
 
 For the second time in less than a week, the skies over Pakistan carried the fire trail of a brand-new test. On Tuesday, October 13, 2026, the Pakistan Army successfully test-launched the Fatah-2 Extended Range — better known as the Fatah-2 ER — a hypersonic ballistic missile described by the military as one of the most advanced weapons the country has ever tested. Only days earlier, Pakistan had tested an upgraded version of its Fatah-4 ground-launched cruise missile. Two major missile tests in a single week is not a routine event, and it has naturally raised a big question: what exactly is this new missile, and why does it matter so much?
