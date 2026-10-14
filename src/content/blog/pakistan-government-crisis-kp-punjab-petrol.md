@@ -3,7 +3,7 @@ title: "Pakistan government crisis: what is happening in kp, punjab and petrol p
 description: "A simple explanation of Pakistan's political situation right now: the fight between the federal government and Khyber Pakhtunkhwa, the role of Punjab, governor's rule talk, and rising petrol prices."
 pubDate: 2026-10-11T11:00:00+05:00
 category: "Pakistan News"
-image: "/images/pakistan-government-crisis-kp-punjab-petrol.jpg"
+image: "/images/pakistan-government-crisis-kp-punjab-petrol.webp"
 imageAlt: "Illustration of a parliament building and a petrol pump at dusk."
 ---
 
