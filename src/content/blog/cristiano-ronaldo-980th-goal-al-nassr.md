@@ -3,7 +3,7 @@ title: "Cristiano Ronaldo Scores His 980th Career Goal for Al-Nassr After Portug
 description: "Cristiano Ronaldo returned for Al-Nassr, scored his 980th career goal in a 3-0 win over Diriyah, and put the Portugal row behind him for a night."
 pubDate: 2026-10-10T23:15:00+05:00
 category: "Sports"
-image: "/images/cristiano-ronaldo-980th-goal-al-nassr.jpg"
+image: "/images/cristiano-ronaldo-980th-goal-al-nassr.webp"
 imageAlt: "Illustration of a football striker silhouette celebrating a goal in a packed stadium"
 ---
 
