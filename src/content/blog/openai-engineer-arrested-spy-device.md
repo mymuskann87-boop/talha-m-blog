@@ -3,7 +3,7 @@ title: "Spy Device in the Boardroom: OpenAI Engineer Arrested for Bugging Execut
 description: "An OpenAI engineer has been arrested after a hidden recording device was found inside an executive conference room at the company's San Francisco headquarters. The full story of the device, the investigation and the charges."
 pubDate: 2026-10-14T09:00:00+05:00
 category: "AI"
-image: "/images/openai-engineer-arrested-spy-device.jpg"
+image: "/images/openai-engineer-arrested-spy-device.webp"
 ---
 
 It sounds like a scene from a spy film. Inside the headquarters of the most famous artificial intelligence company in the world, in a quiet executive meeting room where the company's biggest secrets are discussed, someone found a hidden listening device. It was tucked behind a television, plugged into a USB port, and wrapped in toilet paper so nobody would notice it.
