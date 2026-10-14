@@ -3,7 +3,7 @@ title: "One Last Koffee: Salman Khan Opens the Final Season of Koffee With Karan
 description: "After 22 years, Koffee With Karan returns for its ninth and final season on October 14, with Salman Khan as the first guest. Here is the farewell story."
 pubDate: 2026-10-13T21:45:00+05:00
 category: "Celebrity"
-image: "/images/salman-khan-koffee-with-karan-season-9.jpg"
+image: "/images/salman-khan-koffee-with-karan-season-9.webp"
 ---
 Every famous couch has a story, but very few couches become famous themselves. The Koffee With Karan couch is one of them. For more than two decades, India's biggest film stars have sat on it, laughed on it, cried on it, fought on it, and sometimes said things on it that became headlines for weeks. Now, that couch is being used one final time. Koffee With Karan is returning for its ninth season — and it will be the last season ever. The farewell run begins on October 14, 2026, streaming on JioHotstar, and the makers have chosen the perfect person to sit down first: Salman Khan.
 
