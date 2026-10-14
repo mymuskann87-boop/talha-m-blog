@@ -3,7 +3,7 @@ title: "Trump Announces Russia-Ukraine 'Energy Ceasefire' — But Ukraine's Pres
 description: "Donald Trump declared an immediate energy ceasefire between Russia and Ukraine. Kyiv says it was never told, Moscow has not confirmed it, and strikes were reported hours later. What is really going on?"
 pubDate: 2026-10-14T13:00:00+05:00
 category: "US News"
-image: "/images/trump-russia-ukraine-energy-ceasefire.jpg"
+image: "/images/trump-russia-ukraine-energy-ceasefire.webp"
 ---
 
 Imagine waking up one morning and reading on social media that a war in your country has partly stopped — and nobody told you first. That is almost exactly what happened this week between the United States, Ukraine and Russia, and the whole story is as strange as it sounds.
