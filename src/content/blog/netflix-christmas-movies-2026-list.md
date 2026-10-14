@@ -3,7 +3,7 @@ title: "Netflix Christmas Movies 2026 List: Four Festive Films, Release Dates, C
 description: "Netflix has shared the first teaser for its 2026 Christmas movies, with four festive films arriving weekly. Here are the dates, casts and stories."
 pubDate: 2026-10-11T18:20:00+05:00
 category: "Celebrity"
-image: "/images/netflix-christmas-movies-2026-list.jpg"
+image: "/images/netflix-christmas-movies-2026-list.webp"
 imageAlt: "A cozy living room with a Christmas tree and a movie playing on TV"
 ---
 
