@@ -3,7 +3,7 @@ title: "Drishyam The Conclusion Box Office: Ajay Devgn's Biggest Hit Crosses ₹
 description: "Drishyam: The Conclusion is now Ajay Devgn's highest-grossing film. A simple look at the reported box office numbers from India and overseas."
 pubDate: 2026-10-11T15:55:00+05:00
 category: "Celebrity"
-image: "/images/drishyam-the-conclusion-box-office.jpg"
+image: "/images/drishyam-the-conclusion-box-office.webp"
 imageAlt: "Illustration of a cinema hall with a busy box office counter"
 ---
 
