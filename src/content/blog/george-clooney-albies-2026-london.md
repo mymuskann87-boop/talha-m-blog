@@ -3,7 +3,7 @@ title: "George and Amal Clooney's Albies 2026 in London: Full Honorees List, Hos
 description: "The Clooney Foundation for Justice held its fifth Albies in London on October 9, 2026. Meet the honorees and see who hosted, performed and attended."
 pubDate: 2026-10-11T13:40:00+05:00
 category: "Celebrity"
-image: "/images/george-clooney-albies-2026-london.jpg"
+image: "/images/george-clooney-albies-2026-london.webp"
 imageAlt: "A red carpet evening outside a London museum at night"
 ---
 
