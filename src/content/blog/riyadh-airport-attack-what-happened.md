@@ -3,7 +3,7 @@ title: "Riyadh Airport Attack: What Happened at King Khalid International Airpor
 description: "A simple, respectful explainer on the Riyadh airport strike: what officials said, how many people were affected, and how the world reacted."
 pubDate: 2026-10-11T08:30:00+05:00
 category: "World News"
-image: "/images/riyadh-airport-attack-what-happened.jpg"
+image: "/images/riyadh-airport-attack-what-happened.webp"
 imageAlt: "Illustration of an airport terminal at night with distant emergency lights"
 ---
 
