@@ -33,8 +33,8 @@ const cats = [...catMap].map(([slug, name]) => ({ slug, name }));
     <section class="intro">
       <h1 id="welcome-title">Welcome to Talha M Blog</h1><script is:inline>(function(){var h=document.getElementById('welcome-title');if(!h)return;try{if(sessionStorage.getItem('welcomeTyped'))return;sessionStorage.setItem('welcomeTyped','1');}catch(e){return;}var t=h.textContent;h.style.minHeight=h.offsetHeight+'px';h.textContent='';var i=0;(function type(){h.textContent=t.slice(0,++i);if(i<t.length)setTimeout(type,80);})();})();</script>
       <p>
-        Every day we bring you the latest news on world events, entertainment, technology and AI
-        tools. Every story is explained step by step, in simple English that anyone can follow.
+        Daily news on world events, sports, celebrities and AI tools — every story in simple
+        English that anyone can follow.
       </p>
     </section>
   )}
@@ -58,8 +58,7 @@ const cats = [...catMap].map(([slug, name]) => ({ slug, name }));
 </Base>
 
 <style>
-  .cat-boxes { display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.75rem; margin: 1.5rem 0 2rem; }
-  .cat-boxes a { display: block; text-align: center; padding: 0.9rem 0.5rem; border: 1px solid color-mix(in srgb, currentColor 25%, transparent); border-radius: 10px; text-decoration: none; font-weight: 600; font-size: 0.95rem; }
+  .cat-boxes { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.45rem; margin: 0.35rem 0 1.5rem; }
+  .cat-boxes a { display: flex; align-items: center; justify-content: center; text-align: center; padding: 0.42rem 0.25rem; border: 1px solid color-mix(in srgb, currentColor 25%, transparent); border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.8rem; line-height: 1.3; }
   .cat-boxes a:hover { background: color-mix(in srgb, currentColor 8%, transparent); }
-  @media (min-width: 640px) { .cat-boxes { grid-template-columns: repeat(3, 1fr); } }
 </style>
