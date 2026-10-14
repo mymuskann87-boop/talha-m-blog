@@ -3,7 +3,7 @@ title: "Trump profile: age, net worth, iran war and what he said about imran kha
 description: "A simple profile of US President Donald Trump: his birth and age, family, net worth, the Iran war, the criticism against him, and what he has said about Imran Khan."
 pubDate: 2026-10-11T16:30:00+05:00
 category: "US News"
-image: "/images/trump-profile-age-net-worth-iran-war-imran-khan.jpg"
+image: "/images/trump-profile-age-net-worth-iran-war-imran-khan.webp"
 imageAlt: "Illustration of the White House with an American flag under a dramatic sky."
 ---
 
