@@ -156,8 +156,11 @@ main { flex: 1; padding-bottom: 3rem; }
 .back { display: inline-block; margin-top: 3rem; font-weight: 600; color: var(--accent); text-decoration: none; }
 .back:hover { text-decoration: underline; }
 
-/* footer */
-.site-footer { padding: 1.75rem 0; border-top: 1px solid var(--line); color: var(--muted); font-size: .9rem; }
-.site-footer .wrap { display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap; }
-.site-footer a { text-decoration: none; }
-.site-footer a:hover { text-decoration: underline; }
+/* footer — design 7 (blue, theme matched) */
+.site-footer7 { width: calc(100% - 1.5rem); max-width: 44rem; margin: 2rem auto 1rem; background: linear-gradient(135deg, #1d4ed8, #12275e); border-radius: 16px; padding: 1.4rem 1.1rem 1.15rem; text-align: center; color: #fff; box-sizing: border-box; }
+.sf7-brand { font-family: Georgia, 'Times New Roman', serif; font-size: 1.375rem; font-weight: 700; line-height: 1.2; }
+.sf7-tag { font-size: .75rem; color: #c9d6ff; margin-top: .25rem; }
+.sf7-links { display: flex; gap: .45rem; justify-content: center; flex-wrap: wrap; margin-top: .75rem; }
+.sf7-links a { background: rgba(255,255,255,.18); border-radius: 9px; padding: .4rem .75rem; font-size: .75rem; color: #fff; text-decoration: none; }
+.sf7-links a:hover { background: rgba(255,255,255,.32); text-decoration: none; }
+.sf7-copy { font-size: .72rem; color: #a9c0ff; margin-top: .75rem; }

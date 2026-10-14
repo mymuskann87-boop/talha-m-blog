@@ -81,8 +81,8 @@ const jsonLd =
         } catch (e) {}
       })();
     </script>
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Talha M Blog","alternateName":"talhablog.com","url":"https://talhablog.com/"}</script>
-</head>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Talha M Blog","alternateName":"talhablog.com","url":"https://talhablog.com/"}</script>
+  </head>
   <body>
     <a class="skip" href="#main">Skip to content</a>
     <header class="site-header">
@@ -125,11 +125,17 @@ const jsonLd =
       <div class="wrap"><slot /></div>
     </main>
 
-    <footer class="site-footer">
-      <div class="wrap">
-        <span>&copy; {year} {SITE_NAME}</span>
-        <span><a href="/about/">About</a> · <a href="/contact/">Contact</a> · <a href="/privacy/">Privacy</a> · <a href="/terms/">Terms</a> · <a href="/disclaimer/">Disclaimer</a></span>
-      </div>
+    <footer class="site-footer7">
+      <div class="sf7-brand">{SITE_NAME}</div>
+      <div class="sf7-tag">News &middot; AI Tools &middot; Entertainment</div>
+      <nav class="sf7-links">
+        <a href="/about/">About</a>
+        <a href="/contact/">Contact</a>
+        <a href="/privacy/">Privacy</a>
+        <a href="/terms/">Terms</a>
+        <a href="/disclaimer/">Disclaimer</a>
+      </nav>
+      <div class="sf7-copy">&copy; {year} {SITE_NAME}</div>
     </footer>
 
     <script is:inline>
