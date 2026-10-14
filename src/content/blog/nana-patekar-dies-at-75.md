@@ -3,7 +3,7 @@ title: "Nana Patekar Dies at 75: A Look Back at the Life and Films of a Bollywoo
 description: "Indian actor and filmmaker Nana Patekar died at his home in Goa at the age of 75. Here is what happened, and a simple look back at his life and his best-known films."
 pubDate: 2026-10-10T21:10:00+05:00
 category: "Celebrity"
-image: "/images/nana-patekar-dies-at-75.jpg"
+image: "/images/nana-patekar-dies-at-75.webp"
 imageAlt: "Illustration of a vintage Bollywood film set with an elderly actor silhouette, marigold flowers and candlelight."
 ---
 
