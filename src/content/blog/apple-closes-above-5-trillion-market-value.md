@@ -65,3 +65,9 @@ John Ternus. He took over just over a month ago, after Tim Cook's 15-year run as
 Pre-orders for the foldable iPhone Duo open on Friday 16 October, ahead of its 23 October release, and Apple's next earnings report will show whether phone demand can support the record value.
 
 *Sources: The Wall Street Journal (via The Times), 15 October 2026; Barron's, 14 October 2026; MacRumors, 14 October 2026; The Apple Post, 14 October 2026.*
+
+**Source links:**
+- [The Apple Post](https://www.theapplepost.com/2026/10/14/73290/apple-closes-above-5-trillion-market-cap-for-the-first-time/)
+- [MacRumors](https://www.macrumors.com/2026/10/14/apple-5-trillion-close/)
+- [Wall Street Journal](https://www.wsj.com/tech/seventh-time-is-the-charm-apple-closes-above-5-trillion-market-capitalization-88a5a056)
+- [The Times](https://www.thetimes.com/business/wsj/article/apple-joins-nvidia-in-the-5-trillion-valuation-club-g3l5dbvgn)

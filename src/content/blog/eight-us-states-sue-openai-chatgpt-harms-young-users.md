@@ -91,3 +91,8 @@ Court orders forcing changes to how ChatGPT works, civil penalties and damages. 
 Yes. Spokesperson Drew Pusateri said ChatGPT already has age-specific protections, including parental controls, break reminders and age-appropriate model protections, and that the company will keep building safeguards with experts and states.
 
 *Sources: Reuters (via Channel NewsAsia, The Business Standard and Anadolu), 15 October 2026; Office of Arizona Attorney General Kris Mayes, press release, 14 October 2026; FOX 10 Phoenix, 14 October 2026; ANI via Politico/Reuters reporting, 15 October 2026; SiliconANGLE, 14 October 2026.*
+
+**Source links:**
+- [Reuters](https://www.reuters.com/world/eight-us-states-sue-openai-claiming-chatgpt-harms-children-2026-10-14/)
+- [Arizona Attorney General (official)](https://www.azag.gov/press-release/attorney-general-mayes-announces-lawsuit-against-openai-deceiving-arizonans-about)
+- [FOX 10 Phoenix](https://fox10phoenix.com/news/arizona-sues-openai-over-chatgpt-safety-concerns-consumer-fraud)

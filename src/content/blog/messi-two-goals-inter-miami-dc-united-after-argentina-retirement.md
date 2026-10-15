@@ -76,3 +76,8 @@ Messi now has 23 goals and 13 assists this season. He leads the Golden Boot race
 Inter Miami's next match is on Wednesday night, when they host New York City FC.
 
 *Sources: MLS Soccer, NDTV Sports, The National and Mathrubhumi English reported this match on October 11, 2026.*
+
+**Source links:**
+- [The National](https://www.thenationalnews.com/sport/football/2026/10/11/lionel-messi-scores-twice-for-inter-miami-in-first-game-since-argentina-farewell/)
+- [Mathrubhumi English](https://english.mathrubhumi.com/sports/football/messi-scores-twice-in-first-match-since-argentina-retirement-as-inter-miami-thrash-dc-united-4-0-t5r004us)
+- [Geo Super / AFP](https://www.geosuper.tv/latest/60359-messi-scores-twice-in-inter-miami-win-after-argentina-farewell)

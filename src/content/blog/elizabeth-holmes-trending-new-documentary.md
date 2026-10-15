@@ -67,3 +67,7 @@ She is serving her sentence at Federal Prison Camp Bryan in Texas. Her sentence 
 She married Billy Evans, a hotel-business heir, in 2019. They have two children: William, born in 2021, and Invicta, born in 2023.
 
 *Sources: Fox 4 News and published biographical records, October 2026.*
+
+**Source links:**
+- [Malay Mail / AFP](https://www.malaymail.com/news/showbiz/2026/10/09/you-can-see-everything-documentary-offers-awkward-uncomfortable-look-at-theranos-scammer-elizabeth-holmes/238360)
+- [USA Today](https://www.usatoday.com/story/entertainment/movies/2026/10/01/you-can-see-everything-elizabeth-holmes-nathan-fielder-documentary/91983595007/)

@@ -69,3 +69,9 @@ No one has been officially named. Agencies describe the weapons as unknown proje
 Before the war, about a fifth of the world's oil and liquefied natural gas trade passed through the strait, so attacks there can affect fuel supplies and prices around the world.
 
 *Sources: Reuters, 14 October 2026; Channel NewsAsia, 14 October 2026; Malay Mail (Bernama), 15 October 2026; The Straits Times, 15 October 2026.*
+
+**Source links:**
+- [Reuters (via SRN News)](https://srnnews.com/container-ship-sinks-near-hormuz-after-being-hit-by-projectile-sources-say/)
+- [Channel NewsAsia](https://www.channelnewsasia.com/singapore/vessels-singapore-registered-struck-strait-hormuz-6459176)
+- [Malay Mail (Bernama)](https://www.malaymail.com/news/singapore/2026/10/15/two-singapore-registered-ships-hit-by-projectiles-in-strait-of-hormuz-one-sinks/239152)
+- [The Straits Times](https://www.straitstimes.com/singapore/no-injuries-reported-after-2-singapore-registered-ships-struck-in-hormuz-strait-says-mpa)

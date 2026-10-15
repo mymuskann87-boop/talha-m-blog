@@ -141,3 +141,9 @@ Yes. More than one hundred groups are estimated to live in voluntary isolation i
 About 17 percent has already been cut or burned, mainly for cattle, farms, mining and roads. Scientists warn that at around 20–25 percent loss, the forest may fail to make its own rain and begin turning into dry savanna, releasing its vast stored carbon — which is why protecting it matters to the whole planet.
 
 *Sources: Encyclopaedia and scientific references on the Amazon basin, NASA research on Saharan dust fertilisation, and WWF and research-institute figures on Amazon biodiversity and deforestation, summarised October 2026.*
+
+**Source links:**
+- [NASA Science](https://science.nasa.gov/earth/earth-observatory/bodele-depression-dust-feeds-amazon-7279/)
+- [WWF](https://www.worldwildlife.org/places/amazon/)
+- [WWF](https://wwf.panda.org/wwf_news/?15933391%2FAmazon-A-life-support-system-in-trouble)
+- [Wikipedia](https://en.wikipedia.org/wiki/Amazon_Rainforest)

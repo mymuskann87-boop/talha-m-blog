@@ -79,3 +79,7 @@ That is Microsoft's own claim — the company says the chip does about 40% more 
 Like its rivals, including OpenAI, Microsoft wants to depend less on Nvidia, which currently holds a powerful position in the AI chip market.
 
 Sources: Reuters (October 12, 2026).
+
+**Source links:**
+- [Reuters](https://www.reuters.com/business/microsoft-plans-huge-deployment-its-own-ai-chips-with-an-eye-saving-costs-2026-10-12/)
+- [CNBC TV18](https://www.cnbctv18.com/technology/microsoft-maia-300-aims-to-squeeze-more-ai-out-of-every-megawatt-20010173.htm)
