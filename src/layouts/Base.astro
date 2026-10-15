@@ -12,6 +12,7 @@ interface Props {
   category?: string;
   categorySlug?: string;
   extraLd?: string;
+  preloadImage?: string;
 }
 
 const {
@@ -24,6 +25,7 @@ const {
   category,
   categorySlug,
   extraLd,
+  preloadImage,
 } = Astro.props;
 
 const fullTitle = title ? `${title} | ${SITE_NAME}` : SITE_NAME;
@@ -74,6 +76,9 @@ const crumbs =
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#1d4ed8" />
+    <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin />
+    <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
     <meta name="google-adsense-account" content="ca-pub-9632379302410129" />
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9632379302410129" crossorigin="anonymous"></script>
     <title>{fullTitle}</title>
@@ -85,6 +90,8 @@ const crumbs =
     <link rel="icon" type="image/png" sizes="144x144" href="/favicon-144x144.png" />
     <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192x192.png" />
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    {preloadImage && <link rel="preload" as="image" href={preloadImage} fetchpriority="high" />}
     <link rel="alternate" type="application/rss+xml" title={SITE_NAME} href="/rss.xml" />
     <link rel="sitemap" href="/sitemap-index.xml" />
     <meta property="og:site_name" content={SITE_NAME} />
