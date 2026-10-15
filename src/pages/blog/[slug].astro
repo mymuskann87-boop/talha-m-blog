@@ -108,9 +108,47 @@ const faqLd = faq
       <button class="share-btn copy" type="button" data-copy={postUrl}>Copy link</button>
     </div>
     <aside class="author-box">
-      <b>Written by Talha M</b>
+      <b>Written by <a href="/author/">Talha M</a></b>
       <p>Talha M Blog explains news, entertainment and AI tools in simple English. <a href="/about/">Read more about us</a>.</p>
     </aside>
+    <section class="newsletter-card" aria-label="Newsletter">
+  <h2 class="nl-title">📧 Never Miss a Story</h2>
+  <p class="nl-text">Get our best new posts in your email. Free, no spam — just one email when a big story comes.</p>
+  <script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
+  <form action="https://app.kit.com/forms/10049015/subscriptions" class="seva-form formkit-form nl-form" method="post" data-sv-form="10049015" data-uid="d2886c5b6e" data-format="inline" data-version="5" data-options="{&quot;settings&quot;:{&quot;after_subscribe&quot;:{&quot;action&quot;:&quot;message&quot;,&quot;success_message&quot;:&quot;Success! Now check your email to confirm your subscription.&quot;,&quot;redirect_url&quot;:&quot;&quot;},&quot;analytics&quot;:{&quot;google&quot;:null,&quot;fathom&quot;:null,&quot;facebook&quot;:null,&quot;segment&quot;:null,&quot;pinterest&quot;:null,&quot;sparkloop&quot;:null,&quot;googletagmanager&quot;:null},&quot;modal&quot;:{&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;powered_by&quot;:{&quot;show&quot;:true,&quot;url&quot;:&quot;https://kit.com/features/forms?utm_campaign=poweredby&amp;utm_content=form&amp;utm_medium=referral&amp;utm_source=dynamic&quot;},&quot;recaptcha&quot;:{&quot;enabled&quot;:false},&quot;return_visitor&quot;:{&quot;action&quot;:&quot;show&quot;,&quot;custom_content&quot;:&quot;&quot;},&quot;slide_in&quot;:{&quot;display_in&quot;:&quot;bottom_right&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;sticky_bar&quot;:{&quot;display_in&quot;:&quot;top&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15}},&quot;version&quot;:&quot;5&quot;}">
+    <div data-style="clean">
+      <ul class="formkit-alert formkit-alert-error" data-element="errors" data-group="alert"></ul>
+      <div data-element="fields" data-stacked="false" class="seva-fields formkit-fields">
+        <div class="formkit-field"><input class="formkit-input" name="email_address" aria-label="Email Address" placeholder="Your email address" required="" type="email" /></div>
+        <button data-element="submit" class="formkit-submit formkit-submit"><div class="formkit-spinner"><div></div><div></div><div></div></div><span class="">Subscribe</span></button>
+      </div>
+      <div class="formkit-powered-by-convertkit-container"><a href="https://kit.com/features/forms?utm_campaign=poweredby&amp;utm_content=form&amp;utm_medium=referral&amp;utm_source=dynamic" data-element="powered-by" class="formkit-powered-by-convertkit" data-variant="dark" target="_blank" rel="nofollow noopener">Built with Kit</a></div>
+    </div>
+  </form>
+  <p class="nl-small">Join free. Unsubscribe anytime.</p>
+</section>
+<section class="comments-wrap" aria-label="Comments">
+      <div class="comments-head">
+        <span class="ch-icon">💬</span>
+        <span class="ch-text"><span class="ch-title">Leave a <em>Comment</em></span><span class="ch-sub">Your email address will not be published. Required fields are marked *</span></span>
+      </div>
+      <link rel="stylesheet" href="https://unpkg.com/@waline/client@v3/dist/waline.css" />
+      <div id="waline"></div>
+    </section>
+    <script is:inline type="module">
+      import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+      init({
+        el: '#waline',
+        serverURL: 'https://talha-comments.vercel.app',
+        lang: 'en',
+        meta: ['nick', 'mail', 'link'],
+        requiredMeta: ['nick', 'mail'],
+        login: 'disable',
+        search: false,
+        imageUploader: false,
+        locale: { nick: 'Name', mail: 'Email', link: 'Website', submit: '✈ Post Comment', placeholder: 'Write your comment here...' },
+      });
+    </script>
   </article>
   {related.length > 0 && (
     <section class="related">
@@ -156,6 +194,7 @@ const faqLd = faq
   .live-dot.on { background: #22c55e; box-shadow: 0 0 0 3px rgba(34, 197, 94, 0.25); }
   .author-box { margin: 2rem 0 1rem; padding: 1rem 1.1rem; border: 1px solid color-mix(in srgb, currentColor 25%, transparent); border-radius: 10px; }
   .author-box p { margin: 0.35rem 0 0; font-size: 0.95rem; }
+.author-box b a { color: #1d4ed8; text-decoration: none; }
   .related { margin: 2rem 0 1rem; }
   .related h2 { font-size: 1.35rem; margin: 0 0 0.9rem; }
   .related-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 0.9rem; }
@@ -163,6 +202,50 @@ const faqLd = faq
   .related-card img { width: 100%; height: auto; border-radius: 8px; margin: 0 0 0.55rem; }
   .related-cat { display: block; font-size: 0.75rem; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; opacity: 0.75; margin-bottom: 0.3rem; }
   .related-card b { font-size: 0.98rem; line-height: 1.35; }
+  .comments-wrap { margin: 2.2rem 0 1rem; }
+  .comments-head { font-weight: 800; font-size: 1.3rem; margin-bottom: 0.9rem; }
+  :global(#waline .wl-panel) { background: transparent; border: none; box-shadow: none; padding: 0; }
+  :global(#waline .wl-header) { border-bottom: none; padding: 0; margin: 0; }
+  :global(#waline .wl-header-item) { display: block; border: 2px solid #111111; border-radius: 12px; padding: 0.7rem 0.9rem; background: #ffffff; }
+  :global(#waline .wl-header-item label) { display: block; font-weight: 700; font-size: 1rem; margin-bottom: 0.45rem; }
+  :global(#waline .wl-input) { display: block; width: 100%; font-size: 1.1rem; padding: 0.55rem 0.7rem; border: 1.5px solid #c9ced6; border-radius: 8px; background: #ffffff; }
+  .comments-wrap { background: #ffffff; border: 1px solid #e3e8f2; border-radius: 16px; padding: 1.1rem 0.75rem 0.6rem; box-shadow: 0 4px 18px rgba(18, 39, 94, 0.06); }
+  .comments-head { display: flex; align-items: flex-start; gap: 0.7rem; margin-bottom: 1rem; }
+  .ch-icon { background: #2563eb; color: #ffffff; border-radius: 10px; padding: 0.45rem 0.55rem; font-size: 1.15rem; line-height: 1; }
+  .ch-title { display: block; font-size: 1.45rem; font-weight: 800; color: #161a23; }
+  .ch-title em { color: #2563eb; font-style: normal; }
+  .ch-sub { display: block; font-size: 0.82rem; color: #5a6376; margin-top: 0.15rem; }
+  :global(#waline .wl-header) { display: flex; flex-direction: column; gap: 0.7rem; }
+  :global(#waline .wl-header-item) { display: block; border: 1px solid #d7dde8; border-radius: 10px; padding: 0.6rem 0.75rem; background: #ffffff; }
+  :global(#waline .wl-header-item label) { display: block; font-weight: 700; font-size: 0.95rem; color: #161a23; margin: 0 0 0.4rem; }
+
+
+
+  :global(#waline .wl-input) { display: block; width: 100%; font-size: 1rem; padding: 0.45rem 0.6rem; border: 1.5px solid #c9ced6; border-radius: 8px; background: #ffffff; box-sizing: border-box; }
+  :global(#waline .wl-editor) { border: 1px solid #d7dde8; border-radius: 10px; padding: 0.8rem; min-height: 7rem; background: #ffffff; margin-top: 0.7rem; width: 100%; font-size: 0.98rem; }
+  :global(#waline .wl-actions) { display: none !important; }
+  :global(#waline .wl-btn.primary) { background: #2563eb; border-color: #2563eb; border-radius: 10px; padding: 0.65rem 1.5rem; font-weight: 700; font-size: 0.95rem; }
+  :global(#waline .wl-count) { font-size: 1.25rem; font-weight: 800; }
+  :global(#waline .wl-sort) { border: 1px solid #d7dde8; border-radius: 999px; padding: 0.25rem 0.7rem; }
+  :global(#waline .wl-card-item) { border: none; border-bottom: 1px solid #e5e8f0; border-radius: 0; padding: 0.9rem 0; margin: 0; background: transparent; }
+  :global(#waline .wl-power), :global(#waline .wl-rss), :global(#waline .wl-meta), :global(#waline .wl-preview), :global(#waline .wl-text-number) { display: none !important; }
+  .newsletter-card { background: linear-gradient(135deg, #1d4ed8, #12275e); border-radius: 14px; padding: 1.4rem 1.3rem; margin: 0 0 1.6rem; color: #ffffff; }
+  .nl-title { font-size: 1.3rem; margin: 0; color: #ffffff; }
+  .nl-text { font-size: 0.92rem; color: #cfe0ff; margin: 0.35rem 0 0; line-height: 1.5; }
+  .nl-form { margin-top: 0.9rem; }
+  .nl-small { font-size: 0.78rem; color: #a9c2f5; margin: 0.7rem 0 0; }
+  :global(.newsletter-card .formkit-fields) { display: flex; gap: 0.55rem; flex-wrap: wrap; }
+  :global(.newsletter-card .formkit-field) { flex: 1 1 200px; }
+  :global(.newsletter-card .formkit-input) { width: 100%; box-sizing: border-box; border: none; border-radius: 9px; padding: 0.7rem 0.85rem; font-size: 0.95rem; background: #ffffff; color: #111827; }
+  :global(.newsletter-card .formkit-submit) { border: none; border-radius: 9px; background: #ffb020; color: #231a00; padding: 0.7rem 1.4rem; font-size: 0.95rem; font-weight: 700; cursor: pointer; }
+  :global(.newsletter-card .formkit-submit:hover) { filter: brightness(1.05); }
+  :global(.newsletter-card .formkit-spinner) { display: none; }
+  :global(.newsletter-card .formkit-alert) { list-style: none; margin: 0 0 0.7rem; padding: 0.6rem 0.8rem; border-radius: 8px; font-size: 0.88rem; }
+  :global(.newsletter-card .formkit-alert:empty) { display: none; }
+  :global(.newsletter-card .formkit-alert-success) { background: #d3fbeb; color: #0c6b4a; }
+  :global(.newsletter-card .formkit-alert-error) { background: #fde8e2; color: #a82a08; }
+  :global(.newsletter-card .formkit-powered-by-convertkit-container) { display: none; }
+  :global(.newsletter-card .formkit-powered-by-convertkit) { color: #a9c2f5; font-size: 0.75rem; text-decoration: none; }
 </style>
 
 <script>
