@@ -65,14 +65,14 @@ const faqLd = faq
 <Base title={d.title} description={d.description} type="article" image={d.image} pubDate={d.pubDate} updatedDate={d.updatedDate} category={d.category} categorySlug={slugify(d.category)} extraLd={faqLd} preloadImage={d.image}>
   <nav class="crumbs" aria-label="Breadcrumb">
     <a href="/">Home</a> <span aria-hidden="true">›</span>
-    <a href={`/category/${slugify(d.category)}/`}>{d.category}</a> <span aria-hidden="true">›</span>
-    <span class="crumb-here">{d.title.length > 60 ? d.title.slice(0, 60).trimEnd() + '…' : d.title}</span>
+    <a href={`/category/${slugify(d.category)}/`}>{d.category}</a>
+   
   </nav>
   <article>
     <header class="article-head">
-      <a class="cat" href={`/category/${slugify(d.category)}/`}>{d.category}</a>
+
       <h1>{d.title}</h1>
-      <p class="lead">{d.description}</p>
+
       <p class="meta">
         <span class="live-dot" data-pub={d.pubDate.toISOString()} aria-hidden="true"></span>
         <time datetime={d.pubDate.toISOString()}>{fmtDate(d.pubDate)}</time>
@@ -90,7 +90,7 @@ const faqLd = faq
       <button class="share-btn copy" type="button" data-copy={postUrl}>Copy link</button>
     </div>
     {toc.length >= 3 && (
-      <details class="toc" open>
+      <details class="toc">
         <summary>In this post</summary>
         <ol>
           {toc.map((h) => (
@@ -130,15 +130,16 @@ const faqLd = faq
 </Base>
 
 <style>
-  .crumbs { font-size: 0.85rem; margin: 0 0 0.9rem; opacity: 0.85; display: flex; flex-wrap: wrap; gap: 0.35rem; align-items: baseline; }
+  .crumbs { font-size: 0.95rem; margin: 0.25rem 0 1rem; padding-bottom: 0.6rem; border-bottom: 1px solid color-mix(in srgb, currentColor 15%, transparent); display: flex; flex-wrap: wrap; gap: 0.35rem; align-items: baseline; }
   .crumbs a { text-decoration: none; font-weight: 600; }
   .crumbs a:hover { text-decoration: underline; }
   .crumb-here { opacity: 0.75; }
-  .hero-img { width: 100%; height: auto; aspect-ratio: 1200 / 630; object-fit: cover; border-radius: 12px; margin: 0 0 1.5rem; }
-  .share-row { display: flex; flex-wrap: wrap; gap: 0.45rem; align-items: center; margin: 0 0 1.4rem; }
+  .hero-img { width: 100%; height: auto; border-radius: 12px; margin: 0 0 1.5rem; }
+  .share-row { display: grid; grid-template-columns: repeat(5, 1fr); gap: 0.45rem; align-items: stretch; margin: 0 0 1.4rem; }
+  .share-label { grid-column: 1 / -1; }
   .share-end { margin: 1.6rem 0 0.4rem; padding-top: 1.1rem; border-top: 1px solid color-mix(in srgb, currentColor 18%, transparent); }
   .share-label { font-weight: 700; font-size: 0.9rem; margin-right: 0.15rem; }
-  .share-btn { display: inline-block; padding: 0.38rem 0.8rem; border-radius: 999px; font-size: 0.85rem; font-weight: 700; text-decoration: none; color: #fff; background: #374151; border: 0; cursor: pointer; font-family: inherit; }
+  .share-btn { display: flex; align-items: center; justify-content: center; text-align: center; padding: 0.55rem 0.15rem; border-radius: 10px; font-size: 0.8rem; font-weight: 700; text-decoration: none; color: #fff; background: #374151; border: 0; cursor: pointer; font-family: inherit; }
   .share-btn.wa { background: #1fae55; }
   .share-btn.fb { background: #1877f2; }
   .share-btn.x { background: #111111; }

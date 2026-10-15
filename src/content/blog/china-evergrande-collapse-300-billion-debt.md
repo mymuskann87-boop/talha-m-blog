@@ -2,7 +2,7 @@
 title: "He Was Asia's Richest Man. Now He Is in Prison for Life: The $300 Billion Evergrande Collapse"
 description: "Evergrande was once China's biggest property company. Then it fell under $300 billion of debt, its founder got life in prison, and now the company is being sold piece by piece. Here is the full story — and why it is still not over."
 pubDate: 2026-10-14T19:30:00+05:00
-category: "World News"
+category: "Business"
 image: "/images/china-evergrande-collapse-300-billion-debt.webp"
 imageAlt: "Illustration of a dark glass skyscraper in China with unfinished apartment towers behind it under storm clouds"
 ---

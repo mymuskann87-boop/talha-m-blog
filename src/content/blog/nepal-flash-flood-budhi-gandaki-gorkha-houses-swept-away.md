@@ -2,7 +2,7 @@
 title: "Nepal Flash Flood: Budhi Gandaki River Sweeps Away Houses in Gorkha, Five Missing"
 description: "A flash flood on the Budhi Gandaki river in Nepal's Gorkha district on October 11 swept away around 45 houses and four bridges. Five people are missing, more than 80 were rescued, and officials believe a landslide dam burst caused the sudden surge."
 pubDate: 2026-10-12T23:49:00+05:00
-category: "World News"
+category: "Disasters"
 image: "/images/nepal-flash-flood-budhi-gandaki-gorkha-houses-swept-away.webp"
 imageAlt: "Illustration of a Himalayan river valley village with a swollen muddy river after a flash flood"
 ---

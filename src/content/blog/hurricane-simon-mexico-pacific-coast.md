@@ -2,7 +2,7 @@
 title: "Hurricane Simon Slams Mexico's Pacific Coast: 5 Dead as Storms Batter the Shore"
 description: "Hurricane Simon and the remnants of Tropical Storm Rachel swept across Mexico's Pacific coast, killing at least 5 people. What really happened on the coast."
 pubDate: 2026-10-13T21:45:00+05:00
-category: "World News"
+category: "Disasters"
 image: "/images/hurricane-simon-mexico-pacific-coast.webp"
 ---
 The Pacific coast of Mexico has just lived through days of fear. Two powerful weather systems — Hurricane Simon and Tropical Storm Rachel — swept across the region one after another, flooding streets, tearing down trees and electricity poles, blocking roads and filling homes with water. At least five people have lost their lives, families have been rescued by helicopter, and hundreds of thousands of people along the coast are still watching the sky, because the danger is not fully over yet.

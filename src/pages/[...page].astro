@@ -40,8 +40,9 @@ const cats = [...catMap].map(([slug, name]) => ({ slug, name }));
   )}
 
   {first && (
-    <nav class="cat-boxes" aria-label="Categories">
+    <nav class="cat-boxes" id="catsNav" aria-label="Categories">
       {cats.map((c) => <a href={`/category/${c.slug}/`}>{c.name}</a>)}
+      {cats.length > 8 && <button id="catsBtn" class="cats-toggle" type="button">See more ▾</button>}
     </nav>
   )}
 
@@ -61,4 +62,14 @@ const cats = [...catMap].map(([slug, name]) => ({ slug, name }));
   .cat-boxes { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.45rem; margin: 0.35rem 0 1.5rem; }
   .cat-boxes a { display: flex; align-items: center; justify-content: center; text-align: center; padding: 0.42rem 0.25rem; border: 1px solid color-mix(in srgb, currentColor 25%, transparent); border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.8rem; line-height: 1.3; }
   .cat-boxes a:hover { background: color-mix(in srgb, currentColor 8%, transparent); }
+  .cat-boxes:not(.open) a:nth-of-type(n+9) { display: none; }
+  .cats-toggle { grid-column: 1 / -1; justify-self: center; margin-top: 0.25rem; padding: 0.3rem 1.05rem; border-radius: 999px; border: 1.5px solid color-mix(in srgb, currentColor 30%, transparent); background: #fff; color: var(--accent, #1d4ed8); font-weight: 700; font-size: 0.8rem; font-family: inherit; cursor: pointer; }
 </style>
+<script>
+  const catsNav = document.getElementById('catsNav');
+  const catsBtn = document.getElementById('catsBtn');
+  catsBtn?.addEventListener('click', () => {
+    const open = catsNav?.classList.toggle('open');
+    catsBtn.textContent = open ? 'Close ▴' : 'See more ▾';
+  });
+</script>

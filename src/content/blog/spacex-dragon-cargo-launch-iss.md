@@ -2,7 +2,7 @@
 title: "SpaceX Dragon Blasts Off: 6,300 Pounds of Supplies Racing to the Space Station"
 description: "SpaceX launched its CRS-35 Dragon cargo mission carrying 6,300 pounds of supplies, new solar arrays and medical experiments to the ISS. The full story."
 pubDate: 2026-10-13T21:45:00+05:00
-category: "World News"
+category: "Space"
 image: "/images/spacex-dragon-cargo-launch-iss.webp"
 ---
 The sky over Florida was just beginning to glow when the rocket lit it up completely. At 6:33 in the morning on Tuesday, October 13, 2026, a SpaceX Falcon 9 roared away from Cape Canaveral, carrying a Dragon spacecraft packed with more than 6,300 pounds of food, science and hardware. Its destination: the International Space Station, a football-field-sized laboratory orbiting about 400 kilometres above Earth, where astronauts are waiting for their delivery.

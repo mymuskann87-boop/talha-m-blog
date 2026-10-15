@@ -2,7 +2,7 @@
 title: "Panama Earthquake 7.6: What Happened, Where the Damage Was Worst and Was There a Tsunami?"
 description: "A powerful earthquake struck Panama on October 9, 2026. A simple explainer on the damage, the aftershocks, and the tsunami warning that later passed."
 pubDate: 2026-10-10T20:30:00+05:00
-category: "World News"
+category: "Disasters"
 image: "/images/panama-earthquake-7-6-what-happened.webp"
 imageAlt: "Illustration of rescue workers helping people in a Panamanian town"
 ---

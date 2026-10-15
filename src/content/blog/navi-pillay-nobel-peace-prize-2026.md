@@ -2,7 +2,7 @@
 title: "Who Is Navi Pillay? The 2026 Nobel Peace Prize Winner Who Spent Her Life Fighting for Justice"
 description: "Navi Pillay, 85, has won the 2026 Nobel Peace Prize. Here is her life story in simple words, from defending Mandela to leading global courts."
 pubDate: 2026-10-11T09:05:00+05:00
-category: "World News"
+category: "Awards"
 image: "/images/navi-pillay-nobel-peace-prize-2026.webp"
 imageAlt: "Illustration of a gold peace medal with scales of justice and an olive branch"
 ---

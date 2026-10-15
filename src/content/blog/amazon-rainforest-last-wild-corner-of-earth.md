@@ -2,7 +2,7 @@
 title: "The Amazon Jungle: Inside the Last Wild Corner of Earth"
 description: "A journey into the Amazon rainforest — the giant river with no bridges, pink dolphins, tribes that have never met the outside world, flying rivers in the sky, and the desert dust that feeds it all. The full story in simple English."
 pubDate: 2026-10-15T01:42:00+05:00
-category: "World News"
+category: "Nature"
 image: "/images/amazon-rainforest-last-wild-corner-of-earth.webp"
 imageAlt: "Illustration of the Amazon rainforest and its great river with the words The Amazon Jungle"
 ---

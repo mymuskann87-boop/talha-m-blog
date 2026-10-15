@@ -2,7 +2,7 @@
 title: "Riyadh Airport Attack: Deadliest Houthi Strike in a Decade Kills 13, Pakistani National Among Dead in Latest Attack"
 description: "Riyadh's airport was attacked again on Sunday, a day after the deadliest Houthi strike on Saudi soil in over a decade killed 13. A Pakistani national died in the latest attack. A simple explainer."
 pubDate: 2026-10-12T08:45:00+05:00
-category: "World News"
+category: "Conflict"
 image: "/images/riyadh-airport-attack-deadliest-strike-pakistani-killed.webp"
 imageAlt: "Illustration of an airport terminal and control tower silhouetted against a dark night sky"
 ---
