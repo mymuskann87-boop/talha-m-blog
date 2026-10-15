@@ -1,5 +1,5 @@
 ---
-title: "Pakistan Army Training Aircraft Crashes Near Quetta, Two Pilots Martyred"
+title: "Two Army Pilots Martyred Quetta"
 description: "A Pakistan Army Mushshak training aircraft crashed near Nawan Killi in Quetta on October 12 due to a technical fault. Instructor Major Husnain Shehzad Humayun and trainee Captain Abdul Samad embraced martyrdom."
 pubDate: 2026-10-12T23:45:00+05:00
 category: "Pakistan News"

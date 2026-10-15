@@ -1,5 +1,5 @@
 ---
-title: "Pakistan Tests Fatah-2 Hypersonic Missile: The Second Big Test in One Week"
+title: "Pakistan Tests Fatah-2 Hypersonic Missile"
 description: "Pakistan has test-fired the Fatah-2 ER hypersonic ballistic missile days after the Fatah-4 cruise missile test. What this missile is and why it matters."
 pubDate: 2026-10-13T21:45:00+05:00
 category: "Pakistan News"

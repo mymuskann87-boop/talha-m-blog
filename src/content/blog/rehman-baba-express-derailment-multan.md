@@ -1,5 +1,5 @@
 ---
-title: "Rehman Baba Express Disaster Near Multan: Rescue Ends as Death Toll Reports Differ"
+title: "Rehman Baba Express Derails Multan"
 description: "The rescue operation after the Rehman Baba Express derailment near Multan is over. Officials confirm 5 dead and 49 injured, some sources report 7 dead, and a formal inquiry will be held on October 17 and 18."
 pubDate: 2026-10-13T21:45:00+05:00
 updatedDate: 2026-10-14T09:55:00+05:00

@@ -1,5 +1,5 @@
 ---
-title: "Who Is Pakistan's Adam Gilchrist? Karachi Teen Named After Australia Legend Goes Viral After 117-Run Century"
+title: "Pakistan's Adam Gilchrist Goes Viral"
 description: "A 17-year-old school cricketer from Karachi is named Adam Gilchrist, just like the Australian legend. He scored 117 runs in a school tournament and the internet cannot stop talking about him."
 pubDate: 2026-10-12T15:20:00+05:00
 category: "Sports"

@@ -1,5 +1,5 @@
 ---
-title: "Palestinian Elections Postponed Until 2027: What Changed, the New Dates, and Why It Matters"
+title: "Palestinian Elections Postponed Until 2027"
 description: "Palestinian legislative elections have been postponed, possibly until September 2027. Here is what changed and why the long wait matters."
 pubDate: 2026-10-11T12:10:00+05:00
 category: "Politics"

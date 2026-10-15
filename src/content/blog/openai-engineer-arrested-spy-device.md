@@ -1,5 +1,5 @@
 ---
-title: "Spy Device in the Boardroom: OpenAI Engineer Arrested for Bugging Executive Meeting Room"
+title: "OpenAI Engineer Arrested Over Bugging"
 description: "An OpenAI engineer has been arrested after a hidden recording device was found inside an executive conference room at the company's San Francisco headquarters. The full story of the device, the investigation and the charges."
 pubDate: 2026-10-14T09:00:00+05:00
 category: "AI"

@@ -1,5 +1,5 @@
 ---
-title: "Riyadh Airport Attack: What Happened at King Khalid International Airport on October 10?"
+title: "What Happened Riyadh Airport Attack"
 description: "A simple, respectful explainer on the Riyadh airport strike: what officials said, how many people were affected, and how the world reacted."
 pubDate: 2026-10-11T08:30:00+05:00
 category: "Conflict"

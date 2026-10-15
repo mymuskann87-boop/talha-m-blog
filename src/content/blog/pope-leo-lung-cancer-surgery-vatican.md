@@ -1,5 +1,5 @@
 ---
-title: "Vatican Confirms Pope Leo Has Lung Cancer: Part of His Right Lung Removed — and the One Detail Giving Doctors Hope"
+title: "Pope Leo Lung Cancer Confirmed"
 description: "Pope Leo XIV, 71, had part of his right lung removed at Rome's Gemelli Hospital after tests confirmed lung cancer. The surgery, what adenocarcinoma means, and why doctors say there is real reason for hope."
 pubDate: 2026-10-14T12:00:00+05:00
 category: "Health"
