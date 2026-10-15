@@ -66,3 +66,8 @@ Johar has said he wants to spend the next decade focusing on directing films. He
 ## One Last Cup
 
 There is a sweet sadness in watching something beloved end on purpose. Koffee With Karan gave Indian entertainment two decades of laughter, drama, honesty and unforgettable television. Now it returns for one last round of coffee, starting with the superstar who helped define it. On October 14, millions will press play — not just for an episode, but to say thank you, and goodbye, to a show that became part of their lives.
+
+**Source links:**
+- [Hollywood Reporter India](https://www.hollywoodreporterindia.com/features/insight/salman-khan-to-open-karan-johars-koffee-with-karan-season-9-as-its-first-guest)
+- [Telegraph India](https://www.telegraphindia.com/entertainment/salman-khan-is-the-first-guest-on-final-season-of-karan-johars-koffee-with-karan/cid/2184459)
+- [News18](https://www.news18.com/movies/bollywood/koffee-with-karan-season-9-when-and-where-to-watch-the-final-chapter-of-karan-johars-chat-show-ws-t-10380879.html)

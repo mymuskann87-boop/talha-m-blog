@@ -66,3 +66,8 @@ No. This is a cargo-only mission using the Cargo Dragon spacecraft C211, which i
 ## The Delivery Truck of the Space Age
 
 A generation ago, a supply run to a space station was front-page drama. Today, it is a Tuesday morning launch that most of the world slept through — and that is precisely the achievement. SpaceX and NASA have turned space delivery into a routine service, and CRS-35, with its final solar wings and its tiny shrimp passengers, shows how far that routine now reaches. The Dragon is on its way. The station is waiting.
+
+**Source links:**
+- [NASA](https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/)
+- [NASA Space Station Blog](https://www.nasa.gov/blogs/spacestation/2026/10/13/spacex-dragon-lifts-off-for-thursday-cargo-delivery/)
+- [NASA Space Station Blog](https://www.nasa.gov/blogs/spacestation/2026/10/15/spacex-dragon-docks-with-science-supplies-and-roll-out-solar-arrays/)
