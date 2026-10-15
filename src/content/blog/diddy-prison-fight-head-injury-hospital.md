@@ -1,5 +1,5 @@
 ---
-title: "Diddy Rushed to Hospital From Prison: The Fight Report, the Bunk Bed Claim, and a Dream Life Behind Bars Turning Sour"
+title: "Diddy Prison Hospital Scare Explained"
 description: "Sean 'Diddy' Combs was taken from Fort Dix prison to hospital with a head injury. One report blames a bunk bed, a newer one claims a fight with a Jamaican kingpin. Here is everything known, in simple words."
 pubDate: 2026-10-15T01:30:00+05:00
 category: "Celebrity"

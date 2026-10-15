@@ -1,5 +1,5 @@
 ---
-title: "Eight US States Sue OpenAI: They Say ChatGPT Harms Young Users"
+title: "Eight States Sue OpenAI ChatGPT"
 description: "Eight US states have sued OpenAI, saying ChatGPT harms young users and misleads people about safety. What the lawsuits claim, and what they want changed."
 pubDate: 2026-10-15T09:32:00+05:00
 category: "AI"

@@ -1,5 +1,5 @@
 ---
-title: "Hackers Hacked the Fridges of 700 Supermarkets in France: Temperatures Hit 50 Degrees, Food Spoiled and Fires Broke Out"
+title: "Hackers Hack 700 Supermarket Fridges"
 description: "Hackers took over the fridge systems of around 700 supermarkets in France, heating food to 50 degrees, spoiling stock and sparking fires. How it happened and why experts call it a wake-up call."
 pubDate: 2026-10-14T11:00:00+05:00
 category: "Crime"

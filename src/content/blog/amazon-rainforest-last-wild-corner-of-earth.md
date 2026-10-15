@@ -1,5 +1,5 @@
 ---
-title: "The Amazon Jungle: Inside the Last Wild Corner of Earth"
+title: "Amazon Rainforest Is Slowly Vanishing"
 description: "A journey into the Amazon rainforest — the giant river with no bridges, pink dolphins, tribes that have never met the outside world, flying rivers in the sky, and the desert dust that feeds it all. The full story in simple English."
 pubDate: 2026-10-15T01:42:00+05:00
 category: "Nature"

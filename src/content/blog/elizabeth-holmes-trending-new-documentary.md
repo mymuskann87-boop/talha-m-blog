@@ -1,5 +1,5 @@
 ---
-title: "Elizabeth Holmes Is Trending Again: The Prison Documentary That Brought the Theranos Story Back From the Dead"
+title: "Elizabeth Holmes Documentary Sparks Buzz"
 description: "Elizabeth Holmes, the founder who fooled Silicon Valley with a blood-test machine that never worked, is trending again from her Texas prison cell — because a new documentary filmed her final days of freedom. Her full story, in simple words."
 pubDate: 2026-10-15T02:00:00+05:00
 category: "US News"

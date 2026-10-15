@@ -1,5 +1,5 @@
 ---
-title: "Drishyam The Conclusion Box Office: Ajay Devgn's Biggest Hit Crosses ₹446 Crore Worldwide in Nine Days"
+title: "Drishyam Conclusion Crosses ₹446 Crore"
 description: "Drishyam: The Conclusion is now Ajay Devgn's highest-grossing film. A simple look at the reported box office numbers from India and overseas."
 pubDate: 2026-10-11T15:55:00+05:00
 category: "Celebrity"

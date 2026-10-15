@@ -1,5 +1,5 @@
 ---
-title: "Container Ship Sinks in the Strait of Hormuz: GFS Pride Goes Down After Projectile Hit, Second Ship Damaged"
+title: "Container Ship Sinks Hormuz Strait"
 description: "A Singapore-registered container ship, GFS Pride, has sunk in the Strait of Hormuz after being hit by an unknown projectile and catching fire. A second ship, GFS Giselle, was also hit. All 43 crew members are safe."
 pubDate: 2026-10-15T06:10:00+05:00
 category: "Conflict"
