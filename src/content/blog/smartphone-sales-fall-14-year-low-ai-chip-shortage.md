@@ -1,5 +1,5 @@
 ---
-title: "Why Your Next Phone Will Cost More: Smartphone Sales Fall to a 14-Year Low as AI Grabs All the Chips"
+title: "Smartphone Sales Hit 14-Year Low"
 description: "Global smartphone sales just had their worst quarter in 14 years, and the reason is surprising: AI data centers are buying up the memory chips your phone needs. Here is the full story in simple words."
 pubDate: 2026-10-12T20:45:00+05:00
 category: "Technology"

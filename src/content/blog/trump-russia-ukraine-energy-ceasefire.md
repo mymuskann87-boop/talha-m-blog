@@ -1,5 +1,5 @@
 ---
-title: "Trump Announces Russia-Ukraine 'Energy Ceasefire' — But Ukraine's President Says He Heard It From Social Media First"
+title: "Trump Announces Russia-Ukraine Energy Ceasefire"
 description: "Donald Trump declared an immediate energy ceasefire between Russia and Ukraine. Kyiv says it was never told, Moscow has not confirmed it, and strikes were reported hours later. What is really going on?"
 pubDate: 2026-10-14T13:00:00+05:00
 category: "US News"

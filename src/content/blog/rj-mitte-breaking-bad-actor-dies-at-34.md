@@ -1,5 +1,5 @@
 ---
-title: "RJ Mitte Dies at 34: The Breaking Bad Star Who Changed How TV Sees Disability"
+title: "Breaking Bad's RJ Mitte Dies"
 description: "RJ Mitte, who played Walter White Jr. in Breaking Bad, has died at his home in Brownsville, Texas, aged 34. Police say no foul play is suspected, and no official cause of death has been announced."
 pubDate: 2026-10-13T09:15:00+05:00
 category: "Celebrity"

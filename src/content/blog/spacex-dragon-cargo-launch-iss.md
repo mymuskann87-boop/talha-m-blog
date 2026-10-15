@@ -1,5 +1,5 @@
 ---
-title: "SpaceX Dragon Blasts Off: 6,300 Pounds of Supplies Racing to the Space Station"
+title: "SpaceX Dragon Carries 6,300 Pounds"
 description: "SpaceX launched its CRS-35 Dragon cargo mission carrying 6,300 pounds of supplies, new solar arrays and medical experiments to the ISS. The full story."
 pubDate: 2026-10-13T21:45:00+05:00
 category: "Space"

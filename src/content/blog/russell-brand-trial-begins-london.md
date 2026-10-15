@@ -1,5 +1,5 @@
 ---
-title: "Russell Brand Trial Begins in London: The Charges, His Denial, and the Weeks That Will Decide Everything"
+title: "Russell Brand Trial Begins London"
 description: "Russell Brand has walked into a London court to face seven charges from six women. The full story in simple words: the charges, his not guilty plea, his wife beside him, his life story, and what happens next."
 pubDate: 2026-10-14T19:30:00+05:00
 category: "Celebrity"

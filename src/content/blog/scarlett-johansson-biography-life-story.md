@@ -1,5 +1,5 @@
 ---
-title: "Scarlett Johansson Life Story: From a New York Child Actress to a Global Movie Star"
+title: "Scarlett Johansson: Black Widow's Story"
 description: "A simple and complete look at the life of Scarlett Johansson: her childhood in New York, her early films, her big hits, her awards, her family, and what she is working on next."
 pubDate: 2026-10-11T12:30:00+05:00
 category: "Celebrity"

@@ -1,5 +1,5 @@
 ---
-title: "One Last Koffee: Salman Khan Opens the Final Season of Koffee With Karan"
+title: "Salman Khan Koffee Final Season"
 description: "After 22 years, Koffee With Karan returns for its ninth and final season on October 14, with Salman Khan as the first guest. Here is the farewell story."
 pubDate: 2026-10-13T21:45:00+05:00
 category: "Celebrity"
