@@ -1,5 +1,5 @@
 ---
-title: "Hurricane Simon Slams Mexico's Pacific Coast: 5 Dead as Storms Batter the Shore"
+title: "Hurricane Simon Slams Mexico Coast"
 description: "Hurricane Simon and the remnants of Tropical Storm Rachel swept across Mexico's Pacific coast, killing at least 5 people. What really happened on the coast."
 pubDate: 2026-10-13T21:45:00+05:00
 category: "Disasters"

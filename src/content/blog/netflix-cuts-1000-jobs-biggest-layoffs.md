@@ -1,5 +1,5 @@
 ---
-title: "Netflix Cuts 1,000 Jobs in Its Biggest Layoff Since 2022: What Is Going Wrong at the Streaming King?"
+title: "Netflix Layoffs: 1,000 Jobs Cut"
 description: "Netflix is cutting about 6 percent of its staff, roughly 1,000 jobs, in its biggest layoff round since 2022. Here is what happened, why it happened, and what it means for the people who watch and the people who worked there."
 pubDate: 2026-10-15T01:45:00+05:00
 category: "US News"

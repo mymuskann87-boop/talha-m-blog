@@ -1,5 +1,5 @@
 ---
-title: "Microsoft's Own AI Chip: The Maia 300 and the Plan to Deploy a Million Chips"
+title: "Microsoft's Maia 300 Chip Explained"
 description: "Microsoft has announced the Maia 300, the third generation of its own custom AI chip. The company plans to deploy potentially more than a million of them next year to power its AI services."
 pubDate: 2026-10-13T09:10:00+05:00
 category: "AI"

@@ -1,5 +1,5 @@
 ---
-title: "Jim Carrey Marries Min Ah in a Private Ceremony: Their Story, How the News Was Confirmed and His Past Marriages"
+title: "Jim Carrey Marries Min Ah"
 description: "Jim Carrey, 64, has married his longtime partner Min Ah in a small private ceremony in Los Angeles. Here is their story and how the news was confirmed."
 pubDate: 2026-10-11T10:15:00+05:00
 category: "Celebrity"

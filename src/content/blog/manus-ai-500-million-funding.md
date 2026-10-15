@@ -1,5 +1,5 @@
 ---
-title: "Manus AI Raises More Than $500 Million After Leaving Meta Deal: What It Means in Simple Words"
+title: "Manus AI Raises $500 Million"
 description: "Butterfly Effect, the parent of AI agent startup Manus, announced more than $500 million in funding. Here is what the deal means, simply explained."
 pubDate: 2026-10-10T18:45:00+05:00
 category: "AI"

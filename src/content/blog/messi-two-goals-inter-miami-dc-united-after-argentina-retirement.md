@@ -1,5 +1,5 @@
 ---
-title: "Messi Scores Twice for Inter Miami Days After Emotional Argentina Farewell"
+title: "Messi Scores Twice After Farewell"
 description: "Four days after ending his 21-year Argentina career, Lionel Messi scored two goals as Inter Miami beat DC United 4-0. Luis Suarez also scored twice in a night that ended Miami's five-match winless run."
 pubDate: 2026-10-12T23:47:00+05:00
 category: "Sports"

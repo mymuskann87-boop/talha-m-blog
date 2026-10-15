@@ -1,5 +1,5 @@
 ---
-title: "North Korea Fires Ballistic Missiles Toward the Sea of Japan as Tensions Rise"
+title: "North Korea Fires Ballistic Missiles"
 description: "North Korea fired several ballistic missiles from near Pyongyang on October 12, 2026. Some flew more than 900 km, Japan protested, and South Korea held an emergency meeting as tensions on the Korean Peninsula keep growing."
 pubDate: 2026-10-13T09:05:00+05:00
 category: "Conflict"

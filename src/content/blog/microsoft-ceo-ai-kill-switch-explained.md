@@ -1,5 +1,5 @@
 ---
-title: "Microsoft CEO Says Every AI Needs a Kill Switch: What Satya Nadella Meant, Explained Simply"
+title: "Nadella Wants AI Kill Switch"
 description: "Microsoft CEO Satya Nadella called for AI kill switches, tamper-proof logs and safer design. Here is what that means for normal users, in simple words."
 pubDate: 2026-10-11T20:30:00+05:00
 category: "AI"
