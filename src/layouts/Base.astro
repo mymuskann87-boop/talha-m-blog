@@ -9,6 +9,8 @@ interface Props {
   image?: string;
   pubDate?: Date;
   updatedDate?: Date;
+  category?: string;
+  categorySlug?: string;
 }
 
 const {
@@ -18,6 +20,8 @@ const {
   image = '/og-default.png',
   pubDate,
   updatedDate,
+  category,
+  categorySlug,
 } = Astro.props;
 
 const fullTitle = title ? `${title} | ${SITE_NAME}` : SITE_NAME;
@@ -28,7 +32,7 @@ const jsonLd =
   type === 'article' && pubDate
     ? JSON.stringify({
         '@context': 'https://schema.org',
-        '@type': 'Article',
+        '@type': 'NewsArticle',
         headline: title,
         description,
         datePublished: pubDate.toISOString(),
@@ -37,6 +41,18 @@ const jsonLd =
         author: { '@type': 'Person', name: 'Talha M', url: new URL('/about/', Astro.site).toString() },
         image: ogImage,
         mainEntityOfPage: canonical.toString(),
+      })
+    : null;
+const crumbs =
+  type === 'article' && category && categorySlug
+    ? JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'BreadcrumbList',
+        itemListElement: [
+          { '@type': 'ListItem', position: 1, name: 'Home', item: new URL('/', Astro.site).toString() },
+          { '@type': 'ListItem', position: 2, name: category, item: new URL(`/category/${categorySlug}/`, Astro.site).toString() },
+          { '@type': 'ListItem', position: 3, name: title, item: canonical.toString() },
+        ],
       })
     : null;
 ---
@@ -72,6 +88,7 @@ const jsonLd =
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={ogImage} />
     {jsonLd && <script type="application/ld+json" set:html={jsonLd} />}
+    {crumbs && <script type="application/ld+json" set:html={crumbs} />}
     <script is:inline>
       (function () {
         try {
@@ -81,7 +98,7 @@ const jsonLd =
         } catch (e) {}
       })();
     </script>
-    <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Talha M Blog","alternateName":"talhablog.com","url":"https://talhablog.com/"}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Talha M Blog","alternateName":"talhablog.com","url":"https://talhablog.com/","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://talhablog.com/search/?q={search_term_string}"},"query-input":"required name=search_term_string"}}</script>
   </head>
   <body>
     <a class="skip" href="#main">Skip to content</a>

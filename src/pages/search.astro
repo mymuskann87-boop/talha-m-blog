@@ -51,6 +51,11 @@ import Base from '../layouts/Base.astro';
           .then(function (data) { posts = data; run(); })
           .catch(function () { box.innerHTML = '<p>Search could not load. Please try again.</p>'; });
       });
+      var startQ = new URLSearchParams(location.search).get('q');
+      if (startQ) {
+        input.value = startQ;
+        input.dispatchEvent(new Event('input'));
+      }
     })();
   </script>
 </Base>

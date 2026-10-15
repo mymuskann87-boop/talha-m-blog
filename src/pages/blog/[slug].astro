@@ -21,7 +21,7 @@ const related = [...sameCat, ...others.filter((p) => p.data.category !== d.categ
 const relatedHeading = sameCat.length > 0 ? `More in ${d.category}` : 'More stories';
 ---
 
-<Base title={d.title} description={d.description} type="article" image={d.image} pubDate={d.pubDate} updatedDate={d.updatedDate}>
+<Base title={d.title} description={d.description} type="article" image={d.image} pubDate={d.pubDate} updatedDate={d.updatedDate} category={d.category} categorySlug={slugify(d.category)}>
   <article>
     <header class="article-head">
       <a class="cat" href={`/category/${slugify(d.category)}/`}>{d.category}</a>
