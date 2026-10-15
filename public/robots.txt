@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://talhablog.com/sitemap-index.xml
+Sitemap: https://talhablog.com/news-sitemap.xml

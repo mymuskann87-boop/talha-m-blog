@@ -23,9 +23,25 @@ const DESCRIPTIONS: Record<string, string> = {
   Celebrity: 'Celebrity news and life stories of famous people, explained in simple English.',
 };
 const desc = DESCRIPTIONS[name] || `Latest ${name} posts on Talha M Blog, explained step by step in simple English.`;
+const catLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name,
+  description: desc,
+  url: new URL(Astro.url.pathname, Astro.site).toString(),
+  mainEntity: {
+    '@type': 'ItemList',
+    itemListElement: posts.slice(0, 20).map((p, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      url: new URL(`/blog/${p.id}/`, Astro.site).toString(),
+      name: p.data.title,
+    })),
+  },
+});
 ---
 
-<Base title={name} description={desc}>
+<Base title={name} description={desc} extraLd={catLd}>
   <section class="intro"><h1>{name}</h1></section>
   {posts.map((post) => <PostRow post={post} />)}
 </Base>

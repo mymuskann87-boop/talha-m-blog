@@ -19,9 +19,40 @@ const others = allPosts
 const sameCat = others.filter((p) => p.data.category === d.category);
 const related = [...sameCat, ...others.filter((p) => p.data.category !== d.category)].slice(0, 3);
 const relatedHeading = sameCat.length > 0 ? `More in ${d.category}` : 'More stories';
+function extractFaq(body) {
+  if (!body) return null;
+  const idx = body.search(/##\s*(Frequently Asked Questions|FAQs?)\b/i);
+  if (idx < 0) return null;
+  const section = body.slice(idx);
+  const qa = [];
+  const re = /\*\*([^*?]+\?)\*\*\s*\n+([^*#][\s\S]*?)(?=\n\*\*[^*]+\?\*\*|\n##\s|$)/g;
+  let m;
+  while ((m = re.exec(section)) && qa.length < 8) {
+    const q = m[1].trim();
+    const a = m[2]
+      .replace(/\*Sources:[\s\S]*$/i, '')
+      .replace(/\s+/g, ' ')
+      .replace(/[*_`>]/g, '')
+      .trim();
+    if (q.length > 8 && a.length > 25) qa.push({ q, a });
+  }
+  return qa.length >= 2 ? qa : null;
+}
+const faq = extractFaq(post.body);
+const faqLd = faq
+  ? JSON.stringify({
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      mainEntity: faq.map(({ q, a }) => ({
+        '@type': 'Question',
+        name: q,
+        acceptedAnswer: { '@type': 'Answer', text: a },
+      })),
+    })
+  : null;
 ---
 
-<Base title={d.title} description={d.description} type="article" image={d.image} pubDate={d.pubDate} updatedDate={d.updatedDate} category={d.category} categorySlug={slugify(d.category)}>
+<Base title={d.title} description={d.description} type="article" image={d.image} pubDate={d.pubDate} updatedDate={d.updatedDate} category={d.category} categorySlug={slugify(d.category)} extraLd={faqLd}>
   <article>
     <header class="article-head">
       <a class="cat" href={`/category/${slugify(d.category)}/`}>{d.category}</a>
