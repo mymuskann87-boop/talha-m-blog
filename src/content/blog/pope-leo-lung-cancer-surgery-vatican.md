@@ -93,3 +93,8 @@ Because the cancer was caught early, while it was still small and in one place, 
 ## A Quiet Room in Rome
 
 Tonight, in a quiet room at Gemelli Hospital, a 71-year-old man is resting after the hardest week of his papacy — a man who told the world his own diagnosis, walked into hospital with a smile, and woke up from surgery asking for dinner. The tests ahead will tell their part of the story. But the part already written — of honesty, calm and a small growth caught just in time — has given millions of people something they did not expect from a cancer headline: a reason to hope.
+
+**Source links:**
+- [Reuters](https://www.reuters.com/world/pope-leo-had-lobe-lung-removed-doctors-found-cancer-vatican-says-2026-10-13/)
+- [The Hindu](https://www.thehindu.com/news/international/pope-leo-has-lung-cancer-lower-lobe-of-right-lung-removed-vatican/article71581183.ece)
+- [USA Today](https://www.usatoday.com/story/news/world/2026/10/13/pope-leo-diagnosed-with-lung-cancer-successful-surgery/92237630007/)

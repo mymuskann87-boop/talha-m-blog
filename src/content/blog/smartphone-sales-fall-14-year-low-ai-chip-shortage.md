@@ -70,3 +70,7 @@ If your current phone works well, waiting costs you nothing and this is what mos
 They will return in force only when memory prices cool down. Analysts watching chip supply do not expect a quick fix, so budget buyers may feel the squeeze for a while.
 
 *Sources: Reuters (October 12, 2026), reporting preliminary estimates from Counterpoint Research. Market shares and shipment changes are estimates for the July–September 2026 quarter.*
+
+**Source links:**
+- [Reuters](https://www.reuters.com/business/retail-consumer/global-smartphone-shipments-record-worst-third-quarter-14-years-amid-memory-2026-10-12/)
+- [TimesLIVE (Reuters)](https://www.timeslive.co.za/news/business/2026-10-12-global-smartphone-shipments-record-worst-third-quarter-in-14-years/)

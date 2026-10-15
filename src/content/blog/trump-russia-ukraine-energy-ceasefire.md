@@ -105,3 +105,8 @@ That is the open question. Repair work around the Zaporizhzhia power station may
 ## The Bottom Line
 
 Right now, the honest summary is short: a powerful announcement, made in a few lines on social media, that the two countries actually fighting have not jointly confirmed. Ukraine says it is ready but was never told. Russia says almost nothing. And people in Ukrainian cities, watching their power grids and their skies, will judge this ceasefire the only way that matters — by whether the lights stay on. Until the strikes truly stop, the world is wise to wait, watch, and hope that the words eventually become real.
+
+**Source links:**
+- [Reuters](https://www.reuters.com/world/kremlin-says-contacts-trumps-russia-ukraine-energy-ceasefire-are-continuing-2026-10-13/)
+- [Reuters](https://www.reuters.com/business/energy/kremlin-accuses-ukraine-flouting-spirit-us-peace-efforts-with-strikes-russian-2026-10-15/)
+- [The Tribune (ANI)](https://www.tribuneindia.com/news/world/were-done-zelenskyy-lifts-energy-ceasefire-to-resume-strikes-on-russian-energy-infrastructure/)

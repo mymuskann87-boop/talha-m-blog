@@ -80,3 +80,7 @@ Yes. He was diagnosed with cerebral palsy at the age of three, the same conditio
 He was a Screen Actors Guild spokesman for performers with disabilities, an ambassador for United Cerebral Palsy and Shriners Children's, and president of the Mitte Foundation. In 2013 he received the SAG-AFTRA Harold Russell Award.
 
 Sources: Reuters, USA TODAY, CNN and The Times (October 2026).
+
+**Source links:**
+- [CNN](https://www.cnn.com/2026/10/12/entertainment/rj-mitte-death?cid=external-feeds_iluminar_meta)
+- [USA TODAY](https://www.usatoday.com/story/entertainment/tv-streaming/2026/10/12/rj-mitte-dead-breaking-bad-cause-of-death-cerebal-palsy/92222963007/)

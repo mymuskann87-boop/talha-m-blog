@@ -75,3 +75,8 @@ The ISPR did not disclose the missile's exact maximum range in its announcement.
 Days before the Fatah-2 ER test, Pakistan also tested an upgraded version of its Fatah-4 ground-launched cruise missile. The two tests covered different types of weapons — a low-flying cruise missile and a high-speed ballistic missile — showing the breadth of Pakistan's missile programme.
 
 One test can be an event. Two tests in a single week is a statement. With the Fatah-2 ER, Pakistan has shown a hypersonic missile that is not only extremely fast but also smart enough to change its path in flight and challenge the most modern defences. The full technical details will stay secret, as they always do — but the message of October 13 was delivered loud and clear, at more than five times the speed of sound.
+
+**Source links:**
+- [Dawn](https://www.dawn.com/news/2037012)
+- [Express Tribune](https://tribune.com.pk/story/2634624/pakistan-successfully-test-fires-first-extended-range-fatah-2-hypersonic-ballistic-missile)
+- [ProPakistani](https://propakistani.pk/2026/10/14/pakistan-tests-extended-range-hypersonic-ballistic-missile-fatah-ii/)

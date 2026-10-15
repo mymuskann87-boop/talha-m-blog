@@ -96,3 +96,8 @@ Hui Ka Yan, once Asia's richest person, was sentenced to life in prison by a She
 
 **Will homebuyers get their money back?**
 Nobody knows, and the numbers are not hopeful: only about $255 million in assets had been sold by last August against around $45 billion of claims. Ordinary buyers are still waiting.
+
+**Source links:**
+- [Business Times](https://www.businesstimes.com.sg/international/global/china-evergrande-founder-sentenced-life-prison)
+- [Gulf News (AFP)](https://gulfnews.com/world/asia/china-jails-founder-fines-disgraced-property-giant-evergrande-1.500646486)
+- [Mothership](https://mothership.sg/2026/08/founder-china-evergrande-group-life-sentence/)

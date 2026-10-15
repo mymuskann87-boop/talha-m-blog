@@ -64,3 +64,8 @@ The El Niño phenomenon has warmed Pacific waters, giving storms extra energy. H
 ## Picking Up the Pieces
 
 In the coming days, Mexico's coast will move from emergency to recovery — clearing roads, restoring power, reopening airports and counting the cost of flooded homes and ruined businesses. But with Simon still threatening one more landfall and the ground soaked from days of rain, the people of the Pacific coast know better than to relax. Their week of storms is not finished yet, and neither is the season.
+
+**Source links:**
+- [phys.org (AFP)](https://phys.org/news/2026-10-dead-hurricane-simon-rachel-pummel.html)
+- [Borneo Bulletin (AFP)](https://borneobulletin.com.bn/storms-pummel-mexicos-pacific-coast/)
+- [Citizen Digital](https://citizen.digital/article/five-dead-as-hurricane-simon-rachel-pummel-mexicos-pacific-coast-n391924)

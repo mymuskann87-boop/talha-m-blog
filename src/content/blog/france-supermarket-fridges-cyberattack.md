@@ -91,3 +91,8 @@ The French reports are about damage to refrigeration systems, spoiled food and f
 The Paris prosecutor's cybercrime unit is investigating, the Paris prosecutor's office confirmed it is looking into the spoiled food and reported fires, and Prime Minister Sébastien Lecornu directed the national cybersecurity agency to investigate.
 
 There is a lesson in this story that goes far beyond France. The world quietly connected almost everything to the internet because it was easy and useful — and most of the time, it truly is. But every connection is also a door, and doors need locks. On one October night, someone opened the fridge doors of 700 supermarkets without ever touching them. The food is gone, the fires are out, and the investigators are at work. The real question now is whether everyone else — every shop, every company, every maker of smart machines — will lock their doors before the next knock comes.
+
+**Source links:**
+- [CNN](https://www.cnn.com/2026/10/14/europe/france-cyberattack-supermarket-fridges-intl?cid=external-feeds_iluminar_meta)
+- [Indian Express](https://indianexpress.com/article/explained/explained-global/france-supermarket-cyberattack-india-critical-infrastructure-risks-explained-10922960/)
+- [Times of India](https://timesofindia.indiatimes.com/world/europe/700-supermarkets-hit-millions-lost-france-warns-cyberattacks-on-refrigeration-systems-may-still-be-ongoing/articleshow/134944953.cms)
