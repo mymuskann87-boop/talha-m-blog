@@ -80,3 +80,8 @@ According to Anadolu Agency reporting, hundreds of thousands of people rallied i
 
 - Reuters, reported by The Express Tribune
 - Anadolu Agency, reported by The Express Tribune
+
+**Source links:**
+- [Reuters](https://www.reuters.com/world/middle-east/abbas-postpones-palestinian-elections-sets-presidential-poll-september-2027-2026-10-10/)
+- [The National](https://www.thenationalnews.com/news/mena/2026/10/10/palestinian-president-mahmoud-abbas-postpones-elections-to-september-2027/)
+- [Times of Israel](https://www.timesofisrael.com/abbas-postpones-palestinian-elections-sets-presidential-poll-for-september-2027/)

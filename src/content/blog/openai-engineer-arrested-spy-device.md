@@ -75,3 +75,8 @@ That framing matters. A hidden microphone in a meeting room might sound like a s
 For now, this story sits where every criminal case begins: with allegations. Prosecutors have laid out a detailed and dramatic account — a device hidden in toilet paper, a second device in a bag, searches for meeting rooms, and questions typed into a chatbot. But an account in a complaint is not a verdict. Alfozan is entitled to defend himself, and it will be for a court to decide what actually happened inside that San Francisco conference room.
 
 What is already certain is this: the world's leading AI company found a listening device in one of its most secret rooms, called the FBI, and watched one of its own engineers led away in handcuffs. In the race to build the smartest machines on Earth, the oldest trick in the spy book — a hidden microphone — has become headline news once again.
+
+**Source links:**
+- [Al Jazeera](https://www.aljazeera.com/economy/2026/10/15/openai-bugging-suspect-allegedly-booked-one-way-trip-to-saudi-arabia)
+- [The Times](https://www.thetimes.com/us/news-today/article/openai-employee-hidden-recording-device-abdulrahman-alfozan-v27nvksvg)
+- [The Economic Times](https://economictimes.indiatimes.com/world/us/openai-engineer-accused-of-bugging-executive-room-how-the-investigation-unfolded-and-what-he-wanted-to-record/articleshow/134964810.cms)

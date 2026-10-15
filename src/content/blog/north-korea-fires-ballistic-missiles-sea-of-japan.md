@@ -77,3 +77,8 @@ A landmine blast in the DMZ on September 21 injured three South Korean soldiers.
 North Korea has been under UN sanctions since 2006 over its nuclear and missile programmes, and the Security Council has banned it from ballistic missile testing. North Korea continues the tests anyway.
 
 Sources: Reuters, Kyodo News, AFP, TRT World
+
+**Source links:**
+- [TRT World](https://www.trtworld.com/article/0f2440671481/amp)
+- [Reuters](https://www.reuters.com/world/asia-pacific/north-korea-test-fires-tactical-ballistic-missile-kcna-says-2026-10-12/)
+- [Reuters](https://www.reuters.com/world/asia-pacific/north-korea-fires-unidentified-projectile-toward-sea-off-its-east-coast-seoul-2026-10-12/)

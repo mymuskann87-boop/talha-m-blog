@@ -104,3 +104,8 @@ The Mushshak (PAC MFI-17 Mushshak) is a basic training aircraft built in Pakista
 Yes. In June 2026, two Pakistan Air Force pilots were killed when their aircraft crashed during a routine training flight near Mardan. Training flying, though essential, carries real risk even in peacetime.
 
 *Sources: ISPR statement as reported by Geo News, India TV News and The Daily Jagran on October 12, 2026, and the Associated Press of Pakistan (APP).*
+
+**Source links:**
+- [Dawn](https://www.dawn.com/news/2036742/two-army-pilots-martyred-in-plane-crash)
+- [The Nation](https://www.nation.com.pk/13-Oct-2026/two-pilots-martyred-mushshak-training-aircraft-crashes-near-quetta)
+- [Express Tribune](https://tribune.com.pk/story/2634489/2-army-pilots-martyred-in-quetta-crash)

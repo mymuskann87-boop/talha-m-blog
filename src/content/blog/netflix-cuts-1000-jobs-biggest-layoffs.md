@@ -67,3 +67,7 @@ The company had about 16,000 full-time employees at the end of last year.
 No price change was announced with this news. Over time, cost-cutting usually means fewer risky new shows and more focus on proven hits, live events and games.
 
 *Sources: Reuters and the Wall Street Journal, 14 October 2026; Reuters report on Puck News, 9 October 2026.*
+
+**Source links:**
+- [Reuters (WSJ report)](https://www.reuters.com/business/world-at-work/netflix-cuts-about-6-jobs-wsj-reports-2026-10-14/)
+- [Reuters (Puck News report)](https://www.reuters.com/business/media-telecom/netflix-plans-cut-5-its-workforce-puck-news-reports-2026-10-09/)

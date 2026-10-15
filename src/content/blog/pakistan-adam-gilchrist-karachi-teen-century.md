@@ -80,3 +80,8 @@ Kumar Sangakkara, the former Sri Lanka captain. In a video shared online, the yo
 No. The two are not related. They only share the same name — and the same job on a cricket field.
 
 *Sources: The Economic Times, Times Now News and CricToday reported this story on October 12, 2026. The quotes are from a video of the youngster that was shared on social media, as reported by these outlets.*
+
+**Source links:**
+- [The Economic Times](https://economictimes.indiatimes.com/news/new-updates/pakistans-adam-gilchrist-goes-viral-after-scoring-century-but-his-favourite-wicketkeeper-is-not-australian/articleshow/134886877.cms)
+- [Times of India](https://timesofindia.indiatimes.com/sports/cricket/news/meet-pakistans-adam-gilchrist-karachi-teen-bears-australian-legends-name-but-idolises-kumar-sangakkara/articleshow/134864398.cms)
+- [Yardbarker](https://www.yardbarker.com/cricket/articles/adam_gilchrist_in_pakistan_teen_draws_attention_after_hitting_century_in_school_cricket/s1_17726_44417734)

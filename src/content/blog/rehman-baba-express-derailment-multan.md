@@ -86,3 +86,8 @@ The cause has not been officially established yet. An initial railways report su
 The Railways Minister announced compensation for the families of those who died and for the injured passengers under the Pakistan Railways insurance policy. Stranded passengers were given temporary accommodation, transport and food arrangements by the local administration, and the bodies of the deceased were being sent to their home areas.
 
 The rescue near Sher Shah is over, the tracks are being cleared, and most of the injured have gone home. But for the families who lost someone in those dark early hours, nothing is over. The inquiry on October 17 and 18 must now do its work honestly, because Pakistan's railway carries millions of ordinary people who trust it with their lives every single day. The least they deserve is a journey that brings them home.
+
+**Source links:**
+- [Dawn](https://www.dawn.com/news/2036832)
+- [Express Tribune](https://tribune.com.pk/story/2634718/passenger-train-derails-near-multan-seven-killed-50-hurt)
+- [The Hindu](https://www.thehindu.com/news/international/pakistan-train-derails-several-killed-injured-latest-update/article71577920.ece)

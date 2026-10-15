@@ -80,3 +80,8 @@ Around 45 houses were swept away, four bridges were destroyed or damaged, three 
 Yes. Gorkha is the gateway to the Manaslu trek, and the flood came at the start of the autumn trekking season, just days after trekking routes in the region had been declared safe. Travellers should check the latest official updates before heading to the area.
 
 *Sources: AFP reports carried by The Hindu and Borneo Bulletin, NDTV, PTI and Nepal's National Disaster Risk Reduction and Management Authority (NDRRMA), October 11–12, 2026.*
+
+**Source links:**
+- [AFP via phys.org](https://phys.org/news/2026-10-nepal-triggered-ice-avalanche.html)
+- [Citizen Digital / AFP](https://citizen.digital/article/nepal-flash-floods-sweep-away-houses-five-people-missing-n391836)
+- [Hindustan Times (PTI)](https://www.hindustantimes.com/world-news/nepal-flash-floods-5-missing-as-surge-sweeps-away-houses-landslide-dam-breach-likely-cause-101791774084550.html)
