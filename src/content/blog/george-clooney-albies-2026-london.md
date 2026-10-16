@@ -1,5 +1,5 @@
 ---
-title: "Amal Clooney Stuns Albies 2026"
+title: "The Albies 2026: Full Honorees List and Red Carpet Highlights"
 description: "The Albies 2026 took place on October 9, 2026, at London's Natural History Museum. See the full honorees list, Amal Clooney's gold Gucci gown, Brad Pitt's arrival, and George Clooney's emotional words."
 pubDate: 2026-10-11T13:40:00+05:00
 updatedDate: 2026-10-14
