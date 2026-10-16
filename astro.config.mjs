@@ -4,4 +4,5 @@ import sitemap from '@astrojs/sitemap';
 export default defineConfig({
   site: 'https://talhablog.com',
   integrations: [sitemap()],
+  build: { inlineStylesheets: 'always' },
 });
