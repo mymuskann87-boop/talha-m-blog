@@ -12,7 +12,7 @@ const pubTime = d.pubDate.toLocaleTimeString('en-US', { hour: 'numeric', minute:
 ---
 
 <article class:list={['row', { big }]}>
-  {d.image && <a href={`/blog/${post.id}/`}><img class="row-img" src={d.image} alt={d.imageAlt || d.title} width="1200" height="630" loading="lazy" decoding="async" /></a>}
+  {d.image && <a href={`/blog/${post.id}/`}><img class="row-img" src={d.image} alt={d.imageAlt || d.title} width="1200" height="630" loading={big ? "eager" : "lazy"} fetchpriority={big ? "high" : undefined} decoding="async" /></a>}
   <a class="cat" href={`/category/${slugify(d.category)}/`}>{d.category}</a>
   <h2><a href={`/blog/${post.id}/`}>{d.title}</a></h2>
   <p class="desc">{d.description}</p>
