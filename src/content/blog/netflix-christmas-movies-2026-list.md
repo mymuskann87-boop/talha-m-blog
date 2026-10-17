@@ -2,6 +2,7 @@
 title: "Netflix Christmas Movies 2026 List"
 description: "Netflix has shared the first teaser for its 2026 Christmas movies, with four festive films arriving weekly. Here are the dates, casts and stories."
 pubDate: 2026-10-11T18:20:00+05:00
+updatedDate: 2026-10-17
 category: "Celebrity"
 image: "/images/netflix-christmas-movies-2026-list.webp"
 imageAlt: "A cozy living room with a Christmas tree and a movie playing on TV"
@@ -57,6 +58,10 @@ It premieres on November 4 and stars Dennis Quaid, Milo Ventimiglia, Jennifer Ti
 ### When does Tyler Perry's The Gospel of Christmas arrive on Netflix?
 
 It arrives on November 11. It stars Fantasia Barrino and Tank, and it follows a struggling pastor who inherits his family's church in a troubled New York neighbourhood.
+
+### What are the Netflix Xmas movies 2026, and where is the full list?
+
+The Netflix Xmas movies 2026 are the four festive films in this year's line-up: A Dog's Perfect Christmas on November 4, Tyler Perry's The Gospel of Christmas on November 11, plus Guarding Stars and In a Holidaze. The full list of Christmas movies 2026 Netflix has announced, with release dates and casts, is in this post above.
 
 ## Sources
 

@@ -2,12 +2,17 @@
 title: "Scarlett Johansson: Black Widow's Story"
 description: "A simple and complete look at the life of Scarlett Johansson: her childhood in New York, her early films, her big hits, her awards, her family, and what she is working on next."
 pubDate: 2026-10-11T12:30:00+05:00
+updatedDate: 2026-10-17
 category: "Celebrity"
 image: "/images/scarlett-johansson-biography-life-story.webp"
 imageAlt: "Illustration of a Hollywood red carpet with an actress silhouette seen from behind and camera flashes."
 ---
 
 **Scarlett Johansson** is one of the best-known actresses in the world. She started acting as a child, and today her films have earned billions of dollars. In this post I will tell her full life story in simple words, from her childhood in New York to her big movies, her awards, her family life, and her upcoming projects.
+
+## Who is Scarlett Johansson?
+
+Scarlett Johansson is an American actress from New York City, born on November 22, 1984. She started acting as a child, became famous around the world as Black Widow in the Marvel films, and has also sung, acted on Broadway and been nominated for Academy Awards. In short, she is one of the most successful actresses of her generation — and the rest of this post tells her story step by step.
 
 ## Quick facts
 

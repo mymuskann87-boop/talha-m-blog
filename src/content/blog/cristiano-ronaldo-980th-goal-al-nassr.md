@@ -2,6 +2,7 @@
 title: "Ronaldo Scores 980th Career Goal"
 description: "Cristiano Ronaldo returned for Al-Nassr, scored his 980th career goal in a 3-0 win over Diriyah, and put the Portugal row behind him for a night."
 pubDate: 2026-10-10T23:15:00+05:00
+updatedDate: 2026-10-17
 category: "Sports"
 image: "/images/cristiano-ronaldo-980th-goal-al-nassr.webp"
 imageAlt: "Illustration of a football striker silhouette celebrating a goal in a packed stadium"
@@ -69,6 +70,10 @@ Samu Costa scored in the 35th minute, and Kingsley Coman scored in the 77th minu
 ### Why did Cristiano Ronaldo walk out of the Portugal camp?
 
 He was an unused substitute in Portugal's 2-1 Nations League win in Norway on September 27, and he said coach Jorge Jesus broke his word about playing him. He has said he remains available for Portugal.
+
+### What is the Ronaldo 980th goal everyone is talking about?
+
+It is the name fans use for Cristiano Ronaldo's 980th career goal, which he scored for Al-Nassr against Diriyah, putting in a rebound in the 23rd minute of the 3-0 Saudi Pro League win.
 
 ## Sources
 
