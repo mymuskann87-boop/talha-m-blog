@@ -26,8 +26,8 @@ const cats = [...catMap].map(([slug, name]) => ({ slug, name }));
 ---
 
 <Base
-  title={first ? 'News, AI Tools and Entertainment in Simple English' : undefined}
-  description={first ? 'Daily news on Pakistan, world events, AI tools and entertainment, explained step by step in simple English that anyone can follow.' : undefined}
+  title={first ? 'News, AI Tools and Entertainment in Simple English' : `More Stories — Page ${page.currentPage}`}
+  description={first ? 'Daily news on Pakistan, world events, AI tools and entertainment, explained step by step in simple English that anyone can follow.' : `More news, AI tools and entertainment stories in simple English — page ${page.currentPage} of the latest posts on Talha M Blog.`}
 >
   {first && (
     <section class="intro">
@@ -48,17 +48,34 @@ const cats = [...catMap].map(([slug, name]) => ({ slug, name }));
 
   {page.data.length === 0 && <p class="empty">No posts yet. Add your first post in src/content/blog.</p>}
 
+  {!first && (
+    <div class="page-card-wrap">
+      <h1 class="page-card"><span class="pc-blob pc-b1"></span><span class="pc-blob pc-b2"></span><span class="pc-text">Page {page.currentPage}</span></h1>
+    </div>
+  )}
+
   {page.data.map((post, i) => <PostRow post={post} big={first && i === 0} />)}
 
   {(page.url.prev || page.url.next) && (
     <nav class="pager" aria-label="Pages">
-      {page.url.prev ? <a href={page.url.prev}>Newer posts</a> : <span />}
-      {page.url.next ? <a href={page.url.next}>Older posts</a> : <span />}
+      {page.url.prev ? <a class="pager-card" href={page.url.prev}><span class="pc-blob pc-b1"></span><span class="pc-blob pc-b2"></span><span class="pc-text">Previous</span></a> : <span />}
+      {page.url.next ? <a class="pager-card" href={page.url.next}><span class="pc-blob pc-b1"></span><span class="pc-blob pc-b2"></span><span class="pc-text">Next Page</span></a> : <span />}
     </nav>
   )}
 </Base>
 
 <style>
+  .page-card-wrap { display: flex; justify-content: center; margin: 0.5rem 0 1.6rem; }
+  .pager-card { position: relative; overflow: hidden; display: inline-block; border: 1.5px solid #2d4bd8; border-radius: 6px; padding: 0.3rem 0.95rem; background: #eef3ff; font-family: 'Trebuchet MS', 'Segoe UI', Verdana, sans-serif; font-size: 0.78rem; font-weight: 800; letter-spacing: 0.14em; text-transform: uppercase; line-height: 1.3; color: #0b0b0f; text-decoration: none; animation: pcGlow 2.6s ease-in-out infinite alternate; }
+  .pager-card:hover { text-decoration: none; }
+  .page-card { position: relative; overflow: hidden; margin: 0; border: 1.5px solid #2d4bd8; border-radius: 6px; padding: 0.4rem 1.25rem; background: #eef3ff; font-family: 'Trebuchet MS', 'Segoe UI', Verdana, sans-serif; font-size: 0.84rem; font-weight: 800; letter-spacing: 0.14em; text-transform: uppercase; line-height: 1.3; color: #0b0b0f; animation: pcGlow 2.6s ease-in-out infinite alternate; }
+  .pc-text { position: relative; z-index: 1; }
+  .pc-blob { position: absolute; border-radius: 50%; filter: blur(11px); pointer-events: none; }
+  .pc-b1 { width: 52px; height: 52px; background: rgba(90, 140, 255, 0.45); top: -20px; left: 0; animation: pcBlob1 5.5s ease-in-out infinite alternate; }
+  .pc-b2 { width: 42px; height: 42px; background: rgba(45, 68, 214, 0.30); bottom: -17px; left: 0; animation: pcBlob2 6.5s ease-in-out infinite alternate; }
+  @keyframes pcGlow { from { box-shadow: 0 0 5px rgba(45, 68, 214, 0.35), inset 0 0 5px rgba(45, 68, 214, 0.12); } to { box-shadow: 0 0 13px rgba(45, 68, 214, 0.60), inset 0 0 8px rgba(45, 68, 214, 0.20); } }
+  @keyframes pcBlob1 { from { transform: translate(-30%, -10%); } to { transform: translate(210%, 12%); } }
+  @keyframes pcBlob2 { from { transform: translate(210%, 14%); } to { transform: translate(-40%, -8%); } }
   .cat-boxes { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.45rem; margin: 0.35rem 0 1.5rem; }
   .cat-boxes a { display: flex; align-items: center; justify-content: center; text-align: center; padding: 0.42rem 0.25rem; border: 1px solid color-mix(in srgb, currentColor 25%, transparent); border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.8rem; line-height: 1.3; }
   .cat-boxes a:hover { background: color-mix(in srgb, currentColor 8%, transparent); }

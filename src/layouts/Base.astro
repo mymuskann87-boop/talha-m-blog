@@ -13,6 +13,7 @@
     categorySlug?: string;
     extraLd?: string;
     preloadImage?: string;
+    noindex?: boolean;
   }
 
   const {
@@ -30,8 +31,7 @@
 
   const fullTitle = title ? `${title} | ${SITE_NAME}` : SITE_NAME;
   const metaDesc =
-    description && description.length > 170
-      ? description.slice(0, 167).replace(/\s+\S*$/, '') + '…'
+    description && description.length > 157      ? description.slice(0, 154).replace(/\s+\S*$/, '') + '…'
       : description;
   const canonical = new URL(Astro.url.pathname, Astro.site);
   const ogImage = new URL(image, Astro.site).toString();
@@ -84,7 +84,8 @@
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9632379302410129" crossorigin="anonymous"></script>
       <title>{fullTitle}</title>
       <meta name="description" content={metaDesc} />
-      <link rel="canonical" href={canonical} />
+      {Astro.props.noindex && <meta name="robots" content="noindex, follow" />}
+    <link rel="canonical" href={canonical} />
       <link rel="icon" href="/favicon.ico" sizes="any" />
       <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48x48.png" />
       <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png" />
