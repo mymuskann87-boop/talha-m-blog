@@ -80,5 +80,5 @@ In most places, yes — rules differ by country and by type of work. Registratio
 ## Sources
 
 - U.S. Small Business Administration — 10 steps to start your business: https://legacy.sba.gov/business-guide/10-steps-start-your-business
-- Small Business Development Agency guide — Starting a Business Without Capital: From Zero to Launch: https://sbda.com/Start_a_Business.htm
+- Small Business Development Associates (SBDA) guide — Starting a Business Without Capital: From Zero to Launch: https://sbda.com/Start_a_Business.htm
 - The picture on this page is an original illustration made for Talha M Blog.

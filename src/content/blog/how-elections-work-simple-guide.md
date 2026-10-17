@@ -112,5 +112,5 @@ It depends on the country and the level of government. National elections common
 
 - Encyclopaedia Britannica — Electoral system: https://www.britannica.com/topic/electoral-system
 - Britannica Kids (Students) — Elections: https://kids.britannica.com/students/article/elections/274143/media?assemblyId=217706
-- Encyclopaedia Britannica — Ballot Act (Australian / secret ballot): https://www.Britannica.com/money/Ballot-Act
+- Encyclopaedia Britannica — Ballot Act (Australian / secret ballot): https://www.britannica.com/print/article/50741
 - The picture on this page is an original illustration made for Talha M Blog.

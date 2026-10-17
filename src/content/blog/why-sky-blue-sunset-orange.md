@@ -17,7 +17,7 @@ The answer is a small, beautiful piece of physics happening above your head righ
 
 Sunlight shines on your hand and looks plain white. But that whiteness is a disguise. NASA explains that the light from the Sun looks white, but it is really made up of all the colours of the rainbow. A piece of glass called a prism can prove it: when white sunlight passes through a prism, it comes out split into its separate colours — red, orange, yellow, green, blue and violet.
 
-Those colours are light travelling in waves, and the waves are different sizes. This is the key to the whole mystery, so let us go slowly. Imagine the sea. Some waves are short and choppy, bumping up and down quickly. Others are long and lazy, rolling in slowly. Light behaves in a similar way: blue light travels in short, small waves, while red light travels in long waves. The Met Office puts it in the same order — red light has the longest wavelength, and blue and violet light have much shorter wavelengths.
+Those colours are light travelling in waves, and the waves are different sizes. This is the key to the whole mystery, so let us go slowly. Imagine the sea. Some waves are short and choppy, bumping up and down quickly. Others are long and lazy, rolling in slowly. Light behaves in a similar way: blue light travels in short, small waves, while red light travels in long waves. The National Weather Service puts it in the same order — red light has the longest wavelength, and blue and violet light have much shorter wavelengths.
 
 So sunlight arriving at Earth is a mixed crowd: long red waves, medium green and yellow waves, and short blue waves, all travelling together. The next question is what the air does to this crowd.
 
@@ -27,7 +27,7 @@ The air around Earth — our atmosphere — is full of tiny gas molecules, mainl
 
 When sunlight enters the atmosphere, it collides with these molecules, and the light gets scattered — thrown off in different directions, like a ball bouncing away after hitting a post. Scientists call this kind of scattering **Rayleigh scattering**, after Lord Rayleigh, the scientist who explained it. NASA's Space Place describes it plainly: sunlight reaches Earth's atmosphere and is scattered in all directions by all the gases and particles in the air.
 
-But the scattering does not treat all colours equally. The Met Office explains that because air molecules are much smaller than the wavelength of visible light, they scatter the shorter wavelengths much more than the longer ones. In everyday language: blue light, with its short, choppy waves, gets bounced around easily and strongly, while red light, with its long, lazy waves, mostly sails straight through.
+But the scattering does not treat all colours equally. The National Weather Service explains that because air molecules are much smaller than the wavelength of visible light, they scatter the shorter wavelengths much more than the longer ones. In everyday language: blue light, with its short, choppy waves, gets bounced around easily and strongly, while red light, with its long, lazy waves, mostly sails straight through.
 
 Picture two balls thrown at a field of small posts. A tiny, light ball bounces off in a new direction again and again; a big, heavy ball rolls on almost straight. Blue light is the tiny bouncy ball. Red light is the big heavy one.
 
@@ -43,7 +43,7 @@ The reds and yellows are up there too. They simply travel straighter, arrive wit
 
 A clever question hides here. Violet light has even shorter waves than blue. If short waves scatter the most, why is the sky not violet?
 
-The Met Office answers neatly: even though violet light is scattered even more than blue, our eyes are more sensitive to blue, and there is less violet in sunlight to begin with. So the mixture reaching our eyes is read by our brains as blue. The sky's colour is, in a sense, a team decision between physics and the human eye.
+NASA answers neatly: even though violet light is scattered even more than blue, our eyes are more sensitive to blue, and there is less violet in sunlight to begin with. So the mixture reaching our eyes is read by our brains as blue. The sky's colour is, in a sense, a team decision between physics and the human eye.
 
 ## Why Sunsets Turn Orange and Red
 
@@ -51,7 +51,7 @@ Now let the day end. The Sun sinks low, close to the horizon — and everything 
 
 When the Sun is overhead, its light takes a short path through the atmosphere. At sunset, that light must travel through a much thicker layer of air to reach you. NASA describes it exactly so: as the Sun gets lower in the sky, its light passes through more of the atmosphere to reach you.
 
-Over that long journey, the bouncy blue light gets scattered again and again — so much of it is thrown away in other directions that very little blue remains in the light travelling straight towards you. The Met Office agrees: the shorter-wavelength blue light is scattered further as sunlight passes over a greater distance, and we are left seeing the longer wavelengths — the reds and oranges — that create those beautiful sunset and sunrise colours.
+Over that long journey, the bouncy blue light gets scattered again and again — so much of it is thrown away in other directions that very little blue remains in the light travelling straight towards you. The National Weather Service agrees: the shorter-wavelength blue light is scattered further as sunlight passes over a greater distance, and we are left seeing the longer wavelengths — the reds and oranges — that create those beautiful sunset and sunrise colours.
 
 So an orange sunset is not the Sun changing colour. It is the blue being taken out of the light, step by step, along a very long road through the air. What survives the journey — red, orange and yellow — is what reaches your eyes and sets the evening sky on fire.
 
@@ -77,7 +77,7 @@ Look up, and you see the scattering at its purest. Look sideways, and you see it
 
 So the next time a child asks why the sky is blue, you have a real answer that takes one breath. Sunlight is many colours travelling together. The air throws the short blue waves in every direction, so the whole sky glows blue. And at sunset, the light travels such a long road through the air that the blue gets scattered away before it arrives, leaving the long red and orange waves to finish the journey alone.
 
-Blue sky and red sunset are not two different tricks; they are one trick seen at two different hours. The Met Office makes the same point in its own guide: one scattering process, working all day long, gives us both the blue of noon and the fire of evening. One Sun, one sky, one beautiful piece of physics — performed fresh for you every morning and evening, free of charge.
+Blue sky and red sunset are not two different tricks; they are one trick seen at two different hours. The National Weather Service makes the same point in its own guide: one scattering process, working all day long, gives us both the blue of noon and the fire of evening. One Sun, one sky, one beautiful piece of physics — performed fresh for you every morning and evening, free of charge.
 
 ## Frequently Asked Questions
 
@@ -99,5 +99,5 @@ Not necessarily — it depends on what is in the atmosphere. NASA points out tha
 ## Sources
 
 - NASA Space Place — Why Is the Sky Blue?: https://spaceplace.nasa.gov/blue-sky/en
-- Met Office — Why the sky is blue and sunsets red: https://wwwpre.weather.metoffice.gov.uk/learn-about/weather/optical-effects/why-is-the-sky-blue
+- National Weather Service (NOAA) — Why Is the Sky Blue?: https://www.weather.gov/fgz/SkyBlue
 - The picture on this page is an original illustration made for Talha M Blog.
