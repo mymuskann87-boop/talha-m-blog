@@ -2,6 +2,7 @@
 title: "Wang Yibo Loves Malaysian Food"
 description: "China's superstar Wang Yibo came to Malaysia for the biggest race of his life — but before the race, fans found him somewhere nobody expected. The full story behind the photos everyone is sharing."
 pubDate: 2026-10-16T16:14:00+05:00
+updatedDate: 2026-10-17
 category: "Celebrity"
 image: "/images/wang-yibo-loves-malaysian-food.webp"
 imageAlt: "Original illustration of a young Chinese pop star in a racing cap enjoying a claypot meal and a durian at a Kuala Lumpur street food street at night, the Petronas Twin Towers glowing behind him, with the words Wang Yibo Malaysia"
@@ -76,6 +77,9 @@ He is preparing for the 2026 China GT Championship season finale at the Sepang I
 
 **What did Wang Yibo eat in Kuala Lumpur?**
 Fans spotted him eating claypot bak kut teh with his UNO Racing team in Pudu on October 14, and later the same night he tried durian at Jalan Alor, Kuala Lumpur's famous food street.
+
+**What is the Wang Yibo Kuala Lumpur food story about?**
+It is about the night fans spotted Wang Yibo enjoying Kuala Lumpur food like a local — claypot bak kut teh with his UNO Racing team in Pudu on October 14, and durian later the same night at Jalan Alor. The photos spread fast, because one of China's biggest stars was happily eating at simple street stalls between practice sessions for his Sepang race.
 
 **What is bak kut teh?**
 It is a famous Malaysian dish of pork ribs cooked slowly in a herbal soup, usually served hot in a claypot with rice. It is one of the country's most loved comfort foods.
