@@ -12,9 +12,9 @@ const pubTime = d.pubDate.toLocaleTimeString('en-US', { hour: 'numeric', minute:
 ---
 
 <article class:list={['row', { big }]}>
-  {d.image && <a href={`/blog/${post.id}/`}><img class="row-img" src={d.image} srcset={d.image.endsWith(".webp") ? "/cdn-cgi/image/width=600,format=auto,onerror=redirect" + d.image + " 600w, " + "/cdn-cgi/image/width=900,format=auto,onerror=redirect" + d.image + " 900w, " + d.image + " 1200w" : undefined} sizes={big ? "(max-width: 700px) 100vw, 760px" : "(max-width: 700px) 100vw, 380px"} alt={d.imageAlt || d.title} width="1200" height="630" loading={big ? "eager" : "lazy"} fetchpriority={big ? "high" : undefined} decoding="async" /></a>}
   <a class="cat" href={`/category/${slugify(d.category)}/`}>{d.category}</a>
   <h2><a href={`/blog/${post.id}/`}>{d.title}</a></h2>
+  {d.image && <a href={`/blog/${post.id}/`}><img class="row-img" src={d.image} srcset={d.image.endsWith(".webp") ? "/cdn-cgi/image/width=600,format=auto,onerror=redirect" + d.image + " 600w, " + "/cdn-cgi/image/width=900,format=auto,onerror=redirect" + d.image + " 900w, " + d.image + " 1200w" : undefined} sizes={big ? "(max-width: 700px) 100vw, 760px" : "(max-width: 700px) 100vw, 380px"} alt={d.imageAlt || d.title} width="1200" height="630" loading={big ? "eager" : "lazy"} fetchpriority={big ? "high" : undefined} decoding="async" /></a>}
   <p class="desc">{d.description}</p>
   <p class="meta">
     <span class="live-dot" data-pub={d.pubDate.toISOString()} aria-hidden="true"></span>
