@@ -8,6 +8,8 @@ const posts = (await getCollection('blog', ({ data }) => !data.draft)).sort(
 );
 const latest = posts;
 const catCount = new Set(posts.map((p) => p.data.category)).size;
+const pktDay = (d) => new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Karachi' }).format(d);
+const postDays = posts.map((p) => pktDay(p.data.pubDate));
 
 const desc = 'Talha Mehmood is the founder and writer of Talha M Blog — an independent publisher from Pakistan who explains big news, AI tools and entertainment in simple English.';
 const personLd = JSON.stringify({
@@ -43,8 +45,15 @@ const personLd = JSON.stringify({
   <div class="auth-stats">
     <div class="auth-stat"><b>{posts.length}+</b><small>Posts</small></div>
     <div class="auth-stat"><b>{catCount}</b><small>Categories</small></div>
-    <div class="auth-stat"><b>Daily</b><small>New Stories</small></div>
+    <div class="auth-stat"><b id="today-count">0</b><small>Posts Today</small></div>
   </div>
+
+  <script define:vars={{ postDays }}>
+    var todayPkt = new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Karachi' }).format(new Date());
+    var n = postDays.filter(function (d) { return d === todayPkt; }).length;
+    var el = document.getElementById('today-count');
+    if (el) el.textContent = n;
+  </script>
 
   <section class="auth-list">
     <h2>All posts by Talha Mehmood</h2>

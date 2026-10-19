@@ -81,7 +81,7 @@ const faqLd = faq
         {d.updatedDate && <span>Updated: <time datetime={d.updatedDate.toISOString()}>{fmtDate(d.updatedDate)}</time></span>}
       </p>
     </header>
-    {d.image && <img class="hero-img" src={d.image} srcset={d.image.endsWith(".webp") ? "/cdn-cgi/image/width=600,format=auto,onerror=redirect" + d.image + " 600w, " + "/cdn-cgi/image/width=900,format=auto,onerror=redirect" + d.image + " 900w, " + "/cdn-cgi/image/width=1200,format=auto,onerror=redirect" + d.image + " 1200w" : undefined} sizes="(max-width: 700px) 100vw, 760px" alt={d.imageAlt || d.title} width="1200" height="630" loading="eager" fetchpriority="high" decoding="async" />}
+    {d.image && <img class="hero-img" src={d.image} srcset={d.image.endsWith(".webp") ? "/cdn-cgi/image/width=600,format=auto,onerror=redirect" + d.image + " 600w, " + "/cdn-cgi/image/width=900,format=auto,onerror=redirect" + d.image + " 900w, " + "/cdn-cgi/image/width=1200,format=auto,onerror=redirect" + d.image + " 1200w" : undefined} sizes="(max-width: 700px) 100vw, 760px" alt={d.imageAlt || d.title} width="1600" height="900" loading="eager" fetchpriority="high" decoding="async" />}
     <div class="share-row" aria-label="Share this post">
       <span class="share-label">Share:</span>
       {shareLinks.map((s) => (
@@ -156,7 +156,7 @@ const faqLd = faq
       <div class="related-grid">
         {related.map((p) => (
           <a class="related-card" href={`/blog/${p.id}/`}>
-            {p.data.image && <img src={p.data.image} srcset={p.data.image.endsWith(".webp") ? "/cdn-cgi/image/width=600,format=auto,onerror=redirect" + p.data.image + " 600w, " + "/cdn-cgi/image/width=900,format=auto,onerror=redirect" + p.data.image + " 900w" : undefined} sizes="(max-width: 700px) 100vw, 400px" alt={p.data.imageAlt || p.data.title} width="400" height="210" loading="lazy" decoding="async" />}
+            {p.data.image && <img src={p.data.image} srcset={p.data.image.endsWith(".webp") ? "/cdn-cgi/image/width=600,format=auto,onerror=redirect" + p.data.image + " 600w, " + "/cdn-cgi/image/width=900,format=auto,onerror=redirect" + p.data.image + " 900w" : undefined} sizes="(max-width: 700px) 100vw, 400px" alt={p.data.imageAlt || p.data.title} width="400" height="225" loading="lazy" decoding="async" />}
             <span class="related-cat">{p.data.category}</span>
             <b>{p.data.title}</b>
           </a>
