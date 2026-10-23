@@ -2,7 +2,8 @@
 title: "Apple Foldable iPhone Sales Begin"
 description: "The morning the first buyers opened a phone like a book — Apple's iPhone Duo foldable has finally reached the shops, and the queues started before sunrise."
 pubDate: 2026-10-23T13:20:00+05:00
-heroImage: "/images/apple-foldable-iphone-sales-begin.webp"
+image: "/images/apple-foldable-iphone-sales-begin.webp"
+imageAlt: "An illustration of a futuristic foldable smartphone opened like a glowing book, floating above a cheering crowd outside a glass electronics store at night."
 category: "Technology"
 tags: ["iPhone Duo", "Apple foldable", "foldable phone"]
 ---

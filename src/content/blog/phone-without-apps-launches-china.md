@@ -2,7 +2,8 @@
 title: "Phone Without Apps Launches China"
 description: "A new phone from StepFun has no grid of app icons, yet it is built to get things done. Meet the STEPX Neo, the handset that places an AI agent called Amoo at the centre of everything."
 pubDate: 2026-10-23T13:30:00+05:00
-heroImage: "/images/phone-without-apps-launches-china.webp"
+image: "/images/phone-without-apps-launches-china.webp"
+imageAlt: "An illustration of a smartphone with a completely empty home screen and one glowing AI orb, held high against the Shanghai skyline at night."
 category: "Technology"
 tags: ["StepFun", "AI phone", "STEPX Neo"]
 ---
