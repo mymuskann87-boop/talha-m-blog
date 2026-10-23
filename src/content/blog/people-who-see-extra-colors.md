@@ -2,7 +2,8 @@
 title: "People Who See Extra Colors"
 description: "Most of us see the world through three kinds of color sensors in the eye. A rare few people carry a fourth one, and at least one woman has proved in a laboratory that she sees shades the rest of us cannot."
 pubDate: 2026-10-23T10:00:00+05:00
-heroImage: "/images/people-who-see-extra-colors.webp"
+image: "/images/people-who-see-extra-colors.webp"
+imageAlt: "An illustration of a woman looking at a garden bursting with far more colours than normal eyes can see, extra shades shining everywhere."
 category: "Health"
 tags: ["tetrachromacy", "color vision", "human eye"]
 ---

@@ -2,7 +2,8 @@
 title: "River That Was Reversed Forever"
 description: "In 1900, the city of Chicago did something no city had ever dared: it dug a canal deeper than its own river and forced the Chicago River to flow away from Lake Michigan. More than a century later, the river still runs backwards."
 pubDate: 2026-10-23T10:10:00+05:00
-heroImage: "/images/river-that-was-reversed-forever.webp"
+image: "/images/river-that-was-reversed-forever.webp"
+imageAlt: "An illustration of a wide city river flowing between city bridges, with giant engineering works and cranes along its banks."
 category: "Nature"
 tags: ["Chicago River", "engineering history", "rivers"]
 ---
