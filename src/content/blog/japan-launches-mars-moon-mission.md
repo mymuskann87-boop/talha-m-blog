@@ -2,7 +2,8 @@
 title: "Japan Launches Mars Moon Mission"
 description: "A spacecraft is on its way to grab a piece of a Mars moon and bring it home. Ride along with the MMX mission, entry by entry, from a midnight launch in Japan to the red planet."
 pubDate: 2026-10-23T14:30:00+05:00
-heroImage: "/images/japan-launches-mars-moon-mission.webp"
+image: "/images/japan-launches-mars-moon-mission.webp"
+imageAlt: "An illustration of a white rocket launching from a seaside spaceport toward red Mars and its small moon Phobos in the sky."
 category: "Space"
 tags: ["MMX mission", "Phobos", "JAXA NASA"]
 ---

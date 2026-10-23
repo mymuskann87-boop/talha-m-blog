@@ -2,7 +2,8 @@
 title: "Webb Finds Earliest Supernova Ever"
 description: "A star died when the universe was just 730 million years old, and its light travelled for nearly the whole age of creation before a golden telescope finally caught it. Follow the detectives who solved the oldest cold case in the sky."
 pubDate: 2026-10-23T14:20:00+05:00
-heroImage: "/images/webb-finds-earliest-supernova-ever.webp"
+image: "/images/webb-finds-earliest-supernova-ever.webp"
+imageAlt: "An illustration of the golden James Webb Space Telescope watching an ancient star explode in deep space among young galaxies."
 category: "Space"
 tags: ["James Webb", "supernova", "early universe"]
 ---
