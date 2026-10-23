@@ -2,7 +2,8 @@
 title: "Pakistan Signs Four Nation Accord"
 description: "Four flags, one table, one promise. Pakistan has joined Turkiye, Qatar and Indonesia in a new defence accord built on self-reliance — here is what each country brings and why it matters."
 pubDate: 2026-10-23T16:00:00+05:00
-heroImage: "/images/pakistan-signs-four-nation-accord.webp"
+image: "/images/pakistan-signs-four-nation-accord.webp"
+imageAlt: "An illustration of the flags of Pakistan, Turkiye, Qatar and Indonesia waving over a grand signing table with an open document and a golden pen."
 category: "Pakistan News"
 tags: ["Pakistan defence", "Turkiye Qatar Indonesia", "defence accord"]
 ---

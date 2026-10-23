@@ -2,7 +2,8 @@
 title: "HSY Designing New PIA Uniforms"
 description: "Pakistan's most famous fashion designer HSY is set to create brand-new cabin crew uniforms for PIA, and the whole country is curious about what its flying flag will look like next."
 pubDate: 2026-10-23T16:10:00+05:00
-heroImage: "/images/hsy-designing-new-pia-uniforms.webp"
+image: "/images/hsy-designing-new-pia-uniforms.webp"
+imageAlt: "An illustration of a fashion designer sketching in an elegant studio beside mannequins wearing deep green and maroon airline crew uniforms."
 category: "Pakistan News"
 tags: ["HSY", "PIA", "cabin crew uniform"]
 ---
