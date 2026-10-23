@@ -2,7 +2,8 @@
 title: "Investors Fear AI Bubble Now"
 description: "One trading day on Wall Street turned into a slide, as tech shares fell hard and a giant pension fund quietly stepped back from the biggest AI names. Here is what happened, hour by hour, and what it means for ordinary savers."
 pubDate: 2026-10-23T14:00:00+05:00
-heroImage: "/images/investors-fear-ai-bubble-now.webp"
+image: "/images/investors-fear-ai-bubble-now.webp"
+imageAlt: "An illustration of a giant soap bubble shaped like a robot head floating over a worried stock exchange floor with red falling charts."
 category: "Business"
 tags: ["AI bubble", "stock market", "Nasdaq"]
 ---

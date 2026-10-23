@@ -2,7 +2,8 @@
 title: "Oil Prices Jump Past $114"
 description: "One barrel of oil, one frightening week of attacks, and one big number — $114. Follow the barrel from deep under the desert to the petrol pump, and see why its price suddenly jumped to the highest level in more than five months."
 pubDate: 2026-10-23T14:10:00+05:00
-heroImage: "/images/oil-prices-jump-past-114.webp"
+image: "/images/oil-prices-jump-past-114.webp"
+imageAlt: "An illustration of oil pumpjacks in a desert at sunset with a huge glowing green arrow shooting upward into the sky."
 category: "Business"
 tags: ["oil price", "petrol price", "Brent crude"]
 ---
