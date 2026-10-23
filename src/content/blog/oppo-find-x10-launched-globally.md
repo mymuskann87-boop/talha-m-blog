@@ -2,7 +2,8 @@
 title: "Oppo Find X10 Launched Globally"
 description: "Three 200-megapixel cameras, a giant 8,000mAh battery and a brain built on 2nm technology — the Oppo Find X10 series has arrived, and its camera ring alone is worth staring at."
 pubDate: 2026-10-23T13:40:00+05:00
-heroImage: "/images/oppo-find-x10-launched-globally.webp"
+image: "/images/oppo-find-x10-launched-globally.webp"
+imageAlt: "An illustration of a premium smartphone with a huge glowing triple camera ring on a dark stage, a world map of blue light behind it."
 category: "Technology"
 tags: ["Oppo Find X10", "200MP camera", "smartphone launch"]
 ---

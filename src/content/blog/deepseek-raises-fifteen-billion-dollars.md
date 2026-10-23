@@ -2,7 +2,8 @@
 title: "DeepSeek Raises Fifteen Billion Dollars"
 description: "America told its offices to delete this Chinese AI app. Two days later, the same company raised about $15 billion. Read the strange story of two rooms, two decisions, and one giant cheque."
 pubDate: 2026-10-23T13:50:00+05:00
-heroImage: "/images/deepseek-raises-fifteen-billion-dollars.webp"
+image: "/images/deepseek-raises-fifteen-billion-dollars.webp"
+imageAlt: "An illustration of a giant whale made of glowing blue circuits leaping from a sea of gold coins and rising stock charts."
 category: "AI"
 tags: ["DeepSeek", "AI funding", "China AI"]
 ---
