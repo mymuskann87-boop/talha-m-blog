@@ -2,7 +2,8 @@
 title: "Man Played Golf On Moon"
 description: "Alan Shepard was America's first man in space, then an ear disease grounded him for years. He fought his way back to command Apollo 14 in 1971 — and marked the comeback by playing golf on the Moon."
 pubDate: 2026-10-23T10:30:00+05:00
-heroImage: "/images/man-played-golf-on-moon.webp"
+image: "/images/man-played-golf-on-moon.webp"
+imageAlt: "An illustration of an astronaut in a white spacesuit swinging a golf club on the grey surface of the Moon, Earth shining in the black sky."
 category: "Space"
 tags: ["Alan Shepard", "Apollo 14", "NASA", "golf"]
 ---

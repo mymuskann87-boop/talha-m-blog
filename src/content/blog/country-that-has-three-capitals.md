@@ -2,7 +2,8 @@
 title: "Country That Has Three Capitals"
 description: "South Africa is the only country in the world with three capital cities. Join a road trip through Pretoria, Cape Town and Bloemfontein, and find out about the 1910 compromise that split one government across three cities."
 pubDate: 2026-10-23T10:20:00+05:00
-heroImage: "/images/country-that-has-three-capitals.webp"
+image: "/images/country-that-has-three-capitals.webp"
+imageAlt: "An illustration of three capital cities of one country shown side by side, with parliament buildings, a high court and government offices."
 category: "Politics"
 tags: ["South Africa", "capital cities", "Pretoria", "Cape Town"]
 ---
