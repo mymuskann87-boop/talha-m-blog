@@ -2,7 +2,8 @@
 title: "Island Ruled By Deadly Snakes"
 description: "Sail with us to Brazil's Snake Island, where your boat must stop far from shore: meet the golden lancehead, learn the real snake count behind the famous myth, and see why this forbidden island is guarded for the snakes' sake."
 pubDate: 2026-10-22T14:20:00+05:00
-heroImage: "/images/island-ruled-by-deadly-snakes.webp"
+image: "/images/island-ruled-by-deadly-snakes.webp"
+imageAlt: "An illustration of a green island seen from a small boat, its trees full of golden snakes and warning signs on the shore."
 category: "Nature"
 tags: ["Snake Island", "Golden Lancehead", "Brazil wildlife"]
 ---

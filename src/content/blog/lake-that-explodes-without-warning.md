@@ -2,7 +2,8 @@
 title: "Lake That Explodes Without Warning"
 description: "On a quiet night in August 1986, Lake Nyos in Cameroon released a vast invisible cloud of carbon dioxide that took 1,746 lives. What happened that night, what scientists discovered afterwards, and the pipes that now keep the lake safe."
 pubDate: 2026-10-22T13:40:00+05:00
-heroImage: "/images/lake-that-explodes-without-warning.webp"
+image: "/images/lake-that-explodes-without-warning.webp"
+imageAlt: "An illustration of a dark silent lake at night with a huge gas cloud rising above the water under the moonlight."
 category: "Nature"
 tags: ["Lake Nyos", "Cameroon", "volcanoes"]
 ---
