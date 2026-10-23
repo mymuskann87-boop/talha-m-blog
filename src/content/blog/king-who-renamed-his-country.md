@@ -2,7 +2,8 @@
 title: "King Who Renamed His Country"
 description: "At his own 50th birthday party in April 2018, King Mswati III stood up in a packed stadium and gave his whole country a new name: eSwatini. Why he did it, how the world reacted, the argument it started at home, and what actually changed for ordinary people."
 pubDate: 2026-10-22T13:50:00+05:00
-heroImage: "/images/king-who-renamed-his-country.webp"
+image: "/images/king-who-renamed-his-country.webp"
+imageAlt: "An illustration of a king in traditional dress addressing a huge cheering crowd waving national flags at a celebration."
 category: "Politics"
 tags: ["Eswatini", "Swaziland", "King Mswati III"]
 ---

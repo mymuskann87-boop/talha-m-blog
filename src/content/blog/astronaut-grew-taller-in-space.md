@@ -2,7 +2,8 @@
 title: "Astronaut Grew Taller In Space"
 description: "Scott Kelly spent 340 days in space while his identical twin Mark stayed on Earth. Scott came home measurably taller, and NASA's Twins Study tracked what else changed in his body — and what quietly went back to normal."
 pubDate: 2026-10-22T14:00:00+05:00
-heroImage: "/images/astronaut-grew-taller-in-space.webp"
+image: "/images/astronaut-grew-taller-in-space.webp"
+imageAlt: "An illustration of two twin brothers standing back to back, one of them an astronaut floating slightly taller in space."
 category: "Space"
 tags: ["NASA", "Scott Kelly", "International Space Station"]
 ---
