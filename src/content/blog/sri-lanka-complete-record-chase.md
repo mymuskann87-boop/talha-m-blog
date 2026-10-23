@@ -2,7 +2,8 @@
 title: "Sri Lanka Complete Record Chase"
 description: "England scored 429 and still lost. Sri Lanka hunted down 430 in Rawalpindi with one ball left, in the second-highest successful chase ODI cricket has ever seen."
 pubDate: 2026-10-23T15:10:00+05:00
-heroImage: "/images/sri-lanka-complete-record-chase.webp"
+image: "/images/sri-lanka-complete-record-chase.webp"
+imageAlt: "An illustration of a Sri Lankan batsman in blue hitting a huge six under floodlights, with a giant scoreboard showing 430 behind him."
 category: "Sports"
 tags: ["Sri Lanka cricket", "ODI record chase", "Rawalpindi"]
 ---

@@ -2,7 +2,8 @@
 title: "Zelenskyy Accuses Musk Over Starlink"
 description: "Kyiv says Elon Musk disrupted Ukraine's satellite lifeline, Washington says it ordered nothing — a strange public quarrel over the internet connection Ukraine's army depends on."
 pubDate: 2026-10-23T15:00:00+05:00
-heroImage: "/images/zelenskyy-accuses-musk-over-starlink.webp"
+image: "/images/zelenskyy-accuses-musk-over-starlink.webp"
+imageAlt: "An illustration of a communications satellite beaming blue signals down to Earth at night, with one beam breaking apart in red sparks."
 category: "Conflict"
 tags: ["Starlink", "Ukraine", "Elon Musk"]
 ---
