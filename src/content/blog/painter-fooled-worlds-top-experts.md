@@ -2,7 +2,8 @@
 title: "Painter Fooled World's Top Experts"
 description: "Arrested for selling a national treasure to the Nazis, Dutch painter Han van Meegeren saved his life with a shocking claim: the priceless Vermeer paintings were fakes, and he had painted every one of them himself."
 pubDate: 2026-10-22T13:20:00+05:00
-heroImage: "/images/painter-fooled-worlds-top-experts.webp"
+image: "/images/painter-fooled-worlds-top-experts.webp"
+imageAlt: "An illustration of a painter standing proudly in a courtroom beside a classic painting in a golden frame, judges and experts watching."
 category: "Crime"
 tags: ["Han van Meegeren", "art forgery", "Vermeer"]
 ---

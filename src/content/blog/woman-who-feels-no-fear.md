@@ -2,7 +2,8 @@
 title: "Woman Who Feels No Fear"
 description: "A rare disease destroyed the fear centres in the brain of a woman known to science as S.M. Snakes, horror films and a haunted house left her calm and curious — until one unusual experiment finally made her panic."
 pubDate: 2026-10-22T13:30:00+05:00
-heroImage: "/images/woman-who-feels-no-fear.webp"
+image: "/images/woman-who-feels-no-fear.webp"
+imageAlt: "An illustration of a calm woman sitting peacefully while storm clouds and frightening shadows swirl around her."
 category: "Health"
 tags: ["brain science", "fear", "Urbach-Wiethe disease"]
 ---
