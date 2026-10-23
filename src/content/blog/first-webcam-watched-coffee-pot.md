@@ -2,7 +2,8 @@
 title: "First Webcam Watched Coffee Pot"
 description: "In 1991, tired Cambridge researchers pointed a camera at their shared coffee pot so they would never again walk across the building for an empty pot. Two years later it became the world's first webcam, and millions of strangers watched their coffee."
 pubDate: 2026-10-22T14:10:00+05:00
-heroImage: "/images/first-webcam-watched-coffee-pot.webp"
+image: "/images/first-webcam-watched-coffee-pot.webp"
+imageAlt: "An illustration of an old computer monitor showing a coffee pot on its screen, in a 1990s university computer lab."
 category: "Technology"
 tags: ["webcam", "Cambridge", "internet history"]
 ---

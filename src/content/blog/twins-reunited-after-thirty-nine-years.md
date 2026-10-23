@@ -2,7 +2,8 @@
 title: "Twins Reunited After Thirty-Nine Years"
 description: "Two men met in Ohio in 1979, looked into their own faces, and began comparing lives that matched in ways nobody could explain. The Jim twins became the doorway to one of psychology's most famous studies."
 pubDate: 2026-10-22T14:30:00+05:00
-heroImage: "/images/twins-reunited-after-thirty-nine-years.webp"
+image: "/images/twins-reunited-after-thirty-nine-years.webp"
+imageAlt: "An illustration of two identical twin brothers meeting face to face for the first time as grown men, both amazed."
 category: "Health"
 tags: ["Jim twins", "Minnesota twin study", "Nature and nurture"]
 ---
