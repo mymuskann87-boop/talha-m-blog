@@ -2,7 +2,8 @@
 title: "First Email Ever Sent Anywhere"
 description: "In late 1971, engineer Ray Tomlinson sent the first message ever to travel from one computer to another, and chose the @ symbol that still sits in every email address. The strangest part? He could never remember what that first message said."
 pubDate: 2026-10-23T10:50:00+05:00
-heroImage: "/images/first-email-ever-sent-anywhere.webp"
+image: "/images/first-email-ever-sent-anywhere.webp"
+imageAlt: "An illustration of two old computers in side-by-side 1971 offices connected by a cable, with the first email travelling between them."
 category: "Technology"
 tags: ["Ray Tomlinson", "email history", "ARPANET"]
 ---

@@ -2,7 +2,8 @@
 title: "First Computer Virus Ever Created"
 description: "In 1971 a playful program called Creeper began hopping between computers on the early ARPANET, printing a cheeky taunt wherever it landed. It harmed nothing, yet it started a chase that has never really ended."
 pubDate: 2026-10-23T10:40:00+05:00
-heroImage: "/images/first-computer-virus-ever-created.webp"
+image: "/images/first-computer-virus-ever-created.webp"
+imageAlt: "An illustration of an old 1970s computer with a playful program hopping from machine to machine along glowing cables."
 category: "Technology"
 tags: ["Creeper", "computer virus history", "ARPANET"]
 ---
