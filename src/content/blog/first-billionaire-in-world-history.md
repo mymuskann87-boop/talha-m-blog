@@ -2,7 +2,8 @@
 title: "First Billionaire In World History"
 description: "John D. Rockefeller built Standard Oil into a company that handled nearly all of America's oil, and a single barrel of Pennsylvania crude can carry us through the whole tale: the lamps it lit, the empire it built, the court order that split it apart, and the strange twist that made him richer than ever."
 pubDate: 2026-10-23T09:30:00+05:00
-heroImage: "/images/first-billionaire-in-world-history.webp"
+image: "/images/first-billionaire-in-world-history.webp"
+imageAlt: "An illustration of oil barrels and a rising money chart in a vintage American oil field, telling the story of the first billionaire."
 category: "Business"
 tags: ["John D. Rockefeller", "Standard Oil", "oil history"]
 ---

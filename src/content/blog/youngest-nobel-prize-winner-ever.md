@@ -2,7 +2,8 @@
 title: "Youngest Nobel Winner In History"
 description: "Malala Yousafzai was seventeen when she received the Nobel Peace Prize in 2014, the youngest winner the prize has ever had. Her story begins on ordinary school mornings in Pakistan's Swat Valley, where a girl who loved her books refused to accept that girls should stop learning."
 pubDate: 2026-10-23T09:20:00+05:00
-heroImage: "/images/youngest-nobel-prize-winner-ever.webp"
+image: "/images/youngest-nobel-prize-winner-ever.webp"
+imageAlt: "An illustration of a young schoolgirl in uniform carrying her books on a bright morning in the Swat Valley, walking proudly toward her school."
 category: "Awards"
 tags: ["Malala Yousafzai", "Nobel Peace Prize", "girls education"]
 ---
