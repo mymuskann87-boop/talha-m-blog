@@ -2,7 +2,8 @@
 title: "Protests Erupt Over Petrol Levy"
 description: "Of every litre of petrol sold in Pakistan, Rs114 goes straight to the government in taxes and duties — and now fresh protests have been announced over it. Here is one litre, broken into rupees, and why the anger keeps growing."
 pubDate: 2026-10-23T16:20:00+05:00
-heroImage: "/images/protests-erupt-over-petrol-levy.webp"
+image: "/images/protests-erupt-over-petrol-levy.webp"
+imageAlt: "An illustration of frustrated people at a petrol station holding empty fuel cans and blank placards under a giant fuel price board."
 category: "Pakistan News"
 tags: ["petrol price", "petroleum levy", "Pakistan protests"]
 ---

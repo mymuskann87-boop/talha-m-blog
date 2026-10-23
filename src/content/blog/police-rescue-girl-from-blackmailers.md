@@ -2,7 +2,8 @@
 title: "Police Rescue Girl From Blackmailers"
 description: "A 14-year-old girl trapped by an online blackmail network is safe tonight, and her rescue carries a lesson for every family. Learn how these traps are set, the warning signs to watch for, and the exact steps to protect your child."
 pubDate: 2026-10-23T16:30:00+05:00
-heroImage: "/images/police-rescue-girl-from-blackmailers.webp"
+image: "/images/police-rescue-girl-from-blackmailers.webp"
+imageAlt: "An illustration of a glowing blue shield with a golden police badge protecting a smartphone from dark smoky figures and broken chains."
 category: "Crime"
 tags: ["online safety", "child protection", "cybercrime Pakistan"]
 ---
