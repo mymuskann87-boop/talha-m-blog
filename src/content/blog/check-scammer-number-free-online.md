@@ -1,7 +1,7 @@
 ---
 title: "Check Scammer Number Free Online"
 description: "Scam Alert is a free tool from Talha M Blog. Type any unknown number, see if people have reported it as a scam, and report scammers yourself with proof."
-pubDate: 2026-10-23T18:05:00+05:00
+pubDate: 2026-10-23T18:12:00+05:00
 category: "Technology"
 image: "/images/check-scammer-number-free-online.webp"
 imageAlt: "A smartphone with a red warning shield over an unknown caller number, checked with a magnifying glass."
