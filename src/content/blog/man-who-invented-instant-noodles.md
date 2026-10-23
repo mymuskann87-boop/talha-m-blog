@@ -2,7 +2,8 @@
 title: "Man Who Invented Instant Noodles"
 description: "In a small shed behind his house in Osaka, 48-year-old Momofuku Ando spent a year of failed experiments chasing a noodle that could wait in a cupboard — until one evening beside his wife's tempura pan changed how the whole world eats."
 pubDate: 2026-10-22T13:10:00+05:00
-heroImage: "/images/man-who-invented-instant-noodles.webp"
+image: "/images/man-who-invented-instant-noodles.webp"
+imageAlt: "An illustration of Momofuku Ando in a small wooden shed workshop, holding a steaming cup of instant noodles with chopsticks."
 category: "Business"
 tags: ["Momofuku Ando", "instant noodles", "Nissin"]
 ---

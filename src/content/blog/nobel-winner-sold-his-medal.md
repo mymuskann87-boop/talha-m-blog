@@ -2,7 +2,8 @@
 title: "Nobel Winner Sold His Medal"
 description: "In December 2014, DNA pioneer James Watson auctioned his 1962 Nobel Prize medal for a record $4.1 million — and then the billionaire who bought it did something nobody in the room saw coming."
 pubDate: 2026-10-22T13:00:00+05:00
-heroImage: "/images/nobel-winner-sold-his-medal.webp"
+image: "/images/nobel-winner-sold-his-medal.webp"
+imageAlt: "An illustration of a golden Nobel Prize medal on an auction table with a raised gavel, bidders watching in a grand hall."
 category: "Awards"
 tags: ["James Watson", "Nobel Prize", "DNA"]
 ---
