@@ -2,7 +2,8 @@
 title: "Robbers Who Stopped A Train"
 description: "On 8 August 1963, a gang used a false red signal to stop a Royal Mail train and steal about £2.6 million. The plan worked for one night, then a farm, a board game, and fingerprints gave them away."
 pubDate: 2026-10-23T09:50:00+05:00
-heroImage: "/images/robbers-who-stopped-a-train.webp"
+image: "/images/robbers-who-stopped-a-train.webp"
+imageAlt: "An illustration of a mail train stopped on dark countryside tracks at night, with masked robbers beside it under the moonlight."
 category: "Crime"
 tags: ["Great Train Robbery", "Bruce Reynolds", "Ronnie Biggs"]
 ---
