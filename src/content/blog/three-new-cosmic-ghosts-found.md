@@ -2,7 +2,8 @@
 title: "Three New Cosmic Ghosts Found"
 description: "Four photographers stared at one patch of sky for a hundred hours, and three ghostly shapes nobody had ever seen slowly stepped out of the dark."
 pubDate: 2026-10-23T14:40:00+05:00
-heroImage: "/images/three-new-cosmic-ghosts-found.webp"
+image: "/images/three-new-cosmic-ghosts-found.webp"
+imageAlt: "An illustration of three glowing blue ghost-shaped nebulas floating among red space clouds and bright stars in the Cassiopeia constellation."
 category: "Space"
 tags: ["Cassiopeia", "nebula", "NASA APOD"]
 ---

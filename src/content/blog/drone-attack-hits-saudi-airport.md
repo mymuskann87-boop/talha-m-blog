@@ -2,7 +2,8 @@
 title: "Drone Attack Hits Saudi Airport"
 description: "An ordinary evening at Dammam's King Fahd International Airport turned into a night of alarm, diverted flights and sad news. A clear, calm timeline of what the reports say happened, and why the whole region is watching closely."
 pubDate: 2026-10-23T14:50:00+05:00
-heroImage: "/images/drone-attack-hits-saudi-airport.webp"
+image: "/images/drone-attack-hits-saudi-airport.webp"
+imageAlt: "An illustration of a dark drone silhouette in a red dusk sky over an airport runway with flashing red warning lights."
 category: "Conflict"
 tags: ["Saudi Arabia", "drone attack", "Dammam airport"]
 ---
