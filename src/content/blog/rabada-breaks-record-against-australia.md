@@ -2,7 +2,8 @@
 title: "Rabada Breaks Record Against Australia"
 description: "Kagiso Rabada just did something no bowler in Test cricket history had ever done before. Open the record book and follow the clues to a number that stood untouched for decades."
 pubDate: 2026-10-23T15:30:00+05:00
-heroImage: "/images/rabada-breaks-record-against-australia.webp"
+image: "/images/rabada-breaks-record-against-australia.webp"
+imageAlt: "An illustration of a fast bowler in silhouette at sunset in a packed stadium, the ball leaving his hand like a glowing comet."
 category: "Sports"
 tags: ["Kagiso Rabada", "Test cricket record", "South Africa"]
 ---

@@ -2,7 +2,8 @@
 title: "Brook Smashes Fastest Double Century"
 description: "Harry Brook smashed the fastest double century in one-day cricket history — and somehow still walked off the field a loser. The story of a record that lost."
 pubDate: 2026-10-23T15:20:00+05:00
-heroImage: "/images/brook-smashes-fastest-double-century.webp"
+image: "/images/brook-smashes-fastest-double-century.webp"
+imageAlt: "An illustration of a batsman at the peak of a mighty swing as the ball rockets away with a fiery trail, a glowing number 200 behind him."
 category: "Sports"
 tags: ["Harry Brook", "ODI double century", "England cricket"]
 ---
