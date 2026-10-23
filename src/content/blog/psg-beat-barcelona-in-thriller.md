@@ -2,7 +2,8 @@
 title: "PSG Beat Barcelona In Thriller"
 description: "Barcelona arrived in Paris unbeaten in eleven straight matches. Two late PSG goals tore that record apart in a 4-2 Champions League classic at the Parc des Princes."
 pubDate: 2026-10-23T15:50:00+05:00
-heroImage: "/images/psg-beat-barcelona-in-thriller.webp"
+image: "/images/psg-beat-barcelona-in-thriller.webp"
+imageAlt: "An illustration of two footballers in unbranded kits leaping to head a glowing ball under floodlights in a packed stadium at night."
 category: "Sports"
 tags: ["PSG", "Barcelona", "Champions League"]
 ---

@@ -2,7 +2,8 @@
 title: "Multan Star Shines On Debut"
 description: "A young all-rounder from the dusty grounds of Multan has announced himself to world cricket with a dream debut against Australia. Meet Arafat Minhas, the hometown boy whose rise from junior cricket to the Pakistan one-day team is the feel-good story of the season."
 pubDate: 2026-10-23T15:40:00+05:00
-heroImage: "/images/multan-star-shines-on-debut.webp"
+image: "/images/multan-star-shines-on-debut.webp"
+imageAlt: "An illustration of a young cricketer in a green kit, seen from behind, raising his bat to a cheering crowd in a floodlit stadium."
 category: "Sports"
 tags: ["Arafat Minhas", "Pakistan cricket", "Multan"]
 ---
