@@ -1,6 +1,6 @@
 ---
 title: "Taylor Swift Life Story Explained"
-description: "The full life story of Taylor Swift in simple English — her childhood on a Pennsylvania Christmas tree farm, family, struggle in Nashville, rise from country to pop, the fight for her own music, husband Travis Kelce, net worth and life today."
+description: "Taylor Swift life story in simple English: childhood, Nashville struggle, country to pop, Eras Tour, and life today."
 pubDate: 2026-10-17T10:00:00+05:00
 category: "Celebrity"
 image: "/images/taylor-swift-life-story-explained.webp"

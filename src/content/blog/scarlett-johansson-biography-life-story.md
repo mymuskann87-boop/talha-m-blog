@@ -1,6 +1,6 @@
 ---
 title: "Scarlett Johansson: Black Widow's Story"
-description: "A simple and complete look at the life of Scarlett Johansson: her childhood in New York, her early films, her big hits, her awards, her family, and what she is working on next."
+description: "Scarlett Johansson life story in simple English: childhood in New York, early films, Marvel years, awards, and family."
 pubDate: 2026-10-11T12:30:00+05:00
 updatedDate: 2026-10-17
 category: "Celebrity"
@@ -103,6 +103,20 @@ If you look at her career, you can see a pattern. She can play a quiet and lonel
 ## Final words
 
 Scarlett Johansson's story is a story of hard work. She started as a child actor in New York, and she became one of the most successful actresses of her time. With new films and her work as a director, her story is still going on.
+
+## Frequently Asked Questions
+
+**When was Scarlett Johansson born?**
+
+Scarlett Johansson was born on 22 November 1984 in New York City.
+
+**What is Scarlett Johansson's full name?**
+
+Her full name is Scarlett Ingrid Johansson.
+
+**Who is Scarlett Johansson married to?**
+
+She is married to Colin Jost. They married in 2020.
 
 ## Sources
 

@@ -1,6 +1,6 @@
 ---
 title: "Diddy Prison Hospital Scare Explained"
-description: "Sean 'Diddy' Combs was taken from Fort Dix prison to hospital with a head injury. One report blames a bunk bed, a newer one claims a fight with a Jamaican kingpin. Here is everything known, in simple words."
+description: "Sean 'Diddy' Combs was taken from Fort Dix prison to hospital with a head injury. One report says a bunk bed, another says a fight."
 pubDate: 2026-10-15T01:30:00+05:00
 category: "Celebrity"
 image: "/images/diddy-prison-fight-head-injury-hospital.webp"
@@ -66,9 +66,9 @@ His projected release date is currently 2 March 2028. It was moved back from 21 
 **Who is Christopher "Dudus" Coke?**
 A Jamaican drug kingpin who has been in US federal prison since 2012, serving a 23-year sentence after pleading guilty to racketeering conspiracy and conspiracy to commit assault with a dangerous weapon.
 
-*Sources: TMZ, Page Six, Just Jared and the Express Tribune, reported between 12 and 14 October 2026.*
+## Sources
 
-**Source links:**
+- Sources: TMZ, Page Six, Just Jared and the Express Tribune, reported between 12 and 14 October 2026.
 - [Page Six](https://pagesix.com/2026/10/14/celebrity-news/sean-diddy-combs-suffered-head-injury-after-prison-attack-by-jamaican-drug-lord-report/)
 - [Page Six](https://pagesix.com/2026/10/15/celebrity-news/sean-diddy-combs-family-speaks-out-after-rappers-head-injury-in-prison/)
-- [The Sun (TMZ ki report par mabni)](https://www.thesun.co.uk/tvandshowbiz/40686926/diddy-head-injury-prison-fight-claim/)
+- [The Sun (based on a TMZ report)](https://www.thesun.co.uk/tvandshowbiz/40686926/diddy-head-injury-prison-fight-claim/)

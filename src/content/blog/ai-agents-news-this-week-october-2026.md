@@ -1,6 +1,6 @@
 ---
 title: "Claude OpenAI Meta Launch Agents"
-description: "The biggest AI agent news of the week in simple words: Claude Haiku 5.5, OpenAI's always-on agent Dots, Meta Muse on iPad, Google's Gemini agent, HackerRank Chakra and IBM Bob."
+description: "AI agent news in simple words: Claude, OpenAI, Meta, Google, HackerRank and IBM launches from early October 2026."
 pubDate: 2026-10-11T17:40:00+05:00
 category: "AI"
 image: "/images/ai-agents-news-this-week-october-2026.webp"

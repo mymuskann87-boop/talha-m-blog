@@ -1,6 +1,6 @@
 ---
 title: "The Albies 2026: Full Honorees List and Red Carpet Highlights"
-description: "The Albies 2026 took place on October 9, 2026, at London's Natural History Museum. See the full honorees list, Amal Clooney's gold Gucci gown, Brad Pitt's arrival, and George Clooney's emotional words."
+description: "The Albies 2026 took place on October 9, 2026, in London. See the honorees list, the red carpet, and George Clooney's words."
 pubDate: 2026-10-11T13:40:00+05:00
 updatedDate: 2026-10-14
 category: "Celebrity"
@@ -74,25 +74,25 @@ One arrival deserves a special mention. Bianca Jagger, 81, made a rare public ou
 
 I would suggest reading the coverage in a particular order. Start with the purpose of the Albies. Then read the honorees' names. Only after that, look at who hosted, who performed and who attended. That order keeps the story honest. The guests came to support an evening that belongs, first of all, to the people being honoured for defending justice at great personal risk. If we remember that, the glamour and the serious purpose of the night can sit side by side, without one hiding the other.
 
-## Common questions
+## Frequently Asked Questions
 
-### When was The Albies 2026 held?
+**When was The Albies 2026 held?**
 
 The Albies 2026 was held on Friday, October 9, 2026, at the Natural History Museum in London. It was the 5th annual Albies, hosted by George and Amal Clooney through the Clooney Foundation for Justice.
 
-### What are the Albies held by the Clooney Foundation for Justice?
+**What are the Albies held by the Clooney Foundation for Justice?**
 
 The Albies are an annual event held by the Clooney Foundation for Justice. They honour people who defend justice at great personal risk, and the 5th annual event took place in London in 2026.
 
-### Who are the Albies 2026 honorees and where was the event held?
+**Who are the Albies 2026 honorees and where was the event held?**
 
 The event was held at the Natural History Museum in London on October 9, 2026. The honorees are Bolot Temirov, Makhabat Tazhibek Kyzy, Vanessa Mwangala, Lynsey Addario, Justice Plus and Brad Smith.
 
-### What did Amal Clooney wear at The Albies 2026?
+**What did Amal Clooney wear at The Albies 2026?**
 
 Amal Clooney wore a gold Gucci gown covered in sequins and beaded fringe, with a crystal clutch and gold heels. Gucci was the event's exclusive fashion partner. George Clooney wore a classic black tuxedo.
 
-### Who hosted and performed at the Albies 2026 in London?
+**Who hosted and performed at the Albies 2026 in London?**
 
 Graham Norton hosted the evening, and Jackson Browne and Vic Mensa performed. Brad Pitt attended with Ines de Ramon, alongside guests including Emma Thompson and Laura Dern.
 

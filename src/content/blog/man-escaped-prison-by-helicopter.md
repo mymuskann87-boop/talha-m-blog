@@ -1,6 +1,6 @@
 ---
 title: "Man Escaped Prison By Helicopter"
-description: "Twice, a hijacked helicopter dropped out of the French sky to free him — and once, he sent one back for his friends. Pascal Payet's escapes, and the crime behind them."
+description: "Pascal Payet escaped by helicopter twice, and sent one back for friends. His escapes and the crime behind them."
 pubDate: 2026-10-19T21:20:00+05:00
 category: "Crime"
 image: "/images/man-escaped-prison-by-helicopter.webp"
@@ -80,23 +80,23 @@ Payet remained in custody from September 2007 until April 2019, when he was rele
 
 ## Frequently Asked Questions
 
-### How many times did Pascal Payet escape by helicopter?
+**How many times did Pascal Payet escape by helicopter?**
 
 Payet escaped by helicopter twice himself — from Luynes prison in October 2001 and from Grasse prison in July 2007. In between, in April 2003, he organised a third helicopter escape that freed three other inmates from Luynes while he was already a fugitive.
 
-### Why was Pascal Payet in prison?
+**Why was Pascal Payet in prison?**
 
 He was sentenced to 30 years in prison for murder, after taking part in a 1997 attack on a Banque de France armoured car in Salon-de-Provence during which a security guard was killed.
 
-### How was Pascal Payet caught after his last escape?
+**How was Pascal Payet caught after his last escape?**
 
 He was captured on 21 September 2007 in Mataró, near Barcelona in Spain, about two months after the Grasse escape, and was transferred back to French custody on 4 October 2007.
 
-### Were the helicopter pilots hurt in the escapes?
+**Were the helicopter pilots hurt in the escapes?**
 
 In the 2007 escape, the pilot was taken hostage by the four masked men and was released unharmed when the helicopter landed at Brignoles.
 
-### Where is Pascal Payet now?
+**Where is Pascal Payet now?**
 
 After his 2007 recapture he was held in a secret location and received further sentences for the escape and for crimes committed while on the run. Records list him as being in custody from September 2007 to April 2019, and then on parole.
 

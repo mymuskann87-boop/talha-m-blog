@@ -1,6 +1,6 @@
 ---
 title: "Tom Cruise Life Story Explained"
-description: "The full life story of Tom Cruise in simple English — his poor childhood and dyslexia, the priest dream and wrestling injury, Risky Business and Top Gun, Mission: Impossible stunts, three marriages and three children, net worth, hard times and his honorary Oscar."
+description: "Tom Cruise life story in simple English: childhood, dyslexia, Top Gun, Mission: Impossible stunts, marriages, and today."
 pubDate: 2026-10-18T18:00:00+05:00
 category: "Celebrity"
 image: "/images/tom-cruise-life-story-explained.webp"

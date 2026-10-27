@@ -57,21 +57,21 @@ An unused substitute is a player named in the squad who does not come onto the p
 
 One goal does not settle a row with a national team coach. But it does change the mood. Before this match, the talk was about a walkout, a broken word, and a player left on the bench. After it, the talk could also be about a goal, a win, and a team level on points at the top. A player cannot control every headline — he can only give people a new one. On Friday, Ronaldo did that in the 23rd minute.
 
-## Common questions
+## Frequently Asked Questions
 
-### How did Cristiano Ronaldo score his 980th career goal?
+**How did Cristiano Ronaldo score his 980th career goal?**
 
 He scored in the 23rd minute against Diriyah, putting in a rebound after Kingsley Coman's shot was saved. It was the opening goal in Al-Nassr's 3-0 Saudi Pro League win.
 
-### Who else scored in Al-Nassr's 3-0 win over Diriyah?
+**Who else scored in Al-Nassr's 3-0 win over Diriyah?**
 
 Samu Costa scored in the 35th minute, and Kingsley Coman scored in the 77th minute, after Ronaldo had opened the scoring in the 23rd minute.
 
-### Why did Cristiano Ronaldo walk out of the Portugal camp?
+**Why did Cristiano Ronaldo walk out of the Portugal camp?**
 
 He was an unused substitute in Portugal's 2-1 Nations League win in Norway on September 27, and he said coach Jorge Jesus broke his word about playing him. He has said he remains available for Portugal.
 
-### What is the Ronaldo 980th goal everyone is talking about?
+**What is the Ronaldo 980th goal everyone is talking about?**
 
 It is the name fans use for Cristiano Ronaldo's 980th career goal, which he scored for Al-Nassr against Diriyah, putting in a rebound in the 23rd minute of the 3-0 Saudi Pro League win.
 

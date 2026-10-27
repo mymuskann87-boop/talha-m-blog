@@ -45,21 +45,21 @@ Netflix said these four films will arrive weekly between November and December, 
 
 It also makes the season feel longer, in a good way. Instead of one busy weekend of new films, you get a small event each week as December gets closer. The two films we know less about, "Guarding Stars" and "In a Holidaze", will fit into that same weekly pattern between November and December.
 
-## Common questions
+## Frequently Asked Questions
 
-### How many Christmas movies is Netflix releasing in its 2026 line-up and when do they arrive?
+**How many Christmas movies is Netflix releasing in its 2026 line-up and when do they arrive?**
 
 The line-up has four festive films, arriving weekly between November and December. Netflix released the first teaser for the line-up through People magazine on October 11, 2026.
 
-### What is A Dog's Perfect Christmas about and who stars in it?
+**What is A Dog's Perfect Christmas about and who stars in it?**
 
 It premieres on November 4 and stars Dennis Quaid, Milo Ventimiglia, Jennifer Tilly and Mary Steenburgen. It tells the story of a family held together by a teenager, her grandfather and his loyal basset hound, and it is based on a novel by W. Bruce Cameron.
 
-### When does Tyler Perry's The Gospel of Christmas arrive on Netflix?
+**When does Tyler Perry's The Gospel of Christmas arrive on Netflix?**
 
 It arrives on November 11. It stars Fantasia Barrino and Tank, and it follows a struggling pastor who inherits his family's church in a troubled New York neighbourhood.
 
-### What are the Netflix Xmas movies 2026, and where is the full list?
+**What are the Netflix Xmas movies 2026, and where is the full list?**
 
 The Netflix Xmas movies 2026 are the four festive films in this year's line-up: A Dog's Perfect Christmas on November 4, Tyler Perry's The Gospel of Christmas on November 11, plus Guarding Stars and In a Holidaze. The full list of Christmas movies 2026 Netflix has announced, with release dates and casts, is in this post above.
 

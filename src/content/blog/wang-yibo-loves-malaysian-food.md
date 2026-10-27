@@ -1,6 +1,6 @@
 ---
 title: "Wang Yibo Loves Malaysian Food"
-description: "China's superstar Wang Yibo came to Malaysia for the biggest race of his life — but before the race, fans found him somewhere nobody expected. The full story behind the photos everyone is sharing."
+description: "Wang Yibo ate bak kut teh and durian in Kuala Lumpur before his Sepang race. The photos, the places, and the full story."
 pubDate: 2026-10-16T16:14:00+05:00
 updatedDate: 2026-10-17
 category: "Celebrity"

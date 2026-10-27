@@ -3,7 +3,7 @@ import { getCollection } from 'astro:content';
 export async function GET(context) {
   const now = Date.now();
   const posts = (await getCollection('blog', ({ data }) => !data.draft))
-    .filter((p) => now - p.data.pubDate.valueOf() < 48 * 3600 * 1000)
+    .filter((p) => { const age = now - p.data.pubDate.valueOf(); return age >= 0 && age < 48 * 3600 * 1000; })
     .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
   const esc = (s) =>
     s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
