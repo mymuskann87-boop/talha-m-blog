@@ -83,7 +83,7 @@ And this is where the story refuses to end.
 
 The biggest property collapse in modern history is not finished. It has only entered its next chapter — and the whole world is still watching.
 
-## Quick Questions
+## Frequently Asked Questions
 
 **Is Evergrande completely finished?**
 As a working company, yes. A Hong Kong court ordered it liquidated in January 2024 and its shares were delisted last year. What remains is a legal process: liquidators selling its pieces and fighting court cases to recover money for creditors.

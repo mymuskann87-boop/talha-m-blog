@@ -66,7 +66,7 @@ The beautiful irony of the Welchia story is that the cure for both worms was ide
 
 Honestly, I find something almost touching in the Welchia story — a mysterious stranger spending August 2003 mending strangers' locks — but a lock mended by an intruder is still a house that was broken into. Mend your own. It takes minutes, it costs nothing, and it keeps out the burglars and the vigilantes alike.
 
-## Common questions
+## Frequently Asked Questions
 
 **Was Welchia really trying to help?**
 Its behaviour strongly suggests so. It deleted the Blaster worm, attempted to install Microsoft's official patch for the hole both worms used, and was programmed to remove itself by 2004. Whoever wrote it built a repair tool that travelled like a worm — but because it entered computers without permission, experts still classify it as a worm, not a cure.

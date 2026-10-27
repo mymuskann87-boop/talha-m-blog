@@ -80,23 +80,23 @@ Yet the name they paid for so dearly still serves the world. Element number 96 i
 
 ## Frequently Asked Questions
 
-### Which family has won the most Nobel Prizes?
+**Which family has won the most Nobel Prizes?**
 
 The Curie family holds the record. Five Nobel Prizes were won within the family: two by Marie Curie, one by her husband Pierre Curie, one by their daughter Irène Joliot-Curie, and one by Irène's husband Frédéric Joliot-Curie.
 
-### Why did Marie Curie win two Nobel Prizes?
+**Why did Marie Curie win two Nobel Prizes?**
 
 She won the 1903 Nobel Prize in Physics, shared with Pierre Curie and Henri Becquerel, for research on radioactivity. She then won the 1911 Nobel Prize in Chemistry on her own, for discovering the elements radium and polonium and isolating radium. She remains the only person to win Nobel Prizes in two different sciences.
 
-### How did Pierre Curie die?
+**How did Pierre Curie die?**
 
 Pierre Curie died on 19 April 1906 in Paris, when he was struck by a horse-drawn carriage while crossing the Rue Dauphine. He was 46 years old.
 
-### Did Marie Curie's daughter win a Nobel Prize?
+**Did Marie Curie's daughter win a Nobel Prize?**
 
 Yes. Irène Joliot-Curie and her husband Frédéric won the 1935 Nobel Prize in Chemistry for discovering artificial radioactivity — making new radioactive elements in the laboratory. Irène and her mother are still the only mother and daughter pair to both win Nobel Prizes.
 
-### Did the Curie family win six Nobel Prizes?
+**Did the Curie family win six Nobel Prizes?**
 
 Not exactly. Ève Curie's husband, Henry Labouisse, accepted the 1965 Nobel Peace Prize on behalf of UNICEF, the organisation he led. That prize belonged to UNICEF, so the family's personal total remains five — all in physics and chemistry.
 

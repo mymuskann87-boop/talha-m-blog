@@ -72,25 +72,25 @@ A wedding does not need a fortune to be remembered. It needs the right people in
 
 Close the notebook when the last payment is written in. The celebration is over, the photographs are beautiful, the guests went home happy — and the new household begins with its savings intact. That is not a smaller wedding. That is a wiser one.
 
-## Common questions
+## Frequently Asked Questions
 
-### What decides a wedding budget more than anything else?
+**What decides a wedding budget more than anything else?**
 
 The guest list. Every extra guest adds food, seating, and space, and the venue size and food order all follow that number. Decide the list before booking the venue, because changing it afterwards is how budgets break.
 
-### Are weekday or off-season weddings really cheaper?
+**Are weekday or off-season weddings really cheaper?**
 
 Often, yes. Venues commonly charge less on weekdays and outside the busy season for the same hall, food, and lights. Ask the venue directly about those dates — the saving can be significant, though a few guests may find a weekday harder to attend.
 
-### Does simple wedding decoration look cheap in photos?
+**Does simple wedding decoration look cheap in photos?**
 
 No — photographers often say the opposite. A clean stage with fresh flowers and warm lighting photographs more elegantly than crowded decoration. Choose two or three elements and do them well, and skip the decorations nobody photographs or remembers.
 
-### Is it acceptable to borrow or rent wedding outfits?
+**Is it acceptable to borrow or rent wedding outfits?**
 
 Yes, and many families do. A borrowed family piece or a rented outfit can look beautiful, and nobody inspects labels at a wedding. Family pieces with a story are often the most admired outfits of the day.
 
-### How do I stop wedding spending from quietly growing?
+**How do I stop wedding spending from quietly growing?**
 
 Track every payment in one notebook or sheet the moment it is made — promised price, paid amount, and date. Review it weekly with whoever shares the budget. Wedding costs rarely explode in one decision; they leak, and one notebook stops the leak.
 

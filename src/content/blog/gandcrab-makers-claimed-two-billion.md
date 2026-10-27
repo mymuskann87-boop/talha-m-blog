@@ -86,25 +86,25 @@ You cannot control criminal gangs, but you can make their job much harder. These
 
 **If the worst happens, check No More Ransom before anything else.** This is the lesson GandCrab teaches best: never pay first. Gangs lose keys. Gangs get raided. Researchers beat their code. Before even thinking about paying, visit the No More Ransom website and check whether a free decryption tool already exists for the ransomware that locked you. In the GandCrab case, many thousands of people got their files back for free simply because they checked.
 
-## Common questions
+## Frequently Asked Questions
 
-### What is GandCrab in simple words?
+**What is GandCrab in simple words?**
 
 GandCrab was a ransomware program — software that secretly scrambles your files and demands money to unscramble them. It appeared in January 2018 and spread so fast that within months it was one of the most widespread ransomware threats in the world.
 
-### Did the GandCrab gang really make two billion dollars?
+**Did the GandCrab gang really make two billion dollars?**
 
 Nobody knows, and that is the honest answer. In their May 2019 farewell announcement, the operators claimed they had earned and laundered more than two billion dollars. That figure came from the gang itself and was never independently verified, so treat it as a boast, not a fact.
 
-### What does "ransomware as a service" mean?
+**What does "ransomware as a service" mean?**
 
 It means the creators did not attack victims directly. They built the ransomware and rented it to other criminals, who carried out the attacks and paid the creators a reported share of each ransom collected. The model let one small team power attacks all over the world at the same time.
 
-### How did GandCrab get onto people's computers?
+**How did GandCrab get onto people's computers?**
 
 It spread mainly through spam emails carrying poisoned attachments or links, through hacked websites hiding attack code, and through exploit kits — booby-trapped pages that silently attack out-of-date browsers and plugins. Later versions could also spread within office networks once a single computer was infected.
 
-### If ransomware locks my files, should I pay?
+**If ransomware locks my files, should I pay?**
 
 Check for a free solution first. The No More Ransom project, run by police and security companies, offers free decryption tools for many ransomware families, including tools that helped many thousands of GandCrab victims. Paying is never a guarantee — a free key might already exist for your lock.
 

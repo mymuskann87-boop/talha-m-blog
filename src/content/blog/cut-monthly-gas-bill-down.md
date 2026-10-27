@@ -57,25 +57,25 @@ Keep burner caps clean as well. Food spills block the small holes in a burner ca
 - [Save Money On Electricity Bill](https://talhablog.com/blog/save-money-on-electricity-bill/)
 - [Save Money On Winter Heating](https://talhablog.com/blog/save-money-on-winter-heating/)
 
-## Common questions
+## Frequently Asked Questions
 
-### Does cooking with a lid really save gas?
+**Does cooking with a lid really save gas?**
 
 Yes. A lid traps heat and steam, so food cooks faster and the flame can be turned lower once the pot boils. An uncovered pot constantly loses heat to the air, forcing the flame to work harder and longer. Almost every pot dish — rice, lentils, stews — cooks faster covered.
 
-### Why should the pot match the burner size?
+**Why should the pot match the burner size?**
 
 A small pot on a large burner wastes gas around its sides, heating the kitchen instead of the food. A large pot on a tiny burner cooks slowly and tempts you to raise the flame dangerously. Matching pot to burner keeps the flame under the pot's base, where its heat actually cooks.
 
-### How does a pressure cooker save gas?
+**How does a pressure cooker save gas?**
 
 A pressure cooker cooks with trapped steam at higher pressure, so slow foods like lentils, beans, and chickpeas finish in a fraction of the usual time. A dish that simmers for ninety minutes in an open pot may cook in about twenty minutes under pressure, saving more than an hour of flame on one meal.
 
-### What should I do if I smell gas?
+**What should I do if I smell gas?**
 
 Treat it seriously. Do not investigate with a flame and do not ignore it. Ventilate by opening doors and windows without switching electrical devices on or off, leave the area if the smell is strong, and call a qualified professional immediately. Leave all gas repairs to professionals.
 
-### Why should I read my gas meter monthly?
+**Why should I read my gas meter monthly?**
 
 A monthly reading on the same day shows your real use and catches problems early. A sudden jump without a change in cooking can mean a leak, a faulty appliance, or a meter error. Finding it in one month costs far less than discovering it after several large bills.
 

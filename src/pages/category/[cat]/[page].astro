@@ -1,0 +1,100 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../../layouts/Base.astro';
+import PostRow from '../../../components/PostRow.astro';
+import { slugify } from '../../../utils';
+
+export async function getStaticPaths() {
+  const posts = (await getCollection('blog', ({ data }) => !data.draft)).sort(
+    (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+  );
+  const names = [...new Set(posts.map((p) => p.data.category))];
+  return names.flatMap((name) => {
+    const catPosts = posts.filter((p) => p.data.category === name);
+    const totalPages = Math.ceil(catPosts.length / 10);
+    const paths = [];
+    for (let n = 2; n <= totalPages; n++) {
+      paths.push({
+        params: { cat: slugify(name), page: String(n) },
+        props: { name, posts: catPosts.slice((n - 1) * 10, n * 10), pageNum: n, totalPages },
+      });
+    }
+    return paths;
+  });
+}
+
+const { name, posts, pageNum, totalPages } = Astro.props;
+const DESCRIPTIONS: Record<string, string> = {
+  AI: 'Latest AI news, new AI tools and coding agents, explained step by step in simple English.',
+  'Pakistan News': 'Latest Pakistan news: politics, government and daily events, explained step by step in simple English.',
+  'US News': 'Important news from the United States, explained step by step in simple English.',
+  Celebrity: 'Celebrity news and life stories of famous people, explained in simple English.',
+  Nature: 'Stories about the natural world: forests, rivers, animals and the planet, explained in simple English.',
+  Business: 'Big business stories: companies, money and markets, explained in simple English.',
+  Conflict: 'Wars, attacks and tensions around the world, explained clearly in simple English.',
+  Crime: 'Crime stories and court cases from around the world, explained in simple English.',
+  Disasters: 'Earthquakes, storms, floods and other disasters, explained clearly in simple English.',
+  Awards: 'Big awards and honours from around the world, explained in simple English.',
+  Politics: 'Elections, governments and big political decisions, explained in simple English.',
+  Health: 'Health news and medical stories that matter, explained in simple English.',
+  Space: 'Space missions, rockets and discoveries beyond Earth, explained in simple English.',
+  'Saving Money': 'Practical ways to save money on groceries, bills, transport and everyday spending, explained step by step in simple English.',
+  Technology: 'Technology news: computers, phones, viruses and the history of computing, explained in simple English.',
+  Automobiles: 'Technical diagrams and stories about famous cars, explained in simple English.',
+  Halloween: 'Halloween stories, costumes, decorations, snacks and safety tips, explained in simple English.',
+  Sports: 'Sports news and records from around the world, explained in simple English.',
+  Horror: 'Scary horror stories to read at night, explained in simple English.',
+  Romance: 'Love stories and romance, explained in simple English.',
+};
+const desc = DESCRIPTIONS[name] || `Latest ${name} posts on Talha M Blog, explained step by step in simple English.`;
+const pageDesc = `${desc} — page ${pageNum} of ${name} posts on Talha M Blog.`;
+const catLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name,
+  description: desc,
+  url: new URL(Astro.url.pathname, Astro.site).toString(),
+  mainEntity: {
+    '@type': 'ItemList',
+    itemListElement: posts.map((p, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      url: new URL(`/blog/${p.id}/`, Astro.site).toString(),
+      name: p.data.title,
+    })),
+  },
+});
+const slug = slugify(name);
+const prevHref = pageNum === 2 ? `/category/${slug}/` : `/category/${slug}/${pageNum - 1}/`;
+const nextHref = `/category/${slug}/${pageNum + 1}/`;
+---
+
+<Base title={`${name} — Page ${pageNum}`} description={pageDesc} extraLd={catLd}>
+  <nav class="crumbs" aria-label="Breadcrumb">
+    <a href="/">Home</a> <span aria-hidden="true">›</span>
+    <span class="crumb-here">{name}</span>
+  </nav>
+  <section class="intro"><h1>{name}</h1></section>
+  {posts.map((post) => <PostRow post={post} />)}
+
+  <nav class="pager" aria-label="Pages">
+    <a class="pager-card" href={prevHref}><span class="pc-blob pc-b1"></span><span class="pc-blob pc-b2"></span><span class="pc-text">Previous</span></a>
+    {pageNum < totalPages ? <a class="pager-card" href={nextHref}><span class="pc-blob pc-b1"></span><span class="pc-blob pc-b2"></span><span class="pc-text">Next Page</span></a> : <span />}
+  </nav>
+</Base>
+
+<style>
+  .crumbs { font-size: 0.85rem; margin: 0 0 0.9rem; opacity: 0.85; display: flex; flex-wrap: wrap; gap: 0.35rem; align-items: baseline; }
+  .crumbs a { text-decoration: none; font-weight: 600; }
+  .crumbs a:hover { text-decoration: underline; }
+  .crumb-here { opacity: 0.75; }
+  .pager-card { position: relative; overflow: hidden; display: inline-block; border: 1.5px solid #2d4bd8; border-radius: 6px; padding: 0.3rem 0.95rem; background: #eef3ff; font-family: 'Trebuchet MS', 'Segoe UI', Verdana, sans-serif; font-size: 0.78rem; font-weight: 800; letter-spacing: 0.14em; text-transform: uppercase; line-height: 1.3; color: #0b0b0f; text-decoration: none; animation: pcGlow 2.6s ease-in-out infinite alternate; }
+  .pager-card:hover { text-decoration: none; }
+  .pc-text { position: relative; z-index: 1; }
+  .pc-blob { position: absolute; border-radius: 50%; filter: blur(11px); pointer-events: none; }
+  .pc-b1 { width: 52px; height: 52px; background: rgba(90, 140, 255, 0.45); top: -20px; left: 0; animation: pcBlob1 5.5s ease-in-out infinite alternate; }
+  .pc-b2 { width: 42px; height: 42px; background: rgba(45, 68, 214, 0.30); bottom: -17px; left: 0; animation: pcBlob2 6.5s ease-in-out infinite alternate; }
+  @keyframes pcGlow { from { box-shadow: 0 0 5px rgba(45, 68, 214, 0.35), inset 0 0 5px rgba(45, 68, 214, 0.12); } to { box-shadow: 0 0 13px rgba(45, 68, 214, 0.60), inset 0 0 8px rgba(45, 68, 214, 0.20); } }
+  @keyframes pcBlob1 { from { transform: translate(-30%, -10%); } to { transform: translate(210%, 12%); } }
+  @keyframes pcBlob2 { from { transform: translate(210%, 14%); } to { transform: translate(-40%, -8%); } }
+</style>

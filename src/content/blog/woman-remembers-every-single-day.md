@@ -70,23 +70,23 @@ A short, honest note: this article explains a rare condition described in scient
 
 ## Frequently Asked Questions
 
-### Who is Jill Price?
+**Who is Jill Price?**
 
 Jill Price is an American woman from Southern California who was the first person ever documented by scientists with hyperthymesia, also called HSAM. She contacted researcher James McGaugh at the University of California, Irvine, in 2000, and her case was published in 2006.
 
-### What exactly can Jill Price remember?
+**What exactly can Jill Price remember?**
 
 She can recall, in detail, nearly every day of her own life from about the age of fourteen — including the day of the week for any date, what she did, and events that happened around her on that day.
 
-### Is hyperthymesia the same as a photographic memory?
+**Is hyperthymesia the same as a photographic memory?**
 
 No. Her gift covers her own lived days, not books, facts or study material. She struggles with rote learning like poetry and historical dates, and her other memory abilities test as broadly ordinary.
 
-### How many people have HSAM?
+**How many people have HSAM?**
 
 Very few. After Price's case became public, hundreds of people contacted the researchers claiming the same ability, but most failed testing. Fewer than 50 individuals have been recognised with the condition.
 
-### Can people with HSAM have false memories?
+**Can people with HSAM have false memories?**
 
 Yes. A 2013 study led by Lawrence Patihis found that people with HSAM were just as vulnerable to planted misinformation as people with ordinary memories — and sometimes more so.
 

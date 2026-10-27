@@ -65,25 +65,25 @@ Hygiene also sets a floor. Bedding during illness, cloth nappies, and cleaning c
 - [Cut Home Cleaning Costs Easily](https://talhablog.com/blog/cut-home-cleaning-costs-easily/)
 - [Cut Your Water Bill Monthly](https://talhablog.com/blog/cut-your-water-bill-monthly/)
 
-## Common questions
+## Frequently Asked Questions
 
-### Does cold water really clean everyday clothes?
+**Does cold water really clean everyday clothes?**
 
 Yes. Modern detergents are designed to work in cold water, and for everyday clothes that are not heavily soiled, a cold wash cleans just as well as a hot one. Save hot water for bedding during illness, heavily soiled towels, and cleaning cloths, where heat truly helps.
 
-### How much detergent should I actually use?
+**How much detergent should I actually use?**
 
 Use the dose recommended on the pack for your machine size. More soap does not mean cleaner clothes — it leaves residue, makes rinsing harder, and empties the box faster. If clothes come out clean at the recommended dose, that dose is enough.
 
-### Is air drying better than using a dryer?
+**Is air drying better than using a dryer?**
 
 For cost and for clothes, yes. Air drying is free, and it is gentler on fabrics, so clothes last longer. A dryer is useful for emergencies, such as a uniform needed tomorrow morning, but as a daily habit it is one of the most expensive ways to dry clothes.
 
-### Why do my clothes fade so quickly?
+**Why do my clothes fade so quickly?**
 
 Hot water, harsh cycles, and tumble drying wear fibres and colours faster. Washing in cold water, using gentle cycles for everyday clothes, and air drying will keep colours brighter and fabrics stronger for many more washes, which also saves on replacing clothes.
 
-### Can I wash different colours together to save a load?
+**Can I wash different colours together to save a load?**
 
 Only when you are sure they will not bleed. Sorting into lights and darks takes seconds and protects a whole load from being ruined by one bleeding item. The saving from combining loads is never worth a load of pink shirts that used to be white.
 

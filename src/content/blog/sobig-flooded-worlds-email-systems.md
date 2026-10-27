@@ -52,25 +52,25 @@ The good news in this old story is that the sandbags work, and most of them are 
 
 **Slow down at the moment of the click.** Nearly every part of Sobig's flood depended on one person, somewhere, opening one message without a second thought. Two seconds of doubt at that exact moment is worth more than any expensive cleanup afterwards. I find it humbling that the biggest email flood in history was not powered by some unstoppable machine, but by millions of perfectly ordinary clicks from people who were simply busy.
 
-## Common questions
+## Frequently Asked Questions
 
-### Was Sobig a virus or a worm?
+**Was Sobig a virus or a worm?**
 
 Sobig is classed as a worm, and the difference matters. A classic virus needs a person to pass an infected file along, while a worm like Sobig carried its own mailing engine and spread itself automatically from machine to machine. That self-spreading engine is exactly why the flood rose so fast in 2003.
 
-### Why did Sobig stop on 10 September 2003?
+**Why did Sobig stop on 10 September 2003?**
 
 Because its creator wrote an expiry date into the code before releasing it. When that date arrived, Sobig.F stopped spreading, just as programmed. Nobody outside the creator's circle knows why the date was set, and the creator has never been identified, so the reason remains one of the case's open mysteries.
 
-### Did Sobig steal money or personal information?
+**Did Sobig steal money or personal information?**
 
 Sobig's main jobs were spreading itself and turning computers into hidden spam relays that spammers could use. It harvested email addresses from infected machines, which is a real privacy harm, but it was not primarily built to empty bank accounts. Its damage came from the sheer volume of junk traffic it created and the spam it helped others send.
 
-### Could a flood like Sobig happen again today?
+**Could a flood like Sobig happen again today?**
 
 Email defences are far stronger now, and a worm copying Sobig's exact methods would meet filters and protections that did not exist in 2003. But the basic recipe — ordinary-looking messages, trusted names on the envelope, and one quick click — still works on human beings, which is why attachment caution remains the single most useful habit any email user can build.
 
-### Who created Sobig?
+**Who created Sobig?**
 
 Nobody knows. Microsoft offered a $250,000 reward for information about the creator under its antivirus reward program, but the reward was never claimed and no one was ever publicly identified. The case is still one of the great unsolved mysteries of the early internet.
 

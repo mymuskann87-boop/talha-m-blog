@@ -56,7 +56,7 @@ But the scientists who know her best do not call her lucky. In the conclusion of
 
 To me, her life quietly rearranges how fear itself looks. Fear is usually filed away in our minds as a weakness, an embarrassment, something brave people conquer. S.M.'s story suggests it is closer to pain: unpleasant, sometimes overwhelming, occasionally set off by nothing at all — yet built into us as a form of protection, a loyal, noisy guardian we only truly value when we imagine its absence. The racing heart before you step back from the cliff edge is not your enemy. It is the oldest safety device you own.
 
-## Common questions
+## Frequently Asked Questions
 
 **Is S.M.'s real name known?**
 No. She is identified in research only by the initials S.M., to protect her privacy — protection that matters more than usual in her case, because her trusting, fearless nature could make her easy for others to take advantage of.

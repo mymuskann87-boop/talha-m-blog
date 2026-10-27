@@ -70,25 +70,25 @@ You cannot guard a pipeline from your kitchen table, but you can guard the doors
 
 None of this needs special skill or expensive tools. It needs only the habit of remembering your doors — all of them.
 
-## Common questions
+## Frequently Asked Questions
 
-### Did DarkSide physically damage the pipeline?
+**Did DarkSide physically damage the pipeline?**
 
 No. The pipe and the fuel inside it were untouched. The attack locked up computer systems, and Colonial shut the pipeline down itself, as a precaution, until the situation was understood and safe. The damage was done to schedules, supplies and public calm — not to steel.
 
-### Why did drivers run out of fuel if the pipeline was only stopped for six days?
+**Why did drivers run out of fuel if the pipeline was only stopped for six days?**
 
 Because the region depends on a steady daily flow, and panic buying drained station tanks far faster than normal use. When thousands of people rush to fill up at once, even a short pause in supply turns into dry pumps and long queues within days.
 
-### Did Colonial Pipeline get its ransom money back?
+**Did Colonial Pipeline get its ransom money back?**
 
 Partly. The company paid about $4.4 million in Bitcoin, as its chief executive later confirmed. In June 2021 the US Department of Justice announced it had recovered about $2.3 million of that ransom by seizing the digital wallet that held it.
 
-### Can an ordinary person's account really be a door for criminals?
+**Can an ordinary person's account really be a door for criminals?**
 
 Yes — that is exactly the lesson of this attack. The way in was reportedly a leftover account whose password had leaked, with no second check behind it. Small businesses and home users have the same weak spots: unused logins, reused passwords and sign-ins with no two-factor protection.
 
-### What happened to the DarkSide gang?
+**What happened to the DarkSide gang?**
 
 After the pipeline attack drew enormous attention from the United States government, the group announced it had lost control of its servers and vanished. Its public claims of being "professionals" who chose targets carefully did it no good once the world's most powerful investigators came looking.
 

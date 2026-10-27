@@ -63,25 +63,25 @@ Safety also sets a floor. Home parties need basic care: safe food handling, an e
 - [Save Money On Dinner Parties](https://talhablog.com/blog/save-money-on-dinner-parties/)
 - [Cheap Family Outings That Delight](https://talhablog.com/blog/cheap-family-outings-that-delight/)
 
-## Common questions
+## Frequently Asked Questions
 
-### How much can a home birthday party really save?
+**How much can a home birthday party really save?**
 
 A large amount. The venue and catering are usually the two biggest costs of a hired party, and a home party removes the venue cost entirely and replaces catering with home food. For example, a home party for fifteen children often costs less than the hall booking alone would have.
 
-### Do children mind a small party?
+**Do children mind a small party?**
 
 No, when it is presented well. Children remember play, cake, and friends, not headcount. A small party where the child plays with every guest is usually remembered more fondly than a large party where the child barely spoke to half the guests.
 
-### What games work without hiring an entertainer?
+**What games work without hiring an entertainer?**
 
 Musical chairs, treasure hunts, pass the parcel, drawing competitions, and dance rounds with the child's favourite songs. For older children, a quiz, a craft table, or a park sports game works well. These games involve every child and cost almost nothing.
 
-### Are digital invitations acceptable?
+**Are digital invitations acceptable?**
 
 Yes, and most parents prefer them. A message with the date, time, place, and a cheerful line is all guests need, and replies come faster, which makes planning food easier. A child's drawing or voice message with the invitation makes it special.
 
-### How do I keep a home party from feeling cheap?
+**How do I keep a home party from feeling cheap?**
 
 Present it with pride, not apology. Decorate together as a family, serve food the child loves, and focus on games and friends. Children take their cue from their parents: a home party presented joyfully becomes a joyful memory.
 

@@ -64,25 +64,25 @@ So next time the small plate arrives, you will already know what is on it: lunch
 
 And that is the whole change, really. Not a smaller life, not fewer celebrations — just a table where the food is chosen with the same care as the company. The friends will not remember what the bill said. They will remember that the evening felt easy, that nobody winced when the plate arrived, and that the next outing did not need a week of quiet regret to pay for it.
 
-## Common questions
+## Frequently Asked Questions
 
-### Is lunch really cheaper than dinner at restaurants?
+**Is lunch really cheaper than dinner at restaurants?**
 
 Often, yes. Many restaurants offer lunch menus or set meals at lower prices than their dinner menus, because they want to fill tables in the afternoon. The kitchen and recipes are the same, so a lunch celebration can taste identical and cost noticeably less.
 
-### Does sharing dishes actually save money?
+**Does sharing dishes actually save money?**
 
 Yes, when the table agrees before ordering. Two or three shared dishes usually feed everyone with less waste than one plate each, and everyone tastes more variety. The bill stays smaller because shared portions satisfy the table without each person ordering a full separate meal.
 
-### Why do drinks matter so much on the bill?
+**Why do drinks matter so much on the bill?**
 
 Because they repeat. One priced drink looks small, but one per person at every outing adds up across a month to a visible sum. Choosing water, or one special drink instead of one per person by habit, is often the single easiest cut on a restaurant bill.
 
-### Should I feel embarrassed ordering water or skipping extras?
+**Should I feel embarrassed ordering water or skipping extras?**
 
 No. Ordering water and declining add-ons you did not want is clear thinking, not cheap behaviour. The meal you chose was already complete, and polite refusals — "just as it is, thank you" — are a normal part of ordering.
 
-### How do I set an eating-out budget that actually works?
+**How do I set an eating-out budget that actually works?**
 
 Pick a monthly number your household can afford, write it down, and count every outing against it. Two modest outings you enjoy beat four you regret. A written budget removes the mental maths from the table, so the joy stays in the meal.
 

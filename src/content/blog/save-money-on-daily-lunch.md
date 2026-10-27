@@ -65,25 +65,25 @@ The difference between a planned treat and a broken habit is the plan itself. A 
 - [Cook At Home Save Money](https://talhablog.com/blog/cook-at-home-save-money/)
 - [Cheap Healthy Breakfast Ideas Daily](https://talhablog.com/blog/cheap-healthy-breakfast-ideas-daily/)
 
-## Common questions
+## Frequently Asked Questions
 
-### How much can carrying lunch really save?
+**How much can carrying lunch really save?**
 
 It depends on local prices, but the gap is always large, because a bought lunch includes the shop's rent, staff and profit while a home lunch includes only ingredients. For example, saving 280 a day across twenty workdays keeps 5,600 in the pocket for the month.
 
-### What if I have no time to pack lunch in the morning?
+**What if I have no time to pack lunch in the morning?**
 
 Do not pack it in the morning. Cook extra at dinner and pack the box the night before, placing it at the front of the fridge. A lunchbox that is ready gets carried; one that needs morning cooking gets forgotten.
 
-### Does packed lunch food stay fresh until afternoon?
+**Does packed lunch food stay fresh until afternoon?**
 
 Yes, in a clean, tight box kept away from heat. Rice, lentils, curries and bread travel well for a workday. On very hot days, keep the box in a cool place or near air conditioning until lunchtime.
 
-### What should I eat on days I forget my lunchbox?
+**What should I eat on days I forget my lunchbox?**
 
 Choose a simple filling meal — a plain rice plate, a lentil dish or a fresh sandwich — and carry water instead of buying a priced drink. One unplanned lunch need not cost as much as three planned ones.
 
-### How do I stop getting bored of packed lunches?
+**How do I stop getting bored of packed lunches?**
 
 Keep a short rotation of five or six meals you know well, and include one favourite meal each week. Boredom kills the habit faster than effort does, and a rhythm the hands know by themselves keeps packing easy.
 

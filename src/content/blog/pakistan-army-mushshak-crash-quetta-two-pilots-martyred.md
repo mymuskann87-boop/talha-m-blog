@@ -83,23 +83,23 @@ Until such an examination is complete, many questions will remain unanswered. Wh
 
 ## Frequently Asked Questions
 
-### What happened near Quetta on October 12, 2026?
+**What happened near Quetta on October 12, 2026?**
 
 On Monday, October 12, 2026, at around midday, a Pakistan Army Aviation Mushshak training aircraft crashed near Nawan Killi in Quetta district, Balochistan. The army said the cause was a technical fault, and both pilots on board were martyred.
 
-### Who were the two pilots who lost their lives?
+**Who were the two pilots who lost their lives?**
 
 The instructor pilot was Major Husnain Shehzad Humayun, and the student pilot was Captain Abdul Samad. The experienced instructor was training the younger officer when the aircraft crashed.
 
-### What caused the crash?
+**What caused the crash?**
 
 According to the Pakistan Army's statement, issued through the ISPR, the aircraft crashed due to a technical fault. No other cause has been officially confirmed.
 
-### What is a Mushshak aircraft?
+**What is a Mushshak aircraft?**
 
 The Mushshak (PAC MFI-17 Mushshak) is a basic training aircraft built in Pakistan by the Pakistan Aeronautical Complex at Kamra. It is the first aircraft on which most Pakistan military pilots learn to fly.
 
-### Has a similar crash happened recently?
+**Has a similar crash happened recently?**
 
 Yes. In June 2026, two Pakistan Air Force pilots were killed when their aircraft crashed during a routine training flight near Mardan. Training flying, though essential, carries real risk even in peacetime.
 

@@ -58,25 +58,25 @@ You cannot stop a state spy team with a home antivirus alone, and it would be di
 
 **Give apps only the permissions they truly need.** If a torch app wants your microphone and contacts, something is wrong. Check the permissions on your phone a few times a year and take away anything that makes no sense — that one habit shuts the same windows Flame loved to climb through.
 
-## Common questions
+## Frequently Asked Questions
 
-### Is Flame still a danger today?
+**Is Flame still a danger today?**
 
 Flame itself was ordered to destroy itself in 2012 and is gone. The danger today comes from the tricks it pioneered — fake updates, forged trust certificates and silent recording modules — which criminals and newer spy tools have copied ever since. Your protection comes from closing those doors, not from hunting for Flame by name.
 
-### Could Flame really record me without me knowing?
+**Could Flame really record me without me knowing?**
 
 Yes. According to Kaspersky's analysis, Flame could switch on the microphone, take screenshots and log keystrokes without any warning on screen. That is why camera covers, careful app permissions and working antivirus matter: they protect you even when spyware gives no sign of itself.
 
-### How was Flame different from a normal virus?
+**How was Flame different from a normal virus?**
 
 A normal virus usually does one crude job, like stealing passwords or locking files. Flame was about twenty times the size of Stuxnet and built like a toolbox, with separate modules its operators could switch on as needed — recording, watching, stealing or spreading. That size, patience and flexibility are why experts treated it as a professional espionage weapon rather than ordinary crime software.
 
-### Why did Flame pretend to be a Windows update?
+**Why did Flame pretend to be a Windows update?**
 
 Because updates are the one thing computers are trained to trust and install without argument. By posing as a Microsoft update server and carrying a forged Microsoft certificate, Flame made victim computers install the spy willingly. It is the strongest reminder ever given that updates should only come through your system's own built-in update channel.
 
-### Who made Flame?
+**Who made Flame?**
 
 Nobody has officially proven who built it. Experts widely described it as part of the same family of state espionage operations as Stuxnet, based on its targets, size and sophistication. That remains the judgement of specialists, not a confirmed fact, and honest reporting should keep it that way.
 

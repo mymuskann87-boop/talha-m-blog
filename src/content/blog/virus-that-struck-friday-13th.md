@@ -64,25 +64,25 @@ Jerusalem belongs to the floppy disk age, yet the trap it built is still set eve
 
 For me, the creepiest part of this story was never the deleted programs — it is the patience, a piece of code sitting silently in a machine for months, watching ordinary days go by, waiting for one date like it could read a calendar and hold a grudge.
 
-## Common questions
+## Frequently Asked Questions
 
-### What is the Jerusalem virus?
+**What is the Jerusalem virus?**
 
 Jerusalem is one of the earliest widespread file-infecting viruses for DOS computers, first detected in late 1987 in Jerusalem, where Hebrew University staff noticed their computers slowing down and behaving oddly. It hid inside program files, spread when those programs were shared and run, and stayed mostly quiet until its trigger date arrived.
 
-### What did the Jerusalem virus do on Friday the 13th?
+**What did the Jerusalem virus do on Friday the 13th?**
 
 On any Friday the 13th, the virus deleted every program the victim tried to run that day. On all other days it behaved far more quietly, slowing the infected machine down and sometimes showing a small black rectangle on the screen, which made it easy for the infection to go unnoticed for months.
 
-### How did the Jerusalem virus spread?
+**How did the Jerusalem virus spread?**
 
 It travelled on floppy disks, inside ordinary program files that people copied and lent to each other. When an infected program ran on a new computer, the virus moved into memory and attached itself to other program files on that machine, so the next borrowed disk carried it onward. Trust between people was its highway.
 
-### Can the Jerusalem virus harm a modern computer?
+**Can the Jerusalem virus harm a modern computer?**
 
 Jerusalem was built for DOS, the system of its era, so it cannot run as it once did on today's machines. Its importance is the pattern it set: malicious code hiding inside useful programs, spreading through sharing, and waiting for a trigger. Modern malware uses the same ideas with far better tools, which is why scanning shared files and keeping backups still matter.
 
-### Who stopped the Jerusalem virus?
+**Who stopped the Jerusalem virus?**
 
 Investigators at the Hebrew University were among the first to study it openly, and as cleaning tools became widely available, offices could scan their machines and remove infected files. Once people could detect it, the fear around Friday the 13th faded, though the virus remains one of the most famous early examples of a date-triggered attack.
 

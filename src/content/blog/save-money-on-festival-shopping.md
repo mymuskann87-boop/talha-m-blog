@@ -65,25 +65,25 @@ Borrowing for festival shopping is the one line that should never be crossed. A 
 - [Save Money On Eid Shopping](https://talhablog.com/blog/save-money-on-eid-shopping/)
 - [Smart Gift Giving Saves Money](https://talhablog.com/blog/smart-gift-giving-saves-money/)
 
-## Common questions
+## Frequently Asked Questions
 
-### When is the best time to start festival shopping?
+**When is the best time to start festival shopping?**
 
 Three or four weeks before the festival. Early shopping means pre-festival sales, full choice of sizes and colours, and time to compare prices. Festival week itself has the highest prices, the thinnest stocks, and the worst crowds.
 
-### How do I set a festival budget that actually works?
+**How do I set a festival budget that actually works?**
 
 Decide one total amount the family can spend without borrowing, then split it across categories — clothes, gifts, food, decorations — before buying anything. Write the splits next to the shopping list, and move money between categories only as an open family decision.
 
-### Are reused decorations really acceptable?
+**Are reused decorations really acceptable?**
 
 Yes. Lights, hangings, and ornaments last for years when stored carefully, and a home decorated with last year's lights, arranged with care, looks just as festive as one full of new purchases. Guests notice warmth and light, not the year the decorations were bought.
 
-### How can I give good gifts on a small budget?
+**How can I give good gifts on a small budget?**
 
 Choose with thought rather than price. A gift the person truly likes, something handmade, or a shared gift from the family often means more than an expensive item bought in a hurry. For large families, drawing names so each person gives one thoughtful gift works well.
 
-### Should I ever borrow money for festival shopping?
+**Should I ever borrow money for festival shopping?**
 
 No. A festival paid for with borrowed money is followed by months of repayments, and a few days of joy are not worth months of worry. If the budget is small, celebrate small and warmly — a small festival, celebrated honestly, is a real festival.
 

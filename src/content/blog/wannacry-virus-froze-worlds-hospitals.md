@@ -78,25 +78,25 @@ WannaCry itself needed no click, but most ransomware today still arrives through
 
 Security agencies give this advice consistently: do not pay. Payment does not guarantee your files will come back — criminals can take the money and vanish, or hand back a key that only partly works. Paying also marks you as someone who pays, which invites more attacks, and the money funds the next round of crime. If the worst happens, disconnect the machine from the network, and get help from a professional or your local authorities.
 
-## Common questions
+## Frequently Asked Questions
 
-### Can WannaCry still infect my computer today?
+**Can WannaCry still infect my computer today?**
 
 The original WannaCry is stopped, because the kill switch address is now permanently registered and watched. But the Windows flaw it used and copycat ransomware programs still exist, so an old, unpatched computer remains at risk from similar attacks. Keeping systems updated is what keeps you safe.
 
-### Did the hospitals pay the $300 ransom?
+**Did the hospitals pay the $300 ransom?**
 
 Paying would not have been a real solution, because the attackers had no reliable system for returning each victim's key. The official advice to organisations and individuals alike was not to pay, and recovery mostly came from restoring systems and files rather than buying them back.
 
-### Who created WannaCry?
+**Who created WannaCry?**
 
 Investigators around the world studied the code for clues, and governments later made public accusations about who was responsible. What is certain, and what matters most for staying safe, is how it worked: leaked attack tools plus uninstalled updates. Ordinary users cannot control who builds malware, but they fully control whether their own machines are patched.
 
-### Why did the kill switch work?
+**Why did the kill switch work?**
 
 The worm was programmed to check whether the nonsense web address existed before it locked a new computer's files. When Marcus Hutchins registered the address and it became real, the malware treated that as a signal to stop. It was likely meant as a way for its creators to halt the attack — and it ended up in the hands of a defender instead.
 
-### Could an attack like WannaCry happen again?
+**Could an attack like WannaCry happen again?**
 
 A worm that spreads by itself through an unpatched flaw is always possible, which is exactly why experts talk about updates so much. The defence has improved since 2017 — modern systems update more automatically and networks are watched more closely — but the basic recipe of the disaster, a known flaw plus millions of machines that never installed the fix, can repeat whenever people delay updates.
 

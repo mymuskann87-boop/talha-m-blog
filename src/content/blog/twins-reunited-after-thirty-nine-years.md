@@ -52,7 +52,7 @@ That balance is, to my mind, the mature way to hold this story. Genes clearly wh
 
 What remains, after the tests and the arguments, is simpler than the science. Two boys were carried out of one room in 1939 into two different lives, and for thirty-nine years each of them was, without knowing it, an only half of something. They found each other too late for childhood, too late for school, too late for weddings, but not too late for everything. They found each other in time to compare headaches and holidays, to laugh at the same jokes in the same voice, and to stand in photographs as what they had been since their first breath: brothers. Some reunions restore what was lost. This one could not do that, and perhaps its honesty about its own limits is why it still moves people. It gave two men back a missing chapter, even if the chapter began on page thirty-nine.
 
-## Common questions
+## Frequently Asked Questions
 
 **Were the Jim twins really identical?**
 Yes. James Lewis and James Springer were identical twins, born in Ohio in 1939 and adopted by different families at four weeks old. They met in person for the first time in 1979, at the age of thirty-nine.

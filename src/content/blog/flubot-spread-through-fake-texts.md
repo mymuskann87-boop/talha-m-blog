@@ -60,25 +60,25 @@ The good news is that this entire chain breaks at several points, and breaking a
 
 **Warn your circle fast if your phone sends strange texts.** If friends say they received an odd parcel message from your number, believe them, tell every contact not to tap it, and have the phone cleaned or reset. Speed matters — an infected phone keeps knocking on the doors of people who trust your name.
 
-## Common questions
+## Frequently Asked Questions
 
-### Can FluBot infect an iPhone too?
+**Can FluBot infect an iPhone too?**
 
 FluBot was built for Android phones, because its whole plan depended on installing an app from outside the official store — something Android historically allowed with permission, and iPhones generally do not. That does not make iPhone owners untouchable: fake parcel texts also arrive on iPhones, where the link usually leads to a fake banking page instead. The lure is the same even when the weapon differs.
 
-### I tapped the link but did not install anything. Am I safe?
+**I tapped the link but did not install anything. Am I safe?**
 
 Most likely, yes. FluBot needed the fake app installed and given permissions before it could steal logins, read texts or message your contacts; simply viewing the fake page did not plant it on the phone. Still, if you did install the app, treat the phone as infected even if nothing strange has happened yet, because FluBot hides quietly by design.
 
-### Why do the texts come from real people's numbers?
+**Why do the texts come from real people's numbers?**
 
 Because the infected phone sends them. FluBot reads the victim's address book and messages every contact from that victim's own phone and number. That is exactly why the trap is so convincing: the warning sign that usually protects us — "this is from a stranger" — is missing. A message from your mother's number can still be a lie if her phone has been taken over.
 
-### The police dismantled FluBot in 2022. Is the danger over?
+**The police dismantled FluBot in 2022. Is the danger over?**
 
 FluBot itself was taken down by the Europol-coordinated operation, but the method did not retire with it. Fake parcel and voicemail texts remain among the most common lures in the world, used by copycats and new malware families. The names change; the breakfast-table trick stays the same — which is why the defence rules above are worth keeping for good.
 
-### What should I do if I installed the fake app?
+**What should I do if I installed the fake app?**
 
 Stop using banking apps on that phone, contact your bank from another device or by the number on your card, and explain that the phone may be infected so passwords and security settings can be reset. Then have the phone cleaned or restored to factory settings, and warn your contacts that messages from your number may have been sent by the malware. Acting quickly limits both the theft and the spreading.
 ## Sources

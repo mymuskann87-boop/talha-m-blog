@@ -50,23 +50,23 @@ This post tells a true story from medical history; it is not medical advice. Mos
 
 ## Frequently Asked Questions
 
-### Who was the man who hiccupped for 68 years?
+**Who was the man who hiccupped for 68 years?**
 
 Charles Osborne, a farmer from Anthon, Iowa, in the United States. He hiccupped from 1922 to 1990, and Guinness World Records lists his as the longest attack of hiccups ever recorded.
 
-### What caused Charles Osborne's hiccups?
+**What caused Charles Osborne's hiccups?**
 
 They began after he fell while hanging a 350-pound hog for butchering in June 1922. His doctor believed the fall burst a blood vessel the size of a pin in his brain and damaged the small area that switches off the hiccup reflex. The cause was never proven, and other doctors suggested a rib or diaphragm injury instead.
 
-### How many hiccups did Charles Osborne have in his life?
+**How many hiccups did Charles Osborne have in his life?**
 
 He hiccupped roughly twenty to forty times a minute for most of sixty-eight years, which adds up to an estimated 430 million hiccups in his lifetime.
 
-### Did Charles Osborne ever find a cure?
+**Did Charles Osborne ever find a cure?**
 
 No. Doctors at the Mayo Clinic once stopped the hiccups with carbon monoxide and oxygen, but the gas was too dangerous to keep using. Thousands of home remedies sent by kind strangers also failed, and the hiccups only ended on their own in 1990.
 
-### When did the hiccups stop, and when did he die?
+**When did the hiccups stop, and when did he die?**
 
 The hiccups stopped suddenly in February 1990, without any explanation. Charles Osborne died on 1 May 1991, aged ninety-seven, after enjoying roughly a year of quiet at the end of his life.
 

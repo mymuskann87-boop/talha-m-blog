@@ -56,25 +56,25 @@ The cheapest repair is the one that never happens. Clean the gutters before the 
 
 None of this is exciting, and that is why it works. Maintenance is a handful of dull afternoons a year that quietly prevent the emergencies that ruin budgets. Put them on a calendar — gutters in autumn, seals before winter, filters every few weeks in summer — and treat them like appointments, because that is what they are.
 
-## Common questions
+## Frequently Asked Questions
 
-### What home repairs can a beginner safely do?
+**What home repairs can a beginner safely do?**
 
 Tightening handles and hinges, sealing gaps, touching up paint, unblocking a slow drain with a plunger, and replacing a tap washer are all safe beginner jobs. Watch the job done twice, turn off the relevant supply first, and stop if anything feels forced or unclear.
 
-### What tools should a basic home kit contain?
+**What tools should a basic home kit contain?**
 
 Screwdrivers, an adjustable wrench, pliers, a measuring tape, a utility knife, strong tape, sealant, assorted screws and washers, and a torch. Keep them in one box in one place so a job starts quickly instead of with a search through drawers.
 
-### How many quotes should I get for a big repair?
+**How many quotes should I get for a big repair?**
 
 Two or three, written down item by item. Prices for the same work can differ widely. A good quote lists labour, materials, timing, and what happens if something unexpected is found, and a deposit for materials with the rest paid by stage is normal.
 
-### Should I ever do my own electrical or gas work?
+**Should I ever do my own electrical or gas work?**
 
 No. Electricity and gas work must be left to a qualified professional. A wrong wire or a gas mistake can be deadly, and no saving is worth that risk. The same applies to structural work and unsafe roof work.
 
-### How does regular maintenance save money?
+**How does regular maintenance save money?**
 
 It stops small problems becoming large ones. Cleaning gutters, checking seals, and servicing machines on schedule prevents damp, mould, breakdowns, and emergency call-outs — the most expensive kind of repair there is.
 

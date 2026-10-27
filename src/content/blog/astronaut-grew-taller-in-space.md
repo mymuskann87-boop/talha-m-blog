@@ -71,7 +71,7 @@ The point of the experiment reaches far beyond one family's height chart. A roun
 
 The honest limits matter too. NASA itself points out that a study with a single person in space cannot prove what will happen to every astronaut. Scott is one man, not a statistic. But he is the best-matched comparison science has ever had, and the Twins Study results, published in the journal *Science* in 2019, now guide the health planning for the Moon and Mars missions ahead.
 
-## Common questions
+## Frequently Asked Questions
 
 **So did Scott Kelly really grow two inches?**
 That is the figure most reports used, and it is close — but Scott said his own measurement was about an inch and a half, and joked that someone had rounded it up. The safe answer is that he gained somewhere around four to five centimetres, briefly.

@@ -88,27 +88,27 @@ What this day proved is smaller, and more solid: the question can no longer be i
 
 ## Frequently Asked Questions
 
-### What happened on Wall Street on this day?
+**What happened on Wall Street on this day?**
 
 Technology shares sold off sharply, and the Nasdaq index fell 2.6%. The fall was driven by a renewed debate over whether the enormous spending on artificial intelligence has pushed tech stock prices into bubble territory.
 
-### What does "AI bubble" actually mean?
+**What does "AI bubble" actually mean?**
 
 It means prices may have risen far above what the companies can realistically earn in the near future, carried there by excitement rather than results. If belief in those future profits cracks, prices can fall very fast, just as a soap bubble pops rather than slowly leaking air.
 
-### Who are the Magnificent Seven?
+**Who are the Magnificent Seven?**
 
 It is a nickname for the small group of giant technology stocks that have grown so large they drive the performance of the whole market. Because indexes and pension funds hold them heavily, their rise lifted everyone's savings — and their falls hurt in the same wide way.
 
-### What did CalPERS do, and why does it matter?
+**What did CalPERS do, and why does it matter?**
 
 CalPERS, California's giant pension fund, sharply cut its holdings in the Magnificent Seven, citing doubts over lofty valuations and soaring spending. It matters because pension funds guard the retirement savings of ordinary workers and move very cautiously, so their decisions are watched as serious signals — though one fund's move alone does not prove a trend.
 
-### What is a "flight to safety"?
+**What is a "flight to safety"?**
 
 It is what investors do when fear rises: they move money out of risky assets like shares and into calm ones. On this day, Japanese government bonds and the yen rallied as money sought safety, a classic pattern during market storms.
 
-### Does this fall mean the AI boom is over?
+**Does this fall mean the AI boom is over?**
 
 No. One day's fall settles nothing, and even the day itself carried no such proof. It shows that doubt about AI prices is now being voiced by some of the most careful investors in the world. The technology may still transform daily life; the open question is only whether today's prices already assume too much of that future.
 

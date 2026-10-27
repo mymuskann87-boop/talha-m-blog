@@ -67,25 +67,25 @@ Also, beware of extremely cheap glasses sold without a proper test or a proper s
 - [Cut Dental Care Costs Smartly](https://talhablog.com/blog/cut-dental-care-costs-smartly/)
 - [Cut Hair Care Costs Smartly](https://talhablog.com/blog/cut-hair-care-costs-smartly/)
 
-## Common questions
+## Frequently Asked Questions
 
-### How often should I get my eyes tested?
+**How often should I get my eyes tested?**
 
 Follow an eye doctor's advice for your age and condition, but test on schedule rather than waiting for headaches. Prescriptions drift slowly, and people adapt to worse vision without noticing, so a scheduled test catches changes before they cause strain or a wasted pair of glasses.
 
-### Why do glasses prices differ so much between shops?
+**Why do glasses prices differ so much between shops?**
 
 Frames, lenses, coatings, and shop rent all change the total, so the same prescription can carry very different prices. Ask two or three shops for a complete quote for the same prescription and lens type, and check whether fitting and coatings are included or charged separately.
 
-### How can I make my glasses last longer?
+**How can I make my glasses last longer?**
 
 Keep them in a hard case whenever they are not on your face, and never leave them loose in a bag or on a table edge. Rinse lenses with water before wiping, so dust does not scratch them. Most breakage is careless rather than accidental, and a case prevents nearly all of it.
 
-### Do I need expensive frames for good vision?
+**Do I need expensive frames for good vision?**
 
 No. Vision comes from the lenses and the prescription, not the price of the frame. A durable, well-fitting frame protects the lenses and lasts longer than a delicate fashionable one, so it usually costs less across two years even if it costs a little more at the counter.
 
-### When should I see an eye doctor urgently?
+**When should I see an eye doctor urgently?**
 
 For eye pain, sudden vision changes, flashes of light, a dark shadow across vision, or any eye injury, see an eye doctor promptly. These are not saving opportunities. Early treatment protects sight itself, and delay can cost far more than a visit.
 

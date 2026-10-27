@@ -78,23 +78,23 @@ That is why cricket fans will remember this match long after ordinary wins and l
 
 ## Frequently Asked Questions
 
-### Who scored the fastest double century in ODI cricket?
+**Who scored the fastest double century in ODI cricket?**
 
 England's Harry Brook, whose double century in Rawalpindi was reported as the fastest in one-day international history.
 
-### What was the final result of the match?
+**What was the final result of the match?**
 
 Sri Lanka won. England scored 429 for 4, and Sri Lanka chased it down with 430 for 8 in 49.5 overs, winning by two wickets.
 
-### Where was the match played?
+**Where was the match played?**
 
 The ODI tri-series match was played in Rawalpindi, Pakistan.
 
-### Who was Sri Lanka's top scorer in the chase?
+**Who was Sri Lanka's top scorer in the chase?**
 
 Pavan Rathnayake, who scored 130 runs during the record chase.
 
-### Why is Sri Lanka's chase also a record?
+**Why is Sri Lanka's chase also a record?**
 
 Because reaching 430 made it the second-highest successful run chase in the history of one-day international cricket.
 

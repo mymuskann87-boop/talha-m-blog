@@ -57,25 +57,25 @@ Live with the patch for two or three days before deciding. It is far cheaper to 
 - [Save Money On Home Repairs](https://talhablog.com/blog/save-money-on-home-repairs/)
 - [Save Money On Furniture Buying](https://talhablog.com/blog/save-money-on-furniture-buying/)
 
-## Common questions
+## Frequently Asked Questions
 
-### How much paint do I need for one room?
+**How much paint do I need for one room?**
 
 Measure each wall's length times its height, add the walls together, and roughly subtract doors and windows. Check the coverage stated on the paint tin, usually in square metres per litre, and divide your wall area by that number for one coat. Most rooms need two coats, so double the result, and keep a little extra for touch-ups later.
 
-### Should I use primer before painting?
+**Should I use primer before painting?**
 
 Yes, for walls that have never been painted, walls with stains, or walls where you are changing from a dark colour to a light one. Primer helps the top coat cover evenly and grip the wall, and it can save you an entire extra coat of expensive paint. On a clean wall already painted in a similar colour, primer is often unnecessary.
 
-### Is cheap paint ever a good choice?
+**Is cheap paint ever a good choice?**
 
 For low-use rooms, yes. A store room or a rarely used guest room does not need scrub-resistant premium paint. For hallways, kitchens, and children's rooms, better paint lasts longer and survives cleaning, so it costs less over time even though the tin costs more on the day.
 
-### Can a beginner really paint a room well?
+**Can a beginner really paint a room well?**
 
 Yes, for simple flat rooms. The keys are preparation, two thin coats instead of one thick coat, and letting the first coat dry fully. Start with a small room to learn, and leave high ceilings, stairwells, and exterior walls to professionals with the right ladders and equipment.
 
-### How long should a good paint job last?
+**How long should a good paint job last?**
 
 On a well-prepared indoor wall, a good paint job commonly lasts several years, often five or more, depending on sunlight, damp, and how much the wall gets touched. Peeling within months usually means the wall was dirty, damp, or unprepared — not that the paint itself was bad.
 

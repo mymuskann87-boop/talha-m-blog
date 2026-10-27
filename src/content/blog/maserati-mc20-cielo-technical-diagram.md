@@ -40,21 +40,21 @@ Prices vary by market, year and options, so no single figure describes every Cie
 
 Imagine a coastal road in the early evening. The roof is down, the sea is on one side and low hills on the other, and the Nettuno engine is singing behind your shoulders. The steering is light in your hands, the car follows the curves without effort, and the whole world smells of salt air and warm stone. That is the drive the Cielo was built for, and it is a drive that stays with you long after you park the car and walk away.
 
-## Common questions
+## Frequently Asked Questions
 
-### What does Cielo mean?
+**What does Cielo mean?**
 
 Cielo is the Italian word for sky. The name marks this as the open-top version of the MC20, with a retractable glass roof that folds away in seconds.
 
-### How fast is the MC20 Cielo?
+**How fast is the MC20 Cielo?**
 
 It reaches 100 km/h from rest in 2.9 seconds and has a top speed of 320 km/h, from its 630 HP twin-turbo V6 engine.
 
-### Is it very different from the MC20 coupe?
+**Is it very different from the MC20 coupe?**
 
 The engineering is largely the same, including the carbon fibre body and the Nettuno engine. The Cielo adds the folding roof and a small weight increase, with almost no loss in performance.
 
-### Can you drive it every day?
+**Can you drive it every day?**
 
 It is possible, with a comfortable cabin and easy driving modes, but it remains a two-seat supercar with limited luggage space and supercar running costs.
 

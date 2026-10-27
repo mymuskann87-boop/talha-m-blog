@@ -52,7 +52,7 @@ The diagram at the top of this post captures that character in one picture. Foll
 
 Prices vary by market, year, and options, so the honest answer about cost is simple: this is a serious purchase, and it is worth checking current figures from Nissan or a trusted dealer before you dream too hard. What never changes is the idea behind the car. Big power, honest engineering, and grip you can trust.
 
-## Common questions
+## Frequently Asked Questions
 
 **What does GT-R stand for?**
 GT-R stands for Gran Turismo Racing. It is a name Nissan has used for its fastest road cars for decades, and it signals a car built for both the road and the track.

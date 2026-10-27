@@ -57,17 +57,17 @@ Panama lies along the Pacific "Ring of Fire" — despite the name, this isn't ab
 
 Living in such a region means preparation matters — clear evacuation habits and quick official warnings help protect people when the ground moves. For communities in Veraguas, Herrera and Los Santos, the coming days will be about recovery. Our thoughts are with everyone affected.
 
-## Common questions
+## Frequently Asked Questions
 
-### How strong was the Panama earthquake on October 9, 2026, and where was its epicentre?
+**How strong was the Panama earthquake on October 9, 2026, and where was its epicentre?**
 
 The US Geological Survey first measured it at 8.0, then revised it to 7.6 and later 7.7. Its epicentre was about 10 km from Pitaloza Arriba in Herrera province, at a depth of about 10 km.
 
-### Were there any casualties in the Panama earthquake?
+**Were there any casualties in the Panama earthquake?**
 
 No casualties were immediately reported, according to AP reports. Damage was concentrated in the Veraguas, Herrera and Los Santos provinces, while no damage was reported in Panama City, about 200 km away.
 
-### Was there a tsunami after the Panama earthquake?
+**Was there a tsunami after the Panama earthquake?**
 
 A tsunami warning was issued for the coasts of Panama, Colombia, Costa Rica, Ecuador, Peru, Nicaragua, Guatemala, El Salvador and Mexico, and the threat later passed.
 

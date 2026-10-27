@@ -66,25 +66,25 @@ The good news is that Happy99's trick has a clear weakness, and the habits that 
 
 None of this requires fear. It only requires one pause — a single breath between the fireworks and the click.
 
-## Common questions
+## Frequently Asked Questions
 
-### Was Happy99 a virus or a worm?
+**Was Happy99 a virus or a worm?**
 
 Happy99 is described as an email worm, and it is also known as Ska. A worm's main job is to copy itself and spread, and Happy99 did exactly that by secretly attaching itself to follow-up messages whenever its victim sent an email or posted to a discussion group.
 
-### Did Happy99 damage people's files?
+**Did Happy99 damage people's files?**
 
 No. Happy99 destroyed no files. Its harm came from spreading itself widely across Europe and North America in 1999, filling inboxes and clogging mail systems with silent second messages that nobody had asked for.
 
-### Why did people open the Happy99 attachment?
+**Why did people open the Happy99 attachment?**
 
 Because it arrived right behind a genuine email from a real friend, and it promised harmless fun. Running it showed fireworks and the words "Happy New Year 1999!!", so it looked like a greeting card rather than a program installing itself into the computer's email machinery.
 
-### How could you tell a Happy99 email had arrived?
+**How could you tell a Happy99 email had arrived?**
 
 Its tell was the empty follow-up. A normal message from someone would arrive first, and then a second, wordless message would follow carrying only the Happy99.exe attachment. That silent second email was the worm copying itself, sent without the owner's knowledge.
 
-### Can something like Happy99 still reach me today?
+**Can something like Happy99 still reach me today?**
 
 The exact worm belongs to 1999, but its method never retired. Program files and harmful attachments still arrive dressed as greetings, photos and urgent documents. The defence is the same pause: never run a program file from email, and check with the sender first — especially when a strange message trails a real one.
 

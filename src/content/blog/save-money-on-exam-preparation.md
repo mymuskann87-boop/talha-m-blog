@@ -63,25 +63,25 @@ There are honest limits here. Some subjects need a tutor, and some students genu
 - [Study Free Without Costly Books](https://talhablog.com/blog/study-free-without-costly-books/)
 - [Cut Kids School Costs Smartly](https://talhablog.com/blog/cut-kids-school-costs-smartly/)
 
-## Common questions
+## Frequently Asked Questions
 
-### Do I need expensive guidebooks to pass an exam?
+**Do I need expensive guidebooks to pass an exam?**
 
 No. Past papers, the official syllabus, and standard textbooks — often free from a library — cover what examiners actually test. Buy a guide only for a specific gap, after the free material runs out, and choose one good book rather than several average ones.
 
-### Are past papers really better than a new guidebook?
+**Are past papers really better than a new guidebook?**
 
 For exam practice, yes. Past papers show the real question style, the recurring topics, and the marking pattern. A guidebook can explain a topic, but only past papers under timed conditions train you to answer under exam pressure.
 
-### Is joining a study group worth the time?
+**Is joining a study group worth the time?**
 
 Yes, when the group has rules. Each member teaches a topic, members quiz each other with past paper questions, and phones stay away during sessions. Four students pooling notes end up with fuller material than any one of them had alone, at no cost.
 
-### Should I join a crash course before my exams?
+**Should I join a crash course before my exams?**
 
 Only if you can name the exact gap it fills — one weak subject or one skill — and you join early enough to practise what it teaches. No course can guarantee a result, so never buy one out of panic in the final week, when prices are highest and practice time is gone.
 
-### How far ahead should I plan my revision?
+**How far ahead should I plan my revision?**
 
 Start several weeks before the exam, with one or two topics per week and the last week kept for revision only. A written plan stops panic decisions, and panic buying — midnight books, rushed courses, late notes — is the most expensive study habit of all.
 

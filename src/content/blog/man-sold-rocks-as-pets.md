@@ -96,23 +96,23 @@ Every modern business that sells an ordinary thing at an extraordinary price thr
 
 ## Frequently Asked Questions
 
-### Who invented the Pet Rock?
+**Who invented the Pet Rock?**
 
 The Pet Rock was invented in 1975 by Gary Dahl, a freelance advertising copywriter from California. He got the idea as a joke in a bar, while friends complained about the cost and effort of keeping real pets.
 
-### How much did a Pet Rock cost?
+**How much did a Pet Rock cost?**
 
 A Pet Rock sold for $3.95 in 1975. The rocks themselves cost Dahl about a penny each in bulk, since they were ordinary smooth pebbles gathered from Rosarito Beach in Mexico.
 
-### How many Pet Rocks were sold?
+**How many Pet Rocks were sold?**
 
 Around 1.5 million Pet Rocks were sold within a few months, mostly during the Christmas season of 1975. Dahl's profit was reported at roughly 95 cents per rock, making him a millionaire.
 
-### What was inside a Pet Rock box?
+**What was inside a Pet Rock box?**
 
 Each box contained one smooth stone resting on soft bedding, with air holes punched in the cardboard carrier, plus a humorous booklet titled *The Care and Training of Your Pet Rock*, which taught owners to train their rock to obey commands such as "stay" and "play dead."
 
-### Did Gary Dahl make other products after the Pet Rock?
+**Did Gary Dahl make other products after the Pet Rock?**
 
 Yes, he tried several other joke products, including a Sand Breeding Kit and a wind-up Canned Earthquake, but none matched the Pet Rock's success. He later returned to advertising and wrote the book *Advertising for Dummies*, published in 2001.
 

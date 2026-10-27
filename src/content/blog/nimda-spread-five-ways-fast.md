@@ -66,25 +66,25 @@ The good news is that Nimda's five doors each have a simple lock, and most of th
 
 **Remember that trusted places can be turned.** A famous website can be hacked, and a friend's account can be stolen. Caution is not rudeness. Pausing for five seconds before downloading a file a website suddenly offers you is one of the cheapest forms of protection ever invented.
 
-## Common questions
+## Frequently Asked Questions
 
-### What does the name Nimda mean?
+**What does the name Nimda mean?**
 
 Nimda is the word "admin" spelled backwards. "Admin" is short for administrator, the person in charge of a computer system, so the name was a small mocking joke aimed at the people who would have to fight the worm.
 
-### Did Nimda have anything to do with the 9/11 attacks?
+**Did Nimda have anything to do with the 9/11 attacks?**
 
 No. Nimda appeared on 18 September 2001, one week after the attacks, and the timing made some people fear a connection at first. Investigators looked into it and found no such link.
 
-### How fast did Nimda really spread?
+**How fast did Nimda really spread?**
 
 It was reported around the world within about 22 minutes of being first spotted, which was astonishing speed for 2001. Reports said hundreds of thousands of computers and servers were infected during its first days.
 
-### Could Nimda infect you without opening an email?
+**Could Nimda infect you without opening an email?**
 
 Yes. Because of a flaw in Internet Explorer, its email attachment could sometimes run merely when the message was previewed. It could also reach machines through infected websites, shared folders, old backdoors on servers, and open network shares, none of which required opening an email at all.
 
-### Is Nimda still a danger today?
+**Is Nimda still a danger today?**
 
 The original Nimda is an old worm, and modern systems with updates applied are protected against the specific flaws it used. Its real legacy is the method: attacking through many doors at once. That method is still used today, which is why updates and caution still matter.
 

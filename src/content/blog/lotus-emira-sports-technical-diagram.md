@@ -44,7 +44,7 @@ Prices vary by market, year, and options, and the Emira sits in a different worl
 
 So if you ever get the chance to drive one, do not judge it by its numbers alone. Judge it by how it makes you feel after ten minutes behind the wheel. Do you want to turn around and drive the same road again? If the answer is yes, then the car has done its job. And by that measure, the little Lotus from Hethel might just be one of the cleverest sports cars of its time. After all, what is the point of a fast car if it does not make you want to keep driving?
 
-## Common questions
+## Frequently Asked Questions
 
 **How fast is the Lotus Emira?**
 

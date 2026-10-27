@@ -86,7 +86,7 @@ The Dutch public, meanwhile, had performed its own strange rewrite of the story.
 
 Strip away the legend, though, and the irony stands on its own. The painter could clear himself of the crime that carried a death sentence only by proving, beyond all doubt, that he was guilty of another one. His talent was real — that was the whole problem. The experts who once called his own paintings worthless had hung his secret work in a great museum and praised it as the finest Vermeer ever found. To save his life, he finally made them say his name out loud.
 
-## Questions people ask
+## Frequently Asked Questions
 
 **Did van Meegeren really paint The Supper at Emmaus himself?**
 Yes. He confessed to it, then proved his ability by painting another work in Vermeer's style while officials watched. The Rotterdam museum that bought the Emmaus as a Vermeer now presents it for what it is: a van Meegeren forgery, and the subject of a museum film about his fake Vermeers.

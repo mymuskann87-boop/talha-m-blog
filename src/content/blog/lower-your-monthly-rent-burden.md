@@ -46,25 +46,25 @@ Moving is not free, and a saving guide that forgets this is lying by omission. T
 
 One last thing, cousin. The goal is not the cheapest roof in the city. The goal is a home that leaves you money for the rest of your life — food, learning, family, and a little saving for the future. A rent that lets you live, not just survive, is the right rent, whatever the number turns out to be.
 
-## Common questions
+## Frequently Asked Questions
 
-### How much of my income should go to rent?
+**How much of my income should go to rent?**
 
 Advisors commonly suggest around a third where possible, but this is a guide, not a law. In expensive cities it may not be achievable, and then the right question is whether the rent still leaves room for food, transport and some saving.
 
-### Is sharing a flat really that much cheaper?
+**Is sharing a flat really that much cheaper?**
 
 Yes, because rent is usually the biggest bill, and a roommate splits it directly. Shared bills for internet and utilities add further savings. The key is choosing a trustworthy roommate and agreeing the money split in writing before moving in.
 
-### Can I really negotiate rent with a landlord?
+**Can I really negotiate rent with a landlord?**
 
 You can always ask politely, especially at renewal time. Landlords sometimes prefer keeping a reliable tenant at the same rent over the cost and empty months of finding a new one. There is no promise, but the question costs nothing.
 
-### What hidden costs should I check before signing?
+**What hidden costs should I check before signing?**
 
 Ask whether water, maintenance, parking and service charges are included. Also check the deposit terms and who pays for repairs. The real monthly price is the rent plus everything compulsory that comes with it.
 
-### When is moving for cheaper rent a bad idea?
+**When is moving for cheaper rent a bad idea?**
 
 When the moving costs take a year or more of the monthly saving to repay, or when the cheaper place costs far more in transport and time. Do both maths — money and hours — before deciding.
 

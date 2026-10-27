@@ -62,25 +62,25 @@ You probably do not run a giant web server, but the rules that would have saved 
 - **Restart and clean, in the right order.** If a device or site ever behaves strangely — sluggish, altered, showing pages you did not write — take it offline, update everything, change its passwords, and only then bring it back. Code Red taught the world that a restart alone is a pause, not a cure.
 - **Keep a backup you control.** A copy of your website files and important documents, stored separately, means a bad day becomes an inconvenience instead of a funeral. Test that the backup opens. A backup you have never checked is a hope, not a backup.
 
-## Common questions
+## Frequently Asked Questions
 
-### What was the Code Red worm?
+**What was the Code Red worm?**
 
 Code Red was a self-spreading computer worm that appeared on 13 July 2001. It attacked a known flaw in Microsoft's IIS web server software, copied itself from server to server without any human help, defaced infected websites, and tried to flood the White House website with junk traffic.
 
-### Why is it called Code Red?
+**Why is it called Code Red?**
 
 The name came from the researchers at the security company eEye, who analysed the worm through the night. They named it after the Mountain Dew Code Red drink they were consuming while they worked. It is one of the most famous examples of a malware name coming from the defenders, not the attackers.
 
-### Did Code Red really attack the White House?
+**Did Code Red really attack the White House?**
 
 Yes — during the middle days of each month, infected servers were programmed to launch a denial-of-service flood against the fixed numerical address of the White House website. The attack failed because the White House changed that numerical address beforehand, so the flood poured into an empty address instead.
 
-### How many computers did Code Red infect?
+**How many computers did Code Red infect?**
 
 The first wave infected roughly 359,000 servers in less than a day, according to the analysis widely cited at the time. A stronger variant, Code Red II, followed in August 2001, and the total damage and clean-up costs of the outbreak were estimated in the billions of dollars.
 
-### Can a worm like Code Red still hurt me today?
+**Can a worm like Code Red still hurt me today?**
 
 The exact worm is long dead, but its method is alive and well: malware still scans the internet constantly for unpatched software and weak devices. Keeping everything updated, changing default passwords, and removing old software you no longer use closes the same doors Code Red walked through in 2001.
 

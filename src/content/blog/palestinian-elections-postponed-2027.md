@@ -62,17 +62,17 @@ A rally like that shows how deeply people, even far away, feel connected to what
 
 Watch for clear updates about the September 2027 dates: whether the date is confirmed, whether it moves again, and whether a clear plan is shared for how voting will be held. It also helps to read more than one trusted source, and to check a bold social media claim against trusted reporting before you share it.
 
-## Common questions
+## Frequently Asked Questions
 
-### When are the Palestinian elections now planned?
+**When are the Palestinian elections now planned?**
 
 The legislative elections have been postponed possibly until September 2027, and a presidential poll has been set for September 2027. September 2027 is the key date to watch, though "possibly" means the legislative date should still be reported with care.
 
-### When were the last Palestinian legislative and presidential elections?
+**When were the last Palestinian legislative and presidential elections?**
 
 According to Reuters reporting, no legislative or presidential elections have been held in Palestine since 2005-06. That long gap is a central part of this story.
 
-### Why did hundreds of thousands of people rally in London?
+**Why did hundreds of thousands of people rally in London?**
 
 According to Anadolu Agency reporting, hundreds of thousands of people rallied in London the same weekend, marking three years of the war in Gaza.
 

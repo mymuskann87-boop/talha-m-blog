@@ -104,7 +104,7 @@ In 1998, an official April Fools' joke specification described a "Hyper Text Cof
 
 Historians of technology point to it as one of the earliest experiments in ideas we now use daily without thinking: live-streaming, and ordinary objects reporting their status over a network. Long before anyone said the words "smart home," a coffee pot in Cambridge was already doing the job — telling the world, honestly and in greyscale, exactly how it was doing.
 
-## Questions people ask
+## Frequently Asked Questions
 
 **Was it really the world's first webcam?**
 Yes. Cameras had been attached to computers before, but the Trojan Room pot was the first one broadcast on the World Wide Web, which is what makes it the first true webcam.

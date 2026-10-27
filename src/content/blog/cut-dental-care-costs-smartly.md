@@ -71,25 +71,25 @@ It also never means choosing the cheapest clinic without asking questions. A ver
 - [Cut Eye Care Costs Smartly](https://talhablog.com/blog/cut-eye-care-costs-smartly/)
 - [Cut Family Medical Bills Down](https://talhablog.com/blog/cut-family-medical-bills-down/)
 
-## Common questions
+## Frequently Asked Questions
 
-### How often should I visit the dentist?
+**How often should I visit the dentist?**
 
 Follow your dentist's advice for your own mouth, but the principle is the same for everyone: go on schedule, not only when something hurts. A checkup finds small problems while they are still cheap to fix, and it is the single habit that prevents most large dental bills.
 
-### Does brushing really save money?
+**Does brushing really save money?**
 
 Yes, more than any product. Brushing twice a day and cleaning between the teeth removes the plaque that causes most cavities and gum problems. A plain fluoride toothpaste used properly matters far more than an expensive one used carelessly.
 
-### Should I get a written estimate before dental treatment?
+**Should I get a written estimate before dental treatment?**
 
 For planned treatments, always ask for one. A written estimate lists the treatment, its steps, and the cost of each step, so you can compare clinics, plan payments across months, and question any difference between the estimate and the final bill.
 
-### What should I do if I cannot afford all the recommended treatment at once?
+**What should I do if I cannot afford all the recommended treatment at once?**
 
 Ask the dentist which treatments are urgent and which can safely wait, then do the urgent work first and spread the rest across months. Be honest about your budget. A dentist who explains the order patiently is helping you, not judging you.
 
-### Can I treat a toothache at home to save money?
+**Can I treat a toothache at home to save money?**
 
 No. For dental pain or problems, see a dentist and never self-treat. Home fixes turn small problems into emergencies, and emergencies cost far more than the original treatment would have.
 

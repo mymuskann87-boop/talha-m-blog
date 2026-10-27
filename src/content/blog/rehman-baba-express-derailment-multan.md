@@ -69,19 +69,19 @@ Every accident brings the same promises: an inquiry, compensation, better safety
 
 ## Frequently Asked Questions
 
-### What happened to the Rehman Baba Express?
+**What happened to the Rehman Baba Express?**
 
 The Rehman Baba Express, travelling from Karachi to Peshawar, derailed at around 5:15 a.m. on Tuesday, October 13, 2026, near Sher Shah Bridge in Multan. According to officials, 14 coaches came off the track while around 500 passengers were on board.
 
-### How many people were killed and injured?
+**How many people were killed and injured?**
 
 The reports still differ. Pakistan Railways' chief executive confirmed five deaths, and Rescue 1122 said 49 people were injured, most of whom have now been discharged from hospital. Rescue sources quoted by some newspapers put the deaths at seven, including a baby girl. The final official figure is still awaited.
 
-### What caused the derailment?
+**What caused the derailment?**
 
 The cause has not been officially established yet. An initial railways report suggested a possible fault in a passenger coach, and one passenger's unverified claim about a repair to coach number nine is also expected to be checked. A formal inquiry led by the Federal Government Inspector of Railways will be held on October 17 and 18.
 
-### What help was announced for the victims?
+**What help was announced for the victims?**
 
 The Railways Minister announced compensation for the families of those who died and for the injured passengers under the Pakistan Railways insurance policy. Stranded passengers were given temporary accommodation, transport and food arrangements by the local administration, and the bodies of the deceased were being sent to their home areas.
 

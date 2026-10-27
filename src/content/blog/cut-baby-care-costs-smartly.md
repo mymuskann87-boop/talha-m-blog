@@ -63,25 +63,25 @@ There is a second line, softer but real: time. A baby does not price a parent's 
 - [Care For Parents Spending Less](https://talhablog.com/blog/care-for-parents-spending-less/)
 - [Save Money On Daily Lunch](https://talhablog.com/blog/save-money-on-daily-lunch/)
 
-## Common questions
+## Frequently Asked Questions
 
-### How can I lower baby care costs without cutting essentials?
+**How can I lower baby care costs without cutting essentials?**
 
 Focus on what the baby truly uses daily: diapers, food, and clothes in the next size. Buy fewer clothes in slightly larger sizes, accept hand-me-downs, buy daily basics in bulk by per-piece price, and borrow big items used only for months. Keep a two-week list of real daily use, and shop only from it.
 
-### Are hand-me-down baby clothes safe?
+**Are hand-me-down baby clothes safe?**
 
 Yes, when washed well and checked for damage. Babies outgrow clothes so fast that passed-on clothes are usually barely worn. Check for loose buttons, broken zips, and worn elastic, and discard anything damaged. The baby will not know the difference, and the saving is large.
 
-### Should I buy diapers in bulk?
+**Should I buy diapers in bulk?**
 
 Usually yes, but only in the baby's current size. Compare the per-piece price, not the pack size, because bulk packs are typically cheaper per diaper. Avoid stockpiling one size, since babies move up sizes quickly and an outgrown pack becomes waste.
 
-### Is homemade baby food cheaper than jars?
+**Is homemade baby food cheaper than jars?**
 
 Yes, once the baby is ready for simple foods and the doctor agrees. Soft home-cooked vegetables and lentils cost far less than packaged jars, and the ingredients are fully visible. Never follow a feeding schedule from a blog; timing and foods should always be agreed with the baby's doctor.
 
-### What baby costs should I never try to cut?
+**What baby costs should I never try to cut?**
 
 Health costs: check-ups, prescribed care, and prompt visits when the baby is unwell. For health questions about a baby, ask a doctor. If money is tight, talk to the doctor or clinic about options rather than quietly reducing care.
 

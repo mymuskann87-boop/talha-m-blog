@@ -73,25 +73,25 @@ Real savings come from a short routine, done daily, with simple products chosen 
 - [Cut Beauty Costs Without Sacrifice](https://talhablog.com/blog/cut-beauty-costs-without-sacrifice/)
 - [Cut Hair Care Costs Smartly](https://talhablog.com/blog/cut-hair-care-costs-smartly/)
 
-## Common questions
+## Frequently Asked Questions
 
-### What is the simplest skin care routine that actually works?
+**What is the simplest skin care routine that actually works?**
 
 Three steps: gentle cleansing, moisture, and sun protection, done every day. Everything else is optional. A short routine done daily beats a ten-step routine done for a week and abandoned, because consistency is what skin responds to.
 
-### Do cheap skin care products work as well as luxury ones?
+**Do cheap skin care products work as well as luxury ones?**
 
 Often, yes. The ingredients that matter — gentle cleansers, basic moisturisers, sun protection — appear in affordable products and luxury products alike, and skin cannot read a price tag. Compare the short ingredient list on the back, not the advertisement on the front.
 
-### How should I test a new skin care product?
+**How should I test a new skin care product?**
 
 Apply a little to a small area, such as behind the ear or along the jawline, and wait a day. If the skin stays calm, it is probably safe for wider use. Introduce only one new product at a time, so any reaction can be traced to its cause.
 
-### Is sun protection really more important than creams?
+**Is sun protection really more important than creams?**
 
 Yes. Sunlight causes more visible skin damage over a lifetime than almost anything else, and no cream repairs damage as well as shade prevents it. A hat, a shaded seat, and a simple sunscreen on exposed skin protect more than any luxury serum.
 
-### When should I see a doctor about my skin?
+**When should I see a doctor about my skin?**
 
 For a rash that spreads, a mole that changes, a wound that does not heal, or any persistent skin condition, see a doctor promptly. A visit for a real problem is the cheapest moment to catch something early, and delay can cost far more than the appointment.
 

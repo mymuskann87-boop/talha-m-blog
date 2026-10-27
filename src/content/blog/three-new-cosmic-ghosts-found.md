@@ -90,27 +90,27 @@ Somewhere above us tonight, in the constellation Cassiopeia, three quiet ghosts 
 
 ## Frequently Asked Questions
 
-### What exactly did the photographers find in Cassiopeia?
+**What exactly did the photographers find in Cassiopeia?**
 
 They revealed three faint formations that nobody had recorded before, now provisionally labelled Object 1, Object 2 and Object 3. The formations appeared after about 100 hours of observation using a special filter that detects light from ionised oxygen.
 
-### Why are IC 59 and IC 63 called the Ghosts of Cassiopeia?
+**Why are IC 59 and IC 63 called the Ghosts of Cassiopeia?**
 
 These two well-known nebulas have drifting, wispy shapes that remind people of ghostly figures. They float near the bright star Gamma Cassiopeiae, and their eerie appearance earned them the nickname.
 
-### How far away is the ghost nebula IC 63?
+**How far away is the ghost nebula IC 63?**
 
 IC 63 lies roughly 550 light-years from Earth, which means the light from it that reaches our cameras began its journey centuries ago.
 
-### Why do the nebulas glow red and blue?
+**Why do the nebulas glow red and blue?**
 
 The red glow comes from hydrogen gas energised by powerful ultraviolet light from Gamma Cassiopeiae, a star whose energy output may exceed the Sun's by about 34,000 times. The blueish-white tones come from dust that reflects and scatters the star's light.
 
-### What might the three new objects actually be?
+**What might the three new objects actually be?**
 
 One theory says Object 3 could be oxygen gas compressed and heated like the bow wave of a speeding boat, created as the star system moves through interstellar material. Object 1 could be a planetary nebula, but only if a central white dwarf is identified inside it. For now, the origins of all three remain unsolved.
 
-### Who took the image that NASA featured?
+**Who took the image that NASA featured?**
 
 The observing team behind the image works at Starfront Observatories and consists of Louis Leroux-Gérès, Thibault Ruyé, Vincent Martin and Cedric de Decker. NASA featured their work as its Astronomy Picture of the Day on 21 October 2026.
 

@@ -58,19 +58,19 @@ There is also a technology story here. Hypersonic weapons are one of the most di
 
 ## Frequently Asked Questions
 
-### What is the Fatah-2 ER missile?
+**What is the Fatah-2 ER missile?**
 
 The Fatah-2 ER is an extended-range, hypersonic ballistic missile tested by the Pakistan Army on October 13, 2026. It is part of Pakistan's home-developed Fatah missile family and uses advanced navigation and avionics to strike targets with high precision at longer distances.
 
-### What does "hypersonic" mean?
+**What does "hypersonic" mean?**
 
 A hypersonic weapon travels at Mach 5 or faster — more than five times the speed of sound, over 6,000 kilometres per hour. At that speed, defenders get very little time to react, which is why hypersonic weapons are considered so difficult to stop.
 
-### What is the exact range of the Fatah-2 ER?
+**What is the exact range of the Fatah-2 ER?**
 
 The ISPR did not disclose the missile's exact maximum range in its announcement. The military only confirmed that the extended-range version enhances the Army's reach and its capability of engaging deep targets, which is a common practice in missile test announcements.
 
-### Why did Pakistan conduct two missile tests in one week?
+**Why did Pakistan conduct two missile tests in one week?**
 
 Days before the Fatah-2 ER test, Pakistan also tested an upgraded version of its Fatah-4 ground-launched cruise missile. The two tests covered different types of weapons — a low-flying cruise missile and a high-speed ballistic missile — showing the breadth of Pakistan's missile programme.
 

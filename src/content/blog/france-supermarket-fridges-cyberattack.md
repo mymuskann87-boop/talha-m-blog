@@ -70,23 +70,23 @@ That is why the minister's words matter. A wake-up call is exactly what this is 
 
 ## Frequently Asked Questions
 
-### What exactly did the hackers do in France?
+**What exactly did the hackers do in France?**
 
 According to CERT-FR, the hackers took control of internet-connected refrigeration controllers in supermarkets overnight on October 11, 2026. They forced the systems into a continuous defrost cycle, so the fridges kept warming up instead of cooling down. Reported temperatures reached 50°C (122°F), food spoiled, and fires were reported at some stores.
 
-### How many supermarkets were affected?
+**How many supermarkets were affected?**
 
 France's Finance Minister told Parliament that about 700 of the country's 10,000 supermarkets were affected. The Intermarché and Netto group reported around 300 impacted stores, and Coopérative U reported 80 of its stores.
 
-### How did the hackers avoid setting off alarms?
+**How did the hackers avoid setting off alarms?**
 
 According to Le Monde's reporting, the defrost cycle was changed from one hour to eight hours. Because the system was told this long warm period was normal, alarms did not sound quickly, and the damage happened quietly overnight.
 
-### Was anyone's personal data stolen in the French attack?
+**Was anyone's personal data stolen in the French attack?**
 
 The French reports are about damage to refrigeration systems, spoiled food and fires — not stolen customer data. Separately, the Dutch group Ahold Delhaize, which shut down its brand websites over its own security issue, said it had no evidence that customer or employee data was stolen.
 
-### Who is investigating the attack?
+**Who is investigating the attack?**
 
 The Paris prosecutor's cybercrime unit is investigating, the Paris prosecutor's office confirmed it is looking into the spoiled food and reported fires, and Prime Minister Sébastien Lecornu directed the national cybersecurity agency to investigate.
 

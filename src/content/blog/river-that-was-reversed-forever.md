@@ -68,7 +68,7 @@ The reversal has also left one modern headache. By joining two great water syste
 
 To me, that is the perfect ending to the story, because it refuses to be simple. The canal is one of the greatest public health rescues in history, and it is also a permanent ecological problem that engineers must keep guarding, every single day, with electric fences. Chicago solved its crisis so completely that we now maintain the solution like a living thing. The river runs backwards, the city drinks safely, and the bill, in a sense, is still being paid — which is true of nearly every bold thing human beings have ever built.
 
-## Common questions
+## Frequently Asked Questions
 
 **Does the Chicago River really still flow backwards?**
 Yes. More than 125 years after January 1900, the river's main flow still runs away from Lake Michigan toward the Mississippi system, maintained by locks and control works. In exceptional flood emergencies the flow can briefly be allowed toward the lake, but backwards is its normal, everyday direction.

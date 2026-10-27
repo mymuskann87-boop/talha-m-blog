@@ -70,27 +70,27 @@ For ordinary people, the practical lesson is simple: when you hear that oil has 
 
 ## Frequently Asked Questions
 
-### Why did oil jump to $114 a barrel?
+**Why did oil jump to $114 a barrel?**
 
 Oil rose after reports of escalating Houthi attacks, including attacks on Saudi oil facilities, a drone attack on King Fahd International Airport in Dammam and deaths from drone debris at an Aramco-operated field. Traders feared oil supplies could be disturbed, so they bought quickly and pushed the price up to its highest in more than five months.
 
-### What is Brent crude?
+**What is Brent crude?**
 
 Brent crude is the most famous oil price benchmark in the world. When news reports say "oil climbed" or "oil jumped," they are usually talking about this price. It works like a scoreboard that buyers, sellers and governments all watch.
 
-### How high is $114 compared with recent months?
+**How high is $114 compared with recent months?**
 
 It is the highest level in more than five months. Brent crude climbed to its highest since May, which is why this jump made headlines around the world.
 
-### Will petrol prices in my country also go up?
+**Will petrol prices in my country also go up?**
 
 Very likely they will feel pressure. Most countries in Asia import their oil, and they buy it at the world price. When that price rises and stays high, local fuel prices usually rise after some time, and transport and food costs can follow.
 
-### Why does an attack far away affect my petrol pump?
+**Why does an attack far away affect my petrol pump?**
 
 Because oil is bought and sold in one giant world market. A threat to oil fields or shipping in a major producing region makes the whole world nervous at once, so the world price rises — and every petrol pump connected to that market feels it.
 
-### Can oil prices come back down?
+**Can oil prices come back down?**
 
 Yes. If attacks stop and oil keeps flowing normally, the fear that pushed the price up slowly fades, and prices often fall back step by step. The price follows the news, in both directions.
 

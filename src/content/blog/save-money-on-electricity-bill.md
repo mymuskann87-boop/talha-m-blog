@@ -60,25 +60,25 @@ Start with the habits, because they cost nothing. Then, if the numbers still ref
 
 My evening walk now takes three minutes, and I do it most nights without thinking. Sockets clicked off, fans stilled in empty rooms, the iron's pile waiting for one hot session, the meter read on the first of the month. The bill did not fall by magic. It fell the way a pile falls when you stop adding to it, one small habit at a time.
 
-## Common questions
+## Frequently Asked Questions
 
-### Does switching off at the socket really save anything?
+**Does switching off at the socket really save anything?**
 
 Yes, because standby power is real power. One device draws little, but several devices across a whole house, left waiting every night of the month, add up to units you pay for without any use. The saving from a single television is small; the saving from a whole house of switched-off devices is noticeable on the bill over months.
 
-### Should I switch off the fridge or the Wi-Fi router too?
+**Should I switch off the fridge or the Wi-Fi router too?**
 
 No. The fridge must run all the time to keep food safe, and switching it off spoils food and risks health. The router can be switched off at night if nobody needs it, but many homes keep it on for phones and updates, and that is a reasonable choice. Switch off entertainment devices and chargers, not machines that protect food or safety.
 
-### Are LED bulbs really worth replacing?
+**Are LED bulbs really worth replacing?**
 
 Yes, especially for the bulbs that burn the most hours. An LED bulb gives the same light as an old bulb while using far less electricity, and it lasts much longer. Replace the most-used bulbs first — the living room, the kitchen, the porch — and the rest can follow as the old bulbs burn out on their own.
 
-### What temperature should I set the air conditioner to?
+**What temperature should I set the air conditioner to?**
 
 A moderate setting is the sensible answer, not the coldest number on the remote. A room set moderately, with the door closed and a fan moving the air, feels comfortable and costs less. Every extra degree of cold costs extra power, so the coldest setting is the most expensive way to feel cool.
 
-### Why is my bill still high after I changed my habits?
+**Why is my bill still high after I changed my habits?**
 
 Because the big appliances dominate the bill. Check the oldest machines first: a fridge with a worn seal, an air conditioner that has not been serviced, a water heater that runs all day. Habits fix the small leaks; a tired machine needs a repair person, and fixing it can matter more than a month of switched-off lights.
 

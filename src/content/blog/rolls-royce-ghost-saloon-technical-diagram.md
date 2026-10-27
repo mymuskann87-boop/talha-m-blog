@@ -52,7 +52,7 @@ Look at the diagram once more, and you will see that story drawn out in lines an
 
 Prices vary by market, year, and options, and a Rolls-Royce is a serious purchase by any measure. Anyone considering one should speak with Rolls-Royce or a trusted dealer for current figures. What never changes is the idea: a car that treats calm as the highest form of luxury, and delivers it with a whispering V12 and a roof full of stars.
 
-## Common questions
+## Frequently Asked Questions
 
 **Why is a Rolls-Royce so expensive?**
 Because so much of it is built by hand. Skilled craftspeople shape the leather, polish the wood, and assemble the car over many hours. The materials are real and costly, and the engineering behind the silence takes years to perfect.

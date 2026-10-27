@@ -96,27 +96,27 @@ That tension makes the launch interesting. The phone’s screen may look empty, 
 
 ## Frequently Asked Questions
 
-### What is the STEPX Neo?
+**What is the STEPX Neo?**
 
 The STEPX Neo is a smartphone launched in China by StepFun, a Chinese AI startup backed by Tencent. It is built around an autonomous AI agent named Amoo rather than a traditional grid of apps.
 
-### Why does the phone have no app grid?
+**Why does the phone have no app grid?**
 
 The phone is designed around Amoo, which is built into its core software. StepFun’s approach places the agent at the centre of the system instead of making AI an assistant that lives inside separate applications.
 
-### What software does the STEPX Neo use?
+**What software does the STEPX Neo use?**
 
 It runs StepFun’s Step AOS 1.0 software. The system is designed so the AI agent sits in the foundation, unlike iOS and Android, where AI mainly works as an assistant inside apps.
 
-### Which companies are working with the phone’s agent?
+**Which companies are working with the phone’s agent?**
 
 Nearly 100 corporate partners have integrated their platforms to work directly with the agent. Alipay and Tencent are among the partners named in the launch report.
 
-### How much does the STEPX Neo cost?
+**How much does the STEPX Neo cost?**
 
 The starting price is 3,999 yuan, roughly $560. Pre-orders opened ahead of the phone’s first sales event.
 
-### What is StepFun’s main argument against older phone systems?
+**What is StepFun’s main argument against older phone systems?**
 
 StepFun argues that legacy smartphone systems were never designed for autonomous task execution. The company previewed the phone in Shanghai earlier this year and presented its agent-first system as a different foundation for smartphones.
 

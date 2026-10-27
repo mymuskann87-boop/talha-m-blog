@@ -67,25 +67,25 @@ Children learn this faster than adults expect, especially when the rule is expla
 - [Cut Bank Fees Every Month](https://talhablog.com/blog/cut-bank-fees-every-month/)
 - [Cut Online Delivery Costs Smartly](https://talhablog.com/blog/cut-online-delivery-costs-smartly/)
 
-## Common questions
+## Frequently Asked Questions
 
-### Why does another bank's ATM charge me a fee?
+**Why does another bank's ATM charge me a fee?**
 
 That bank is serving someone who is not its customer, so it charges for the service, and your own bank may add a small charge too. Using your own bank's machine usually avoids both charges.
 
-### Does withdrawing larger amounts really save money?
+**Does withdrawing larger amounts really save money?**
 
 Usually, yes, because each withdrawal can carry a fee. For example, four withdrawals at 25 each cost 100 in fees, while one withdrawal costs 25 or nothing. But balance this with safety — never carry cash you cannot afford to lose.
 
-### How do free withdrawal limits work?
+**How do free withdrawal limits work?**
 
 Some accounts allow a set number of free withdrawals per month, wherever you withdraw. After that limit, each withdrawal costs a fee. Learn your limit and count your withdrawals so you never cross it unknowingly.
 
-### Should I stop using cash completely?
+**Should I stop using cash completely?**
 
 No. Cash is needed in many places — small shops, street vendors, bus fares. The goal is to use cash where it is needed and card or mobile payments where they are free, so you visit machines less often.
 
-### What should I do about ATM fees when travelling?
+**What should I do about ATM fees when travelling?**
 
 Plan before you go. Withdraw what you need from your own bank's machine before leaving, and keep a small reserve for the return journey. Searching for a machine in a hurry is when fees multiply.
 

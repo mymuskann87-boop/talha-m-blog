@@ -56,25 +56,25 @@ None of this is an argument against gaming. Gaming is real entertainment, real s
 
 The honest goal is smaller: spend on games the way you spend on anything you love — deliberately, within a number you chose, and on the games you actually play. The shelf stops growing. The wallet stops leaking. And the games themselves, played properly instead of collected anxiously, become fun again.
 
-## Common questions
+## Frequently Asked Questions
 
-### How can I cut gaming costs without quitting games?
+**How can I cut gaming costs without quitting games?**
 
 Finish the games you already own before buying new ones, wait for genuine sales, try free weekends before paying, and set a monthly gaming budget. These steps cut spending while keeping all the fun — the goal is to play more deliberately, not to play less.
 
-### Is waiting for game sales really worth it?
+**Is waiting for game sales really worth it?**
 
 Yes. Most big titles drop significantly in price within months of launch during seasonal and holiday sales, while the game itself stays the same. A wishlist with a price you are willing to pay turns sales into tools instead of traps.
 
-### Are free games a good way to save on gaming costs?
+**Are free games a good way to save on gaming costs?**
 
 They are, when used properly. Many excellent games cost nothing, and free weekends let you test a paid game fully before buying. Just watch in-game purchases — small extras add up fast, so track their monthly total honestly.
 
-### Should I set a monthly budget for gaming costs?
+**Should I set a monthly budget for gaming costs?**
 
 Yes. Decide a fixed monthly amount that fits your household finances and track every gaming purchase against it for one month. The total usually surprises players, and a budget you chose yourself removes guilt from every purchase inside it.
 
-### Can I sell finished games to reduce gaming costs?
+**Can I sell finished games to reduce gaming costs?**
 
 Where the platform allows it — physical discs, certain stores, trading with friends — yes, and it turns a finished purchase back into money for the next game. Digital games often cannot be resold, so check the rules before buying, and keep discs and cases in good condition.
 

@@ -66,25 +66,25 @@ Nobody needs to fear Brain itself today — modern systems do not wake up from f
 
 **Keep backups of the files you love.** Brain deleted nothing, but many of its descendants are far less polite. A copy of your important photos and documents kept somewhere separate means no virus, polite or cruel, can ever truly take them from you.
 
-## Common questions
+## Frequently Asked Questions
 
-### Who created the Brain virus?
+**Who created the Brain virus?**
 
 Two brothers from Lahore, Pakistan — Basit Farooq Alvi and Amjad Farooq Alvi — who ran a small business called Brain Computer Services. Remarkably, they placed their real names, business address in Lahore and phone numbers inside the virus itself, inviting users to contact them for a "vaccination" against it.
 
-### When did the Brain virus appear?
+**When did the Brain virus appear?**
 
 It appeared in January 1986. It is recognised as the first virus ever created for IBM PC-compatible computers, which is why it holds such a famous place in computing history.
 
-### Did the Brain virus delete people's files?
+**Did the Brain virus delete people's files?**
 
 No. Brain did not erase data. It slowed down access to floppy disks and sometimes changed a disk's label to "(c) Brain". By modern standards it was more mischievous than destructive, though it still alarmed universities and users around the world.
 
-### Why did the brothers say they wrote it?
+**Why did the brothers say they wrote it?**
 
 In their own later explanation, they said Brain was an experiment to track illegal copies of their medical software, which was being pirated. They said it was never intended to destroy data. That is their account of their motives, given in interviews afterward.
 
-### Can Brain infect a computer today?
+**Can Brain infect a computer today?**
 
 Realistically, no. Brain lived in the boot sector of floppy disks, and modern computers do not start up from floppies. But its method — arriving on borrowed media that people trust — survives in today's infected USB sticks and pirated software, which is why the protection steps in this post still matter.
 

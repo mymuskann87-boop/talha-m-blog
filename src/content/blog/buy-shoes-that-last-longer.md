@@ -63,25 +63,25 @@ There is a second limit: feet differ. Some feet need special support, wide fitti
 - [Save Money On Winter Clothes](https://talhablog.com/blog/save-money-on-winter-clothes/)
 - [Save Money On Summer Clothes](https://talhablog.com/blog/save-money-on-summer-clothes/)
 
-## Common questions
+## Frequently Asked Questions
 
-### What is cost per wear, and why does it matter for shoes?
+**What is cost per wear, and why does it matter for shoes?**
 
 Cost per wear is the price of a pair divided by the number of days it is actually worn. A 4,000 pair worn 200 days costs 20 per day, while a 1,500 pair worn only 30 days costs 50 per day. It matters because it reveals which pair is truly cheaper over its whole life.
 
-### How can I tell if a shoe is well made before buying?
+**How can I tell if a shoe is well made before buying?**
 
 Turn it over and check the sole and stitching. The sole should feel firm and springy, the stitching should be even and tight, and the shoe should bend at the front, not the middle. Walk in both shoes for a few minutes; comfort on the first walk is essential.
 
-### Does rotating two pairs really make shoes last longer?
+**Does rotating two pairs really make shoes last longer?**
 
 Yes. Shoes worn every day never dry out or recover their shape. Two pairs worn in turns rest between walks, which slows wear considerably. Over two years, rotation usually means buying fewer pairs in total.
 
-### When should I repair shoes instead of replacing them?
+**When should I repair shoes instead of replacing them?**
 
 When the upper still fits well and only the sole, heel, or stitching has worn. A cobbler can replace soles and heels for a small fraction of a new pair's price, and the repaired shoe is already broken in to your feet.
 
-### Should I buy expensive shoes for children?
+**Should I buy expensive shoes for children?**
 
 Usually not. Children outgrow shoes before wearing them out, so sturdy and affordable is the wiser choice. Buy slightly roomy, check the toes regularly, and replace when the fit ends rather than when the shoe wears out.
 

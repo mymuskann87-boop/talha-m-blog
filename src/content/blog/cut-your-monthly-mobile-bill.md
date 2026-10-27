@@ -52,25 +52,25 @@ A useful extra habit is to read the bill on the day it arrives, not the day it m
 
 A smaller package is not always the right answer. Someone who genuinely uses a lot of data for work will lose money on overage charges with a package that is too small. The goal is a match, not a minimum. Check the real numbers first, choose the package that fits them, and leave a little room for an unusual month. And if the cheapest option comes with poor coverage where you live, it is not cheap at all — a phone that does not connect is useless at any price.
 
-## Common questions
+## Frequently Asked Questions
 
-### Should I switch companies to save money?
+**Should I switch companies to save money?**
 
 Maybe, but compare the full picture first: the monthly price, the coverage where you live and work, and any fee for leaving your current contract. A cheaper package on a weak network is a bad deal. A cheaper package on a good network is a genuine saving.
 
-### What if I run out of data on a smaller package?
+**What if I run out of data on a smaller package?**
 
 Most companies let you buy a small top-up for that month. One top-up in an unusual month still costs far less than paying for a large package every month of the year. Track it for two months and you will see the pattern.
 
-### Are "unlimited" packages worth it?
+**Are "unlimited" packages worth it?**
 
 Only if your real use is genuinely huge. For most people, "unlimited" is a word that costs more than the data underneath it. Check your last two bills. If your use is nowhere near unlimited, you are paying for the word.
 
-### How do I cancel an add-on I do not recognise?
+**How do I cancel an add-on I do not recognise?**
 
 Use the company's app or helpline and ask them to list every active paid service on your number, then cancel the ones you do not use. Ask for confirmation in writing, such as a text message, and check the next bill to make sure the charge is gone.
 
-### Does using Wi-Fi really make a big difference?
+**Does using Wi-Fi really make a big difference?**
 
 Yes, because video and app updates are the heaviest data users, and both can wait for Wi-Fi. One evening of video downloads on mobile data can cost more than a week of messages. Wi-Fi carries the same content for no extra mobile charge.
 

@@ -57,25 +57,25 @@ Teach the skill to the family and the saving multiplies. A child who learns to s
 - [Buy Clothes Smart Spend Less](https://talhablog.com/blog/buy-clothes-smart-spend-less/)
 - [Save Money On Winter Clothes](https://talhablog.com/blog/save-money-on-winter-clothes/)
 
-## Common questions
+## Frequently Asked Questions
 
-### What are the five basic clothing repairs I should learn?
+**What are the five basic clothing repairs I should learn?**
 
 Button replacement, hem repair, seam repair, patching a tear, and zip replacement. These five cover nearly every reason clothes get thrown away. Start with the button — it takes minutes — then learn hems and seams. Each repair learned once pays back on every garment you own.
 
-### Is altering clothes cheaper than buying new ones?
+**Is altering clothes cheaper than buying new ones?**
 
 Yes, usually by a wide margin. Taking in a shirt, shortening trousers, or moving a button costs a fraction of a replacement, sometimes nothing but thread and an evening. Check your wardrobe before shopping: many unworn garments need only one alteration to become favourites again.
 
-### What can a beginner sew to save money?
+**What can a beginner sew to save money?**
 
 Start with cushion covers, tote bags, curtains, and children's simple clothes. These projects teach straight seams, corners, and zips, and they cost far less than shop-bought versions. Begin with repairs first, then move to simple projects as your confidence grows.
 
-### Should I buy cloth in bulk when it is on sale?
+**Should I buy cloth in bulk when it is on sale?**
 
 Buy sale cloth only when you have a real project in mind. Cloth bought "for one day" often sits unused for years, and that is storage, not saving. Keep a note of what you own — colours and lengths — and check it before buying more.
 
-### When should I leave a repair to a tailor?
+**When should I leave a repair to a tailor?**
 
 For fine fabrics, heavy coats, complicated tailoring, or anything you might ruin. A ruined garment costs more than the tailor's fee. Sewing saves the most on simple, frequent jobs like buttons, hems, and seams that arrive every month in every home.
 

@@ -72,23 +72,23 @@ Perhaps that is the real charm of it. The co-princes do not exist to rule Andorr
 
 ## Frequently Asked Questions
 
-### Who are the two princes of Andorra?
+**Who are the two princes of Andorra?**
 
 The co-princes are the Bishop of Urgell in Spain — currently Josep-Lluís Serrano Pentinat, who took the role in 2025 — and the President of France, currently Emmanuel Macron. Together they are Andorra's joint heads of state.
 
-### Why does Andorra have two heads of state?
+**Why does Andorra have two heads of state?**
 
 Because of a medieval agreement called a paréage, first signed in 1278 and strengthened in 1288. The Bishop of Urgell and the Count of Foix were fighting over the Andorran valleys, so they agreed to rule jointly, with neither acting alone. The count's rights later passed to the French crown and then to the French head of state.
 
-### Does the President of France really rule Andorra?
+**Does the President of France really rule Andorra?**
 
 Not in daily life. The French president is co-prince and formal head of state, signing laws and appointing officials, but he has no veto over Andorra's parliament and shares every duty with the Bishop of Urgell. Real governing power belongs to Andorra's elected General Council and its head of government.
 
-### What language do people speak in Andorra?
+**What language do people speak in Andorra?**
 
 Catalan is the official language, and Andorra is the only country in the world where Catalan is the sole official language. Spanish, Portuguese and French are also widely spoken.
 
-### Is Andorra part of the European Union?
+**Is Andorra part of the European Union?**
 
 No, Andorra is not an EU member. However, it has a formal monetary agreement with the EU and uses the euro as its official currency. It also has no airport and no railway, so visitors arrive by road.
 

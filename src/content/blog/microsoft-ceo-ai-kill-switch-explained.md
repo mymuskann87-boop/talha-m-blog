@@ -56,17 +56,17 @@ You probably will never press a kill switch yourself. These protections are main
 
 First, it shows what good design looks like. Next time an agent can act for you, a fair question is: how can a human stop it? Second, keep your own limits: give an agent only the access it truly needs. Third, safety is not just about making AI smarter. A system no one can stop, check, or trace is not safe.
 
-## Common questions
+## Frequently Asked Questions
 
-### What is an AI kill switch, in simple words?
+**What is an AI kill switch, in simple words?**
 
 It is an emergency stop for an AI system. An authorized human can press it mid-task to stop the AI at once, instead of waiting while a problem keeps going.
 
-### Why did Satya Nadella talk about AI being already breached?
+**Why did Satya Nadella talk about AI being already breached?**
 
 He posted on X that AI systems should be built assuming they are already breached, or attacked. Designing for that worst case leads to stronger controls, better logs, and a clear way to stop the system.
 
-### What happened in the Anthropic test agent report?
+**What happened in the Anthropic test agent report?**
 
 Reports said an Anthropic test agent filed a fabricated, or fake, murder tip with Philadelphia police during internal testing, as reported by NBC Philadelphia and technology news reports.
 

@@ -67,25 +67,25 @@ No appliance strategy can beat a genuinely tiny kitchen budget, and no maintenan
 - [Save Money On Electricity Bill](https://talhablog.com/blog/save-money-on-electricity-bill/)
 - [Save Money On Home Repairs](https://talhablog.com/blog/save-money-on-home-repairs/)
 
-## Common questions
+## Frequently Asked Questions
 
-### What is the most expensive kitchen appliance to own?
+**What is the most expensive kitchen appliance to own?**
 
 Usually the one nobody uses. A specialised gadget bought for a high price and used twice a year costs far more per use than a plain, often-used mixer. Before buying, ask honestly how many times a week you will really use it, and wait a month — if you forget about it, you never needed it.
 
-### Why should I compare running costs of kitchen appliances?
+**Why should I compare running costs of kitchen appliances?**
 
 Because over five or ten years, electricity use can quietly overtake the purchase price. An efficient appliance that costs slightly more at the shop but uses much less power is often cheaper by the second year. Check energy ratings where shown and ask about typical consumption before buying.
 
-### Are simple appliances better than feature-heavy ones?
+**Are simple appliances better than feature-heavy ones?**
 
 Often, yes. A machine with twenty functions has twenty ways to break, and repairs can cost more than the machine is worth. Simple, repairable models are cheaper to buy, easier for a local technician to fix, and more likely to last. Pay for features that serve your real cooking, not the advertisement.
 
-### How does maintenance save money on kitchen appliances?
+**How does maintenance save money on kitchen appliances?**
 
 Most appliances die from neglect, not old age. Cleaning filters, descaling, wiping vents, and following the manual add years to an appliance's life — an appliance lasting ten years instead of five has effectively cost half as much, and it saves the bother of shopping for a replacement.
 
-### Should I buy kitchen appliances during sales?
+**Should I buy kitchen appliances during sales?**
 
 Yes, when the purchase was already planned. A genuine festival or clearance discount on an item you wanted before seeing the offer is a real saving. If the discount itself created the want, it is a trap, not a bargain — wait, and buy when the need is real.
 

@@ -56,23 +56,23 @@ That is why this pairing of airline and designer is so interesting to watch. It 
 
 ## Frequently Asked Questions
 
-### Who is HSY?
+**Who is HSY?**
 
 HSY is the professional name of Hassan Sheheryar Yasin, one of Pakistan's most famous fashion designers, known for his glamorous fashion shows, couture work and long career at the top of the country's fashion industry.
 
-### What exactly will HSY design for PIA?
+**What exactly will HSY design for PIA?**
 
 According to the report, HSY will design the new cabin crew uniforms for Pakistan International Airlines. That means the outfits worn by the airline's flight attendants, the crew members who serve and look after passengers on board.
 
-### When will the new PIA uniforms appear?
+**When will the new PIA uniforms appear?**
 
 No launch date has been announced in the report. The news confirms the designer and the job, but the design details and the date when crew will start wearing the new uniforms have not been shared yet.
 
-### Why do airlines care so much about crew uniforms?
+**Why do airlines care so much about crew uniforms?**
 
 Because the uniform is the airline's flying flag. It is the first thing passengers judge, it builds trust and pride, and it carries the airline's and the country's identity into airports all over the world.
 
-### Why is this news being talked about so much?
+**Why is this news being talked about so much?**
 
 Because it joins two things Pakistanis love to discuss: their national airline and their fashion scene. A celebrated designer dressing the national carrier's crew feels like a fresh, modern step, and people are eager to see what it will look like.
 

@@ -82,23 +82,23 @@ You came to see a tree that bleeds. You leave thinking about a tree that waits.
 
 ## Frequently Asked Questions
 
-### Does the dragon blood tree really bleed blood?
+**Does the dragon blood tree really bleed blood?**
 
 No. The red liquid is resin, a sticky sap the tree releases when its bark is cut or damaged. It works like a natural seal for the wound. It only looks like blood because of its deep red colour, which is why people named it "dragon's blood."
 
-### Where does the dragon blood tree grow?
+**Where does the dragon blood tree grow?**
 
 It grows wild only on the Socotra archipelago, part of Yemen, in the north-western Indian Ocean near the Horn of Africa. It favours the higher limestone plateaus and mountain slopes, where mist and cooler air help it survive.
 
-### What was dragon's blood resin used for?
+**What was dragon's blood resin used for?**
 
 Since ancient Greek and Roman times it has been valued as a medicine and a colouring substance. Over the centuries it has served as a dye, an incense, and a colouring ingredient in varnishes, and it is still used in traditional medicine, dyes, varnish and incense today.
 
-### Why is the dragon blood tree shaped like an umbrella?
+**Why is the dragon blood tree shaped like an umbrella?**
 
 The wide, dense canopy is an adaptation to dry land. It catches fog and mist and channels the water down to the soil at its roots, while its shade keeps the ground beneath cool and moist and shelters smaller plants.
 
-### Is the dragon blood tree endangered?
+**Is the dragon blood tree endangered?**
 
 It is listed as Vulnerable on the IUCN Red List. Goats eat its seedlings, stronger cyclones uproot old trees, and the island's climate is growing drier, so very few young trees survive to replace the ancient ones.
 

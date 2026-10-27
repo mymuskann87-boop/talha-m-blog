@@ -74,23 +74,23 @@ Nauru's story carries a lesson far bigger than the island: wealth that comes out
 
 ## Frequently Asked Questions
 
-### What is the capital of Nauru?
+**What is the capital of Nauru?**
 
 Nauru has no official capital. Its government offices and parliament sit in the Yaren District, which acts as the capital in practice, but Yaren is a district and has never been declared a capital city.
 
-### Why does Nauru have no capital city?
+**Why does Nauru have no capital city?**
 
 Mainly because of its size. At just 21 square kilometres, the whole country works like one small coastal town divided into 14 districts, so there was never a practical need to name one place the capital.
 
-### How small is Nauru, really?
+**How small is Nauru, really?**
 
 It is the third-smallest country in the world and the smallest island nation, with about 10,000 people, one airport, and a coastline of roughly 30 kilometres that you can travel around in a single trip.
 
-### How did Nauru become so rich in the 1970s?
+**How did Nauru become so rich in the 1970s?**
 
 Phosphate rock — formed over centuries from seabird droppings — was mined and sold worldwide as fertiliser. After independence in 1968, Nauru bought the mines in 1970, and the income briefly made its people among the richest per person on Earth.
 
-### What currency does Nauru use?
+**What currency does Nauru use?**
 
 The Australian dollar. Nauru does not issue its own currency, and most necessities are imported, mainly from Australia.
 

@@ -66,25 +66,25 @@ The good news is that the defences against this kind of worm are simple, and mos
 
 Think of updates and the firewall as seatbelts. Nobody enjoys fastening a seatbelt, and for years cars had them fitted while drivers ignored them — until crashes taught everyone why they existed. Blaster was one of computing's big crashes, and the habits it forced on the industry still protect you every day.
 
-## Common questions
+## Frequently Asked Questions
 
-### Did the Blaster worm steal money or passwords?
+**Did the Blaster worm steal money or passwords?**
 
 No, the famous original worm did not ask for money or collect passwords. Its damage was disruption: infected computers restarted on a 60-second countdown loop and were used to spread the worm further and to prepare the planned flood against Microsoft's update address. The harm was lost time, broken evenings and machines that could barely be used.
 
-### Why did the shutdown box appear again and again?
+**Why did the shutdown box appear again and again?**
 
 The worm attacked a Windows service, and its activity kept making that damaged service fail. When the service failed, Windows announced a shutdown by "NT AUTHORITY," counted down sixty seconds and restarted. Because the worm started itself again with every boot, the cycle repeated until the machine was cleaned and patched.
 
-### Could Blaster infect a computer today?
+**Could Blaster infect a computer today?**
 
 Not in its original form, because the flaw it used was patched long ago and the Windows versions it attacked are ancient. But its method is still alive: modern malware constantly scans the internet for unpatched software. That is why automatic updates and a switched-on firewall matter so much more now than any single antivirus program.
 
-### Who created the Blaster worm?
+**Who created the Blaster worm?**
 
 Nobody knows publicly. An American teenager, Jeffrey Lee Parson, was arrested and sentenced to 18 months in prison for making a modified copy called Blaster.B. The author of the original worm, the one with the angry message to Bill Gates hidden inside, was never publicly identified.
 
-### How did Microsoft stop the planned attack on its update site?
+**How did Microsoft stop the planned attack on its update site?**
 
 The worm was set to flood the address windowsupdate.com starting on 16 August 2003. Microsoft retired that address, and since the real update service lived at a slightly different address, the flood poured into an address that led nowhere. The attack spent itself harmlessly while people downloaded the patch from the real service.
 

@@ -80,27 +80,27 @@ That is not a phone playing safe. That is a phone picking a fight with the very 
 
 ## Frequently Asked Questions
 
-### When and where was the Oppo Find X10 series launched?
+**When and where was the Oppo Find X10 series launched?**
 
 The series made its global debut on 21 October in Mallorca, Spain.
 
-### How many 200-megapixel cameras does the Find X10 series have?
+**How many 200-megapixel cameras does the Find X10 series have?**
 
 The series features up to three 200-megapixel cameras, along with Hasselblad camera technology.
 
-### What colours does the Find X10 come in?
+**What colours does the Find X10 come in?**
 
 The standard X10 comes in Glacier Blue, Glow Coral and Mist Grey. The Pro Max comes in Titanium Grey and Luna White.
 
-### How big is the battery, and how long does it last?
+**How big is the battery, and how long does it last?**
 
 The phones carry an 8,000mAh silicon-carbon battery. Oppo claims up to two days on a single charge, and that the battery retains 80 percent capacity after five years of regular use.
 
-### Which chip powers the Find X10 Pro Max?
+**Which chip powers the Find X10 Pro Max?**
 
 The Pro Max uses MediaTek's Dimensity 9600 Pro, a 2nm chipset, making it among the first phones in the world to use it.
 
-### What is AI Mind Pilot?
+**What is AI Mind Pilot?**
 
 It is one of the AI features in ColorOS 17, the software on the Find X10 series. It includes an Agent Mode and connects with files and photos to work across them.
 

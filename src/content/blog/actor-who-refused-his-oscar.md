@@ -104,23 +104,23 @@ Readers will judge that dispute for themselves. What no one disputes is what hap
 
 ## Frequently Asked Questions
 
-### Who was Sacheen Littlefeather?
+**Who was Sacheen Littlefeather?**
 
 Sacheen Littlefeather (born Maria Louise Cruz, 14 November 1946) was an American actress and activist. She became famous worldwide on 27 March 1973, when she appeared at the 45th Academy Awards on behalf of Marlon Brando and declined his Best Actor Oscar for *The Godfather*.
 
-### Why did Marlon Brando refuse the Oscar for The Godfather?
+**Why did Marlon Brando refuse the Oscar for The Godfather?**
 
 Brando boycotted the 1973 ceremony to protest Hollywood's treatment and portrayal of Native Americans in films and television, and to draw attention to the American Indian Movement's ongoing standoff with federal agents at Wounded Knee, South Dakota.
 
-### What did Sacheen Littlefeather actually say on stage?
+**What did Sacheen Littlefeather actually say on stage?**
 
 Given only about 60 seconds, she could not read Brando's 739-word speech, so she summarised it off the cuff: Brando "very regretfully cannot accept this very generous award," because of the film industry's treatment of American Indians and the events at Wounded Knee. She later read the full speech to reporters, and *The New York Times* published it in full.
 
-### Did John Wayne really try to rush the stage?
+**Did John Wayne really try to rush the stage?**
 
 That is what Littlefeather said, and the show's producer and director recalled six security guards restraining Wayne. However, film historians Farran Nehme and Scott Eyman have called the story a "persistent urban legend" that never happened, so the truth of that famous backstage tale remains disputed.
 
-### Why did the Academy apologise to Littlefeather in 2022?
+**Why did the Academy apologise to Littlefeather in 2022?**
 
 The Academy apologised for the abuse, mockery and career damage she suffered because of her 60-second speech. Its president, David Rubin, wrote that the abuse was "unwarranted and unjustified" and that her courage had gone unacknowledged for too long. The apology was read in full at a special evening in her honour on 17 September 2022, two weeks before she died.
 

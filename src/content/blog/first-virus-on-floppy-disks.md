@@ -62,25 +62,25 @@ Elk Cloner is long gone, but its method is not. Things still hitch rides on what
 
 None of this needs to be fear. The lesson of Elk Cloner is friendly, really: sharing is lovely, but a quick scan is the polite way to accept a gift from another computer.
 
-## Common questions
+## Frequently Asked Questions
 
-### Was Elk Cloner really the first computer virus ever?
+**Was Elk Cloner really the first computer virus ever?**
 
 It is best described as the first microcomputer virus found spreading in the wild. Earlier experimental programs and larger mainframe curiosities existed, but Elk Cloner was the first on home computers to travel between real users on its own, which is why it holds its famous place in history.
 
-### Did Elk Cloner damage any computers?
+**Did Elk Cloner damage any computers?**
 
 No. It contained no harmful payload at all. It erased nothing and stole nothing; its only visible act was showing a short poem on every 50th start of an infected disk. The worst it caused was surprise, annoyance, and the effort of cleaning disks.
 
-### How did people get rid of Elk Cloner in 1982?
+**How did people get rid of Elk Cloner in 1982?**
 
 Because it lived in the boot sector, users had to overwrite or replace the infected startup area of a disk, or simply stop using infected disks. There was no antivirus industry yet, so the clean-up relied on knowledgeable users sharing instructions — an early taste of how security advice would spread for decades.
 
-### Could a virus spread on physical disks still matter today?
+**Could a virus spread on physical disks still matter today?**
 
 Yes, in spirit. USB sticks and external drives play the role floppy disks once did, and infected removable media still turns up in real incidents. The technology changed; the rule did not. Anything that has been plugged into another machine deserves a scan before it joins yours.
 
-### Why did Rich Skrenta write Elk Cloner?
+**Why did Rich Skrenta write Elk Cloner?**
 
 For the joke of it. His friends had stopped trusting the game disks he altered by hand, so he built a prank that could lend itself. It was a schoolboy's experiment in self-copying code, never intended to harm anyone — and by luck and design, it never did.
 

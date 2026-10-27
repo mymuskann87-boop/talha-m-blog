@@ -60,7 +60,7 @@ The first permanent pipe was installed at Lake Nyos in 2001, and two more were a
 
 I find something quietly hopeful in the patience of that arrangement: no wall, no weapon, just a pipe, a raft, and people who return year after year to measure the water and make sure a sleeping valley stays safe.
 
-## Questions people ask
+## Frequently Asked Questions
 
 **What is a limnic eruption, in simple words?**
 It is a sudden release of gas from a deep lake. Carbon dioxide builds up in the bottom water over many years, held down by pressure. If the water is disturbed, the gas escapes all at once, like the fizz rushing out when a shaken fizzy drink is opened, except on the scale of an entire lake.

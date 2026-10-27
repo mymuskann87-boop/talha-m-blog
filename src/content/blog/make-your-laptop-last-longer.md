@@ -56,25 +56,25 @@ Care extends life, but it does not grant immortality. Batteries eventually fade 
 
 The goal was never to keep one laptop forever. The goal is to replace it when you choose to, for a better machine or a real need — not when a preventable death forces your hand. A laptop that lasts six years instead of three halves what you spend per year on computing. That is saving, done quietly, one habit at a time.
 
-## Common questions
+## Frequently Asked Questions
 
-### How long should a laptop last with good care?
+**How long should a laptop last with good care?**
 
 With decent care — cool surfaces, sensible charging, regular cleaning, and safe carrying — an ordinary laptop can serve five to seven years for everyday work. Batteries may need replacing once in that time, which is normal and far cheaper than a new machine.
 
-### Does heat really damage a laptop?
+**Does heat really damage a laptop?**
 
 Yes. Blocked vents trap heat inside, and constant heat wears down the battery and stresses internal parts. Using the laptop on a hard surface, keeping vents clear of dust, and giving it air are the simplest ways to protect it.
 
-### Should I keep my laptop plugged in all the time?
+**Should I keep my laptop plugged in all the time?**
 
 It is better to avoid keeping it at 100% charge for weeks on end. If your laptop offers a charge limit around 80% for desk use, switch it on. Otherwise, let the battery cycle gently — charge around 20% and avoid running it to empty every time.
 
-### Why is my laptop slow — is it dying?
+**Why is my laptop slow — is it dying?**
 
 Often it is not dying at all. Too many startup programs, a full drive, and years of unused software make a healthy laptop feel slow. A twice-yearly clean-up — removing unused programs, freeing drive space, and installing updates — restores most of the lost speed.
 
-### How can I protect my laptop while travelling?
+**How can I protect my laptop while travelling?**
 
 Carry it in a padded sleeve or a dedicated laptop compartment, never loose among books and keys. Lift it by its base, not the screen, and let it cool before slipping it into a bag. Most laptop deaths are drops, and padding is the cheapest insurance there is.
 

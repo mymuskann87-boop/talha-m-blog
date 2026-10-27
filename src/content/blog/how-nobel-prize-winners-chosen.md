@@ -65,23 +65,23 @@ So the next time the October headlines appear, you will know the hidden story be
 
 ## Frequently Asked Questions
 
-### Can anyone apply for a Nobel Prize?
+**Can anyone apply for a Nobel Prize?**
 
 No. There is no application at all. Self-nominations are not allowed, so a person can only be considered if an invited expert nominates them.
 
-### Who is allowed to nominate someone?
+**Who is allowed to nominate someone?**
 
 Thousands of chosen people, such as professors, academy members, scientists and past laureates, are invited each September. For the peace prize, no invitation letter is needed, and lawmakers are among those who may nominate.
 
-### Why is everything kept secret for 50 years?
+**Why is everything kept secret for 50 years?**
 
 The secrecy protects the process. Committees can judge the work honestly, without pressure, campaigns or public fighting, and unsuccessful candidates are never embarrassed in public.
 
-### Can two or three people share one prize?
+**Can two or three people share one prize?**
 
 Yes. A prize can be shared by up to three individuals. The peace prize can also go to an organisation instead of a person.
 
-### When do winners receive their prize?
+**When do winners receive their prize?**
 
 The names are announced in October, and the medal, diploma and prize money are presented on 10 December at ceremonies in Stockholm and Oslo.
 

@@ -96,23 +96,23 @@ The star from Multan has risen. Now the whole cricket world gets to watch how br
 
 ## Frequently Asked Questions
 
-### Who is Arafat Minhas?
+**Who is Arafat Minhas?**
 
 Arafat Minhas is a young all-rounder from Multan, Pakistan. He first made his name playing for Pakistan's junior side at the Under-19 World Cup, and he has now made his one-day international debut for Pakistan.
 
-### Who did Arafat Minhas make his ODI debut against?
+**Who did Arafat Minhas make his ODI debut against?**
 
 He made his one-day international debut against Australia, and his first appearance was a match-winning performance that a sports profile published this week described as a record debut.
 
-### What kind of player is Arafat Minhas?
+**What kind of player is Arafat Minhas?**
 
 He is an all-rounder, which means he contributes to his team with both the bat and the ball. All-rounders are valued because they give their captain balance and options in both halves of the game.
 
-### Where is Arafat Minhas from?
+**Where is Arafat Minhas from?**
 
 He is from Multan, the historic city in southern Punjab known for its Sufi shrines, its summer heat, and its deep love of cricket.
 
-### How was his debut described?
+**How was his debut described?**
 
 A sports profile published on 21 October 2026 described Minhas as having taken international cricket by storm, and described his debut against Australia as a record debut with a match-winning performance.
 

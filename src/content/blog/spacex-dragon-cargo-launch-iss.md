@@ -47,19 +47,19 @@ That is why missions like CRS-35 matter so much. Each Dragon is a care package a
 
 ## Frequently Asked Questions
 
-### What is the SpaceX CRS-35 mission?
+**What is the SpaceX CRS-35 mission?**
 
 CRS-35 is SpaceX's 35th cargo delivery flight to the International Space Station under NASA's Commercial Resupply Services program. It launched on October 13, 2026, from Cape Canaveral, Florida.
 
-### How much cargo is Dragon carrying?
+**How much cargo is Dragon carrying?**
 
 More than 6,300 pounds of supplies, science hardware and experiments, including the final pair of iROSA Roll-Out Solar Arrays for the station's power system.
 
-### When will Dragon reach the space station?
+**When will Dragon reach the space station?**
 
 Docking is planned for Thursday, October 15, 2026, at around 11 a.m. Eastern Time, after a journey of just over 52 hours. Dragon will dock autonomously at the Harmony module.
 
-### Are there astronauts on this flight?
+**Are there astronauts on this flight?**
 
 No. This is a cargo-only mission using the Cargo Dragon spacecraft C211, which is flying its fourth mission. The station's Crew-13 astronauts will receive and unload the delivery.
 

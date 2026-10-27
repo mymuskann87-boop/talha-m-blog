@@ -55,7 +55,7 @@ At home, your layers look like this:
 
 No single one of these steps makes you untouchable. Together, they mean an attacker has to beat every layer, one after another, and most attackers simply move on to an easier target.
 
-## Common questions
+## Frequently Asked Questions
 
 **What exactly did Triton attack?**
 Triton attacked the safety instrumented system of a petrochemical plant — specifically Triconex safety controllers made by Schneider Electric. These controllers are the plant's last line of defence, designed to shut everything down safely if dangerous conditions appear. Triton tried to reprogram them so that this protection could be disabled or sabotaged.

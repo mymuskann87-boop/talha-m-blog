@@ -68,23 +68,23 @@ Most of all, keep the door of conversation open before anything goes wrong. A ch
 
 ## Frequently Asked Questions
 
-### What is the '764' network in this case?
+**What is the '764' network in this case?**
 
 In the case reported this week, Pakistani officials said the girl had been coerced by an online network known as '764'. The name is how the network was identified by the official speaking about the rescue. The important point for families is not the name itself, but the method: contact through games and apps, photographs taken, and then blackmail.
 
-### How do online blackmailers usually trap children?
+**How do online blackmailers usually trap children?**
 
 They begin as friendly contacts inside games and social media apps, build trust, and push the child toward secrecy. Then they obtain photographs and use the fear of those photographs being shared to control the child with growing demands.
 
-### What is the very first thing a parent should do?
+**What is the very first thing a parent should do?**
 
 Stay calm and protect the child from blame. Then save the evidence with screenshots, block the blackmailer, and report the case to the police and to the FIA cybercrime wing, which handles online crime cases in Pakistan.
 
-### Should parents check their child's phone?
+**Should parents check their child's phone?**
 
 Open checking works best when it is part of an honest family agreement rather than secret spying. Whatever method a family chooses, the true goal is the same: the child should feel safe telling a parent early, long before a small problem grows teeth.
 
-### Can a child recover after something like this?
+**Can a child recover after something like this?**
 
 Yes. Children are stronger than adults often think, especially when they are believed, protected, and never blamed. With family support, time, and professional help when needed, a rescued child can return to an ordinary, happy life.
 

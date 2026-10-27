@@ -54,7 +54,7 @@ Inside, the driver sits low, wrapped in a cockpit that feels more like a jet tha
 
 The SF90 will never be a car for everyone. Prices vary by market, year, and options, and this is a rare machine. But you do not need to own one to enjoy what it stands for. It stands for a simple idea: the future of fast cars does not have to be boring. It can be loud, quiet, clever, and wild, all in the same car. That is a future worth looking forward to.
 
-## Common questions
+## Frequently Asked Questions
 
 **Is the Ferrari SF90 Stradale fully electric?**
 

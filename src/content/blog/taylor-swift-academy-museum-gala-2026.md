@@ -50,17 +50,17 @@ A co-chair is a person who helps lead or support an event in an official role, s
 
 You do not need to know every detail about how a gala is organised to follow this story. What matters is simple. The museum announced a performer, three honorees, a group of co-chairs, a date and a purpose. Together, those details describe a planned and formal event, not a surprise appearance.
 
-## Common questions
+## Frequently Asked Questions
 
-### When will Taylor Swift perform at the Academy Museum Gala in 2026?
+**When will Taylor Swift perform at the Academy Museum Gala in 2026?**
 
 She will perform on Saturday, October 17, 2026, at the 6th annual Academy Museum Gala in Los Angeles, according to the announcement made on October 8 by the Academy Museum of Motion Pictures.
 
-### Who will be honoured at the Academy Museum Gala 2026?
+**Who will be honoured at the Academy Museum Gala 2026?**
 
 The evening will honour Charlize Theron, Colman Domingo and John Carpenter. Their names were part of the same official announcement as Swift's performance.
 
-### What does the Academy Museum Gala fundraiser support?
+**What does the Academy Museum Gala fundraiser support?**
 
 The fundraiser supports the museum's exhibitions, film screenings and education programs. That is the purpose the museum shared in its announcement.
 

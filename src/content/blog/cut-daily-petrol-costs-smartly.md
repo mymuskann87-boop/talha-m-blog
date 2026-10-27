@@ -63,25 +63,25 @@ There is also a limit of comfort and safety. Never switch the engine off while c
 - [Save Money On Daily Transport](https://talhablog.com/blog/save-money-on-daily-transport/)
 - [Cut Car Maintenance Costs Down](https://talhablog.com/blog/cut-car-maintenance-costs-down/)
 
-## Common questions
+## Frequently Asked Questions
 
-### Does smooth driving really lower daily petrol costs?
+**Does smooth driving really lower daily petrol costs?**
 
 Yes. Hard acceleration and hard braking waste fuel, while a steady speed lets the engine work evenly. Drivers who switch to gentle acceleration and early braking usually see the fuel gauge fall more slowly within a week or two, even on the same roads.
 
-### How often should I check tyre pressure?
+**How often should I check tyre pressure?**
 
 Once every two weeks is a good rhythm, and always before a long journey. Use the pressure printed on the driver's door sticker or in the owner's manual, not a number guessed from another car. Soft tyres force the engine to work harder and drink more fuel.
 
-### Does extra weight in the car really matter?
+**Does extra weight in the car really matter?**
 
 Yes, though one small bag will not change much. Heavy items left in the boot for weeks, and roof racks that stay fitted when empty, add up over a full tank. Removing what is not needed is free, takes minutes, and helps every single trip.
 
-### Should I drive far to find cheaper petrol?
+**Should I drive far to find cheaper petrol?**
 
 No. Driving out of the way to chase a slightly lower price burns the very fuel you hoped to save. Compare the prices of pumps on routes you already travel, and choose the cheaper one among those.
 
-### Can I save on petrol without driving less?
+**Can I save on petrol without driving less?**
 
 Yes, up to a point. Smooth driving, correct tyre pressure, a lighter car, combined trips, and a cheaper pump all reduce litres used without cutting any necessary journey. Beyond that, walking short trips and sharing rides are the next steps, and they save even more.
 

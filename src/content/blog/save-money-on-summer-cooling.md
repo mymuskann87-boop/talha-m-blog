@@ -58,25 +58,25 @@ One limit matters more than all the tips above. In extreme heat, cooling is heal
 
 The same honesty applies to expectations. These steps will not make a tin-roofed room in a heatwave feel like a mountain resort. They will make an ordinary home noticeably cooler and noticeably cheaper to run, which is a real result. The house that learned to breathe that Monday week is still not cold in the afternoon. It is liveable, and the bill at month's end no longer stings the way it used to.
 
-## Common questions
+## Frequently Asked Questions
 
-### Does a fan actually cool a room?
+**Does a fan actually cool a room?**
 
 A fan cools people, not rooms. It moves air across skin, which carries body heat away, so you feel cooler while the room temperature stays almost the same. That is why a fan in an empty room wastes power, and a fan aimed at the person sitting there is money well spent.
 
-### What AC setting feels comfortable and saves power?
+**What AC setting feels comfortable and saves power?**
 
 A moderate setting, around 25 to 27 degrees, with a fan running, feels comfortable for most people and uses much less power than the coldest setting. Every degree colder adds to the electricity use, so comfort, not coldness, is the target.
 
-### Do curtains really make a difference?
+**Do curtains really make a difference?**
 
 Yes, a large one. Sunlight through bare glass heats a room fast, and curtains closed before the sun hits hardest stop much of that heat from entering. Light-coloured curtains reflect more heat, and outside shade like an awning or tree works even better.
 
-### How often should I clean the AC filter?
+**How often should I clean the AC filter?**
 
 Every few weeks during heavy summer use is a good habit. A clogged filter makes the machine work harder, cool slower, and use more power. Cleaning takes about ten minutes and often improves cooling the same evening.
 
-### Is it safe to sleep with windows open at night?
+**Is it safe to sleep with windows open at night?**
 
 It can be, with care. Use windows with grills or locks that allow airflow, and judge the street outside. A fan in one window blowing outward can pull cool air through other openings without leaving the house wide open.
 

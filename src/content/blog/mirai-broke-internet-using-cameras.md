@@ -74,7 +74,7 @@ The good news hidden inside this story is that Mirai's trick is easy to defeat, 
 
 None of these steps costs money. All of them together take less than an hour, once, for the whole house.
 
-## Common questions
+## Frequently Asked Questions
 
 **What does Mirai actually do to my camera?**
 Surprisingly little that you can see. Mirai uses your camera's connection to scan for other devices and, when ordered, to send junk traffic at a target. The camera usually keeps working normally, which is exactly why so many owners never had any idea their gadgets were infected.

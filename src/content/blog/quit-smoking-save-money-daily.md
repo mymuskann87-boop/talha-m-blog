@@ -67,25 +67,25 @@ Relapses happen to many people who eventually quit for good. A relapse is not pr
 - [Cut Daily Tea Expenses Smartly](https://talhablog.com/blog/cut-daily-tea-expenses-smartly/)
 - [Save Money On Medicine Costs](https://talhablog.com/blog/save-money-on-medicine-costs/)
 
-## Common questions
+## Frequently Asked Questions
 
-### How much money does quitting smoking save each day?
+**How much money does quitting smoking save each day?**
 
 It depends on how much you smoke and the local price of cigarettes. Count one full week of spending honestly, divide by seven for the daily figure, and multiply by thirty for a rough monthly figure. That personal number is far more useful than any average, because it is your money, not a stranger's.
 
-### Does the jar method really help with quitting smoking?
+**Does the jar method really help with quitting smoking?**
 
 For many people, yes, because it makes an invisible saving visible. A bank balance grows silently, but a jar on a windowsill fills up where you can see it every morning. The visible progress gives quitting a daily reward, which matters most in the first difficult weeks.
 
-### What should I do if I smoke again after quitting?
+**What should I do if I smoke again after quitting?**
 
 Do not throw the plan away. A single slip does not erase the money saved or the days already smoke-free. Put the next day's amount in the jar anyway, think about which moment was hardest, plan a replacement for that moment, and keep going. Many people who quit for good slipped at least once first.
 
-### Should I tell people I am quitting?
+**Should I tell people I am quitting?**
 
 Tell one supportive person, at least. A witness who asks kindly how it is going makes the quit date real and gives you someone to call on hard days. You do not need to announce it to everyone — one trusted person is enough.
 
-### Can a doctor help me quit smoking?
+**Can a doctor help me quit smoking?**
 
 Yes. If cravings feel overwhelming or past attempts have failed, ask a doctor or pharmacist about approved cessation support. They can explain the options and what suits your situation. Asking for help is a sensible step, not a sign of weakness.
 

@@ -70,25 +70,25 @@ For work, even in a tiny business, treat the computer used for banking and accou
 
 Finally, remember the Change Healthcare lesson: one supplier can affect thousands of strangers. At home, the risk is smaller but real. If all your photos sit in one account and all your documents sit on one laptop, one bad day can take everything. Spread the risk. Back up. Lock accounts properly. Make the cat work harder than it wants to.
 
-## Common questions
+## Frequently Asked Questions
 
-### What is BlackCat ransomware?
+**What is BlackCat ransomware?**
 
 BlackCat, also called ALPHV, is a ransomware operation that appeared in late 2021. It scrambled victims' files and demanded payment, while also threatening to leak stolen data and knock websites offline. Researchers noted it as the first major ransomware written in Rust.
 
-### Was BlackCat one hacker working alone?
+**Was BlackCat one hacker working alone?**
 
 No. BlackCat ran as ransomware-as-a-service, which means a core group controlled the tools and brand while affiliates carried out attacks for a share of the money. The Change Healthcare attack was widely attributed by US authorities to a BlackCat affiliate, not simply to one lone person.
 
-### Why did the Change Healthcare attack hurt so many pharmacies?
+**Why did the Change Healthcare attack hurt so many pharmacies?**
 
 Change Healthcare's systems processed prescriptions and payments for a huge share of American healthcare. When those systems were hit, pharmacies could not process insurance claims normally for weeks. One shared company had become a bridge for countless patients, clinics, and hospitals.
 
-### Did UnitedHealth pay a ransom?
+**Did UnitedHealth pay a ransom?**
 
 UnitedHealth's chief executive confirmed that the company paid a ransom to protect patient data. Blockchain researchers traced a payment of about $22 million at the time. That traced figure is reported carefully because it comes from following blockchain records, while the company's own confirmation was about paying to protect data.
 
-### Did the FBI defeat BlackCat completely?
+**Did the FBI defeat BlackCat completely?**
 
 The FBI seized BlackCat's leak site in December 2023, and the gang briefly claimed it had taken the site back before it was firmly in police hands. In March 2024, BlackCat shut down suddenly. Researchers widely assessed that shutdown as an exit scam after an affiliate complained the gang had kept the healthcare ransom instead of sharing it.
 

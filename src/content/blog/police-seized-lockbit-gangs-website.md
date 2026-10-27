@@ -54,25 +54,25 @@ The second shield is updates. The holes that criminals walk through are usually 
 
 The fourth shield is a pause before clicking. Unexpected attachments, surprise invoices and urgent messages demanding instant action are the classic delivery trucks for ransomware. A thirty-second check, such as calling the sender on a number you already trust, breaks most of these attacks before they begin. And one final lesson matters most of all: never build your safety on the hope that a gang will be caught. Operation Cronos was a famous victory, but it arrived after years of victims had already paid, lost data or closed down. Police work is good news when it comes. It is not a protection plan.
 
-## Common questions
+## Frequently Asked Questions
 
-### What is LockBit in simple words?
+**What is LockBit in simple words?**
 
 LockBit was a criminal gang that rented out file-locking software. Its partners broke into companies, scrambled their files so nothing could be opened, stole copies of private data, and then demanded money to unlock the files and keep the data secret.
 
-### What exactly happened during Operation Cronos?
+**What exactly happened during Operation Cronos?**
 
 In February 2024, police forces from many countries, led by the UK National Crime Agency with the FBI and Europol, seized the gang's servers and websites. They then used LockBit's own leak site to publish police announcements, and offered recovered decryption keys to victims for free.
 
-### Did the seizure finish the gang completely?
+**Did the seizure finish the gang completely?**
 
 Not instantly. A new LockBit leak site appeared within days, and the name tried to continue. However, the authorities argued that the gang's reputation for safety among criminals was destroyed, and in May 2024 the US and UK named and sanctioned the man they say led it, Dmitry Khoroshev.
 
-### Can a small business really be a LockBit target?
+**Can a small business really be a LockBit target?**
 
 Yes. The affiliates who rented the software chose victims they could reach, not only famous giants. Any business whose computers hold important files and whose doors are weakly protected could be attacked, which is why backups and updates matter at every size.
 
-### Should a victim just pay the ransom?
+**Should a victim just pay the ransom?**
 
 Police and security agencies generally advise against paying, because payment funds the crime, does not guarantee the files will be unlocked, and the stolen data may still be published. Reporting the attack to the police and getting professional help is the safer first step, and after Operation Cronos some victims could even obtain working keys free through official channels.
 

@@ -92,27 +92,27 @@ Two days. Two decisions. One company at the center of a race that is only gettin
 
 ## Frequently Asked Questions
 
-### What is DeepSeek?
+**What is DeepSeek?**
 
 DeepSeek is an artificial intelligence lab based in Hangzhou, China. It builds AI technology and models, and it has become one of the most talked-about names in the global AI race.
 
-### How much money did DeepSeek raise?
+**How much money did DeepSeek raise?**
 
 According to a Bloomberg report, the company raised about $15 billion, which is roughly 100 billion yuan. The round was described as one of the biggest funding rounds in China's history.
 
-### Who are the potential investors?
+**Who are the potential investors?**
 
 The report named potential investors including CATL, the Chinese battery maker, and Tencent, the company behind the WeChat app.
 
-### Why did the United States order its removal?
+**Why did the United States order its removal?**
 
 United States federal civilian agencies were ordered to remove DeepSeek's AI technology from their systems over security concerns. The order came just two days before the funding news broke.
 
-### What will DeepSeek spend the money on?
+**What will DeepSeek spend the money on?**
 
 The startup is ramping up spending on AI infrastructure and on open models, aimed at both domestic and international markets.
 
-### Will this affect other Chinese AI companies?
+**Will this affect other Chinese AI companies?**
 
 Very likely, yes. The report notes that DeepSeek's expansion could further intensify competition among its domestic rivals, which may push the whole Chinese AI field to move faster.
 

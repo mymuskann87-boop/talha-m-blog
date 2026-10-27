@@ -70,25 +70,25 @@ A family that follows this week will still pay a winter heating bill. It will si
 
 The blanket is back in the cupboard now, folded, waiting. The heater clicks on in the evening, the curtains close at sunset, and the room holds its warmth the way a room should — quietly, without drama, without waste. Winter will come again next year. The house will be ready a little earlier, and the bill a little smaller.
 
-## Common questions
+## Frequently Asked Questions
 
-### What is the cheapest way to reduce winter heating costs?
+**What is the cheapest way to reduce winter heating costs?**
 
 Seal gaps around doors and windows first. Warm air escapes through cracks constantly, and a simple strip or rolled cloth stops that loss for almost nothing. After sealing, use curtains wisely and heat only the rooms in use.
 
-### Do curtains really help keep a house warm?
+**Do curtains really help keep a house warm?**
 
 Yes. Closed thick curtains at night trap a layer of still air against the window glass, which insulates the room. Opened on sunny days, they let free winter sunlight warm the floor and furniture. Moving curtains twice a day costs nothing and saves steadily.
 
-### Should I wear warm clothes indoors instead of turning up the heat?
+**Should I wear warm clothes indoors instead of turning up the heat?**
 
 Warm layers first, then the heater. A sweater, socks, and a shawl warm the body faster than heating the whole room, and the heater can stay at a moderate setting. This is about order — dress for the season, then let the heater do the rest.
 
-### Is it safe to close all vents when using a fuel heater?
+**Is it safe to close all vents when using a fuel heater?**
 
 No. Never block ventilation for a fuel heater. Fresh air is part of how a fuel heater burns safely, and blocking vents can trap dangerous gases indoors. Warmth must never come at the cost of safe air.
 
-### Should I get my heater serviced before winter?
+**Should I get my heater serviced before winter?**
 
 Yes. A heater that has not been cleaned or checked works harder for the same warmth, and a pre-winter service helps it run efficiently. It also catches problems early, when they are cheap. Never use an unsafe or damaged heater — repair or replace it first.
 

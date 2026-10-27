@@ -68,25 +68,25 @@ You cannot control everything, but this attack teaches clear, practical lessons 
 
 **Make a plan before the bad day arrives.** Decide in advance: if our computers were locked tomorrow, who do we call, where are our backups, and how do we keep serving customers? A business with a plan panics less and recovers faster — and never has to consider a criminal's price tag in a moment of fear.
 
-## Common questions
+## Frequently Asked Questions
 
-### What does REvil's other name, Sodinokibi, mean?
+**What does REvil's other name, Sodinokibi, mean?**
 
 Sodinokibi is simply the second name by which security researchers and reports identified the same ransomware operation. The gang, its rental model, and its attacks are the same under both names. News stories from that period use the two names interchangeably.
 
-### Did the 1,500 businesses pay the 70 million dollars?
+**Did the 1,500 businesses pay the 70 million dollars?**
 
 No single payment of the full demand is part of the reported story. The gang demanded 70 million dollars for one universal key, but investigators had quietly obtained a working decryption key, and the gang later released a key publicly. Many victims were able to recover with help rather than by paying the gang.
 
-### How could one piece of software reach so many businesses at once?
+**How could one piece of software reach so many businesses at once?**
 
 Because IT support companies each look after many client businesses through that one tool. When the tool's trusted channel was poisoned, the ransomware flowed from the IT companies into all their clients' computers in a chain. That is why security people call this a supply-chain attack: poison one trusted supplier, and everyone downstream is served the poison.
 
-### If my IT company is attacked, is there anything I can do?
+**If my IT company is attacked, is there anything I can do?**
 
 Yes. Your own disconnected backups, your own records of important accounts, and a recovery plan that does not depend only on your provider all protect you. You should also agree in advance how your provider will inform you quickly if something goes wrong on their side, so you can disconnect and respond early.
 
-### Is REvil completely gone now?
+**Is REvil completely gone now?**
 
 The January 2022 arrests by Russia's FSB, announced at the request of the United States, broke up the group as it existed then, and its sites had already vanished from the dark web. But the ransomware-as-a-service idea it popularised did not disappear — other gangs copied the model, which is why the lessons from this attack still matter today.
 

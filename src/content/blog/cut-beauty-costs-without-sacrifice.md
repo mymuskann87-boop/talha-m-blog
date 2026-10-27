@@ -58,25 +58,25 @@ Cutting beauty costs has a boundary, and it is drawn by health. Skin problems de
 
 There is also a boundary drawn by joy. If one particular product genuinely delights you — its scent, its texture, the small ritual of using it — keeping it is not waste. The goal was never to make a bathroom shelf miserable. The goal is to remove the bottles that nobody loves, nobody finishes, and nobody would miss. Keep what you love. Release the rest. The shelf gets lighter, the skin gets calmer, and the money stays where it belongs.
 
-## Common questions
+## Frequently Asked Questions
 
-### How can I cut beauty costs without losing results?
+**How can I cut beauty costs without losing results?**
 
 Simplify the routine to cleansing, moisture, and sun protection, then add extras only for problems you can name. Buy basic versions before luxury ones, finish each product before opening another, and test cheaper swaps one at a time. Most savings come from removing bottles nobody finishes.
 
-### Should I buy luxury or basic beauty products?
+**Should I buy luxury or basic beauty products?**
 
 Try the basic version of the same kind of product first. Read the ingredient list rather than the advertising on the front — if the key ingredients match, the basic version often does a similar job. Judge by your own skin over a few weeks, and keep the luxury version only if it genuinely performs better for you.
 
-### Why do I waste so much money on beauty products?
+**Why do I waste so much money on beauty products?**
 
 The biggest waste is half-used bottles: a new product arrives, the old one moves to the back of the shelf, and it expires unfinished. The rule of finishing one product before opening another of the same kind stops this waste and teaches you which products truly suit you.
 
-### Are multi-use beauty products worth buying?
+**Are multi-use beauty products worth buying?**
 
 They are when they genuinely do both jobs for your skin. Test one alone for a few weeks and judge by results. A product that truly covers two jobs saves the price of a second bottle, but one that does neither job well leads to buying the proper products anyway.
 
-### When should I see a doctor instead of buying beauty products?
+**When should I see a doctor instead of buying beauty products?**
 
 For persistent rashes, sores that do not heal, sudden skin changes, or allergic reactions, see a doctor rather than shopping for another cream. This post offers general information only, not medical advice, and no bottle replaces a diagnosis.
 

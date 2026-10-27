@@ -68,25 +68,25 @@ The worm itself belongs to 2007, but its trick is alive today, because the trick
 
 **Watch for a computer behaving oddly.** A machine that runs hot or slow for no reason, sends mail you never wrote, or works hard while nobody is using it deserves a full antivirus scan. A zombie computer gives itself away by working for someone else when it should be resting.
 
-## Common questions
+## Frequently Asked Questions
 
-### What is a botnet, in simple words?
+**What is a botnet, in simple words?**
 
 A botnet is a group of infected computers secretly controlled by one criminal or gang. Each captured computer is called a bot, or zombie. Alone, one bot does little harm. Together, thousands or millions of them can send enormous amounts of spam, steal information, or knock websites offline under a flood of fake visits.
 
-### Why was it called the Storm Worm?
+**Why was it called the Storm Worm?**
 
 Because it arrived dressed as news about a storm. The worm appeared in January 2007, just days after Windstorm Kyrill had battered Europe, and its emails used frightening storm headlines — such as "230 dead as storm batters Europe" — to lure people into opening an infected attachment.
 
-### Why could police not simply shut the Storm botnet down?
+**Why could police not simply shut the Storm botnet down?**
 
 Because it had no single controller to seize. Its computers communicated peer-to-peer, passing orders among themselves, so capturing any one machine revealed almost nothing and stopped almost nothing. The network even defended itself by flooding investigators who probed it too closely.
 
-### Were the people behind the Storm Worm ever caught?
+**Were the people behind the Storm Worm ever caught?**
 
 No. The people behind the Storm botnet were never publicly identified. That is part of why the story still matters: one of the largest criminal computer networks ever built operated in the open, and its owners walked away unnamed.
 
-### Can this trick still work on me today?
+**Can this trick still work on me today?**
 
 Yes, the pattern can. The software of 2007 is old, but disguising malware as breaking news is a timeless trick, repeated after every major tragedy. Your real protection is the habit: never open attachments riding on shocking news, and always reach news through sites you visit directly.
 

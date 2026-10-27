@@ -60,25 +60,25 @@ Download programs only from their official sites or trusted app stores, and slow
 
 NotPetya walked through networks using stolen passwords. Use a different strong password for each important account, and turn on two-step verification where you can, the setting that asks for a code from your phone as well as your password. Then one stolen password cannot open every door in your life.
 
-## Common questions
+## Frequently Asked Questions
 
-### Was NotPetya really ransomware?
+**Was NotPetya really ransomware?**
 
 No. It displayed a ransom screen asking for $300 in Bitcoin, but experts who examined it found the files were damaged in a way that could never be reversed. It was a wiper in a ransomware costume, and paying the demand could not bring the files back.
 
-### Why did an attack on Ukraine hurt companies in other countries?
+**Why did an attack on Ukraine hurt companies in other countries?**
 
 Because big companies are connected. Their Ukrainian offices were joined to the same networks as their offices in Europe and America, so once NotPetya entered through Ukraine, it travelled along each company's own systems to the rest of the world within hours.
 
-### Who was blamed for NotPetya?
+**Who was blamed for NotPetya?**
 
 The United States, the United Kingdom and several other governments officially blamed Russia, saying the attack was aimed at Ukraine and spread out of control from there. The White House put the total damage at about $10 billion, the highest figure ever attached to a single cyberattack.
 
-### If my files are wiped, can an expert recover them?
+**If my files are wiped, can an expert recover them?**
 
 In a wiper attack like this one, sadly, almost never. The destruction is designed to be permanent, which is exactly why an offline backup matters so much. A copy kept disconnected from the computer is usually the only way those files come back.
 
-### Could the same trick happen again with another program?
+**Could the same trick happen again with another program?**
 
 Yes, the door it used still exists in principle: attackers love trusted updates and trusted accounts because people let them in without suspicion. Prompt updates, official download sources and offline backups remain the everyday shield for ordinary people and small businesses.
 

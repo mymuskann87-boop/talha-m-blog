@@ -63,25 +63,25 @@ There is also a limit of pride. Looking tidy matters at work, at school, and at 
 - [Cut Hair Care Costs Smartly](https://talhablog.com/blog/cut-hair-care-costs-smartly/)
 - [Cut Beauty Costs Without Sacrifice](https://talhablog.com/blog/cut-beauty-costs-without-sacrifice/)
 
-## Common questions
+## Frequently Asked Questions
 
-### How can I make a haircut last longer?
+**How can I make a haircut last longer?**
 
 Choose a style that grows out gracefully, such as a medium layered cut, and ask your barber how it will look in a month. Tidy only the stray edges at home between visits, and let the mirror — not a fixed calendar date — decide when the next appointment is due.
 
-### Is it worth learning to cut children's hair at home?
+**Is it worth learning to cut children's hair at home?**
 
 Yes, for most families it is the single biggest saving in grooming. Children's cuts repeat often, and a simple basic cut is easier to learn than an adult style. Start slowly, keep attempts modest, and let the barber correct any uneven first tries.
 
-### Do barbershops really offer off-peak discounts?
+**Do barbershops really offer off-peak discounts?**
 
 Some do, especially on quiet weekday mornings when chairs sit empty. It is never guaranteed, so ask politely rather than expecting it. Even without a discount, a quiet-hour appointment usually means an unhurried, longer-lasting cut.
 
-### Which extras should I skip at the barber?
+**Which extras should I skip at the barber?**
 
 Anything added by habit rather than need: a wash you could do at home, a treatment that is not due, or a styling product you already own. A simple "just the cut today, please" is normal, and barbers hear it every day.
 
-### How much can a family actually save on haircut costs?
+**How much can a family actually save on haircut costs?**
 
 It depends on local prices and how often each person visits, but the maths is straightforward: stretching each cut by one week and skipping extras removes several full payments per person each year. In a family of four, that quickly becomes one of the easiest savings in the household budget.
 

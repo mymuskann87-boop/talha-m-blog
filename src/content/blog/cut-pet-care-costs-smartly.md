@@ -59,25 +59,25 @@ Rainy days still need play. Indoor games — hiding treats in boxes, a paper bal
 - [Cut Baby Care Costs Smartly](https://talhablog.com/blog/cut-baby-care-costs-smartly/)
 - [Care For Parents Spending Less](https://talhablog.com/blog/care-for-parents-spending-less/)
 
-## Common questions
+## Frequently Asked Questions
 
-### How can I save on pet food without harming my pet?
+**How can I save on pet food without harming my pet?**
 
 Compare the price per kilo, not the price per bag, and buy the larger pack when it is cheaper per kilo. Store food sealed and dry, measure portions with a scoop, and avoid overfeeding. Never switch to a much cheaper food suddenly — change foods gradually and watch your pet's health.
 
-### Are vet checkups really worth the money?
+**Are vet checkups really worth the money?**
 
 Yes. Routine checkups and vaccinations cost a small, predictable amount, while treating a preventable illness costs many times more. Keep a card with vaccination and checkup dates, and go when the date comes. Early problems found at a checkup are cheaper and easier to treat.
 
-### Can I groom my pet at home?
+**Can I groom my pet at home?**
 
 Yes, for routine care. Regular brushing, basic baths with pet shampoo, and nail checks cover most needs between professional visits. Use short, calm sessions with a treat at the end. Leave tricky cuts, matted coats, and anything painful to a professional groomer.
 
-### What household items make safe pet toys?
+**What household items make safe pet toys?**
 
 A cardboard box, a knotted old towel, and a plain ball are popular free toys. The rule is safety: nothing small enough to swallow, nothing sharp, nothing that splinters. Check toys often and throw away anything broken. Rotate toys so old ones feel new again.
 
-### What should I budget for before getting a pet?
+**What should I budget for before getting a pet?**
 
 Think in years, not in the first price. Budget for daily food, vaccinations and checkups, grooming, and emergency care across the pet's whole life, which can be ten years or more. A pet that fits your home, time, and budget is a happier and cheaper companion than one chosen for looks alone.
 

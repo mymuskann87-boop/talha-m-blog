@@ -66,7 +66,7 @@ South Africa's talent for sharing things around does not stop at capitals. The c
 
 So next time a quiz asks you for the capital of South Africa, smile. The honest answer is not one city. It is a road trip: Pretoria to run things, Cape Town to make the laws, Bloemfontein to judge them — and Johannesburg, the giant with no title, quietly holding the highest court of all.
 
-## Questions people ask
+## Frequently Asked Questions
 
 **Which is the real capital of South Africa?**
 All three are real, and each has a different job. Pretoria is the administrative (executive) capital, Cape Town is the legislative capital where Parliament sits, and Bloemfontein is the judicial capital, home of the Supreme Court of Appeal. No single city is the capital for everything.

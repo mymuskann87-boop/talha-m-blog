@@ -73,25 +73,25 @@ The rule is simple: checks and small jobs you understand are yours. Anything saf
 - [Cut Daily Petrol Costs Smartly](https://talhablog.com/blog/cut-daily-petrol-costs-smartly/)
 - [Save Money On Daily Transport](https://talhablog.com/blog/save-money-on-daily-transport/)
 
-## Common questions
+## Frequently Asked Questions
 
-### How do car maintenance costs stay low over a year?
+**How do car maintenance costs stay low over a year?**
 
 Follow the service schedule without stretching it, do small monthly checks on tyres, oil, and coolant, fix small problems early, and drive smoothly. No single trick matters as much as regularity — the notebook habit of writing down every check and every cost turns car care from guessing into planning.
 
-### Is it worth getting a second quote for a car repair?
+**Is it worth getting a second quote for a car repair?**
 
 For any big repair, yes. Prices differ between workshops for honest reasons, and a second quote also tells you whether the job is truly urgent or can be planned. The hour it costs can save a large amount, and it gives you a calmer basis for deciding.
 
-### Which car checks can a non-mechanic safely do?
+**Which car checks can a non-mechanic safely do?**
 
 Tyre pressure, engine oil level, coolant level, lights, wipers, and a weekly walk-around look for leaks, wear, and new noises are all safe for an owner. Anything involving brakes, steering, airbags, fuel lines, or engine internals belongs to a qualified mechanic.
 
-### Does gentle driving really reduce maintenance costs?
+**Does gentle driving really reduce maintenance costs?**
 
 Yes, because hard braking, fast acceleration, and rough-road speeding wear out brake pads, tyres, suspension, and engine parts faster. Smooth driving extends the life of those parts, which means fewer replacements over the year and fewer workshop visits.
 
-### What car problem should never be ignored?
+**What car problem should never be ignored?**
 
 Anything safety-related: brakes that feel soft or noisy, steering that pulls or shakes, and any warning light for brakes or engine temperature. These should be checked immediately by a professional, because waiting turns a repair bill into a safety risk.
 

@@ -60,7 +60,7 @@ Other changes were slow, physical and faintly comic. Police stations replaced th
 
 My own feeling is that the blank space on that university sign tells the truth about every name change in history: a king can rename a country in one afternoon, but a country renames itself slowly, in banknotes and signboards and habits, over years. The word on the map changed in a day. The word in people's mouths is taking longer, and perhaps that is exactly as it should be.
 
-## Common questions
+## Frequently Asked Questions
 
 **When exactly did Swaziland become eSwatini?**
 King Mswati III announced the change on 19 April 2018, during the Golden Jubilee celebrations in Manzini. A legal notice published in May 2018 made it official and treated it as effective from the day of the announcement.

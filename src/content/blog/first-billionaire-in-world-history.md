@@ -68,7 +68,7 @@ Our barrel's world was a world of lamps. A barrel of crude meant light for readi
 
 Yet the shape of the story still feels familiar. One man saw that the real power lay not in owning a well but in controlling the path every barrel travelled, and he built a system so complete that a government had to cut it into 34 pieces. Then, in the strangest ending of all, those pieces made him the first billionaire in history, and he spent his final decades giving the money away, one foundation, one university and one dime at a time.
 
-## Questions people ask
+## Frequently Asked Questions
 
 **Why is Rockefeller called the first billionaire?**
 On 29 September 1916, newspapers reported that the rising value of his oil-company shares had pushed his fortune past one billion dollars. There was no exact official count, so the title rests on careful estimates, but no earlier fortune is known to have reached that figure.

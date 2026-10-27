@@ -69,25 +69,25 @@ No single habit makes you untouchable, but a handful of simple habits close near
 - **Keep your computer and browser updated.** Many infections slip in through old holes that the makers have already patched. An update you keep postponing is an open window you keep forgetting to close. Turn on automatic updates and let them do their boring, lifesaving work.
 - **Be suspicious of new boxes on familiar pages.** This is the Zeus trick itself. If your bank's page suddenly asks for things it never asked for before — your full card number, your PIN, codes it normally never requests — stop. Close the page. Call the bank on the number printed on your card and ask. A thirty-second phone call is cheaper than an emptied account.
 
-## Common questions
+## Frequently Asked Questions
 
-### What is the Zeus trojan in simple words?
+**What is the Zeus trojan in simple words?**
 
 Zeus is a hidden program that infects Windows computers and steals online banking passwords. It watches what you type and can even add fake boxes to real bank pages to trick you into giving away extra details. Criminals then use those stolen details to move money out of your account.
 
-### How would I know if a banking trojan is on my computer?
+**How would I know if a banking trojan is on my computer?**
 
 Usually, you would not — these programs are built to stay invisible, so the absence of warnings proves nothing. The clearest signs appear at the bank's end: payments you do not recognise, or your bank page asking for unusual details it never asked for before. Keeping your antivirus updated and your statements checked is how most people catch it.
 
-### Why did Zeus keep coming back after arrests?
+**Why did Zeus keep coming back after arrests?**
 
 Because the gangs were only one part of the problem. When the Zeus source code leaked in 2011, anyone could build their own version, and kits for making it were sold online. Arresting one ring was like cutting one branch off a tree that had already scattered its seeds everywhere.
 
-### Can a banking trojan infect my phone too?
+**Can a banking trojan infect my phone too?**
 
 Zeus itself targeted Windows computers, but banking trojans as a family exist for phones as well, usually hiding inside fake apps or poisoned downloads. The same habits protect you on both: install apps only from official stores, never through links in messages, and keep two-factor authentication switched on.
 
-### What should I do if I see a payment I do not recognise?
+**What should I do if I see a payment I do not recognise?**
 
 Call your bank immediately using the number on your card or the bank's official app — not a number from any suspicious email. Tell them the payment is not yours, ask them to protect the account, and change your banking password from a different, clean device. Speed matters, because stolen money gets harder to recover with every hour that passes.
 

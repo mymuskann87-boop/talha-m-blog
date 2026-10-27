@@ -84,23 +84,23 @@ So the next time you pop a bubble in a delivery box, remember what your fingers 
 
 ## Frequently Asked Questions
 
-### What was bubble wrap originally invented to be?
+**What was bubble wrap originally invented to be?**
 
 Wallpaper. In 1957, engineers Alfred Fielding and Marc Chavannes sealed two plastic shower curtains together in Hawthorne, New Jersey, hoping to create a textured plastic wallpaper for modern homes. Nobody bought it, and a second attempt to sell it as greenhouse insulation also failed.
 
-### Who invented bubble wrap, and when?
+**Who invented bubble wrap, and when?**
 
 Bubble wrap was invented in 1957 by Alfred Fielding and Marc Chavannes. In 1960 they founded Sealed Air Corporation to develop it, first selling the material under the name Air Cap before the Bubble Wrap brand took over.
 
-### Why did IBM use bubble wrap?
+**Why did IBM use bubble wrap?**
 
 IBM needed to ship its delicate new 1401 computer safely, at a time when the standard protection was messy balled-up newspaper. Sealed Air marketer Frederick W. Bowers pitched Bubble Wrap as protective packaging, IBM tested it, and became the material's first packaging customer.
 
-### Is Bubble Wrap a brand name or the product's real name?
+**Is Bubble Wrap a brand name or the product's real name?**
 
 Bubble Wrap is a trademarked brand of the Sealed Air Corporation. The generic material — plastic cushioning filled with air bubbles — is called air-bubble cushioning, though almost everyone simply says "bubble wrap" for any version of it.
 
-### Why do people love popping bubble wrap so much?
+**Why do people love popping bubble wrap so much?**
 
 Nobody fully planned it, but popping the bubbles turned out to be deeply satisfying and stress-relieving — so much so that Sealed Air keeps boxes of Bubble Wrap at its own offices purely for employees to pop. The joy started early: inventor Alfred Fielding's young son Howard was popping the bubbles for fun back when the material was still a failed experiment.
 

@@ -54,7 +54,7 @@ Inside, the leather is stitched by hand, and the carbon fibre weave is left visi
 
 These details explain why a Huayra takes so long to build. A normal factory measures production in cars per hour. Pagani measures it in weeks per car, with craftspeople checking each other's work as they go. It is a slow, old-fashioned way to build a car, and it is exactly why the finished machine feels less like a product and more like something made by people who care.
 
-## Common questions
+## Frequently Asked Questions
 
 **What does Huayra mean?**
 Huayra comes from Huayra-tata, the god of wind in ancient Andean stories. Pagani chose the name because the car's design is shaped by airflow.

@@ -60,25 +60,25 @@ MyDoom's second road was a file-sharing network, and free downloads remain a fav
 
 This sounds strange, but it may be the most useful lesson of all. MyDoom proved that the plainest messages spread the furthest, because nobody fears a boring email. I honestly think the dull little delivery-failure message in your inbox deserves more suspicion than the dramatic warning full of capital letters. The dramatic one is probably ordinary spam. The dull one with an attachment might be a record-breaking worm wearing its most successful disguise.
 
-## Common questions
+## Frequently Asked Questions
 
-### Is MyDoom still spreading today?
+**Is MyDoom still spreading today?**
 
 The great flood of January 2004 is long over, and modern email systems and antivirus programs recognise MyDoom quickly. Its speed record, though, still stands, which is why it is still taught as the classic example of how fast a worm can move. Copies and descendants of old worms can still turn up on unprotected machines, so basic protection still matters.
 
-### Why is MyDoom called the fastest email worm ever?
+**Why is MyDoom called the fastest email worm ever?**
 
 Because of the sheer scale it reached in such a short time. At its peak, roughly one in every twelve emails worldwide was estimated to carry it, and it noticeably slowed email and internet traffic across the planet. No email worm since has matched that combination of speed and volume.
 
-### Did they ever catch the person who made MyDoom?
+**Did they ever catch the person who made MyDoom?**
 
 No. The SCO Group offered a $250,000 reward for information leading to the creator's arrest, but the creator was never caught or publicly identified. The authorship of the fastest email worm in history remains an unsolved mystery.
 
-### Can a worm like MyDoom infect a phone?
+**Can a worm like MyDoom infect a phone?**
 
 MyDoom itself was built for the computers and email systems of its time, not for modern phones. But the trick it used, a harmless-looking message with a dangerous attachment or link, works on any device. Phones are attacked through malicious links, fake apps, and infected downloads, so the same caution applies on a small screen.
 
-### What should I do if I opened a suspicious attachment?
+**What should I do if I opened a suspicious attachment?**
 
 Disconnect the device from the internet to stop anything spreading further, then run a full scan with your antivirus software. Change your important passwords from a different, clean device, especially email and banking passwords. If the machine belongs to your workplace, tell the person in charge of computers straight away, because one infected machine can endanger the whole network.
 

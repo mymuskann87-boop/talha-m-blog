@@ -57,25 +57,25 @@ There are honest limits. Some rain damage cannot be prevented. A truly exception
 - [Save Money On Home Repairs](https://talhablog.com/blog/save-money-on-home-repairs/)
 - [Save Money On Winter Heating](https://talhablog.com/blog/save-money-on-winter-heating/)
 
-## Common questions
+## Frequently Asked Questions
 
-### What should I check in my house before the rainy season?
+**What should I check in my house before the rainy season?**
 
 Roofs, drains, window seals, and gaps under doors. Water finds every opening, so fix cracked tiles, clear blocked drains, and seal shrunken window seals in the dry weeks. One small repair in sunshine costs far less than a flooded room later, plus ruined furniture and days of disruption.
 
-### How do I protect my phone and shoes from rain damage?
+**How do I protect my phone and shoes from rain damage?**
 
 Use cheap covers: a rain cover for bags, a waterproof pouch for phones, and rain shoes for wet days. Keep a plastic bag inside every school and work bag during the season. Dry wet shoes with newspaper stuffing in moving air, never on direct heat, which cracks leather and warps soles.
 
-### Should I stock food before the rainy season?
+**Should I stock food before the rainy season?**
 
 Yes, a small stock of basics bought at normal prices: rice, lentils, flour, oil, salt, tea, soap, a charged torch, and the family's regular medicines. Rotate the stock, oldest first, so nothing expires. On storm days, this buffer removes emergency-price shopping entirely.
 
-### Why do clothes smell damp in the rainy season, and how do I stop it?
+**Why do clothes smell damp in the rainy season, and how do I stop it?**
 
 Clothes dried without air flow stay damp, develop smells, and get washed again — double water and soap for the same shirt. Dry indoors near an open window or under a fan, spread out rather than bunched. Wash in the morning so clothes have the whole day to dry, and keep a separate rain set so everyday clothes never go out in storms.
 
-### Is it worth delaying travel during heavy rain?
+**Is it worth delaying travel during heavy rain?**
 
 Yes. A delayed trip costs nothing, while rushing through flooded roads risks a ruined phone, spoiled books, or extra transport charges. Check the forecast, leave earlier when rain is expected, and invest once in a good raincoat and waterproof bag covers for the whole season.
 

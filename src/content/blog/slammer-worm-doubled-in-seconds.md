@@ -48,25 +48,25 @@ There is also an indirect road, and the morning-after stories prove it. A person
 
 Ten minutes was all it took for 376 bytes to circle the planet. The next Slammer will be faster. The good news hidden inside this old story is that its victims were not beaten by cleverness; they were beaten by one skipped update, and a skipped update is something anyone can fix today.
 
-## Common questions
+## Frequently Asked Questions
 
-### What was SQL Slammer in simple words?
+**What was SQL Slammer in simple words?**
 
 SQL Slammer was a tiny computer worm that appeared on 25 January 2003 and spread through a flaw in Microsoft's SQL Server software. It was only 376 bytes, small enough to travel inside a single network packet. It did not steal or delete anything; it simply copied itself so fast that it flooded the internet with traffic.
 
-### How could something so small cause so much damage?
+**How could something so small cause so much damage?**
 
 Because it doubled roughly every 8.5 seconds, it reached around 75,000 servers in about ten minutes, and every one of those servers began scanning for new victims at full speed. That mountain of junk traffic choked networks worldwide. The harm was a traffic jam, not a robbery.
 
-### Which famous services did Slammer affect?
+**Which famous services did Slammer affect?**
 
 Reports at the time linked Slammer to Bank of America's ATM network going down and to Continental Airlines cancelling and delaying flights. Seattle's 911 emergency call service also had problems. South Korea's internet nearly collapsed completely for hours.
 
-### Why did Slammer succeed when a fix already existed?
+**Why did Slammer succeed when a fix already existed?**
 
 Microsoft had released a patch for the flaw in July 2002, about six months earlier. The worm infected the machines whose owners had never installed that patch, including computers running a hidden desktop version of the software that came bundled with other programs. A fix cannot protect a machine it never reaches.
 
-### Could a worm spread that fast again today?
+**Could a worm spread that fast again today?**
 
 The same basic ingredients still exist: connected machines, newly discovered flaws and updates that people delay. Modern networks and automatic updates make a repeat harder, but the speed record Slammer set is a warning that still stands. Keeping automatic updates switched on is the simplest protection an ordinary person has.
 

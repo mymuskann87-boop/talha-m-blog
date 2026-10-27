@@ -57,23 +57,23 @@ And here is the honest part, because you deserve honesty more than motivation: s
 
 ## Frequently Asked Questions
 
-### How much money do I need to start a small business?
+**How much money do I need to start a small business?**
 
 There is no fixed number. A service based on your own skill can begin with almost nothing, because you are selling your time and ability, not stock. Start with the smallest version of your idea and let real orders tell you what to buy next.
 
-### Should I take a loan to start my first business?
+**Should I take a loan to start my first business?**
 
 Be very careful. A loan must be repaid whether the business works or not. Test your idea cheaply first, with your own small money, so you know people truly want to buy before you owe anyone anything.
 
-### What is the best first business with little money?
+**What is the best first business with little money?**
 
 Usually a service built on a skill you already have — cooking, teaching, repairs, sewing, design, writing and similar work. It needs little or no stock, so your first earning can come quickly and safely.
 
-### How do I know if my business idea will work?
+**How do I know if my business idea will work?**
 
 Do simple market research, as the SBA advises: study your possible customers and the people already doing similar work, then test with a small real offer. An idea is proven when a stranger pays for it, not when friends praise it.
 
-### Do I need to register a very small business?
+**Do I need to register a very small business?**
 
 In most places, yes — rules differ by country and by type of work. Registration, a tax ID and any needed permits protect you and build customer trust, so check your local requirements early.
 

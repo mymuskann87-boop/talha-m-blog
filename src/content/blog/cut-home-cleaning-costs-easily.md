@@ -73,25 +73,25 @@ Some homes also need more care than others. A home with small children, elderly 
 - [Cut Weekly Laundry Costs Down](https://talhablog.com/blog/cut-weekly-laundry-costs-down/)
 - [Save Money On Home Repairs](https://talhablog.com/blog/save-money-on-home-repairs/)
 
-## Common questions
+## Frequently Asked Questions
 
-### Do I really need a different cleaner for every room?
+**Do I really need a different cleaner for every room?**
 
 No. Most hard surfaces in a home can be cleaned with one good multi-purpose cleaner. Keep a separate product only for jobs that truly need it, such as toilet cleaning, and use simple basics like soap and water for daily dirt. Fewer bottles mean lower home cleaning costs and a tidier cupboard.
 
-### Are vinegar and baking soda safe for all surfaces?
+**Are vinegar and baking soda safe for all surfaces?**
 
 They are safe for most everyday surfaces, but not for all. Vinegar can damage natural stone such as marble, and it should never be mixed with bleach. Baking soda is gentle, but it can scratch very soft surfaces if scrubbed hard. Test a small hidden spot first, use one product at a time, and keep the room aired while cleaning.
 
-### How do washable cloths stay hygienic?
+**How do washable cloths stay hygienic?**
 
 Rinse cloths after each use and wash them with the laundry once or twice a week in warm water. Keep separate cloths for the kitchen and the bathroom so germs do not travel between rooms. Replace a cloth when it starts to smell even after washing or when it falls apart.
 
-### Does cleaning a little every day really save money?
+**Does cleaning a little every day really save money?**
 
 Yes, because fresh dirt is easy to remove with water and a cloth, while old dirt needs strong sprays and long scrubbing. Small daily habits stop messes from growing into jobs that demand expensive products, and they keep the home pleasant without a big weekly effort.
 
-### What is the biggest waste in home cleaning products?
+**What is the biggest waste in home cleaning products?**
 
 Buying many single-use products that do the same job, and throwing away wipes after one use. One multi-purpose cleaner, a set of washable cloths, and refill packs usually cut the bill more than any single bargain, because they remove repeat purchases rather than just making one purchase cheaper.
 

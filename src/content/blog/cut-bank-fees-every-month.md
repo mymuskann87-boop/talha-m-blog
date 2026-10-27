@@ -69,25 +69,25 @@ Keep that one page beside next year's page. When the two years sit side by side,
 - [Avoid ATM Fees Completely Today](https://talhablog.com/blog/avoid-atm-fees-completely-today/)
 - [Payday Plan Saves Monthly Salary](https://talhablog.com/blog/payday-plan-saves-monthly-salary/)
 
-## Common questions
+## Frequently Asked Questions
 
-### Where do I find the bank fees on my statement?
+**Where do I find the bank fees on my statement?**
 
 Look for charges that are not purchases, bills, or transfers you made. They often appear with words like fee, charge, or penalty beside them. Circle each one across two or three statements and add them up for one month to see the real total.
 
-### Is a basic bank account worse than a premium one?
+**Is a basic bank account worse than a premium one?**
 
 Not necessarily. A basic account usually charges less but offers fewer extras. If you never use the premium benefits, the basic account is simply cheaper for the same everyday banking. Ask the bank which type fits your real use.
 
-### How do I avoid minimum balance penalties?
+**How do I avoid minimum balance penalties?**
 
 Either keep the minimum balance untouched as a floor, or switch to an account without a minimum balance requirement. Ignoring the rule and paying the penalty monthly is the most expensive option of all.
 
-### Do other banks' cash machines really cost more?
+**Do other banks' cash machines really cost more?**
 
 Usually, yes. Using another bank's machine often adds a charge that appears on your statement later. Use your own bank's machines for routine withdrawals, and withdraw less often if your bank's machine is far away.
 
-### Can balance alerts really save money?
+**Can balance alerts really save money?**
 
 Yes, because they prevent failed payments. A low-balance warning that arrives while you still have time to act stops a bounced bill and the fee that comes with it. Set the warning level a little above zero for the best effect.
 

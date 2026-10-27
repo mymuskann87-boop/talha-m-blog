@@ -64,7 +64,7 @@ Set that gentle beginning beside the world you live in now. Today, harmful progr
 
 In my view, the sweetest detail in this whole history is that it did not begin with a criminal. It began with an engineer asking a curious question and a program whose entire payload was a joke printed on paper. Creeper never wanted your files, your money or your secrets. It wanted to be chased. The shadow came later, when other people realised the same travelling trick could carry greed instead of a punchline. The chase that started as a game between colleagues in one building now runs across the whole planet, and every antivirus scan on your own computer is a small echo of a teletype chattering in 1971: catch me if you can.
 
-## Common questions
+## Frequently Asked Questions
 
 **Was Creeper really a virus?**
 Historians argue about the label. Creeper travelled by itself across a network and did not infect files, which matches the modern definition of a worm. Its self-copying version is generally accepted as the first computer worm, and an IEEE history of computing also described Creeper as the world's first computer virus. Either way, it was the first program known to spread itself between computers.

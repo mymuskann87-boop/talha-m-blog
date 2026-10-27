@@ -50,17 +50,17 @@ His past comments make the news a little more interesting. In a 2014 interview w
 
 That is perhaps the nicest way to read this story. A person who once questioned whether marriage was necessary has now chosen to marry his longtime partner, quietly and privately. I am not going to guess at his reasons, because he has not given them in the facts shared here. The confirmed news is enough on its own, and it is happy news.
 
-## Common questions
+## Frequently Asked Questions
 
-### Who is Jim Carrey's wife Min Ah and what is she also known as?
+**Who is Jim Carrey's wife Min Ah and what is she also known as?**
 
 Min Ah is an artist and actress, and she is also known as Minzi. She is Jim Carrey's longtime partner, and his representative confirmed their marriage to People magazine in early October 2026.
 
-### When were Jim Carrey and Min Ah first photographed together?
+**When were Jim Carrey and Min Ah first photographed together?**
 
 They were first photographed together in February 2022, leaving a charity comedy show. They later made their public debut at the César Awards in Paris on February 26.
 
-### How many times was Jim Carrey married before Min Ah?
+**How many times was Jim Carrey married before Min Ah?**
 
 He was married twice before. He was married to Melissa Womer from 1987 to 1995, and to Lauren Holly from 1996 to 1997.
 

@@ -73,25 +73,25 @@ One more habit belongs in this routine: when you switch plans, keep the old plan
 - [Cut Your Monthly Mobile Bill](https://talhablog.com/blog/cut-your-monthly-mobile-bill/)
 - [Cut Mobile Data Usage Smartly](https://talhablog.com/blog/cut-mobile-data-usage-smartly/)
 
-## Common questions
+## Frequently Asked Questions
 
-### How do I check my real mobile data use?
+**How do I check my real mobile data use?**
 
 Open your operator's app and look at the usage section, or read the last two bills. Write down the data, minutes, and texts for each month. Two months give a fairer picture than one, because a single unusual week can bend the numbers.
 
-### Is the biggest bundle always the best value?
+**Is the biggest bundle always the best value?**
 
 No. A bundle is only good value if you use what is inside it. Unused data and unmade calls are money spent for nothing. Compare plans against your real use, and let the daily cost decide between close options.
 
-### How do I compare the daily cost of two plans?
+**How do I compare the daily cost of two plans?**
 
 Divide the plan price by the number of days it lasts. For example, 300 for 28 days is about 10.7 per day, while 500 for 56 days is about 8.9 per day. The lower daily cost wins, provided the plan covers your real use.
 
-### Should I cancel plan add-ons I never use?
+**Should I cancel plan add-ons I never use?**
 
 Yes. Streaming packs, gaming packs, and caller tunes you never open are small charges that add up every month. Cancel anything unused in the last month, and buy an app separately only if you truly use it enough.
 
-### How often should I re-check my recharge plan?
+**How often should I re-check my recharge plan?**
 
 Every three or four months is enough. Operators change plans, and your habits change too. A ten-minute check a few times a year keeps your plan matched to your life instead of quietly going stale.
 

@@ -72,23 +72,23 @@ The young man on the motorbike eventually rides away with his half-full tank. He
 
 ## Frequently Asked Questions
 
-### How much tax does the government charge on one litre of petrol?
+**How much tax does the government charge on one litre of petrol?**
 
 The government levies Rs114 per litre in taxes and duties on petrol, according to reporting by Arab News Pakistan. This amount is included inside the price you pay at the pump.
 
-### How much is the levy on diesel?
+**How much is the levy on diesel?**
 
 The levy on high-speed diesel is Rs100 per litre in taxes and duties. Because trucks and buses run on diesel, this cost is passed on into the prices of food and everyday goods.
 
-### Why are protests being held over the petroleum levy?
+**Why are protests being held over the petroleum levy?**
 
 A Pakistani religious party has announced fresh protests over the levy. In recent months, the heavy levy has already sparked protests across the country amid multiple hikes in fuel prices, and many people feel the tax places an unfair burden on ordinary households.
 
-### Why do fuel taxes affect people who do not own a vehicle?
+**Why do fuel taxes affect people who do not own a vehicle?**
 
 Almost everything people buy — food, medicine, building materials — travels by road on diesel-powered vehicles. When diesel becomes more expensive, transport costs rise and those costs are added to shop prices, so everyone pays, vehicle owner or not.
 
-### Is the petroleum levy the only reason petrol is expensive?
+**Is the petroleum levy the only reason petrol is expensive?**
 
 No. The pump price also includes the cost of the fuel itself — buying it, shipping it, refining it and delivering it. The levy is the government's tax portion on top of those costs, and at Rs114 per litre on petrol it is a large share of what people are protesting about.
 

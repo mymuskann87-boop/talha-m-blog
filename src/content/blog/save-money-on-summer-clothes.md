@@ -61,25 +61,25 @@ There are honest limits. In very hot climates, good summer clothing is a health 
 - [Save Money On Winter Clothes](https://talhablog.com/blog/save-money-on-winter-clothes/)
 - [Buy Clothes Smart Spend Less](https://talhablog.com/blog/buy-clothes-smart-spend-less/)
 
-## Common questions
+## Frequently Asked Questions
 
-### Is cotton really better than synthetic fabric in summer?
+**Is cotton really better than synthetic fabric in summer?**
 
 For everyday summer life, yes. Cotton breathes, lets air move across the skin, and soaks up sweat instead of trapping it. Light-coloured, loose cotton feels cooler than most branded synthetics and usually costs less, making comfort — the real summer luxury — also the cheapest option.
 
-### When should I buy summer clothes to save money?
+**When should I buy summer clothes to save money?**
 
 At end-of-summer sales, when shops clear stock for autumn. The same shirt costs far less in September than in May. For children, buy one size up so they grow into the clothes by next summer, and store them clean and dry until the heat returns.
 
-### How do I stop summer clothes from fading?
+**How do I stop summer clothes from fading?**
 
 Dry clothes in shade where possible, and bring them in once dry instead of leaving them in harsh sun all afternoon. Turn dark clothes inside out before hanging so fading hits the inside. Wash in cool water where the label allows, since hot water fades colour and shrinks cotton.
 
-### Is it worth repairing summer clothes?
+**Is it worth repairing summer clothes?**
 
 Yes. A loose button is a two-minute job, and a seam coming undone takes about ten minutes with a needle and thread. A family that repairs keeps clothes twice as long, and every extra month of wear is a purchase postponed. Keep a tiny sewing kit with needles, common thread colours, and spare buttons.
 
-### How many summer outfits do I actually need?
+**How many summer outfits do I actually need?**
 
 Fewer than most people buy. Three shirts that match two trousers make six outfits, while three shirts that each match only one thing make three. Choose plain colours and simple patterns that combine easily, and let children pick one favourite piece themselves so it actually gets worn.
 

@@ -44,25 +44,25 @@ Keep the notebook going for a full month, not just a day. A single day can misle
 
 Here is the part a saving guide must not hide. A cheaper journey that takes two extra hours a day is not a saving for everyone. A person who reaches work exhausted after three changes of bus has paid with their energy, and energy is a real currency too. So the rule is balance: take the cheaper option when it costs a little extra time, and pay for the faster option when the time matters more — a job interview, a sick child, a day that is already full. Transport saving is about the average week, not about winning every single trip. The person who walks the short trips, holds a pass for the daily route, and pays for a fast ride twice a month has the best of both, and the notebook will prove it.
 
-## Common questions
+## Frequently Asked Questions
 
-### Is a monthly pass always cheaper than daily tickets?
+**Is a monthly pass always cheaper than daily tickets?**
 
 No. It is cheaper only if you travel the route often enough. Count your trips for two normal weeks, multiply the daily fare, and compare it with the pass price. The answer belongs to your route, not to anyone else's.
 
-### What if public transport does not reach my area?
+**What if public transport does not reach my area?**
 
 Then sharing rides is usually the next best option — neighbours, colleagues, or a regular car share. Batching errands into one trip also helps a lot, because every avoided trip is money saved whatever vehicle you use.
 
-### Is a bicycle really cheaper than a bus?
+**Is a bicycle really cheaper than a bus?**
 
 On short daily trips, yes, over time, because the bicycle has no fare and no fuel. But count the real costs honestly: the bicycle itself, basic maintenance, a lock, and a helmet. And only ride where the roads are safe enough.
 
-### How do I start a car share without awkwardness?
+**How do I start a car share without awkwardness?**
 
 Start with one person and one regular trip, such as the morning work run. Agree the fuel split in advance — weekly is simplest — and keep it friendly and exact. Money arguments end car shares faster than traffic does.
 
-### Does walking short trips really add up?
+**Does walking short trips really add up?**
 
 Yes. Two short paid trips a day, replaced by walking, saves two fares a day, and across a month that is a sum you can see. The saving is small per trip and large per month, which is the pattern of almost all transport saving.
 

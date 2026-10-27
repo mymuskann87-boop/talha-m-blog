@@ -96,25 +96,25 @@ If he is cleared, he walks out to rebuild his life with his name restored by a j
 
 The cameras will be on those courthouse steps every single day until then. So will we.
 
-## Common questions
+## Frequently Asked Questions
 
-### What charges does Russell Brand face?
+**What charges does Russell Brand face?**
 
 Seven charges from six women: three counts of rape, three counts of sexual assault, and one count of indecent assault. The alleged offences date from 1999 to 2009, in Bournemouth and London.
 
-### Has Russell Brand pleaded guilty or not guilty?
+**Has Russell Brand pleaded guilty or not guilty?**
 
 Not guilty — to every charge. He first pleaded not guilty in May 2025, and again to the additional charges in February 2026. He says all of his past relationships were consensual.
 
-### How long will the Russell Brand trial last?
+**How long will the Russell Brand trial last?**
 
 The trial began in October 2026 at Southwark Crown Court in London. Estimates range from about six weeks to as many as ten weeks.
 
-### Who is Russell Brand's wife?
+**Who is Russell Brand's wife?**
 
 His wife is Laura Gallacher, a writer and entrepreneur. They first met in 2007, reconnected in 2015, and married in 2017. They have three children. Before Laura, Brand was married to singer Katy Perry from 2010 to 2012.
 
-### How old is Russell Brand and where was he born?
+**How old is Russell Brand and where was he born?**
 
 Russell Brand is 51 years old. He was born on 4 June 1975 in Grays, Essex, England, and was raised by his mother after his parents separated when he was a baby.
 

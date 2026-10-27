@@ -52,7 +52,7 @@ If you ask me, this is the car that makes electric feel normal instead of strang
 
 Prices vary by market, year, and options, and the RS badge puts this car in rare company. But the point of the e-tron GT is bigger than one car. It shows where fast cars are heading. Strong, silent, and shaped by the wind. If this is the future, it looks rather good.
 
-## Common questions
+## Frequently Asked Questions
 
 **Is the Audi RS e-tron GT fully electric?**
 

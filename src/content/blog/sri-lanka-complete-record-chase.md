@@ -68,23 +68,23 @@ Matches like this are why fans stay until the last ball, why crowds refuse to le
 
 ## Frequently Asked Questions
 
-### What was the final score of the match?
+**What was the final score of the match?**
 
 England scored 429 for 4 batting first. Sri Lanka replied with 430 for 8 in 49.5 overs and won the match by two wickets.
 
-### Where was this record chase played?
+**Where was this record chase played?**
 
 The match was an ODI tri-series game played in Rawalpindi, Pakistan.
 
-### Who were Sri Lanka's top scorers in the chase?
+**Who were Sri Lanka's top scorers in the chase?**
 
 Pavan Rathnayake led the way with 130, while Avishka Fernando and Dasun Shanaka both made 97. Janith Liyanage hit the winning six.
 
-### Why is this chase called a record?
+**Why is this chase called a record?**
 
 Because 430 is the second-highest total ever successfully chased in one-day international cricket. Only one bigger chase exists in the history of the format.
 
-### How close did the match finish?
+**How close did the match finish?**
 
 Incredibly close. Sri Lanka won with only one ball of the match remaining, and with just two wickets left, after England's huge total of 429.
 

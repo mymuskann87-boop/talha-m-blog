@@ -64,23 +64,23 @@ What *is* confirmed is already plenty: the iPhone Duo is real, it is on sale fro
 
 ## Frequently Asked Questions
 
-### What is the iPhone Duo?
+**What is the iPhone Duo?**
 
 The iPhone Duo is Apple's first foldable smartphone. It has a 5.4-inch outer display for quick tasks and opens up to reveal a larger 7.6-inch inner display for multitasking, gaming, and watching videos.
 
-### When did iPhone Duo sales begin?
+**When did iPhone Duo sales begin?**
 
 Apple announced the iPhone Duo on 9 September 2026. Pre-orders began on 16 October 2026, and general availability started on 23 October 2026 in India and other initial markets.
 
-### Which chip powers the iPhone Duo?
+**Which chip powers the iPhone Duo?**
 
 The phone is powered by Apple's A20 Pro chip. It also uses a custom vapour chamber for cooling and a dual-battery design, and it supports Apple Intelligence and Siri AI.
 
-### What colours does the iPhone Duo come in?
+**What colours does the iPhone Duo come in?**
 
 It comes in two colours: Star White and Night Sky.
 
-### Is a touchscreen MacBook Pro also launching this month?
+**Is a touchscreen MacBook Pro also launching this month?**
 
 That is only an unconfirmed report. Reports suggest a touchscreen MacBook Pro, an OLED iPad mini, and an M6 iMac refresh could arrive this month, but Apple has not confirmed any of them.
 

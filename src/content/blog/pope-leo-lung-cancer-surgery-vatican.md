@@ -70,23 +70,23 @@ From ordinary parish churches to heads of government, the message of the week ha
 
 ## Frequently Asked Questions
 
-### What kind of cancer does Pope Leo have?
+**What kind of cancer does Pope Leo have?**
 
 The Vatican has confirmed a pulmonary adenocarcinoma — a type of lung cancer. Experts say it is the most common type of lung cancer, and it is more often found in non-smokers than other lung cancer types.
 
-### What exactly did the surgeons remove?
+**What exactly did the surgeons remove?**
 
 They removed the lower lobe of his right lung. The right lung has three lobes, and the growth was in the lower one. The Vatican said the cancerous tissue was completely removed and the surgery had no complications.
 
-### Did the cancer spread to other parts of his body?
+**Did the cancer spread to other parts of his body?**
 
 That is not known yet. Further tests, including tests on the lymph nodes removed during surgery, will show whether the cancer had spread. The Vatican has described the growth as small and localised, and doctors have not yet discussed chemotherapy.
 
-### How long will Pope Leo stay in hospital?
+**How long will Pope Leo stay in hospital?**
 
 He is expected to stay for about a week. His audiences are cancelled until October 20 while he recovers.
 
-### Why are doctors hopeful?
+**Why are doctors hopeful?**
 
 Because the cancer was caught early, while it was still small and in one place, and because it was fully removed. Dr Juanita Mora of the American Lung Association said that when this type of cancer is caught early and localised, the five-year survival rate after surgery is 80 to 98 percent.
 

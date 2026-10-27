@@ -69,25 +69,25 @@ Also, the cheapest furniture is sometimes the most expensive: a weak bed replace
 - [Save Money On House Shifting](https://talhablog.com/blog/save-money-on-house-shifting/)
 - [Save Money On Home Painting](https://talhablog.com/blog/save-money-on-home-painting/)
 
-## Common questions
+## Frequently Asked Questions
 
-### How can furniture buying stay affordable?
+**How can furniture buying stay affordable?**
 
 Start with a written list made at home, measure your rooms, compare the same item in two or three shops including a local carpenter, buy solid basics before decorative pieces, and always compare the full price including delivery and assembly — not just the tag price.
 
-### Is second-hand furniture a good way to save money?
+**Is second-hand furniture a good way to save money?**
 
 For slow-wearing items like solid tables, shelves, and wooden chairs, yes — check joints, legs, and stability before buying. Avoid second-hand mattresses and heavily padded items unless you know their history well, because hygiene matters more than saving there.
 
-### Why should I check delivery and assembly charges?
+**Why should I check delivery and assembly charges?**
 
 Because they can add a large amount to the bill and erase a discount. A bed with a lower tag price but paid delivery and assembly can cost more overall than a slightly dearer bed with free delivery and assembly. Always ask for the full, written-down price before paying.
 
-### Is a local carpenter cheaper than a furniture showroom?
+**Is a local carpenter cheaper than a furniture showroom?**
 
 Often, for wooden items, because you avoid showroom rent and branding costs, and the piece is sized exactly to your room. You also choose the material and can return to the same person for repairs. Compare both options for your specific item before deciding.
 
-### Should I buy the cheapest furniture to save money?
+**Should I buy the cheapest furniture to save money?**
 
 Not necessarily. The cheapest piece is sometimes the most expensive over time, because weak furniture needs replacing sooner. Aim for the right price for lasting quality: one solid bed beats a bedroom full of weak furniture that fails in two years.
 

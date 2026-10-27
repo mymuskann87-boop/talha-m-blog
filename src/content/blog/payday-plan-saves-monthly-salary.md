@@ -71,25 +71,25 @@ Also, life is not a spreadsheet. Festivals, weddings, illness, and generosity al
 - [Pay Yourself Before Every Bill](https://talhablog.com/blog/pay-yourself-before-every-bill/)
 - [Track Where Your Money Goes](https://talhablog.com/blog/track-where-your-money-goes/)
 
-## Common questions
+## Frequently Asked Questions
 
-### What is a payday plan?
+**What is a payday plan?**
 
 A payday plan is a simple routine done when the salary arrives: move money first to essentials, then to savings, and keep what remains for wants. Fixed bills are paid within the first two days, weekly spending is checked every Sunday, and the plan is reviewed once at month's end.
 
-### Why should savings come before wants?
+**Why should savings come before wants?**
 
 Because money left for later is almost always already spent. Moving savings on payday itself, while the account is full, removes the need for willpower later in the month, when the account is thin and every small want feels urgent.
 
-### How do I set a weekly spending amount?
+**How do I set a weekly spending amount?**
 
 After essentials and savings are moved, divide what remains by four. That is the weekly amount for flexible spending like food extras and fun. Check it every Sunday, roll leftovers forward, and shrink next week slightly if one week goes over.
 
-### What if my salary does not cover my essentials?
+**What if my salary does not cover my essentials?**
 
 Then no ordering trick can fix it — the gap is real, not a planning failure. In that case the priorities become growing income, cutting the largest costs, or seeking support, rather than fine-tuning a plan around money that is not there.
 
-### How often should I review my payday plan?
+**How often should I review my payday plan?**
 
 Once a month, on the last day, for about ten minutes. Ask what went well, what went over, and change one thing only for next month. Twelve single changes across a year rebuild a budget far more reliably than one drastic overhaul.
 

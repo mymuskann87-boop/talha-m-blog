@@ -63,25 +63,25 @@ Two rules keep the club healthy. First, the fund pays for tea only, not for snac
 - [Cut Daily Petrol Costs Smartly](https://talhablog.com/blog/cut-daily-petrol-costs-smartly/)
 - [Cheap Healthy Breakfast Ideas Daily](https://talhablog.com/blog/cheap-healthy-breakfast-ideas-daily/)
 
-## Common questions
+## Frequently Asked Questions
 
-### How much can daily tea really cost in a month?
+**How much can daily tea really cost in a month?**
 
 More than most people guess. For example, one shop tea at 100 a day across thirty days is 3,000 in a month, and many people drink more than one cup a day. Counting one honest week reveals your own real number.
 
-### Is making tea at home really that much cheaper?
+**Is making tea at home really that much cheaper?**
 
 Yes. Home tea uses leaves, milk, sugar, and gas that together cost a small fraction of a shop's price, because the shop also charges for rent, staff, and cups. Reversing the ratio — mostly home tea, occasional shop tea — saves money immediately.
 
-### Does sharing a pot actually save money?
+**Does sharing a pot actually save money?**
 
 Yes, because one pot serves several people at a fraction of the cost of separate cups. It also slows the habit down pleasantly — a shared pot lingers, while a rushed cup is gone in minutes.
 
-### What is the point of carrying a flask?
+**What is the point of carrying a flask?**
 
 Long days out are where tea money escapes fastest, one cup per stop. A flask filled at home breaks that chain completely, saving a little per trip and a visible amount per month.
 
-### Should I stop drinking tea completely to save money?
+**Should I stop drinking tea completely to save money?**
 
 No. Tea is joy and social life, and cutting all pleasure breaks a budget within a month. Cut only the reflex cups bought without thinking, and keep the cups that bring real pleasure — the saving arrives without sadness.
 

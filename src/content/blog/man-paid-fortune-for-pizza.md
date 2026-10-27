@@ -88,23 +88,23 @@ Laszlo Hanyecz did not lose a fortune on 22 May 2010. At the prices of that day,
 
 ## Frequently Asked Questions
 
-### Who paid 10,000 bitcoins for two pizzas?
+**Who paid 10,000 bitcoins for two pizzas?**
 
 A Florida programmer named Laszlo Hanyecz. He was an early Bitcoin miner and developer who posted the offer on the Bitcointalk forum on 18 May 2010, wanting to test whether bitcoin could buy something real.
 
-### When is Bitcoin Pizza Day, and why is it celebrated?
+**When is Bitcoin Pizza Day, and why is it celebrated?**
 
 Bitcoin Pizza Day falls on 22 May every year. It marks the day in 2010 when Hanyecz's pizzas were delivered, completing the first documented purchase of a physical good using bitcoin.
 
-### How much were the two pizzas worth at the time?
+**How much were the two pizzas worth at the time?**
 
 About 41 US dollars. At the exchange value of May 2010, when one bitcoin was worth roughly 0.004 dollars, 10,000 bitcoins were a fair match for the price of two large Papa John's pizzas.
 
-### Who was "jercos," the person who accepted the bitcoins?
+**Who was "jercos," the person who accepted the bitcoins?**
 
 Jeremy Sturdivant, a 19-year-old forum user known as "jercos." He ordered the pizzas for delivery to Hanyecz's home and received the 10,000 bitcoins in a direct, person-to-person transfer. He later spent the coins, worth around 400 dollars when he used them, on a road trip.
 
-### Does Laszlo Hanyecz regret spending 10,000 bitcoins on pizza?
+**Does Laszlo Hanyecz regret spending 10,000 bitcoins on pizza?**
 
 No. He has said many times that he has no regrets, because the purchase proved bitcoin could really be spent like money. He kept buying pizza with bitcoin through the summer of 2010, spending more than 79,000 bitcoins in total on pizza that year.
 

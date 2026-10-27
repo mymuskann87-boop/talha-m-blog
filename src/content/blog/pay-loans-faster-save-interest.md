@@ -65,25 +65,25 @@ Also, interest is not the only cost of a loan. Fees, insurance bundled with the 
 - [Good Debt Versus Bad Debt](https://talhablog.com/blog/good-debt-versus-bad-debt/)
 - [Payday Plan Saves Monthly Salary](https://talhablog.com/blog/payday-plan-saves-monthly-salary/)
 
-## Common questions
+## Frequently Asked Questions
 
-### What is the avalanche method of paying off loans?
+**What is the avalanche method of paying off loans?**
 
 The avalanche method means paying the minimum on every loan, then putting all extra money on the highest-interest loan first until it is gone, then moving to the next highest. It saves the most interest because it attacks the fastest-growing debt first, though it can take longer to clear the first loan than other methods.
 
-### Is it better to clear the smallest loan first instead?
+**Is it better to clear the smallest loan first instead?**
 
 Clearing the smallest balance first, called the snowball method, gives a quick victory that keeps some people motivated, which is a real benefit. But it usually costs more interest overall than the avalanche method. Choose snowball if motivation is your main struggle, and avalanche if saving the most money is the goal.
 
-### Should I use a bonus to pay off a loan?
+**Should I use a bonus to pay off a loan?**
 
 Yes, in most cases. A windfall put against the highest-rate loan reduces the balance immediately and cuts interest every month after. Decide the split before the money arrives — for example, most to the loan and a small part to enjoy — so it is not spent without a plan.
 
-### Can I be charged for paying a loan off early?
+**Can I be charged for paying a loan off early?**
 
 Some lenders charge an early-settlement fee, and some apply extra payments to future instalments rather than reducing the balance. Always ask the lender about penalties and how extra payments are applied before sending large extra amounts, and get the answer in writing if possible.
 
-### Is it wise to take a new loan to pay off an old one?
+**Is it wise to take a new loan to pay off an old one?**
 
 Only if the new loan clearly costs less in total — lower rate, no heavy fees, and a term you can keep. Compare the full cost of both loans first. If the new loan is not clearly cheaper, or comes from an informal lender at a punishing rate, do not do it — it turns a manageable debt into a deeper one.
 

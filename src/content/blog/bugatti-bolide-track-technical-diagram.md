@@ -50,7 +50,7 @@ When the Bolide runs, sixteen cylinders fire in a rhythm that feels more like mu
 
 The Bolide will never be common. It will never be cheap. It will never be practical. It does not need to be. Some cars exist to take children to school. Some exist to cross continents in comfort. This one exists to show what happens when engineers are told to dream without limits. Personally, I think cars like this exist to remind us what engineers dream about at night. And that dream, loud and wild and a little bit crazy, is worth celebrating.
 
-## Common questions
+## Frequently Asked Questions
 
 **Is the Bugatti Bolide road legal?**
 

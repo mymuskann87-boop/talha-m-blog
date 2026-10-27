@@ -58,23 +58,23 @@ Her notes were largely forgotten for a century, then republished in 1953 and rec
 
 ## Frequently Asked Questions
 
-### Why is Ada Lovelace called the first computer programmer?
+**Why is Ada Lovelace called the first computer programmer?**
 
 Because in 1843 she published Note G alongside her translation of Menabrea's article — a complete, step-by-step method for Babbage's Analytical Engine to calculate Bernoulli numbers. It is regarded as the first algorithm published specifically for a machine, making it the first published computer program.
 
-### Did the Analytical Engine ever actually run her program?
+**Did the Analytical Engine ever actually run her program?**
 
 No. The Analytical Engine was never completed — only a small portion was ever built — so her program was never tested in her lifetime. Modern researchers have since translated it into current programming languages and run it that way.
 
-### What are Bernoulli numbers, in simple words?
+**What are Bernoulli numbers, in simple words?**
 
 They are a special sequence of numbers that appear in several areas of mathematics. Lovelace deliberately chose a complicated method for calculating them because she wanted to show off the full power of the machine.
 
-### Was all of the mathematics in Note G hers alone?
+**Was all of the mathematics in Note G hers alone?**
 
 Historians debate this. Babbage wrote that he supplied the formulas for the Bernoulli calculation, while she turned them into the step-by-step table — and caught a serious error in his work. He also confirmed the selection of examples was entirely hers. His own earlier sample programs were never published.
 
-### Why is there a programming language named Ada?
+**Why is there a programming language named Ada?**
 
 The United States Department of Defense named its language Ada in her honour. Its reference manual was approved on 10 December 1980, her birthday, and its standard number, MIL-STD-1815, matches her birth year of 1815.
 

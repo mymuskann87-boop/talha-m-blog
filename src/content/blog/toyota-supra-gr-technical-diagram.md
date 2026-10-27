@@ -46,21 +46,21 @@ So who should buy one? Anyone who wants a real sports car without supercar money
 
 If you ask me, the Supra is proof that a sports car does not need to be extreme to be great. It needs balance, a good engine, honest engineering and a shape that makes you look back at it after you park. The GR Supra has all four, and that is why, years after its launch, people are still talking about it, still photographing it, and still dreaming about owning one.
 
-## Common questions
+## Frequently Asked Questions
 
-### What does GR mean?
+**What does GR mean?**
 
 GR stands for Gazoo Racing, Toyota's motorsport division. The badge marks cars developed with racing knowledge, focused on driving fun rather than luxury alone.
 
-### How fast is the GR Supra?
+**How fast is the GR Supra?**
 
 It reaches 100 km/h from rest in 4.1 seconds and has a top speed of 250 km/h, from its 387 HP turbocharged inline-six engine.
 
-### Is the Supra good for daily driving?
+**Is the Supra good for daily driving?**
 
 Yes, more than most sports cars. It is compact, comfortable in its soft suspension setting, and cheaper to run than a supercar, though it only seats two people.
 
-### Is it a true Toyota?
+**Is it a true Toyota?**
 
 Yes, it was developed by Toyota's Gazoo Racing team, with Toyota tuning for the chassis, steering and driving feel, even though some mechanical parts were shared with a partner during development.
 

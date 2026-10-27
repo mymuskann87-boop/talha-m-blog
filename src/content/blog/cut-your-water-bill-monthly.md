@@ -54,25 +54,25 @@ One limit stands above every tip in this post. Hygiene and health come first. Ne
 
 Saving water means cutting waste, not cutting care. The drips, the half loads, the running taps — those are waste, and they can go. The water that keeps a family clean and healthy is not waste, and no bill is worth trading it away. A lower bill built on a healthy house is the only kind worth having.
 
-## Common questions
+## Frequently Asked Questions
 
-### How much water does a dripping tap waste?
+**How much water does a dripping tap waste?**
 
 More than it looks like. A steady drip, day and night, adds up to a surprising amount over a month, and a tap dripping once a second can waste thousands of litres in a year. Fixing a washer or valve usually costs very little and stops the leak at once.
 
-### How do I know if my toilet is leaking?
+**How do I know if my toilet is leaking?**
 
 Put a few drops of food colouring in the tank and wait half an hour without flushing. If colour appears in the bowl, water is leaking through silently. The cause is usually a worn valve or seal, and it is a cheap repair.
 
-### What is the meter test for hidden leaks?
+**What is the meter test for hidden leaks?**
 
 Read the meter, use no water for one hour, then read it again. If the number moved, water is escaping somewhere unseen, such as a pipe inside a wall, and a plumber should investigate. Check the meter monthly so jumps are caught early.
 
-### Does a shorter shower really save much?
+**Does a shorter shower really save much?**
 
 Yes, across a family it adds up fast. A few minutes less per person per day becomes a large amount by month's end, and most people find the shorter shower feels the same once the habit settles. Turning the tap off while soaping up helps further.
 
-### Can I reuse household water for plants?
+**Can I reuse household water for plants?**
 
 Only plain water with no soap or chemicals, such as vegetable rinse water or the cool water run before a shower warms up. Soapy or detergent water must go down the drain. Rainwater caught in a container is also excellent for plants.
 

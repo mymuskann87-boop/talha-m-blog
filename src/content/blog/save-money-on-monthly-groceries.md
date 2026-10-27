@@ -50,25 +50,25 @@ A plan takes fifteen minutes a week at first, and some weeks will still go wrong
 
 The maths is gentle but real. For example, saving even a small amount every week — the price of two unplanned snack packs — adds up across a month into a sum the whole family can see, and across a year into something worth a small celebration. Nobody gets rich from a grocery list. But a grocery list is one of the few savings that asks nothing except fifteen minutes and a pencil.
 
-## Common questions
+## Frequently Asked Questions
 
-### Does meal planning mean eating the same food every week?
+**Does meal planning mean eating the same food every week?**
 
 No. A plan can repeat the family's favourites and still leave room for one new dish a week. The point is deciding before shopping, not eating boring food. Most families find they enjoy their meals more once the daily "what shall we cook" argument disappears.
 
-### Is buying in bulk always cheaper?
+**Is buying in bulk always cheaper?**
 
 Not always. It is cheaper only when the price per kilo is lower and the food will be used before it spoils. Check the shelf label for the per-kilo price, and be honest about how fast your household finishes the item.
 
-### What if my family refuses to follow a list?
+**What if my family refuses to follow a list?**
 
 Start with one rule instead of ten: one planned shop per week, and everything else only from the list. Let each person add one treat to the list. People follow a plan they helped write, and they fight a plan that feels imposed.
 
-### How do I handle guests and festivals?
+**How do I handle guests and festivals?**
 
 Keep a small separate "guests" amount in the monthly food budget, so a visit does not wreck the plan. Festivals are known in advance, so plan for them the same way — a festival week is a planned expensive week, not a failed week.
 
-### Does shopping online save money?
+**Does shopping online save money?**
 
 It can, because the basket is visible and the total is always on screen, which stops the aisle extras. But delivery charges count too. Compare the online total, including delivery, with the market total before deciding which is cheaper for your family.
 

@@ -78,23 +78,23 @@ The countdown is over. The travel has begun. And somewhere out there, between ou
 
 ## Frequently Asked Questions
 
-### What is the MMX mission?
+**What is the MMX mission?**
 
 MMX stands for Martian Moons eXploration. It is a mission led by the Japan Aerospace Exploration Agency (JAXA), with NASA participating, created to study the two moons of Mars and bring samples of surface material back to Earth.
 
-### Which moons will MMX study?
+**Which moons will MMX study?**
 
 The mission will study Phobos and Deimos, the two small, lumpy moons of Mars. One of its main goals is to determine how these moons formed, whether they are captured asteroids or debris left over from an ancient impact on Mars.
 
-### When did MMX launch, and from where?
+**When did MMX launch, and from where?**
 
 The mission launched from the Tanegashima Space Center in Japan. Liftoff was scheduled for 3:41 p.m. U.S. Eastern Daylight Time on 19 October 2026, which was 4:41 a.m. on 20 October in Japan.
 
-### When will the spacecraft reach Mars?
+**When will the spacecraft reach Mars?**
 
 The spacecraft is scheduled to arrive at Mars in August 2027, after a long cruise through space following its launch from Earth.
 
-### What is NASA contributing to the mission?
+**What is NASA contributing to the mission?**
 
 The U.S. contribution includes scientific instruments, sample collection technology, and communications and navigation support. NASA-funded researchers will also work alongside international specialists to analyse the data returned by the mission.
 

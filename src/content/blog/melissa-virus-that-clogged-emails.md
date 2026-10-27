@@ -59,25 +59,25 @@ None of the defences here are complicated, and together they stop almost every a
 - **Slow down on Friday afternoons, deadlines and panics.** Attackers love rushed people. A document that demands instant action is asking you to skip exactly the thinking that would protect you.
 - **Back up your important files somewhere separate.** If a modern macro virus ever does lock or damage your documents, a clean copy kept elsewhere turns a disaster into an inconvenience.
 
-## Common questions
+## Frequently Asked Questions
 
-### Did the Melissa virus delete people's files?
+**Did the Melissa virus delete people's files?**
 
 No. Melissa was not built to destroy or steal files. Its damage came from the flood itself — it emailed itself to the first 50 contacts of every victim, and that mountain of messages overwhelmed and shut down email systems.
 
-### Why is it called Melissa?
+**Why is it called Melissa?**
 
 According to reports from the time, its creator, David L. Smith, said he named it after a dancer he had known in Florida. He pleaded guilty and was sentenced in 2002 to 20 months in federal prison.
 
-### Can the Melissa virus infect my computer today?
+**Can the Melissa virus infect my computer today?**
 
 The original Melissa is a museum piece now, because modern Word and Outlook handle macros far more strictly. But its method is alive and well: poisoned documents that ask you to "enable content" are still one of the most common ways malware gets in.
 
-### What should I do if a document asks me to enable macros?
+**What should I do if a document asks me to enable macros?**
 
 Close it and do not press the button. If the document was supposed to come from someone you know, contact them through a different channel — a call or a separate message — and ask whether they sent it and why it needs macros.
 
-### How much damage did Melissa cause?
+**How much damage did Melissa cause?**
 
 Estimates put the combined cost of the flood, the shutdowns and the cleanup at around $80 million. Email at places reported to include Microsoft, Intel and the US Marine Corps was overwhelmed, and some organisations switched their email off entirely to cope.
 

@@ -60,25 +60,25 @@ The good news is that Sasser's whole trick depends on one thing: a computer that
 
 **Restart loops are a warning sign, not just bad luck.** If a computer ever starts shutting down and restarting on its own in a cycle, treat it as a possible infection: disconnect it from the internet so it cannot spread or be reached, and get it checked rather than fighting the countdown.
 
-## Common questions
+## Frequently Asked Questions
 
-### Did Sasser need an email or a click to infect a computer?
+**Did Sasser need an email or a click to infect a computer?**
 
 No. That is what made Sasser different from most viruses of its time. It scanned the internet by itself, found computers with the unpatched LSASS flaw, and broke in without the owner doing anything at all.
 
-### Why did Sasser keep restarting computers?
+**Why did Sasser keep restarting computers?**
 
 The worm's attack on the LSASS component made the machine unstable, so Windows kept forcing a shutdown with a sixty-second countdown. The infected computer then restarted, and the cycle began again, leaving the machine almost impossible to use.
 
-### Who created the Sasser worm?
+**Who created the Sasser worm?**
 
 An 18-year-old German student named Sven Jaschan. He was arrested about a week after the outbreak began, following a tip-off connected to Microsoft's $250,000 reward, and he confessed to writing Sasser and the Netsky worms.
 
-### What punishment did the creator receive?
+**What punishment did the creator receive?**
 
 In 2005 a German court tried him under juvenile law, since some offences began when he was 17. He received a suspended sentence of one year and nine months plus community service, and no prison time.
 
-### Can a worm like Sasser still spread today?
+**Can a worm like Sasser still spread today?**
 
 A worm exactly like it would have a much harder life now, because firewalls are on by default and updates install automatically on most machines. But the same basic trick — hunting for computers that have not installed a known fix — is still used, which is why fast updating remains the best defence.
 

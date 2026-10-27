@@ -78,25 +78,25 @@ Emotet and the malware it delivered often climbed in through old, unpatched soft
 
 Because Emotet began as a banking thief, stolen passwords were its first treasure. Unique passwords for important accounts — especially email and banking — limit the damage if one ever leaks. A reputable, updated antivirus adds another layer, catching known infected documents before they open.
 
-## Common questions
+## Frequently Asked Questions
 
-### What is Emotet in simple words?
+**What is Emotet in simple words?**
 
 Emotet is malware — a harmful program — that first appeared in 2014 stealing bank details, then grew into a delivery service for other criminals. Once it infected a computer, its operators sold access to that machine, and buyers used the opening to install their own malware, including ransomware.
 
-### How does Emotet spread?
+**How does Emotet spread?**
 
 Mainly through huge waves of spam email carrying infected Word documents. Its smartest trick was stealing real email threads from infected computers and replying inside them, so the harmful message looked like a normal reply from someone the victim knew. It also stole address books to choose its next targets.
 
-### Is Emotet gone for good?
+**Is Emotet gone for good?**
 
 No. Police from eight countries seized its network in January 2021 and even used that network to uninstall Emotet from infected computers in April 2021. But Emotet returned in November 2021, reportedly rebuilt with help from the TrickBot network's operators.
 
-### Can Emotet infect my computer through a message from a friend?
+**Can Emotet infect my computer through a message from a friend?**
 
 Yes, that was its speciality. Because it replied inside stolen, genuine conversations, the infected document often arrived looking like it came from a real colleague or friend. That is why any unexpected attachment deserves a check through a separate call or message, even when the sender looks familiar.
 
-### What should I do if I opened a suspicious document?
+**What should I do if I opened a suspicious document?**
 
 Disconnect from the internet, run a full antivirus scan, and change your important passwords — especially email and banking — from a clean device. If it was a work computer, tell your IT team immediately, because one infected machine can be the doorway into a whole company's network.
 

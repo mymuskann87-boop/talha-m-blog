@@ -63,19 +63,19 @@ For the rest of us, this race is quiet good news. More competition usually means
 
 ## Frequently Asked Questions
 
-### What is the Maia 300?
+**What is the Maia 300?**
 The Maia 300 is Microsoft's newest custom AI chip, announced on October 12, 2026. It is the third generation of AI chips Microsoft has designed itself.
 
-### How many Maia 300 chips will Microsoft deploy?
+**How many Maia 300 chips will Microsoft deploy?**
 Microsoft says it plans to deploy potentially more than one million of them next year, to power its internal AI services.
 
-### What are chiplets?
+**What are chiplets?**
 Chiplets are smaller, specialised chips bonded together to make one bigger processor. In the Maia 300, the main computing parts use advanced 2-nanometre technology, while simpler parts use cheaper 3-nanometre technology.
 
-### Is the Maia 300 really 40% better than other systems?
+**Is the Maia 300 really 40% better than other systems?**
 That is Microsoft's own claim — the company says the chip does about 40% more useful computing per megawatt than leading GPU-based systems, but it did not name the systems it compared against.
 
-### Why is Microsoft making its own chips?
+**Why is Microsoft making its own chips?**
 Like its rivals, including OpenAI, Microsoft wants to depend less on Nvidia, which currently holds a powerful position in the AI chip market.
 
 Sources: Reuters (October 12, 2026).

@@ -74,25 +74,25 @@ Early computer owners often had no antivirus at all, which is why a joke could c
 
 Stoned's accidental overwrites taught an early generation of users that data can be damaged by something that was never even aiming at it. A simple backup — copies of your important files on a separate drive or in a trusted cloud account — turns almost any virus story, old or new, from a disaster into an annoyance.
 
-## Common questions
+## Frequently Asked Questions
 
-### Who created the Stoned virus?
+**Who created the Stoned virus?**
 
 Nobody knows. The virus appeared in 1987 and was first reported in New Zealand, but its author was never publicly identified. The longer slogan found in some versions suggests the message was the point of the joke, yet the person behind it never stepped forward to claim their famous prank.
 
-### Did the Stoned virus delete people's files?
+**Did the Stoned virus delete people's files?**
 
 Not on purpose. Stoned was not built to destroy anything, and its only planned visible act was displaying its message. However, on some systems the place where it stored itself could overwrite stored data, so real damage was reported even though destruction was never the design.
 
-### Why did the message only appear sometimes?
+**Why did the message only appear sometimes?**
 
 The message was part of the startup routine and showed on roughly one occasion in eight when an infected machine was switched on. That randomness helped the virus stay unnoticed for long stretches, because a machine could seem perfectly clean through many normal starts.
 
-### Can the Stoned virus infect a computer today?
+**Can the Stoned virus infect a computer today?**
 
 Practically speaking, no. It lives in the boot sector of floppy disks and depends on machines starting from them, a world that has disappeared. Its importance today is as a lesson: its exact method survives in modern form whenever a computer trusts unknown USB media at startup.
 
-### What is the connection between Stoned and the Michelangelo virus?
+**What is the connection between Stoned and the Michelangelo virus?**
 
 Michelangelo grew out of the Stoned family — later virus writers built on Stoned's boot sector methods to create it. The playful original and the feared descendant share the same roots, which is why the two names so often appear together in virus history.
 

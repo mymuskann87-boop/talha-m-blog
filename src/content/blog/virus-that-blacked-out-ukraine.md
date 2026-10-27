@@ -68,25 +68,25 @@ You may never work at a power station, but the tricks that opened the door in Uk
 
 **Keep your programs updated.** Infected documents and stolen passwords do most of their damage on systems that have been left unpatched and unprotected. Installing updates for your operating system and office programs closes holes that attackers rely on, and it costs nothing but a few minutes.
 
-## Common questions
+## Frequently Asked Questions
 
-### Did the BlackEnergy virus attack really switch off Ukraine's power?
+**Did the BlackEnergy virus attack really switch off Ukraine's power?**
 
 Yes. On 23 December 2015, attackers used access gained through the BlackEnergy 3 malware to remotely open circuit breakers at three regional electricity companies in Ukraine. Around 230,000 customers lost power for roughly one to six hours, based on the figures reported by Ukraine's energy ministry and investigators.
 
-### How did a simple email reach a power grid's control systems?
+**How did a simple email reach a power grid's control systems?**
 
 Staff opened infected Office documents from spear-phishing emails and enabled macros, which installed the malware. Over the following months the attackers stole login details, including passwords for VPN connections that had no second sign-in check, and used that access to reach the systems that operate the grid.
 
-### Who carried out the Ukraine power grid attack?
+**Who carried out the Ukraine power grid attack?**
 
 Investigators, and later the US government, attributed the attack to a Russian state hacking group known as Sandworm. That is their official finding, and it remains the accepted account of who was responsible.
 
-### Why did the attackers flood the call centres with junk calls?
+**Why did the attackers flood the call centres with junk calls?**
 
 The flood of fake calls was timed with the blackout so that real customers could not get through to report outages or ask for information. It spread confusion, slowed the companies' picture of what was happening, and bought the attackers more time.
 
-### Can I protect myself from this kind of attack?
+**Can I protect myself from this kind of attack?**
 
 You cannot stop a state hacking group on your own, but you can block the small tricks that start almost every attack like this. Do not enable macros in unexpected documents, use two-factor sign-in and unique passwords, keep your software updated, and keep separate backups of important files.
 

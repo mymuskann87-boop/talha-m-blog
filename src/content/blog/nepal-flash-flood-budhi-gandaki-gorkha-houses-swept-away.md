@@ -59,23 +59,23 @@ For the families of Salleri Bazaar, Jagat Bazaar and the small settlements along
 
 ## Frequently Asked Questions
 
-### When and where did the Nepal flash flood happen?
+**When and where did the Nepal flash flood happen?**
 
 The flood struck on Sunday, October 11, 2026, along the Budhi Gandaki river in Gorkha district, north-central Nepal. The worst-hit areas included Salleri Bazaar, Jagat Bazaar and parts of Chumnubri Rural Municipality.
 
-### What caused the Budhi Gandaki flood?
+**What caused the Budhi Gandaki flood?**
 
 Officials' preliminary view is that a dry landslide between Lokpa and Chumling blocked the river and formed a natural dam, which then burst and sent a sudden surge downstream. The disaster agency says the flood was not caused by rain, and a detailed technical analysis is ongoing.
 
-### How many people are missing or were rescued?
+**How many people are missing or were rescued?**
 
 Five people — two women and three men staying at a sheep shed in the Ujjilud area — are missing. At least 82 people, including nine foreigners, were rescued, and no deaths have been confirmed so far.
 
-### How much damage did the flood cause?
+**How much damage did the flood cause?**
 
 Around 45 houses were swept away, four bridges were destroyed or damaged, three hydropower projects were damaged, and electric poles and telephone towers were brought down, cutting power and communications in the area.
 
-### Is the Manaslu trekking region affected?
+**Is the Manaslu trekking region affected?**
 
 Yes. Gorkha is the gateway to the Manaslu trek, and the flood came at the start of the autumn trekking season, just days after trekking routes in the region had been declared safe. Travellers should check the latest official updates before heading to the area.
 

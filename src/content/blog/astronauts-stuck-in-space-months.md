@@ -88,23 +88,23 @@ After splashdown, flight surgeons checked the crew, who then flew to Houston to 
 
 ## Frequently Asked Questions
 
-### Why were Suni Williams and Butch Wilmore stuck in space for so long?
+**Why were Suni Williams and Butch Wilmore stuck in space for so long?**
 
 Their Boeing Starliner capsule developed helium leaks and thruster failures on the way to the space station. NASA studied the problems all summer and decided in August 2024 that the risk of bringing the crew home on Starliner was too uncertain, so the capsule returned empty and the astronauts waited for a SpaceX Dragon instead.
 
-### How many days were the astronauts in space?
+**How many days were the astronauts in space?**
 
 They spent 286 days in space, from 5 June 2024 to 18 March 2025 — 278 days longer than the roughly eight days originally planned.
 
-### Were the astronauts ever in real danger?
+**Were the astronauts ever in real danger?**
 
 They were not in immediate danger. The space station had food, oxygen, power and a full crew, and NASA always had a plan to bring them home. The problem was only that their own capsule could not be trusted enough for the return flight, and the replacement ride followed the station's normal crew rotation schedule.
 
-### How did the astronauts finally return to Earth?
+**How did the astronauts finally return to Earth?**
 
 They came home aboard SpaceX's Crew-9 Dragon capsule, together with Nick Hague and Aleksandr Gorbunov. The capsule splashed down in the Gulf of Mexico, off the coast of Florida, on 18 March 2025.
 
-### What spacewalking record did Suni Williams set?
+**What spacewalking record did Suni Williams set?**
 
 During a spacewalk on 30 January 2025, Williams reached a career total of 62 hours and 6 minutes of spacewalking time — the most by any woman in history — across nine spacewalks.
 

@@ -57,25 +57,25 @@ Save seeds from your own plants and the saving compounds. A ripe tomato gives do
 - [Save Money On Monthly Groceries](https://talhablog.com/blog/save-money-on-monthly-groceries/)
 - [Free Workouts Replace Costly Gyms](https://talhablog.com/blog/free-workouts-replace-costly-gyms/)
 
-## Common questions
+## Frequently Asked Questions
 
-### What should I grow first to save money?
+**What should I grow first to save money?**
 
 Grow what your kitchen buys every week. Herbs like mint and coriander, chillies, tomatoes, and leafy greens are the best starters because they are used daily and cost a lot per handful at the market. Start with four or five plants and expand only when those are thriving.
 
-### Is growing from seed really cheaper than buying plants?
+**Is growing from seed really cheaper than buying plants?**
 
 Yes, by a wide margin. One seed packet costs a fraction of a single grown plant and holds dozens of future plants. Seeds take longer to grow, but keeping a few spare seedlings in cups means a failed plant is replaced free instead of bought again.
 
-### How do I make compost at home?
+**How do I make compost at home?**
 
 Layer kitchen waste like vegetable peels and fruit skins with dry leaves in a shaded corner bin or a bucket with holes, and stir it occasionally. In a few months the bottom layer turns dark and crumbly — that is compost, ready to mix into your pots. It feeds plants and helps soil hold water.
 
-### When is the best time to water plants?
+**When is the best time to water plants?**
 
 In the cool morning or evening, when less water evaporates. Water the soil around the roots, not the leaves, and check with a finger first — if the soil is still damp an inch down, wait. A layer of dry leaves on the soil surface keeps moisture in longer.
 
-### Can I garden without a big yard?
+**Can I garden without a big yard?**
 
 Yes. A sunny balcony, a windowsill, or a few pots by the door is enough for herbs, greens, and chillies. Choose plants that fit your light: herbs and greens manage with less sun, while tomatoes need strong direct sunlight to fruit well.
 

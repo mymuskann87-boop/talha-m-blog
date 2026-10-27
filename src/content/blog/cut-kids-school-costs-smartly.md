@@ -66,25 +66,25 @@ This post targets only the controllable part: the bag, the bottle, the stationer
 
 The bag from the kitchen table went back to school this term, washed and zipped and ready. It is not the newest bag in the classroom. It is, quietly, the cheapest bag in the classroom — because it cost nothing at all, and it still carries every book it is asked to carry.
 
-## Common questions
+## Frequently Asked Questions
 
-### Should I buy everything new for the new term?
+**Should I buy everything new for the new term?**
 
 No. Start by emptying last year's bag and testing every item. Keep everything that still works — bag, bottle, ruler, geometry set — and replace only what is truly broken. A fresh term does not require fresh supplies, only working ones.
 
-### How does labelling save money?
+**How does labelling save money?**
 
 Because lost items are bought twice. A bottle, sweater or lunchbox with the child's name on it is returned when found; an unnamed one sits in lost property until it is forgotten. A marker pen costs almost nothing and prevents a whole chain of replacement purchases.
 
-### Is a packed lunch really cheaper than canteen food?
+**Is a packed lunch really cheaper than canteen food?**
 
 Yes, over a month. A small daily canteen amount multiplied by about 20 school days becomes a large monthly sum, while a packed lunch uses food the family already bought. One fixed treat day a week keeps the joy in the system without breaking the budget.
 
-### What if the school requires expensive branded items?
+**What if the school requires expensive branded items?**
 
 Ask the school first whether alternatives, second-hand sales, borrowed books or fee help exist. Many schools run schemes parents never hear about because nobody asks. For genuinely fixed costs, like term fees, accept them and save on the controllable items around them.
 
-### How can parents buy stationery more cheaply?
+**How can parents buy stationery more cheaply?**
 
 Buy at term-start sales, buy in packs rather than single pieces, and share bulk packs with other parents, splitting them at the school gate. Keep a small home stock box so a school-night need is answered from a drawer, not from an emergency shop trip.
 

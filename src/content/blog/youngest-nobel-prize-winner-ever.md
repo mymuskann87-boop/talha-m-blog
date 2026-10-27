@@ -62,7 +62,7 @@ She also kept faith with her own education. She finished school in England and g
 
 Some doors are closed with locks and threats. Others are opened by a girl carrying books, walking through them anyway, and holding them open behind her for everyone else. That, more than the medal, is what the world celebrated in Oslo.
 
-## Common questions
+## Frequently Asked Questions
 
 **How old was Malala when she won the Nobel Peace Prize?**
 She was 17 years old. The prize was announced on 10 October 2014, and she received it in Oslo that December, making her the youngest Nobel laureate in history.

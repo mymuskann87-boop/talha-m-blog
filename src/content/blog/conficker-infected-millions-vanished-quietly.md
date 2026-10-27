@@ -50,25 +50,25 @@ The good news buried inside this strange story is that Conficker's three roads c
 
 **Back up your important files.** This worm did not destroy files, but many of its cousins do. A copy of your photos and documents on a separate drive or in cloud storage means no worm can ever truly take them from you.
 
-## Common questions
+## Frequently Asked Questions
 
-### Is Conficker still around today?
+**Is Conficker still around today?**
 
 Small numbers of very old, forgotten computers are still believed to carry it, because a machine that is never updated and never cleaned can stay infected for years. For a normal person using an updated computer, Conficker itself is not a realistic danger anymore. Its real importance today is the lesson it teaches about updates and passwords.
 
-### Who created Conficker?
+**Who created Conficker?**
 
 Nobody knows, at least not publicly. Microsoft offered a 250,000 dollar reward for information about the creator, and the security world investigated for years. The creator has never been publicly identified, which is one of the main reasons this worm remains such a famous mystery.
 
-### What was Conficker built to do?
+**What was Conficker built to do?**
 
 That is the unanswered question at the heart of the story. It built one of the largest botnets in history, armies like that are usually rented out for spam, theft or attacks, yet this one was never used for one huge strike. Experts still debate whether it was a weapon, a business or an experiment.
 
-### Could a worm like Conficker spread today?
+**Could a worm like Conficker spread today?**
 
 A worm using the exact same tricks would struggle, because modern systems update themselves automatically and old features like AutoRun have been made much safer. But a new worm that finds a fresh, unpatched flaw could still travel very fast at first. That is exactly why installing updates quickly matters so much.
 
-### How would I know if a computer is infected?
+**How would I know if a computer is infected?**
 
 Worms like Conficker are designed to be invisible, but warning signs can include security websites mysteriously refusing to open, antivirus software failing to update, and a computer feeling slow or behaving strangely on a network. If several of those signs appear together, run a full scan with trusted security software or ask a technician to check the machine.
 

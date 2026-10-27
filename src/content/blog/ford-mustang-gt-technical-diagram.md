@@ -52,7 +52,7 @@ Fuel use is the honest trade-off. A big V8 drinks more than a small family hatch
 
 Parking needs a little care, since the hood is long and the car is wide, but cameras and sensors help. In rain the rear-wheel drive asks for a gentle right foot, which is good advice in any powerful car. Treat it with respect and it treats you well back. That is the daily deal of Mustang ownership: a small amount of extra effort, repaid with a large amount of extra joy.
 
-## Common questions
+## Frequently Asked Questions
 
 **Is the Mustang GT a good everyday car?**
 Yes, for most people it is. It has four seats, a usable boot, and normal controls. The ride is firm, and fuel use is higher than a small family car, but it works fine as a daily driver.

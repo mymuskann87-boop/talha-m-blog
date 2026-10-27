@@ -59,25 +59,25 @@ The good news is that this spy's road into your life is narrow, and ordinary hab
 
 **If you think you were hit, act from a clean device.** If a computer may be infected, do not change your passwords on that same machine — the spy would simply watch the new ones being typed. Use a different, trusted device to change passwords, starting with your email, and switch on two-factor sign-in as you go.
 
-## Common questions
+## Frequently Asked Questions
 
-### What is Agent Tesla in simple words?
+**What is Agent Tesla in simple words?**
 
 It is a spying program that criminals buy cheaply and sneak onto computers, usually through fake email attachments. Once inside, it records everything you type, takes pictures of your screen, steals passwords saved in your browser and email apps, and sends all of it to the criminal.
 
-### How does Agent Tesla get onto a computer?
+**How does Agent Tesla get onto a computer?**
 
 Almost always through phishing email. The message carries a trapped document, spreadsheet or archive file, and opening that file installs the spy quietly in the background. It thrives on hurried clicks — fake invoices, fake orders and urgent-looking business mail are its favourite costumes.
 
-### Can a strong password stop Agent Tesla?
+**Can a strong password stop Agent Tesla?**
 
 No, not on its own. A keylogger watches the password as you type it, so even a brilliant password is handed over in full. The protection that truly helps is two-factor sign-in, because the thief ends up with the password but not the second code from your phone.
 
-### Why is Agent Tesla linked to money-transfer fraud?
+**Why is Agent Tesla linked to money-transfer fraud?**
 
 Security firms connect it heavily to business email compromise and advance-fee fraud. With stolen passwords, criminals enter real company mailboxes, watch how payments are normally made, then slip in fake bank details at the perfect moment. Staff send real money to the wrong account, believing they are following genuine instructions.
 
-### What should I do if I suspect my computer has a keylogger?
+**What should I do if I suspect my computer has a keylogger?**
 
 Stop typing sensitive information on that machine. From a separate, clean device, change your important passwords — email first — and turn on two-factor sign-in. Then run a full antivirus scan on the suspect computer, keep it updated, and watch your bank statements closely for anything you do not recognise.
 

@@ -64,25 +64,25 @@ In my view, children remember the day, not the ticket price — and the days the
 
 The kite on the park grass dived again as the sun went down, and the little girl laughed harder than before. Her father wound the string in, patient as anything, and the grandmother folded the blanket with the slow care of someone who had done it a hundred times. They walked home together, carrying a bag that had cost nothing extra, through an evening that had cost nothing at all. That is the whole secret, and it fits in a bag you already own.
 
-## Common questions
+## Frequently Asked Questions
 
-### What can a family do for free on a weekend?
+**What can a family do for free on a weekend?**
 
 A park picnic with home food, a library visit, a home movie or game night, a walk together, and free community events found on local notice boards. The best free days combine two or three small things — food from home, an outdoor game, and time together — rather than one grand plan.
 
-### Is the library really free?
+**Is the library really free?**
 
 In most places, yes. A public library lends books and offers reading space, usually free, and many run story sessions and study areas. Some services, like printing or late fines, may carry small charges, but borrowing books and sitting down to read costs nothing.
 
-### How do I find free events near me?
+**How do I find free events near me?**
 
 Look at notice boards at parks, libraries, schools and community centres, and ask teachers and neighbours what is happening. School fairs, community matches, book sales and free health camps are often advertised locally rather than online, so the habit of looking is what finds them.
 
-### What if there is no park or library near us?
+**What if there is no park or library near us?**
 
 Adapt the ideas to what you have. A rooftop or courtyard picnic, books borrowed from friends or school, living-room games, and cooking together all give the same thing: family time without a ticket. Free fun is a decision about time together, not a particular place.
 
-### Do children enjoy free activities as much as paid ones?
+**Do children enjoy free activities as much as paid ones?**
 
 Very often, more. Children remember who was with them and what they did together, not what it cost. A kite that keeps falling, a game the whole family plays, a picnic under a tree — these are the days children describe years later, while expensive outings are often forgotten within weeks.
 

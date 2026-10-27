@@ -82,25 +82,25 @@ Fifth, treat any infection warning seriously. Many people ignore a strange pop-u
 
 Finally, keep backups of important files in a place not always connected to your computer. Backups do not stop TrickBot entering, but they limit what ransomware gangs can threaten later. The lesson is plain: a small infection is never small. The bank-login thief on one office computer was the scout for the ransomware army that arrived later.
 
-## Common questions
+## Frequently Asked Questions
 
-### What is TrickBot in simple words?
+**What is TrickBot in simple words?**
 
 TrickBot is malware that began as a banking trojan in 2016, built to steal online banking logins. It grew into a crime platform that rented infected computers to other gangs. Those gangs often used the access TrickBot provided to launch ransomware attacks.
 
-### Did Microsoft kill TrickBot in 2020?
+**Did Microsoft kill TrickBot in 2020?**
 
 No. The Microsoft-led coalition knocked out much of its command system in October 2020 and badly disrupted it. TrickBot rebuilt itself within weeks, which is why its story is so often used as an example of how hard botnets are to destroy completely.
 
-### How does TrickBot get onto a computer?
+**How does TrickBot get onto a computer?**
 
 It spread mainly through phishing emails carrying malicious attachments or links. After entering one computer on a network, it could steal passwords and abuse shared connections to crawl to other machines. One careless click could therefore become a problem for a whole office.
 
-### Why do officials worry about a banking trojan so much?
+**Why do officials worry about a banking trojan so much?**
 
 Because TrickBot stopped being only a banking thief. It gave other criminals ready-made access to infected company networks. That access could then be used for ransomware families such as Ryuk and Conti, turning a quiet infection into a shutdown of a business or service.
 
-### Can an ordinary person do anything against something this big?
+**Can an ordinary person do anything against something this big?**
 
 Yes, because the biggest attacks often begin with the smallest openings. Careful email habits, updates, different passwords, and two-factor sign-in close the doors TrickBot needed most. Reporting a suspicious message at work can also stop one infection from becoming a company-wide disaster.
 

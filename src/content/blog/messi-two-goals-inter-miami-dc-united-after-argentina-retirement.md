@@ -55,23 +55,23 @@ There is no long rest ahead. Inter Miami are back at home on Wednesday night, wh
 
 ## Frequently Asked Questions
 
-### How many goals did Messi score against D.C. United?
+**How many goals did Messi score against D.C. United?**
 
 Messi scored two goals in Inter Miami's 4-0 win. He found the net in the 47th minute with a close-range finish from a Suárez pass, and again in the 60th minute after dribbling past two defenders.
 
-### Who else scored for Inter Miami in the match?
+**Who else scored for Inter Miami in the match?**
 
 Luis Suárez scored the other two goals, both in the first half. He opened the scoring in the 3rd minute and added his second in the 39th minute.
 
-### Was this Messi's first match after retiring from Argentina?
+**Was this Messi's first match after retiring from Argentina?**
 
 Yes. It was his first club match after his final appearance for Argentina four days earlier, when he scored once and made two assists against Benin to end his 21-year international career.
 
-### How many goals does Messi have this MLS season?
+**How many goals does Messi have this MLS season?**
 
 Messi now has 23 goals and 13 assists this season. He leads the Golden Boot race by four goals ahead of FC Dallas striker Petar Musa.
 
-### When do Inter Miami play next?
+**When do Inter Miami play next?**
 
 Inter Miami's next match is on Wednesday night, when they host New York City FC.
 

@@ -62,25 +62,25 @@ Paying feels like the fastest way out, but it carries no guarantee at all. You a
 
 Updates close the holes that malware uses to get in and to spread. Let your operating system and programs update themselves, and run a reputable security program that can catch known threats before they start working. No single tool can stop every attack, which is exactly why updates, caution with attachments and a good offline backup belong together — each one covers the gaps the others leave.
 
-## Common questions
+## Frequently Asked Questions
 
-### Can locked CryptoLocker files be opened without the key?
+**Can locked CryptoLocker files be opened without the key?**
 
 In almost every case, no. CryptoLocker used RSA-2048 encryption, which is far too strong to break by guessing or by any tool a home user could run. The only realistic ways back were paying for the real key, or — after the 2014 takedown — using the free unlocking service built from the recovered key database.
 
-### Did paying the $300 ransom actually work?
+**Did paying the $300 ransom actually work?**
 
 For many victims it did, because the criminals wanted a reputation for "delivering" so future victims would pay too. But it was never guaranteed, and paying funded more crime. Security authorities consistently advise against paying, and a proper backup removes the need to even consider it.
 
-### Is CryptoLocker still a threat today?
+**Is CryptoLocker still a threat today?**
 
 CryptoLocker itself was shut down in June 2014 during Operation Tovar, so the original program no longer operates. Its real legacy is the method it proved: strong encryption plus a timed ransom demand. Modern ransomware gangs copied that formula and are very much still active, which is why the protection steps above still matter.
 
-### Why did the criminals ask for Bitcoin?
+**Why did the criminals ask for Bitcoin?**
 
 Bitcoin let them receive money from anywhere in the world without a bank account in their real name and made payments very hard to trace or reverse. At the time of CryptoLocker, the roughly $300 ransom worked out to about 2 Bitcoin. The anonymous, one-way nature of the payment was a deliberate part of the design.
 
-### What should I do first if my screen shows a ransom demand?
+**What should I do first if my screen shows a ransom demand?**
 
 Stop and do not click anything in the warning window. Disconnect the computer from the internet and from any plugged-in drives, so the damage cannot spread to your backups or other devices. Then, from a clean device, look for help from a trusted security company and check whether a free unlocking tool exists for that specific ransomware before you even think about paying.
 

@@ -1,5 +1,5 @@
 ---
-title: "The Albies 2026: Full Honorees List and Red Carpet Highlights"
+title: "The Albies 2026 Honorees List"
 description: "The Albies 2026 took place on October 9, 2026, in London. See the honorees list, the red carpet, and George Clooney's words."
 pubDate: 2026-10-11T13:40:00+05:00
 updatedDate: 2026-10-14

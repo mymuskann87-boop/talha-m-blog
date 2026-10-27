@@ -52,25 +52,25 @@ Anyone with a health condition should ask a doctor before starting a new hard ro
 
 The best gym, in my opinion, is the one you actually visit — even if that gym is a park. Memberships do not make people fit. Mornings do.
 
-## Common questions
+## Frequently Asked Questions
 
-### Is walking really enough exercise?
+**Is walking really enough exercise?**
 
 Yes, when it is brisk and regular. Walking with purpose, arms swinging and breath slightly quickened, for around half an hour a day, strengthens the heart and improves fitness. It is one of the most reliable and underrated forms of exercise there is.
 
-### What exercises can I do at home without equipment?
+**What exercises can I do at home without equipment?**
 
 Push-ups, squats, planks, and lunges together work the whole body and need no equipment. Start at an honest level — knee push-ups and short planks are correct for beginners — and build slowly, three times a week, with rest between rounds.
 
-### How do I start running if I have never run?
+**How do I start running if I have never run?**
 
 Mix walking and running: a minute of jogging, two minutes of walking, repeated, and let the running minutes grow week by week. Comfortable shoes and a safe path matter more than speed, and rest days matter as much as running days.
 
-### Are free workout videos safe to follow?
+**Are free workout videos safe to follow?**
 
 Generally yes, if you choose instructors who explain form clearly and you start at an easy level. Mirror the shapes carefully, favour slow and correct movement over fast repetitions, and stop for any sharp or new pain.
 
-### Should I cancel my gym membership?
+**Should I cancel my gym membership?**
 
 Only if it is not being used. A membership visited several times a week is money well spent. A fee paid monthly for a building visited twice is a subscription to guilt — try the free path for a month first, then decide with evidence.
 

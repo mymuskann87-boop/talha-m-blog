@@ -58,25 +58,25 @@ The defence against this twenty-year-old worm is the same defence that works aga
 
 **Remember the door is the click.** Worms like this one cannot walk through a closed door. They wait, politely, inside a tempting promise, for a person to invite them in. Refusing the invitation is the entire defence.
 
-## Common questions
+## Frequently Asked Questions
 
-### Was there really a photograph of Anna Kournikova in the email?
+**Was there really a photograph of Anna Kournikova in the email?**
 
 No. The attachment only pretended to be an image file. Inside was a Visual Basic script, and no photograph existed anywhere in the message. Millions of people opened a picture that was never there.
 
-### What did the Anna Kournikova virus do to an infected computer?
+**What did the Anna Kournikova virus do to an infected computer?**
 
 It used Microsoft Outlook to send a copy of itself to every address in the victim's address book, then waited for those people to click. It was not built to wipe files, but analysts found code inside it set to join a flooding attack against a Dutch computer retailer's website on 26 January.
 
-### Who created the Anna Kournikova virus, and what happened to him?
+**Who created the Anna Kournikova virus, and what happened to him?**
 
 It was created by Jan de Wit, a 20-year-old Dutch computer student, using a free virus-creation toolkit rather than writing the code himself. He turned himself in a few days later and, in September 2001, received 150 hours of community service with no prison sentence.
 
-### How much damage did it cause?
+**How much damage did it cause?**
 
 Estimates varied between reports, but commonly cited figures ran into the tens of millions of dollars. The cost came from clogged email servers at companies and government offices, lost working hours and the clean-up, rather than from stolen money or destroyed data.
 
-### Can the same trick still work today?
+**Can the same trick still work today?**
 
 Yes. The promised celebrity photo is still the exact bait behind many fake picture links and malicious attachments in modern messages. The names and apps change, but the defence stays the same: never rush to open a promised picture, and check with the sender first.
 

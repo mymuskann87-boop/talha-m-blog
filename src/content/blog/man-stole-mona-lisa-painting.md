@@ -62,23 +62,23 @@ Honestly, yes — a very large part of her fame begins here. Before 1911 the *Mo
 
 ## Frequently Asked Questions
 
-### Who stole the Mona Lisa?
+**Who stole the Mona Lisa?**
 
 The thief was Vincenzo Peruggia, an Italian glazier and decorator who had briefly worked at the Louvre and had helped build the painting's protective glass case.
 
-### How did Peruggia steal the Mona Lisa?
+**How did Peruggia steal the Mona Lisa?**
 
 On the museum's closing day, Monday 21 August 1911, he entered dressed in a worker's white smock, lifted the painting off its four iron pegs, removed the frame and case on a service stairway, and walked out through a service door with the panel hidden under his smock.
 
-### How long was the Mona Lisa missing?
+**How long was the Mona Lisa missing?**
 
 Just over two years — from August 1911 until December 1913, when Peruggia tried to sell it in Florence and was arrested.
 
-### Was Picasso really accused of stealing the Mona Lisa?
+**Was Picasso really accused of stealing the Mona Lisa?**
 
 Yes. Picasso and the poet Guillaume Apollinaire were arrested and questioned during the investigation, then released. Neither man had anything to do with the theft.
 
-### How long did Peruggia spend in prison?
+**How long did Peruggia spend in prison?**
 
 He was sentenced to one year and fifteen days, and served only about seven months after an appeal — a light sentence, helped by the court's view that he had acted from patriotic motives.
 

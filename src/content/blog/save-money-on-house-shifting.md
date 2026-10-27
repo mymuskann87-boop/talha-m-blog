@@ -65,25 +65,25 @@ Mark it clearly — write "FIRST NIGHT" on every side in thick letters — and c
 - [Save Money On Furniture Buying](https://talhablog.com/blog/save-money-on-furniture-buying/)
 - [Lower Your Monthly Rent Burden](https://talhablog.com/blog/lower-your-monthly-rent-burden/)
 
-## Common questions
+## Frequently Asked Questions
 
-### How can I reduce house shifting costs the most?
+**How can I reduce house shifting costs the most?**
 
 Declutter first — every box not moved saves packing, loading, truck space and unpacking. Then get two or three mover quotes, pack yourself where you can, and choose a weekday or off-season day where movers charge less.
 
-### Should I pack myself or hire movers to pack?
+**Should I pack myself or hire movers to pack?**
 
 Packing yourself saves the most, because movers charge heavily for packing labour and materials. Boxes and tape cost little, and your own hands know what is fragile. Leave only genuinely valuable or fragile items to professional packing.
 
-### Why do mover quotes differ so much for the same move?
+**Why do mover quotes differ so much for the same move?**
 
 Because quotes include different things — some include packing, loading and unloading, while others charge those as extras. Compare what each quote actually includes, ask about stairs and large items, and choose the clearest quote, not just the cheapest number.
 
-### How do labels help during a move?
+**How do labels help during a move?**
 
 Labelled boxes go straight to the right room, so unpacking takes hours instead of days. Write the room and a short note about the contents on two sides of each box, and keep one essentials box — kettle, bedding, chargers, clothes — to open first.
 
-### Is moving on a weekday really cheaper?
+**Is moving on a weekday really cheaper?**
 
 Often yes. Movers charge more on weekends, month-ends and in the busy season, when demand is high. A weekday or off-season move with a free truck can cost noticeably less for the same crew and the same work.
 

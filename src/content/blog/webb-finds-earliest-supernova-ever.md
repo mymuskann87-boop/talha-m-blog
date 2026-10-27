@@ -62,27 +62,27 @@ The light from GRB 250314A has finished its journey now. The star is long gone. 
 
 ## Frequently Asked Questions
 
-### What exactly did the James Webb Telescope confirm?
+**What exactly did the James Webb Telescope confirm?**
 
 Webb confirmed that a gamma-ray burst known as GRB 250314A was produced by a collapsing massive star, a core-collapse supernova, which exploded when the universe was only 730 million years old. That makes it the earliest stellar death ever observed.
 
-### Who first detected the flash?
+**Who first detected the flash?**
 
 The flash was first picked up in mid-March 2025 by the Space Variable Objects Monitor, a small X-ray telescope developed by China and France. It was flagged as unusually distant within days, which is why Webb was called in to investigate.
 
-### When did Webb examine the event?
+**When did Webb examine the event?**
 
 Webb carried out its follow-up near-infrared imaging on 1 July 2025. Those observations provided the confirmation that the burst came from a supernova in the early universe.
 
-### How big was the new record?
+**How big was the new record?**
 
 The previous record, also set by Webb, was a supernova from 1.8 billion years after the Big Bang. The new event, at 730 million years after the Big Bang, breaks that record by more than a billion years.
 
-### What surprised the scientists most?
+**What surprised the scientists most?**
 
 The spectrum of the ancient supernova looked remarkably similar to modern, nearby Type II supernovae. Because of that similarity, the tools used to study supernovae close to home can also be applied across most of cosmic history.
 
-### Who led the research team?
+**Who led the research team?**
 
 The team was led by Andrew Levan of Radboud University and the University of Warwick. Their analysis was published in Astronomy & Astrophysics Letters in October 2026.
 

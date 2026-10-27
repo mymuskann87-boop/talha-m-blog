@@ -67,25 +67,25 @@ It also never means buying the cheapest product without reading it. A very cheap
 - [Save Money On Haircuts Monthly](https://talhablog.com/blog/save-money-on-haircuts-monthly/)
 - [Cut Beauty Costs Without Sacrifice](https://talhablog.com/blog/cut-beauty-costs-without-sacrifice/)
 
-## Common questions
+## Frequently Asked Questions
 
-### How often should I really wash my hair?
+**How often should I really wash my hair?**
 
 It depends on your hair type and daily life, but for most people every second or third day is enough, with plain water rinses between washes when needed. Daily washing strips natural oils and uses more product, water, and drying time, often making hair drier rather than cleaner.
 
-### How much shampoo should I actually use?
+**How much shampoo should I actually use?**
 
 For most hair lengths, a coin-sized amount worked through wet hair is enough. Conditioner belongs mainly on the lengths and ends, not piled onto the scalp. Using twice as much does not clean twice as well. It only empties the bottle twice as fast.
 
-### Should I finish one bottle before opening another?
+**Should I finish one bottle before opening another?**
 
 Yes. Half-finished bottles are money sitting in plastic, slowly expiring. Keep the bottle in use at the front of the shelf and backups behind it. Families that follow this rule often discover they already own months of products, and the next shopping trip can wait.
 
-### How can I reduce hair damage without buying treatments?
+**How can I reduce hair damage without buying treatments?**
 
 Let hair dry naturally when time allows, keep heat styling for occasions, comb wet hair gently with a wide-toothed comb, and dry with a soft towel pressed gently rather than twisted. Healthy hair needs little. Damaged hair needs everything, so preventing damage is the cheapest treatment of all.
 
-### When should I see a doctor about hair problems?
+**When should I see a doctor about hair problems?**
 
 For hair loss, scalp pain, persistent itching, or any scalp condition that does not improve, see a doctor. This post is about spending, not treatment, and a professional can tell the difference between a habit problem and a health problem.
 

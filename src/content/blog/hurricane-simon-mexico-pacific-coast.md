@@ -45,19 +45,19 @@ Ordinary residents, meanwhile, have learned to live in two minds. In Puerto Vall
 
 ## Frequently Asked Questions
 
-### How many people died in Hurricane Simon and Tropical Storm Rachel?
+**How many people died in Hurricane Simon and Tropical Storm Rachel?**
 
 At least five people have died in total, according to Mexican authorities and news agency reports — one man killed by Hurricane Simon in Guerrero, and four members of a family, including two children, killed by Tropical Storm Rachel's flooding in Baja California.
 
-### Did Hurricane Simon make landfall in Mexico?
+**Did Hurricane Simon make landfall in Mexico?**
 
 Not directly at its strongest. Simon stayed mostly offshore as it moved along the coast, weakening from its Category 4 peak. However, forecasters expected it to come ashore near Mazatlán, Sinaloa, around Wednesday night as a weaker Category 1 hurricane.
 
-### Which areas were damaged?
+**Which areas were damaged?**
 
 Authorities reported damage across Guerrero, Michoacán, Colima, Jalisco and Nayarit, including flooded homes in Acapulco, fallen trees and power poles, blocked roads and landslides. Puerto Vallarta was largely spared the worst but closed its airport as a precaution.
 
-### Why is the Pacific hurricane season so strong this year?
+**Why is the Pacific hurricane season so strong this year?**
 
 The El Niño phenomenon has warmed Pacific waters, giving storms extra energy. Hurricane Simon was the twenty-first named storm of an extremely active 2026 season.
 

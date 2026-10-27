@@ -59,23 +59,23 @@ For now, Pakistan's Adam Gilchrist is simply a happy schoolboy whose name and ce
 
 ## Frequently Asked Questions
 
-### Who is Pakistan's Adam Gilchrist?
+**Who is Pakistan's Adam Gilchrist?**
 
 He is a 17-year-old school cricketer from Karachi who studies at Kamran Public School. He shares his name with the Australian cricket legend Adam Gilchrist and, like him, is a left-handed wicketkeeper-batter.
 
-### How many runs did the Karachi Adam Gilchrist score?
+**How many runs did the Karachi Adam Gilchrist score?**
 
 He scored 117 runs from 108 balls, with 11 fours, against Happy Palace Grammar School in the PCB Talent Hunt School Cricket Championship (Under-17). His team made 297 for 4 and won by 172 runs.
 
-### Why is he named Adam Gilchrist?
+**Why is he named Adam Gilchrist?**
 
 According to reports, his mother chose the name Adam, and his father — a big cricket fan — added "Gilchrist" after the Australian star.
 
-### Who is his favourite cricketer?
+**Who is his favourite cricketer?**
 
 Kumar Sangakkara, the former Sri Lanka captain. In a video shared online, the youngster said he wants to be like Sangakkara because Sangakkara is his favourite player.
 
-### Is he related to the Australian Adam Gilchrist?
+**Is he related to the Australian Adam Gilchrist?**
 
 No. The two are not related. They only share the same name — and the same job on a cricket field.
 

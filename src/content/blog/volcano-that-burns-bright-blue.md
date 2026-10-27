@@ -74,23 +74,23 @@ The tourists walk down the mountain, sleepy and thrilled, already looking at the
 
 ## Frequently Asked Questions
 
-### Why does the fire at Kawah Ijen burn blue?
+**Why does the fire at Kawah Ijen burn blue?**
 
 The blue colour comes from sulfur gas, not from lava. Gas escapes from cracks in the crater at temperatures up to about 600 degrees Celsius and ignites when it meets oxygen in the air, and burning sulfur produces an electric-blue flame.
 
-### Is the blue lava at Kawah Ijen real lava?
+**Is the blue lava at Kawah Ijen real lava?**
 
 No. The glowing blue "rivers" are made of burning gas and liquid sulfur flowing over ordinary rock. The rock itself is not molten. The liquid sulfur that runs downhill while still alight creates the illusion of blue lava.
 
-### Why can the blue fire only be seen at night?
+**Why can the blue fire only be seen at night?**
 
 The flames are relatively faint, so daylight washes them out completely and the vents look like ordinary yellowish-white smoke. The fire burns day and night, but it is only visible in total darkness, which is why hikes begin at about 2 a.m.
 
-### How much weight do the sulfur miners carry?
+**How much weight do the sulfur miners carry?**
 
 Each load of sulfur, carried in two baskets on a pole over one shoulder, weighs between 70 and 90 kilograms — often more than the miner's own body weight. Many miners make two or three trips up out of the crater in a single shift.
 
-### How acidic is the Kawah Ijen crater lake?
+**How acidic is the Kawah Ijen crater lake?**
 
 It is the largest highly acidic crater lake in the world, with a measured pH below 0.3 — close to battery acid. The lake holds around 36 million cubic metres of water and is about 200 metres deep.
 

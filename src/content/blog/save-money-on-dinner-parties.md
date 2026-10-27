@@ -63,25 +63,25 @@ Thank the guests as they leave — genuinely, by name, for the dish they brought
 - [Save Money On Birthday Parties](https://talhablog.com/blog/save-money-on-birthday-parties/)
 - [Save Money While Eating Out](https://talhablog.com/blog/save-money-while-eating-out/)
 
-## Common questions
+## Frequently Asked Questions
 
-### Is hosting dinner at home really cheaper than a restaurant?
+**Is hosting dinner at home really cheaper than a restaurant?**
 
 Yes, by a clear margin. A restaurant charges per person, per dish and per drink, plus service costs. At home, the room costs nothing extra and one generous main dish feeds the whole table for far less per person.
 
-### What is the best menu for a cheap dinner party?
+**What is the best menu for a cheap dinner party?**
 
 One generous main dish cooked well — a large pot of biryani, a rich curry with bread, or a slow stew — with rice, a salad and bread. Guests remember one delicious dish far longer than five small ones, and it costs much less.
 
-### Is it rude to ask guests to bring a dish?
+**Is it rude to ask guests to bring a dish?**
 
 No. Most guests enjoy contributing, and arriving with something feels better than arriving empty-handed. Ask plainly and kindly, accept whatever arrives with genuine thanks, and the shared table becomes a shared memory.
 
-### How many guests should I invite to a home dinner?
+**How many guests should I invite to a home dinner?**
 
 A small table of around eight people who genuinely enjoy each other makes a better evening than a large crowd collected out of obligation. A small table also costs less to feed and lets the host speak to every guest.
 
-### How can I decorate a dinner table cheaply?
+**How can I decorate a dinner table cheaply?**
 
 Use a clean cloth, warm light and one simple decoration — a few flowers, a candle or a bowl of fruit. Soft light matters more than expensive decoration, and guests remember the glow and the conversation, not the centrepiece.
 

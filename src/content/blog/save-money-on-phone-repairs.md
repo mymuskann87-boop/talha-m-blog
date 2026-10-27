@@ -58,25 +58,25 @@ The same goes for swollen batteries. A battery that has puffed up is a safety ri
 
 The rule is kind and simple: fix what is safe and simple, and pay a professional for what is not. Saving money never means risking the phone, or yourself.
 
-## Common questions
+## Frequently Asked Questions
 
-### How can I avoid phone repairs in the first place?
+**How can I avoid phone repairs in the first place?**
 
 Use a case with a raised edge and a tempered glass screen guard, keep the phone dry, clean the charging port gently now and then, and avoid cheap chargers that run hot. Most cracked screens and worn ports come from everyday knocks and dust, not from bad luck, so prevention removes the biggest share of repair bills.
 
-### Should I get two quotes for phone repairs?
+**Should I get two quotes for phone repairs?**
 
 Yes. Prices for the same job differ widely between shops, and the parts and warranties behind those prices differ too. Ask each shop which part it will fit, what warranty it gives, and whether the price is a full total. Two quotes turn a guess into a fair comparison.
 
-### Are compatible parts safe for phone repairs?
+**Are compatible parts safe for phone repairs?**
 
 They can be, when the shop is honest about what it fits and backs the work with a written warranty. Compatible parts range from excellent to poor, so the shop's reputation and warranty matter more than the label alone. For an older phone, a good compatible part is often the sensible choice.
 
-### What should I do before handing my phone for repairs?
+**What should I do before handing my phone for repairs?**
 
 Back up everything first — photos, contacts, messages, and files — to a cloud account or a computer. Repairs sometimes require a reset, and a backup means your memories are safe whatever happens to the phone. It also lets you negotiate calmly, without your photos held hostage.
 
-### When should I not attempt phone repairs myself?
+**When should I not attempt phone repairs myself?**
 
 Leave water damage, board-level faults, and swollen batteries to a professional. Water damage spreads corrosion, board faults need proper equipment, and a swollen battery is a safety risk. Fix what is safe and simple yourself, and pay a skilled repairer for the rest.
 

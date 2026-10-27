@@ -52,7 +52,7 @@ The doors are another piece of in-house cleverness. They swing up and out at the
 
 Small details like these are why engineers admire Koenigsegg so much. The company does not just buy fast parts and bolt them together. It invents its own answers, tests them, and puts them into cars that regular collectors can actually drive. That spirit of invention runs through the whole Jesko, from its gearbox to its bodywork.
 
-## Common questions
+## Frequently Asked Questions
 
 **Who is the Jesko named after?**
 It is named after Jesko von Koenigsegg, the father of company founder Christian von Koenigsegg. He supported his son's dream in the company's early years.

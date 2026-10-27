@@ -62,25 +62,25 @@ You cannot make any phone completely risk-free, but you can make Joker's job muc
 
 The simple rule running through all of this: an app from the official store is safer, never perfectly safe. Trust the store, but still check the app.
 
-## Common questions
+## Frequently Asked Questions
 
-### What is Joker malware in simple words?
+**What is Joker malware in simple words?**
 
 Joker is a family of bad programs for Android phones that hide inside normal-looking apps on the Google Play Store. Once installed, an infected app can quietly sign you up for paid subscriptions and read your text messages, including security codes. It has been found in apps since about 2017 and keeps returning in new disguises.
 
-### How would I know if an app on my phone has Joker?
+**How would I know if an app on my phone has Joker?**
 
 There is usually no pop-up or warning, because Joker is designed to stay invisible. The clearest sign is money: small subscription charges on your phone bill or card that you do not recognise. Other warning signs are apps asking for strange permissions, like a photo app wanting to read your messages. Checking your app list and your bill regularly is the best way to catch it.
 
-### If the app came from Google Play, how can it be dangerous?
+**If the app came from Google Play, how can it be dangerous?**
 
 Google removes infected apps in waves — it reported removing more than 1,700 Joker-infected apps between 2017 and 2020 — but criminals hide the harmful code or download it later, after the app passes the store's checks. So an official listing lowers the risk a lot, but it cannot reduce it to zero. Checking permissions and reviews still matters.
 
-### What should I do if I find a mystery subscription charge?
+**What should I do if I find a mystery subscription charge?**
 
 Remove any app you do not fully trust, especially recently installed ones, and cancel the subscription through your phone bill provider or card company. You can also report the charge and ask whether it can be refunded. Then check your other apps' permissions, and keep a closer eye on the next few bills, because quiet charges sometimes return if the app is still installed.
 
-### Does deleting the bad app fix everything?
+**Does deleting the bad app fix everything?**
 
 Deleting the app stops it from signing you up for anything new, and it is the most important first step. But charges it already arranged may continue until you cancel them with your provider, so deletion and cancellation go together. If the app had access to your messages, it is also sensible to stay alert for strange sign-in attempts on your accounts.
 

@@ -62,27 +62,27 @@ Each of those facts is a thread, and together they form a tense picture. The reg
 
 ## Frequently Asked Questions
 
-### What happened at King Fahd International Airport?
+**What happened at King Fahd International Airport?**
 
 According to news headlines on 23 October 2026, a drone attack struck King Fahd International Airport in Dammam, Saudi Arabia. One person was killed, eight people were injured, and flights were diverted to other airports.
 
-### Where is King Fahd International Airport?
+**Where is King Fahd International Airport?**
 
 It is the international airport serving Dammam, a city on Saudi Arabia's eastern coast near the Gulf. It is one of the country's important airports for workers, families and international travellers.
 
-### Were other places attacked too?
+**Were other places attacked too?**
 
 Yes, according to the same reports. The airport attack came amid fresh Houthi attacks on Saudi oil facilities, and two people were killed by drone debris at an Aramco-operated field.
 
-### What happened to oil prices after the attacks?
+**What happened to oil prices after the attacks?**
 
 According to the reports, Brent crude climbed to its highest level since May. Attacks on a major oil-producing region make markets fear supply problems, and that fear pushes prices upward.
 
-### What is the United Kingdom doing in response?
+**What is the United Kingdom doing in response?**
 
 According to the reports, the United Kingdom is to deploy Typhoon fighter jets to Saudi Arabia amid the rising Houthi attacks, as a show of support and to help protect the skies.
 
-### What do reports say about the Houthis' weapons?
+**What do reports say about the Houthis' weapons?**
 
 Reports also say the Houthis have been using Chinese parts to build advanced missiles capable of striking Israel and Saudi Arabia, which is one reason the threat is being taken so seriously across the region.
 

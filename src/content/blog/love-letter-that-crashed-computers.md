@@ -107,7 +107,7 @@ ILOVEYOU destroyed photos and music by overwriting them. A backup — on an exte
 **6. If something feels off, stop and ask.**
 Call the company using a number from its real website. Ask a knowledgeable friend. Search for the exact message wording online, because widespread scams get reported quickly. Worms feed on speed and silence. Questions starve them.
 
-## Common questions
+## Frequently Asked Questions
 
 **Was the ILOVEYOU virus really made by one person?**
 Investigators traced it to Onel de Guzman, a young computer student in the Philippines. The charges against him were dropped because the Philippines had no law against making a virus at that time. In a 2020 BBC interview, he said he had not intended it to spread worldwide.

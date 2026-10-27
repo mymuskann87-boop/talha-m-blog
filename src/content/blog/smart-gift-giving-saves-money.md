@@ -52,25 +52,25 @@ Customs matter too. In some families and communities, gift-giving carries strong
 
 There is also the other side of the table: receiving. A person who receives a modest gift graciously gives the giver something priceless — the feeling that it was enough. Gracious receiving is part of the same craft, and it costs nothing at all.
 
-## Common questions
+## Frequently Asked Questions
 
-### How much should I spend on a gift?
+**How much should I spend on a gift?**
 
 Whatever fits a limit you set before shopping, not in the shop. Add up a year's occasions, divide the total into something comfortable, and give each occasion its own number. A gift inside a planned limit is given cleanly, with no regret hiding behind the smile.
 
-### Are handmade gifts really appreciated?
+**Are handmade gifts really appreciated?**
 
 Often more than bought ones, because they carry time and thought that cannot be purchased. A proper letter, a framed photo, a cooked meal, or a skill offered as help all outlast most shop-bought items in memory. Careful wrapping turns a simple thing into a ceremony.
 
-### What is a group gift and why does it work?
+**What is a group gift and why does it work?**
 
 Several people pool money for one good gift instead of each buying a small one. The receiver gets something worth keeping, each giver spends less, and the shared card makes the gift feel considered rather than random.
 
-### Should I ask someone what they want?
+**Should I ask someone what they want?**
 
 Yes, kindly. Most people will happily name something simple, and asking turns a guess into a gift. It removes the risk of buying something unwanted and saves money that would have gone to a well-meaning mistake.
 
-### How do I avoid the December gift panic?
+**How do I avoid the December gift panic?**
 
 Keep a list all year — names, dates, and ideas that occur to you in passing — and buy ahead in sales for occasions you know are coming. Store bought-ahead gifts in one place with a tag saying who each is for.
 

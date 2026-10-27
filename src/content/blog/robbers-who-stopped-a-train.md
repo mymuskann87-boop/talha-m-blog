@@ -88,7 +88,7 @@ Jack Mills's story is the one that should stay at the centre. He was a driver do
 
 In my view, the word "great" in Great Train Robbery describes the size of the theft, not the worth of the men who did it. The money was huge. The planning was detailed. Neither fact makes the crime admirable. A gang stole a record sum and then proved, at a farmhouse table, that it could not even hide its own fingerprints. Mills paid for their night's work long after the sacks had been emptied.
 
-## Common questions
+## Frequently Asked Questions
 
 **Why did the gang choose that train?**
 It was an overnight Royal Mail train carrying sorted high-value packages, including used banknotes travelling from Glasgow toward London to be withdrawn and destroyed. Inside information told the gang when and where the valuable carriages would be.

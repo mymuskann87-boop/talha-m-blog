@@ -64,7 +64,7 @@ So the seller kept his medal. He kept the money too, free to send it toward the 
 
 But before you decide it all worked out perfectly, sit with the harder part for a moment. A man held science's greatest honour for fifty-two years, lost his standing in seven, and felt he had to put the medal on the auction block to be heard again. If your life's crowning award sat in a drawer while the world stopped calling, would you sell it too?
 
-## Common questions
+## Frequently Asked Questions
 
 **Was James Watson really the first living laureate to sell a Nobel medal?**
 Yes. Others had been sold before, but always after the winner's death, usually by their families. Watson was the first living Nobel laureate to put his own medal up for auction, and the price set a world record for any Nobel medal.

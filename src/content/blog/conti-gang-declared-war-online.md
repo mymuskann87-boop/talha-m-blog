@@ -58,25 +58,25 @@ You cannot control gangs on the other side of the world, but you can control the
 
 **Have a simple plan before trouble arrives.** Know who you would call, how you would work on paper for a day, and where your backups are. A small office or family that has thought about it once will panic far less than offices forced to improvise.
 
-## Common questions
+## Frequently Asked Questions
 
-### What is Conti ransomware in simple words?
+**What is Conti ransomware in simple words?**
 
 Conti is software built by a criminal gang that sneaks into networks, scrambles the files so nobody can open them, and demands money for the key that unscrambles them. The gang also stole copies of files first, so it could threaten to publish private information if the victim refused to pay.
 
-### Why did Costa Rica declare a national emergency?
+**Why did Costa Rica declare a national emergency?**
 
 In April 2022 Conti badly damaged Costa Rican government systems, including tax and customs, for a long time. In May 2022 the president declared a national emergency so the government could respond with emergency speed and resources. It was reported as the first national emergency ever declared because of a ransomware attack.
 
-### Did Conti really threaten to overthrow a government?
+**Did Conti really threaten to overthrow a government?**
 
 Yes. On its own public channels, Conti threatened the Costa Rican government and boasted that it aimed to overthrow it. The words were the gang's own claims, made while its attack was causing real damage.
 
-### Is Conti gone now?
+**Is Conti gone now?**
 
 The Conti name shut down by the middle of 2022, but that is not the same as the danger ending. Researchers reported that its members scattered into other ransomware groups and continued similar work under new names.
 
-### Can ransomware like Conti reach a small office or a home?
+**Can ransomware like Conti reach a small office or a home?**
 
 Yes, and this is the part most people miss. Large attacks usually begin with a small step — one trick email someone believes, one stolen or reused password, one open door into a network. The habits that protect a home computer — careful email habits, strong separate passwords, offline backups — are the same ones that block the first step of a huge attack.
 

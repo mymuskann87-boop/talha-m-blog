@@ -66,19 +66,19 @@ Whether the disruption Ukraine describes is ever fully explained, one thing is c
 
 ## Frequently Asked Questions
 
-### What exactly is Starlink?
+**What exactly is Starlink?**
 
 Starlink is a satellite internet service run by SpaceX, the company founded by Elon Musk. Instead of sending the internet through cables and towers, it beams connections down from a large group of satellites orbiting close to the Earth. Users connect through a small dish that can be set up almost anywhere.
 
-### What is President Zelenskyy accusing Elon Musk of?
+**What is President Zelenskyy accusing Elon Musk of?**
 
 Zelenskyy has accused Musk of disrupting the Starlink network in Ukraine — the same network that Ukraine's military and civilians rely on heavily for communication during the war with Russia.
 
-### What has the United States said about the accusation?
+**What has the United States said about the accusation?**
 
 The United States has denied ordering a slowdown of the Starlink network in Ukraine. Washington's position is that it gave no such instruction.
 
-### Why does Ukraine depend on Starlink so much?
+**Why does Ukraine depend on Starlink so much?**
 
 Because the war has damaged or destroyed much of Ukraine's normal communication infrastructure. Starlink's portable dishes keep working where towers and cables cannot, giving soldiers, officials, hospitals and families a connection that arrives from the sky and is very hard to shut down completely.
 

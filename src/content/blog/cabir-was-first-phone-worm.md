@@ -52,25 +52,25 @@ Cabir itself is long retired, but the road it opened is busier than ever, and th
 
 **Slow down for the tap.** Every protection above ends at the same place: one human decision. Fake parcel texts, smiling poisoned apps, mystery files — all of them are still waiting for exactly the tap Cabir waited for. Refuse the tap, and the worm starves.
 
-## Common questions
+## Frequently Asked Questions
 
-### Was Cabir really the first phone virus?
+**Was Cabir really the first phone virus?**
 
 Yes — Cabir, which appeared in June 2004, is recognised as the first worm written for mobile phones. Earlier malware existed for computers and handheld organisers, but Cabir was the first to target ordinary mobile phones and spread between them wirelessly.
 
-### Did Cabir steal money or personal information?
+**Did Cabir steal money or personal information?**
 
 No. Cabir stole nothing and deleted nothing. It displayed the word "Caribe" when an infected phone started, and its constant Bluetooth searching drained batteries faster than usual. Its importance is what it proved, not what it took.
 
-### How did Cabir spread if it needed permission?
+**How did Cabir spread if it needed permission?**
 
 An infected phone used Bluetooth to offer a file called caribe.sis to nearby phones. The receiving phone asked its owner whether to accept, so every new infection required a person to tap "Accept" — which happened often enough, through curiosity, for researchers to record infections in more than a dozen countries.
 
-### Who made Cabir, and why?
+**Who made Cabir, and why?**
 
 It was created by a virus-writing group known as 29A as a proof of concept — an experiment to demonstrate that a mobile phone worm was possible. It was sent to antivirus companies for examination, but it later escaped into the wild and spread between real phones.
 
-### Could something like Cabir infect my phone today?
+**Could something like Cabir infect my phone today?**
 
 Not Cabir itself — it targeted the old Symbian system inside Nokia phones of its era, which modern phones no longer use. But its method is alive everywhere: unexpected files, links and apps that need one trusting tap. Keeping Bluetooth off when unused, refusing unknown files and installing apps only from official stores defeat the entire family of tricks.
 

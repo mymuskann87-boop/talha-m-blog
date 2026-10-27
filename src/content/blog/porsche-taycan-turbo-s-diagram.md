@@ -46,7 +46,7 @@ So what kind of car is the Taycan Turbo S, after a full day with it? It is not a
 
 Prices vary by market, year, and options, and the Turbo S sits near the top of the Taycan family. But the real point of this car is what it proved. It proved that an electric car can feel like a Porsche. Not a copy. Not a compromise. The real thing, with a silent heart. If you ever get the chance to ride in one, take it. A silent car that pushes you back into your seat is something you remember. When the driver walks away at night and the car sits quietly in the dark, it feels less like the end of something old and more like the start of something good.
 
-## Common questions
+## Frequently Asked Questions
 
 **Is the Porsche Taycan Turbo S fully electric?**
 

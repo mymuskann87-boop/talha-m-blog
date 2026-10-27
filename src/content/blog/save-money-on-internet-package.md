@@ -66,25 +66,25 @@ So tonight, walk past the blinking box and give it a look. Check the last two bi
 
 The router will keep blinking either way. The question is only whether the bill behind it belongs to the house you actually live in, or to a house you imagined when you signed up years ago. Bring the package back to the real house — the real usage, the real rooms, the real evenings — and the saving follows on its own, month after month, without another thought.
 
-## Common questions
+## Frequently Asked Questions
 
-### How much internet speed does a normal household need?
+**How much internet speed does a normal household need?**
 
 Browsing, messaging, and video calls need modest speed. Normal-quality streaming needs a little more. Only a house full of people streaming in the highest quality at the same time, plus large downloads, truly needs a very fast package. If pages load fine and films play without buffering, your current speed is probably enough.
 
-### Should I upgrade my package if videos keep freezing?
+**Should I upgrade my package if videos keep freezing?**
 
 Not necessarily. Freezing often comes from a weak signal, not a slow package — a router hidden in a corner or far from the room. Move the router to a central, open spot and restart it first. If the problem stays everywhere in the house, then ask the provider about the line or the plan.
 
-### How do I check how much data my home actually uses?
+**How do I check how much data my home actually uses?**
 
 Most providers show data usage on the monthly bill or in their app. Look at the last two months. If the house consistently uses far less than the allowance, a smaller package could cut the bill with no change anyone notices.
 
-### Are TV bundles with internet packages worth it?
+**Are TV bundles with internet packages worth it?**
 
 Only if someone actually watches them. A bundle nobody opens is not a bargain — it is a subscription in disguise. Check what the bundle includes, ask who uses it, and drop the parts nobody watches.
 
-### What if my area has only one internet provider?
+**What if my area has only one internet provider?**
 
 Then switching is not an option, and that is fine. The saving comes from the right package size instead: match speed and data to real use, drop unused bundles, and ask about current offers at renewal. Loyal customers sometimes pay old prices simply because they never asked.
 

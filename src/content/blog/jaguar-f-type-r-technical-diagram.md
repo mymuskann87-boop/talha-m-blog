@@ -40,21 +40,21 @@ Prices vary by market, year and options, and running costs are firmly in sports 
 
 The car world will keep changing. Electric sports cars are already faster in a straight line, and they will only get better. But speed alone was never the F-Type R's real gift. Its gift was character, the feeling that a machine has a voice and a personality. Long after the last supercharged V8 leaves the factory, drivers will remember cars like this one, and they will remember the sound most of all.
 
-## Common questions
+## Frequently Asked Questions
 
-### What is a supercharger?
+**What is a supercharger?**
 
 A supercharger is a pump driven directly by the engine that forces extra air into the cylinders, raising power. Unlike a turbocharger, it responds instantly because it does not wait for exhaust gases to spin it up.
 
-### How fast is the F-Type R?
+**How fast is the F-Type R?**
 
 It reaches 100 km/h from rest in 3.7 seconds and has a top speed of 300 km/h, from its 575 HP supercharged V8 engine.
 
-### Is all-wheel drive better than rear-wheel drive here?
+**Is all-wheel drive better than rear-wheel drive here?**
 
 For this much power, all-wheel drive gives more grip and confidence, especially in wet weather, while the rear-biased setup keeps the car feeling like a proper sports car.
 
-### Is the exhaust very loud?
+**Is the exhaust very loud?**
 
 It depends on the mode. The active exhaust stays fairly quiet for normal cruising and opens up for a much louder, deeper sound in sport mode.
 

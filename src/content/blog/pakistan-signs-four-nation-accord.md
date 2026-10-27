@@ -70,23 +70,23 @@ Four flags rose together this October. The sky they fly in is wide. What they bu
 
 ## Frequently Asked Questions
 
-### Which countries signed the accord with Pakistan?
+**Which countries signed the accord with Pakistan?**
 
 Pakistan signed the joint defence cooperation accord with three partners: Turkiye, Qatar and Indonesia. The four countries together form the partnership.
 
-### When and where was the accord announced?
+**When and where was the accord announced?**
 
 The accord was reported on 21 October 2026, and it was announced from Ankara, the capital of Turkiye, according to Reuters reporting carried by Arab News.
 
-### What is the main aim of the accord?
+**What is the main aim of the accord?**
 
 The stated aim is to strengthen self-reliance in defence. In simple words, the four countries want to depend less on outside suppliers by cooperating with each other, sharing knowledge and building more of their own capability at home.
 
-### Does this accord mean the four countries are now military allies?
+**Does this accord mean the four countries are now military allies?**
 
 No. A defence cooperation accord is a promise to cooperate — on things like training, knowledge and industry — not a war alliance. It does not commit any of the four to fight for the others.
 
-### Why do these four countries fit well together?
+**Why do these four countries fit well together?**
 
 All four are Muslim-majority countries with growing defence industries, and they already share a history of military cooperation and training exchanges. That existing trust makes deeper cooperation easier to build.
 

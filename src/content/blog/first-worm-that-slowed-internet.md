@@ -68,25 +68,25 @@ None of the protection steps are fancy, and every one of them answers a trick fr
 
 The deepest lesson of 1988 has not changed at all: weak passwords were the biggest hole in the internet then, and they still are now.
 
-## Common questions
+## Frequently Asked Questions
 
-### Was the Morris worm meant to be an attack?
+**Was the Morris worm meant to be an attack?**
 
 No. Morris said he built it to measure the size of the early internet, and the worm did not steal or delete files. The damage came from a design choice that let copies pile up on the same machines until they stopped working, not from any plan to destroy anything.
 
-### How many computers did the Morris worm infect?
+**How many computers did the Morris worm infect?**
 
 About 6,000 machines were infected. Because the internet of 1988 had only around 60,000 computers in total, that meant roughly 10 percent of the entire internet was affected, including universities, research centres and military networks.
 
-### What punishment did Robert Morris get?
+**What punishment did Robert Morris get?**
 
 He was the first person convicted in the United States under the Computer Fraud and Abuse Act. He received probation, community service and a fine, with no prison time — and he later became a professor at MIT.
 
-### Can a worm like this still spread today?
+**Can a worm like this still spread today?**
 
 The exact worm could not, because its tricks depended on old Unix flaws that were fixed long ago. But modern worms still use the same recipe: hidden software flaws, weak or reused passwords, and trusted connections between accounts and devices.
 
-### What did the world gain from the Morris worm?
+**What did the world gain from the Morris worm?**
 
 It forced the internet to grow up. The incident led directly to the creation of the first CERT coordination centre for handling internet emergencies, and it taught everyone — years before the web existed — that passwords and software flaws were serious business.
 

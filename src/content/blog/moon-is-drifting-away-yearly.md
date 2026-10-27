@@ -52,23 +52,23 @@ NASA points out that this arrangement will not last forever. As the Moon keeps d
 
 ## Frequently Asked Questions
 
-### How do scientists measure the distance to the Moon so exactly?
+**How do scientists measure the distance to the Moon so exactly?**
 
 They use lunar laser ranging. Observatories fire laser pulses at reflector arrays left on the Moon by the Apollo 11, 14 and 15 missions, then time how long the light takes to return. Since light's speed is constant, the time gives the distance to within a few millimetres.
 
-### How fast is the Moon moving away each year?
+**How fast is the Moon moving away each year?**
 
 About 3.8 centimetres (1.5 inches) per year, according to NASA measurements — roughly 3 millimetres a month, about the speed your fingernails grow.
 
-### Why does the Moon move away instead of falling toward Earth?
+**Why does the Moon move away instead of falling toward Earth?**
 
 Earth spins faster than the Moon orbits, so our rotation drags the ocean tidal bulges slightly ahead of the Moon. The gravity of that extra water pulls the Moon forward in its orbit, giving it energy, and that extra energy lifts it into a wider, more distant orbit.
 
-### Is the Moon's drifting dangerous for life on Earth?
+**Is the Moon's drifting dangerous for life on Earth?**
 
 Not in any human timescale. The change is a few centimetres a year. Its effects — slightly longer days and slowly weakening tides — only become dramatic across millions and billions of years.
 
-### When will the last total solar eclipse happen?
+**When will the last total solar eclipse happen?**
 
 Scientists estimate roughly 600 million years from now. By then the Moon will have drifted about another 23,500 kilometres away and will look too small to cover the Sun completely, so only annular and partial eclipses will remain.
 

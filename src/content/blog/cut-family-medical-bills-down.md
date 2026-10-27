@@ -75,25 +75,25 @@ Also, beware of offers that sound too cheap to be real. Medicine or treatment so
 - [Save Money On Medicine Costs](https://talhablog.com/blog/save-money-on-medicine-costs/)
 - [Care For Parents Spending Less](https://talhablog.com/blog/care-for-parents-spending-less/)
 
-## Common questions
+## Frequently Asked Questions
 
-### How do I start a family health file?
+**How do I start a family health file?**
 
 Take one folder or binder and give every family member a section. Put in recent reports, prescriptions, vaccination records, and bills, in date order. After every visit, add the new papers the same day. Once a month, spend ten minutes removing what is finished and keeping what still matters.
 
-### Can asking about generic medicine really save money?
+**Can asking about generic medicine really save money?**
 
 Yes, for many everyday prescriptions. A generic carries the same active ingredient as the branded medicine and usually costs less, and the saving repeats every month. The doctor decides whether a generic suits a particular patient, so ask at the appointment rather than deciding alone.
 
-### Should I compare prices for medical tests?
+**Should I compare prices for medical tests?**
 
 For planned tests, yes. The same test can cost different amounts at different laboratories, and the difference grows across a year of regular tests. Ask two or three places for the price of the same test and write the numbers down before deciding.
 
-### How much should a family set aside for health each month?
+**How much should a family set aside for health each month?**
 
 There is no single right amount, because families and health needs differ. Start with a small amount you can truly keep aside every month, even in healthy months, and treat it like rent. A regular small amount beats a large amount promised but never saved.
 
-### What if a medical bill is too large to pay at once?
+**What if a medical bill is too large to pay at once?**
 
 Pay the urgent part first and ask the clinic or hospital plainly whether payment in parts is possible. Keep every receipt in the family file, and never delay urgent care or skip prescribed medicine to save money. If the bill is overwhelming, ask the doctor what can safely be planned for later.
 

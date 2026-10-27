@@ -56,7 +56,7 @@ The brakes deserve respect too. Big Brembo brakes sit behind the wheels, built t
 
 None of this shows up in a spec box. But it is the reason owners keep their Challengers for years instead of trading them in. The car is not just fast. It is also roomy, easy to live with, and full of small touches that make daily driving better.
 
-## Common questions
+## Frequently Asked Questions
 
 **What does SRT mean on a Dodge Challenger?**
 SRT stands for Street and Racing Technology. It is Dodge's high-performance division, and its cars get the strongest engines, sharper suspension, and bigger brakes.

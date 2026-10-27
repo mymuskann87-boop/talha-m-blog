@@ -52,7 +52,7 @@ Prices vary by market, year, and options, and an SVJ is a rare and costly machin
 
 If I ever stood beside one of these with the engine running, I think I would just stand there for a minute and listen. Not to judge it. Not to compare it. Just to hear what twelve cylinders sound like when they are allowed to sing without holding back. Some sounds you remember for the rest of your life, and I suspect this is one of them.
 
-## Common questions
+## Frequently Asked Questions
 
 **What does SVJ mean?**
 SV stands for Super Veloce, Italian for super fast. J comes from Jota, a name from Lamborghini history. Together, SVJ marks the fastest and sharpest version of the Aventador.

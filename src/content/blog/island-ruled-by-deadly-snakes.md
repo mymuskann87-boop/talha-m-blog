@@ -64,7 +64,7 @@ Here is the final turn of your trip, and it flips everything you assumed on the 
 
 That, in the end, is why your boat stops where it stops. The ban protects visitors from the snakes, certainly. But more and more, it protects the snakes from us: from disturbance, from traffickers, from the simple pressure of human feet in a forest that exists only once, in one place, on Earth. Some places do not need a gate and a ticket office. Some places need a locked door and a captain who cuts the engine early. In my view, Snake Island is the clearest example on the planet of a place we serve best by never arriving.
 
-## Questions people ask
+## Frequently Asked Questions
 
 **Can tourists visit Snake Island?**
 No. The island is closed to the public. Only Brazilian Navy personnel and selected researchers with approval from ICMBio, Brazil's federal conservation institute, may land, and research visits follow strict safety rules.

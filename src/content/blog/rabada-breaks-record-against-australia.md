@@ -84,23 +84,23 @@ It also tells young bowlers something valuable. Greatness is not always the loud
 
 ## Frequently Asked Questions
 
-### What record did Kagiso Rabada break?
+**What record did Kagiso Rabada break?**
 
 During the second Test against Australia at St George's Park in Gqeberha, Rabada completed 200 Test wickets on South African soil. Among all bowlers with 200 wickets in a single country, he is the first whose bowling strike rate is below 40, at 35.
 
-### What does bowling strike rate mean?
+**What does bowling strike rate mean?**
 
 A bowling strike rate is the average number of balls a bowler needs to take one wicket. A strike rate of 35 means a wicket falls, on average, every 35 balls. The lower the number, the more dangerous the bowler.
 
-### Who held the best mark before Rabada?
+**Who held the best mark before Rabada?**
 
 His fellow South African Dale Steyn was the closest, with a home strike rate of 40.2 alongside his 200-plus home wickets. Australia's Mitchell Starc has 278 home wickets at a strike rate of 44.8.
 
-### How many bowlers have taken 200 wickets in one country?
+**How many bowlers have taken 200 wickets in one country?**
 
 Only 26 bowlers in all of Test history have taken 200 wickets in a single country, and each of them achieved it on home soil.
 
-### How did Rabada perform in the Gqeberha Test itself?
+**How did Rabada perform in the Gqeberha Test itself?**
 
 He took 2 for 33 in 12 overs in Australia's first innings, when the visitors were dismissed for 99 with Marco Jansen claiming five wickets, and he added two more wickets in the second innings as South Africa pushed towards an unlikely win in a rain-hit match.
 

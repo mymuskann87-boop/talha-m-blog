@@ -64,25 +64,25 @@ And children bend every rule in this post. A child outgrows clothes in months, s
 
 My wardrobe audit took one Sunday afternoon. The bed was covered, the pile of unworn pieces went into a bag by the door, and the closet that came back together was smaller, calmer, and honest. Getting dressed in the morning is easier now, because everything in there earns its place. And the money that used to vanish into tags still hanging from sleeves stays where it belongs: saved, not displayed.
 
-## Common questions
+## Frequently Asked Questions
 
-### What is cost per wear, in simple words?
+**What is cost per wear, in simple words?**
 
 It is the price of a piece divided by the number of times you wear it. A 3,000 jacket worn 100 times costs 30 per wear. A 1,000 shirt worn twice costs 500 per wear. The number tells you which purchase was truly cheap and which one quietly wasted money.
 
-### How many clothes does a person really need?
+**How many clothes does a person really need?**
 
 Fewer than most closets hold. A set of basics that mix and match — plain shirts, a couple of trousers, comfortable shoes, one good jacket — covers most weeks. The exact number depends on work, weather and laundry habits, but a wardrobe where every piece matches three others beats a large wardrobe where nothing matches.
 
-### Is it better to buy expensive clothes?
+**Is it better to buy expensive clothes?**
 
 Not always. The goal is value, not price. An expensive piece worn daily can be cheaper per wear than a cheap piece worn twice, but an expensive piece worn rarely is the worst deal of all. Judge by honest wear, not by the price tag or the brand name.
 
-### Do end-of-season sales really save money?
+**Do end-of-season sales really save money?**
 
 Yes, when you buy something you already need for next season. A winter coat bought cheap at winter's end and worn all next winter is a genuine saving. A sale item bought on excitement, worn once and forgotten, saves nothing — it only spends money that would have stayed in your pocket.
 
-### What should I do with clothes I never wear?
+**What should I do with clothes I never wear?**
 
 Pass them on while they are still good. Give them to family, donate them, swap with friends, or sell them where possible. An unworn piece kept in a closet recovers no money; the same piece worn weekly by someone else at least serves a purpose, and it frees space for clearer buying decisions.
 

@@ -70,25 +70,25 @@ Now the honest part. Pegasus is built for important targets: politicians, offici
 
 I will be honest: the thought that a phone can be turned against its owner without a single tap is the part of this story that stays with me. These devices hold our whole lives, so keeping them updated and healthy is not a small chore — it is basic self-defence.
 
-## Common questions
+## Frequently Asked Questions
 
-### Who makes Pegasus spyware?
+**Who makes Pegasus spyware?**
 
 Pegasus is made by NSO Group, a company based in Israel. NSO says it sells the tool only to governments and only for fighting serious crime and terrorism. Researchers and journalists have reported it being used against activists and reporters as well, which the company denies.
 
-### Can Pegasus spyware infect any phone?
+**Can Pegasus spyware infect any phone?**
 
 In principle, it was built to infect both iPhones and Android phones. In practice, it is aimed at chosen, high-value targets rather than sprayed at random people, because using it is expensive and each attack is carefully prepared. An ordinary phone with updated software is a far less likely target.
 
-### How would I know if my phone has Pegasus?
+**How would I know if my phone has Pegasus?**
 
 Usually, you would not know. Pegasus is designed to leave no obvious signs, and checking for it properly requires specialist forensic tools of the kind used by laboratories like the Citizen Lab and Amnesty International's Security Lab. Strange battery or data behaviour can be a hint, but it is not proof of anything on its own.
 
-### Does encryption protect my chats from Pegasus?
+**Does encryption protect my chats from Pegasus?**
 
 Encryption protects a message while it travels between phones, and it still matters a great deal. But Pegasus reads messages on the phone itself, where they sit unlocked for the owner to read. That is why it can see chats inside encrypted apps without breaking the encryption at all.
 
-### What should an ordinary person actually do?
+**What should an ordinary person actually do?**
 
 Keep the phone and apps updated, restart the phone about once a week, and stay slow and suspicious around urgent links and attachments. Those steps will not make any phone invincible, but they block the cheap, common attacks that ordinary people actually face. People in genuinely high-risk work can add Apple's Lockdown Mode for stronger protection.
 

@@ -68,25 +68,25 @@ The good news is that the lessons CIH taught are simple, and they still protect 
 
 I keep coming back to one thought in this story: the most frightening viruses are not always the loud ones, because a quiet program and a single date were enough to leave whole rooms of computers dead.
 
-## Common questions
+## Frequently Asked Questions
 
-### Why is CIH called the Chernobyl virus?
+**Why is CIH called the Chernobyl virus?**
 
 The most famous version of CIH was set to strike on 26 April, which is the anniversary of the Chernobyl nuclear disaster in 1986. Because of that date, people gave the virus the nickname "Chernobyl." Its real name, CIH, comes from the initials of its creator, Chen Ing-hau.
 
-### Can the CIH virus still infect computers today?
+**Can the CIH virus still infect computers today?**
 
 CIH was built for Windows 95, 98 and ME, so it belongs to an older generation of computers and cannot do its old damage on modern systems in the same way. Its real importance today is the lesson it teaches. Untrusted downloads and unprotected machines are still dangerous, even though the viruses have changed their faces.
 
-### Why could CIH stop a computer from starting at all?
+**Why could CIH stop a computer from starting at all?**
 
 As well as overwriting the start of the hard disk, CIH tried to overwrite the BIOS, the tiny starter program on a chip on the motherboard. The BIOS is what wakes the computer up in the first seconds after the power button is pressed. If that program was destroyed, the machine could not begin starting, and the chip had to be replaced or rewritten by specialists.
 
-### How did CIH hide inside files without being noticed?
+**How did CIH hide inside files without being noticed?**
 
 Program files contain small empty spaces, and CIH split itself into pieces that fitted into those gaps. Because it used space that already existed inside the file, the file did not become any larger after infection. Anyone checking file sizes, a common quick check at the time, would see nothing suspicious.
 
-### What is the biggest lesson ordinary people can learn from CIH?
+**What is the biggest lesson ordinary people can learn from CIH?**
 
 The virus mostly travelled inside pirated software and files from untrusted places, so the biggest lesson is to only install programs from sources you trust. Keeping an updated antivirus and a separate backup of important files adds two more layers of safety. Together, those three habits stop most threats of this kind before they can hurt you.
 

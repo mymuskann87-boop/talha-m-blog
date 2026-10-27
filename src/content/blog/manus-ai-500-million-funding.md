@@ -60,17 +60,17 @@ There are a few simple reasons. First, an independent company can move with a cl
 
 None of this guarantees success. Big funding helps a company hire, build, and keep going, but it does not promise every plan will work. What it shows is belief — and for Manus, the practical result is clear: the money lets it keep working independently.
 
-## Common questions
+## Frequently Asked Questions
 
-### How much money did Manus's parent company announce?
+**How much money did Manus's parent company announce?**
 
 Butterfly Effect, the parent company of Manus, announced a funding round of more than $500 million. The round was co-led by Boyu Capital and IDG Capital, with Tencent, HSG and ZhenFund taking part.
 
-### What was the Meta deal worth, and what happened to it?
+**What was the Meta deal worth, and what happened to it?**
 
 The acquisition agreement with Meta was reportedly worth more than $2 billion, and it was unwound. That means the deal was undone instead of completed, leaving Manus able to keep working independently.
 
-### What is an AI agent, in simple words?
+**What is an AI agent, in simple words?**
 
 An AI agent is AI that can take actions and carry out a task in steps, not just answer questions in text. An AI agent startup is a young company building that kind of AI.
 

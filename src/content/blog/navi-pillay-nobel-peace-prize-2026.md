@@ -55,17 +55,17 @@ You don't need to be a lawyer to take something from this story. Pillay's life s
 
 It also sends a message to victims: their stories matter, and some people have spent entire careers making sure those stories are heard in court. For students, her path offers a simple lesson too — she moved step by step, and each step built on the one before it.
 
-## Common questions
+## Frequently Asked Questions
 
-### Who is Navi Pillay, the winner of the 2026 Nobel Peace Prize?
+**Who is Navi Pillay, the winner of the 2026 Nobel Peace Prize?**
 
 Navi Pillay is an 85-year-old South African jurist of Tamil (Indian) origin. The Norwegian Nobel Committee announced her win on October 9, 2026, honouring her role in making sure war crimes, crimes against humanity and genocide are prosecuted.
 
-### What important roles has Navi Pillay held in her career?
+**What important roles has Navi Pillay held in her career?**
 
 She defended Nelson Mandela and other anti-apartheid activists as a lawyer, served as president of the International Criminal Tribunal for Rwanda, worked as a judge at the International Criminal Court, and served as UN High Commissioner for Human Rights.
 
-### How many South Africans have won the Nobel Peace Prize?
+**How many South Africans have won the Nobel Peace Prize?**
 
 Pillay is the fifth South African to win the prize, according to the announcement coverage.
 

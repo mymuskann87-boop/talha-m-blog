@@ -67,25 +67,25 @@ Also, a smaller package is not always the answer. After cutting waste, check wha
 - [Pick Cheapest Mobile Recharge Plan](https://talhablog.com/blog/pick-cheapest-mobile-recharge-plan/)
 - [Save Money On Internet Package](https://talhablog.com/blog/save-money-on-internet-package/)
 
-## Common questions
+## Frequently Asked Questions
 
-### Which apps usually use the most mobile data?
+**Which apps usually use the most mobile data?**
 
 Video apps and social apps with auto-playing video are almost always at the top, followed by photo backup and app updates. Your phone's own data usage settings show the exact ranking for your phone — check there before changing anything, because the answer differs for everyone.
 
-### Does lowering video quality really save that much data?
+**Does lowering video quality really save that much data?**
 
 Yes. A standard-quality stream can use a third or less of the data of a high-definition stream, while looking almost identical on a small phone screen. Setting video apps to standard quality on mobile data is usually the single biggest data saving available.
 
-### Should I turn off background data for all apps?
+**Should I turn off background data for all apps?**
 
 No. Keep it on for messaging and email, which use very little data and need to arrive instantly. Turn it off only for heavy apps — video, social, and photo backup — and let those refresh when you open them instead.
 
-### Is it safe to use public Wi-Fi to save data?
+**Is it safe to use public Wi-Fi to save data?**
 
 For downloads, videos, and general browsing on trusted networks, yes. Avoid banking and sensitive logins on open public Wi-Fi, and prefer networks you know. Saving data should never come at the cost of your security.
 
-### My data still finishes early — what else can I check?
+**My data still finishes early — what else can I check?**
 
 After the steps in this post, check for photo backup running on mobile data, app updates set to any network, and any app whose usage jumped suddenly after an update. If one app's usage looks wrong, restrict its background data or reinstall it — and then match your package to your real, measured usage.
 

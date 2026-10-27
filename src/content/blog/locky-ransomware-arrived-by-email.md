@@ -76,7 +76,7 @@ The good news is that Locky's whole empire rested on a few simple habits, and ha
 
 **Slow down when a message pushes you.** Almost every one of these attacks begins with pressure: an unpaid bill, a closing account, a deadline today. Pressure is not a side effect. It is the tool. When an email makes your heart beat faster, that feeling is your warning light. Urgent and unexpected is the most dangerous combination in your inbox, and the cure is simply to pause before clicking anything at all.
 
-## Common questions
+## Frequently Asked Questions
 
 **What is Locky ransomware?**
 Locky is a ransomware program that first appeared in February 2016. It slipped into computers through fake invoice emails, encrypted documents, photos and databases so they could not be opened, and demanded payment in Bitcoin for the key that would unlock them.

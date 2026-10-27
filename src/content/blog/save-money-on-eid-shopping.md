@@ -67,25 +67,25 @@ Then, while the memory is fresh, note what worked. Which shop gave a fair price?
 - [Save Money On Festival Shopping](https://talhablog.com/blog/save-money-on-festival-shopping/)
 - [Smart Gift Giving Saves Money](https://talhablog.com/blog/smart-gift-giving-saves-money/)
 
-## Common questions
+## Frequently Asked Questions
 
-### When should I start Eid shopping?
+**When should I start Eid shopping?**
 
 Two or three weeks before Eid is ideal. Prices are calmer, shops are less crowded, and the family can choose without panic. Shopping in the last week usually costs more for the same items, because sellers know buyers cannot wait.
 
-### How do I set a total budget for Eid shopping?
+**How do I set a total budget for Eid shopping?**
 
 List everything first — clothes, shoes, gifts, food, sweets and decorations — then choose one total number the family can afford. Tell everyone the number. A budget the whole family knows is a budget the whole family keeps.
 
-### Is it cheaper to cook Eid sweets at home?
+**Is it cheaper to cook Eid sweets at home?**
 
 Usually yes, by a clear margin, because a tray of homemade sweets costs a fraction of the boxed version. It also tastes of the house itself. But if nobody enjoys cooking, buying sweets is fine — mix one homemade sweet with one bought box for the best balance.
 
-### How much Eidi should I give each child?
+**How much Eidi should I give each child?**
 
 There is no fixed rule, and the right amount depends on the family's income. Decide one amount per child before Eid, prepare the envelopes in advance, and keep it fair. Children remember the smile and the blessing far longer than the exact amount.
 
-### Can Eid shopping really stay joyful on a budget?
+**Can Eid shopping really stay joyful on a budget?**
 
 Yes, because a budget protects the celebration instead of shrinking it. Clothes, sweets, gifts and Eidi all stay — each one simply arrives with a plan. The regret after Eid comes from unplanned spending, not from the festival itself.
 

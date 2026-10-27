@@ -76,25 +76,25 @@ So the pattern should feel familiar by now: a message carrying a trusted name, a
 
 **If people accuse you of sending a virus, stay calm.** Your address may simply have been borrowed, the way Klez borrowed thousands of addresses. Run a full antivirus scan of your own machine to be sure it is clean, and then explain, plainly, that email sender names can be forged. Being the name on a bad email is not the same as being its sender.
 
-## Common questions
+## Frequently Asked Questions
 
-### What is Klez in simple words?
+**What is Klez in simple words?**
 
 Klez is an email worm that first appeared in late 2001. It copied itself from computer to computer through email, and its strongest version, Klez.H, arrived in April 2002 and was reported for months as the most widespread virus in the world.
 
-### If a virus email says it is from my friend, did my friend send it?
+**If a virus email says it is from my friend, did my friend send it?**
 
 Not necessarily — and with Klez, usually not. The worm stamped a random address it had found on the infected computer into the sender line, so the mail wore someone else's name while the real infected machine stayed hidden.
 
-### How could Klez infect a computer if the email was never opened?
+**How could Klez infect a computer if the email was never opened?**
 
 Some email programs of the time previewed messages using parts of Internet Explorer, and a flaw in how they handled the message's hidden labelling could let Klez start during that preview. The victim only had to select the message to look at it.
 
-### What extra damage did Klez do besides spreading?
+**What extra damage did Klez do besides spreading?**
 
 Klez dropped a second virus, Elkern, onto infected machines, and it attacked antivirus software to defend itself. Some versions were also set to overwrite files on certain dates, destroying the victim's documents.
 
-### What should you do if strangers say you are sending them viruses?
+**What should you do if strangers say you are sending them viruses?**
 
 Do not assume your computer is guilty: your address may have been forged as the sender, just as Klez forged addresses. Run a full antivirus scan to be certain your machine is clean, then tell people honestly that sender names on email can be faked.
 

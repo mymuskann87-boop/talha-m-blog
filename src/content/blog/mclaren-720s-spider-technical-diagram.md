@@ -44,21 +44,21 @@ The Spider also has a practical side that surprises people. The dihedral doors, 
 
 So who is this car for? It is for someone who wants the speed of a top supercar but also wants the sky above them. A coupe is faster on paper by a tiny margin, but the Spider gives you something a coupe never can: the sound, the air and the feeling of being part of the road instead of watching it through glass. For many drivers, that trade is worth it many times over.
 
-## Common questions
+## Frequently Asked Questions
 
-### Is the 720S Spider slower than the coupe?
+**Is the 720S Spider slower than the coupe?**
 
 Barely. The open-top version is only a fraction heavier, and its 0 to 100 km/h time of 2.9 seconds matches the coupe. On a normal road, no driver would feel the difference.
 
-### What does 720 HP actually mean?
+**What does 720 HP actually mean?**
 
 HP stands for horsepower, a way of measuring how much work an engine can do. A normal family car has around 100 to 150 HP. The Spider has 720 HP, which is why it can reach 100 km/h in under three seconds.
 
-### Can the roof open while driving?
+**Can the roof open while driving?**
 
 Yes, the retractable hard top folds away in a matter of seconds, and it can be operated at low speed. You do not need to stop the car and get out.
 
-### Is the car hard to drive in normal traffic?
+**Is the car hard to drive in normal traffic?**
 
 It is easier than it looks. The steering is light, visibility is good, and the nose can lift for bumps. Its width and low seating still need care, but most drivers get used to it within a day or two.
 

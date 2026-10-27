@@ -54,25 +54,25 @@ The good news hidden inside this story is that QakBot's favourite road — the p
 
 **Remember that one click can open a company door.** If you use a computer at work, your careful habits protect more than your own files. The QakBot story shows how a single inbox can become the entrance to an entire business.
 
-## Common questions
+## Frequently Asked Questions
 
-### Was my computer one of the 700,000 that the FBI cleaned?
+**Was my computer one of the 700,000 that the FBI cleaned?**
 
 There is no simple way to know, and most owners never found out either way. The Department of Justice said QakBot was removed from more than 700,000 infected computers, but the owners were scattered worldwide and were mostly unaware they had ever been infected. The practical response is not to wonder about the past, but to keep your system updated and protected now.
 
-### Did the FBI read people's private files during Operation Duck Hunt?
+**Did the FBI read people's private files during Operation Duck Hunt?**
 
 The announced goal of the operation was narrow: seize QakBot's command infrastructure and use it to push out an uninstaller that removed the malware. Public statements from the Department of Justice described the action as removing QakBot from infected computers, not as a general search of people's personal data.
 
-### Is QakBot completely gone now?
+**Is QakBot completely gone now?**
 
 Not certainly. The takedown badly damaged the network, but researchers warned that botnet operators often try to rebuild, and smaller QakBot-linked campaigns were reported afterwards. This is exactly why the protective habits in this post still matter.
 
-### How did QakBot get into so many computers?
+**How did QakBot get into so many computers?**
 
 Mainly through phishing emails containing infected attachments or dangerous links. One person opening the wrong file could install it silently. Once inside a company, that infection could serve as a doorway for ransomware gangs and for rented criminal access.
 
-### Why did the criminals bother renting out access to infected computers?
+**Why did the criminals bother renting out access to infected computers?**
 
 Because access itself is valuable. A gang with ransomware does not want to waste time breaking into a company if somebody else has already done that work. QakBot's operators sold or rented the entrances they had built, turning one infection into income again and again.
 

@@ -50,7 +50,7 @@ That completeness is why the M4 has fans all over the world. It is not the faste
 
 Prices vary by market, year, and options, so anyone thinking about buying one should check current figures from BMW or a trusted dealer. What does not vary is the recipe: a smooth six-cylinder engine, rear-wheel drive, and a body that hides its strength under a smart suit. That recipe has worked for decades, and in the M4 Competition, it works beautifully.
 
-## Common questions
+## Frequently Asked Questions
 
 **What does the M in BMW M4 stand for?**
 M stands for BMW M GmbH, BMW's motorsport division. M cars are faster, sharper versions of normal BMW models, tuned by engineers who also build race cars.

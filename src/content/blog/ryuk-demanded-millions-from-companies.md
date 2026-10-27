@@ -56,25 +56,25 @@ You cannot stop a criminal group on another continent from trying. But you can b
 
 To me, the scariest part of Ryuk is not the encryption — it is the weeks of silence before it, while strangers quietly learned somebody's whole workplace.
 
-## Common questions
+## Frequently Asked Questions
 
-### What does the name Ryuk mean?
+**What does the name Ryuk mean?**
 
 Ryuk is a character from Death Note, a well-known Japanese comic and cartoon series. Analysts found the name inside the malware's code and its ransom notes, which is how the ransomware got its name in security reports.
 
-### Why did Ryuk ask for so much more money than other ransomware?
+**Why did Ryuk ask for so much more money than other ransomware?**
 
 Because it was aimed by hand at very large organisations. The operators spent weeks inside a network, destroyed the backups, then encrypted everything at once, so they could demand a ransom sized for a giant — reported demands ran into the millions of dollars for big victims.
 
-### How much money did Ryuk's operators make?
+**How much money did Ryuk's operators make?**
 
 In January 2021, the FBI reported that the operators had received more than $61 million in ransom payments during the period its advisory covered. The total real-world damage, including recovery costs and lost work for victims, was much larger.
 
-### Who was behind Ryuk ransomware?
+**Who was behind Ryuk ransomware?**
 
 The US FBI and CISA attributed the attacks to a cybercrime group tracked under the name Wizard Spider. Law enforcement agencies around the world have continued to track the people and money connected to that group.
 
-### Can Ryuk attack my home computer?
+**Can Ryuk attack my home computer?**
 
 The Ryuk program itself was aimed at big organisations, but the first steps of its attacks were ordinary tricks — phishing emails and stolen passwords — that are used against everyone. The habits that stop those tricks at home are the same ones that break the chain before it ever reaches a company.
 

@@ -68,25 +68,25 @@ Once a month, sit with the medicine list for ten minutes. What ran out? What is 
 
 The man ahead of me in the queue probably never asked about the generic. Nobody told him to ask. Now you know the question, and that is the whole point. A medicine bill is not a storm you endure. It is a list you manage, one calm question at a time.
 
-## Common questions
+## Frequently Asked Questions
 
-### Is a generic medicine really as good as the branded one?
+**Is a generic medicine really as good as the branded one?**
 
 A generic carries the same active ingredient, in the same strength, as the branded medicine. That is what the word generic means. Your doctor and pharmacist decide whether a generic suits a particular patient, so ask them — but the price difference comes from the brand name and packaging, not from weaker medicine.
 
-### Can I compare pharmacy prices for the same medicine?
+**Can I compare pharmacy prices for the same medicine?**
 
 Yes. Prices for the same medicine, strength, and quantity can differ between pharmacies. Ask two or three shops, write the prices down, and use the fairest one for regular refills. There is nothing wrong with comparing prices on a monthly household cost.
 
-### Should I buy a larger pack to save money?
+**Should I buy a larger pack to save money?**
 
 Sometimes, but only for a stable, long-term medicine, and only after asking the doctor. A larger pack can cost less per tablet, but if the dose or medicine changes, the leftover stock is wasted. For new or changing treatments, small quantities are safer.
 
-### What should I do if I cannot afford a prescribed medicine?
+**What should I do if I cannot afford a prescribed medicine?**
 
 Talk to your doctor or pharmacist instead of quietly skipping doses. They may know a generic equivalent, a cheaper pack size, or another option. Never stop or skip prescribed medicine without asking your doctor.
 
-### How do I stop buying medicine I already have at home?
+**How do I stop buying medicine I already have at home?**
 
 Keep one list of current medicines with strengths and doses, and check the home drawer before buying. Buy only the prescribed quantity, check expiry dates, and carry the list to the pharmacy. Most duplicate buying happens because nobody checked first.
 

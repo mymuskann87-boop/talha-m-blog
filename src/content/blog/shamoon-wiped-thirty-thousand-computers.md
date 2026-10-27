@@ -74,25 +74,25 @@ Aramco survived because its oil systems were apart from its office systems. Ordi
 
 Software updates close the doors that malware walks through. And if several machines around you start failing in the same strange way at the same time, disconnect from the network fast — in a wiper attack, every connected minute costs more computers.
 
-## Common questions
+## Frequently Asked Questions
 
-### What does "wiper" mean?
+**What does "wiper" mean?**
 
 A wiper is malware built only to destroy data. Unlike ransomware, it does not lock your files and offer to sell them back — it overwrites them and wrecks the computer's ability to start, so the information is gone for good.
 
-### Why is Shamoon also called Disttrack?
+**Why is Shamoon also called Disttrack?**
 
 Security researchers often give malware a second, technical name based on something inside its code. Shamoon is the name that became famous in the news; Disttrack is the name many security firms use for the same destructive program.
 
-### Did Shamoon stop Saudi Arabia's oil?
+**Did Shamoon stop Saudi Arabia's oil?**
 
 No. About 30,000 office computers were wiped, but the systems controlling oil production were kept on a separate network, so production continued. The damage was huge, but it stayed inside the offices.
 
-### Who was behind the Shamoon attack?
+**Who was behind the Shamoon attack?**
 
 A group calling itself Cutting Sword of Justice claimed responsibility. US officials were reported to believe Iran was behind it, but no government officially accepted responsibility, so the full truth remains unproven.
 
-### Could a wiper like Shamoon hit my home computer?
+**Could a wiper like Shamoon hit my home computer?**
 
 Wipers are usually aimed at companies and governments, not homes, because their purpose is to send a message. But the habits that defeat them — disconnected backups and strong passwords — protect you from almost every other kind of malware too.
 

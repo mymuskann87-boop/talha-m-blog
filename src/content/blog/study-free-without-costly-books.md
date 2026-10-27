@@ -61,25 +61,25 @@ A final caution: never pay for a pirated copy or a "cheap" download from an unkn
 - [Save Money On Exam Preparation](https://talhablog.com/blog/save-money-on-exam-preparation/)
 - [Cut Kids School Costs Smartly](https://talhablog.com/blog/cut-kids-school-costs-smartly/)
 
-## Common questions
+## Frequently Asked Questions
 
-### Can I really study without buying all the course books?
+**Can I really study without buying all the course books?**
 
 Yes, for most courses. Libraries lend course books free, classic works and open textbooks are legally free online, and sharing or buying second-hand covers much of the rest. Buy new only the books the course truly requires, such as workbooks or books with access codes.
 
-### Are free books online legal?
+**Are free books online legal?**
 
 Many are. Classic books whose copyright has expired and open textbooks made by universities are legally free from established digital libraries. Avoid shady sites offering new textbooks free, because those copies are usually pirated and may be incomplete or harmful.
 
-### Is an older edition good enough?
+**Is an older edition good enough?**
 
 Often, yes, but check first. For most subjects the core material changes little between editions. Ask your teacher whether the exam follows a specific edition's problem sets or page numbers before relying on an older copy.
 
-### How do I share books fairly with classmates?
+**How do I share books fairly with classmates?**
 
 Agree on a simple rota: who has the book which week, and when it passes on. Treat borrowed books carefully, return them on time, and keep a note of who lent what. A fair sharing circle lasts the whole course and saves everyone money.
 
-### What should I do with books after the term ends?
+**What should I do with books after the term ends?**
 
 Sell them second-hand or swap them with junior students who need them next. The money you get back funds the next term's list, and the books keep teaching instead of gathering dust on a shelf.
 

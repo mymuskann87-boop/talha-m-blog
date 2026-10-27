@@ -61,25 +61,25 @@ Notice how the week repeats ingredients instead of buying new ones each day. Egg
 - [Save Money On Daily Lunch](https://talhablog.com/blog/save-money-on-daily-lunch/)
 - [Save Money On Monthly Groceries](https://talhablog.com/blog/save-money-on-monthly-groceries/)
 
-## Common questions
+## Frequently Asked Questions
 
-### What is the cheapest healthy breakfast?
+**What is the cheapest healthy breakfast?**
 
 Eggs with bread and a seasonal fruit, plus home-made tea, is one of the cheapest complete breakfasts. It gives protein, energy and freshness for very little money, and it is ready in about ten minutes.
 
-### Are oats really cheaper than branded cereals?
+**Are oats really cheaper than branded cereals?**
 
 Yes, especially bought in a large pack. A bulk bag of oats costs very little per bowl, while single-serve branded sachets charge heavily for packaging and branding. Oats also keep a person full longer than most sweetened cereals.
 
-### Can I eat leftovers for breakfast safely?
+**Can I eat leftovers for breakfast safely?**
 
 Yes, if they were stored properly in a clean, closed box in the fridge and eaten the next day. Yesterday's rice or lentils warmed in the morning make a fine breakfast. Do not keep cooked food for many days before eating it.
 
-### How do I prepare breakfast the night before?
+**How do I prepare breakfast the night before?**
 
 Soak oats overnight, boil eggs in the evening, and cut fruit into a covered box in the fridge. Ten minutes at night gives the family a breakfast that is already waiting in the morning, which saves both time and money.
 
-### Should I buy branded health breakfast products?
+**Should I buy branded health breakfast products?**
 
 Usually not. Plain foods — eggs, oats, fruit, bread — already provide protein, fibre and vitamins without the premium price. Branded products mostly charge for packaging and advertising, not for better nutrition.
 

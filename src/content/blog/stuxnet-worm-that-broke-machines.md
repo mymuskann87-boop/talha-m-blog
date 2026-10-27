@@ -56,25 +56,25 @@ You will probably never be the target of a state-built cyber weapon. But the tri
 
 **Be slow with files from people you do not know.** Strange attachments, free download sites and "cracked" programs are the everyday cousins of the infected USB stick. If a file arrives with pressure to open it quickly, that pressure itself is the warning sign.
 
-## Common questions
+## Frequently Asked Questions
 
-### What is Stuxnet in simple words?
+**What is Stuxnet in simple words?**
 
 Stuxnet was a computer worm — a program that copies itself from machine to machine — built as a weapon. Instead of stealing money or passwords, it secretly ordered Iran's nuclear centrifuges to spin wrongly until about 1,000 of them destroyed themselves, while showing the operators fake, healthy readings.
 
-### When was Stuxnet discovered?
+**When was Stuxnet discovered?**
 
 It was discovered in June 2010 by VirusBlokAda, a small security firm in Belarus, after computers in Iran kept restarting strangely. The worm had already been at work inside the Natanz plant before anyone in the world knew it existed.
 
-### How did Stuxnet enter a plant with no internet?
+**How did Stuxnet enter a plant with no internet?**
 
 Mainly through infected USB sticks. The plant's key computers were cut off from the internet, but people still carried files in and out on USB sticks, and the worm rode in on one of them. From a single plugged-in stick, it could spread through the local Windows network.
 
-### Did Stuxnet attack ordinary home computers?
+**Did Stuxnet attack ordinary home computers?**
 
 It did spread onto ordinary computers all over the world, which is how it was found. But its destructive instructions were written for one specific Siemens control setup at Natanz, so normal computers were carriers on its journey rather than the machines it was built to break.
 
-### Who created Stuxnet?
+**Who created Stuxnet?**
 
 Nobody has officially admitted it. The New York Times and many experts reported that it was widely believed to be built jointly by the United States and Israel, but neither government has officially confirmed this, so the honest answer is that the case is still unclosed.
 

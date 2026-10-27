@@ -72,25 +72,25 @@ A budget with zero joy breaks, and the break is always expensive, because it arr
 
 My trolley that day left the shop with rice, lentils, soap and vegetables, and without the gadget, the shirt, the mugs and the giant snack pack. Nothing about the week was poorer for their absence. The gadget is probably still gleaming on its shelf, waiting for someone else's three seconds. My three days passed, and I never thought of it again — which is the test working exactly as it should.
 
-## Common questions
+## Frequently Asked Questions
 
-### What exactly is impulse buying?
+**What exactly is impulse buying?**
 
 It is buying without planning, driven by the moment — a display, a sale sign, a mood, a smell. The purchase is decided in seconds, before the buyer has considered whether the item is needed, where it will live, or what it costs over a month of similar purchases.
 
-### Does the three-day rule really work?
+**Does the three-day rule really work?**
 
 For most non-essential purchases, yes. Waiting three full days lets the excitement fade, and most urges fade with it. The wants that survive the wait are usually real, specific needs, and buying those after the wait is a planned purchase, not an impulse one.
 
-### Should I unsubscribe from all sale emails?
+**Should I unsubscribe from all sale emails?**
 
 Not all emails — only the ones whose job is to make you buy. Newsletters you genuinely read can stay. Sale alerts, countdown offers and shopping app notifications are triggers designed to reach you when willpower is low, and removing them prevents battles you do not need to fight.
 
-### Is shopping with a list really that important?
+**Is shopping with a list really that important?**
 
 Yes. A list turns a wandering trip into a planned one. Write it at home from the shelves and the week's meals, check what is already in the cupboard, and set a rough total before leaving. Anything not on the list must pass the three-day test instead of going into the trolley today.
 
-### Can I still enjoy shopping and treats?
+**Can I still enjoy shopping and treats?**
 
 Absolutely. Planned treats stay — a birthday gift, a favourite snack bought deliberately, a new shirt for a real occasion. The goal is to stop spending by accident, not to stop spending altogether. A budget with planned joy holds; a budget with zero joy breaks, and the break is always expensive.
 

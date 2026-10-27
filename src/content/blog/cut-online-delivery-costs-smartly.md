@@ -63,25 +63,25 @@ Set a monthly delivery budget after the first audit — a fixed amount that feel
 - [Avoid ATM Fees Completely Today](https://talhablog.com/blog/avoid-atm-fees-completely-today/)
 - [Save Money On Mobile Accessories](https://talhablog.com/blog/save-money-on-mobile-accessories/)
 
-## Common questions
+## Frequently Asked Questions
 
-### Why do delivery fees add up so fast?
+**Why do delivery fees add up so fast?**
 
 Because each small order carries its own fee. Five separate orders at 150 delivery each cost 750 in fees alone, while one combined order costs a single fee. Bundling orders is the fastest way to cut the total.
 
-### Is free delivery above a threshold always a good deal?
+**Is free delivery above a threshold always a good deal?**
 
 Only if you were already buying that much. If the threshold makes you add an item you never wanted, the "free" delivery actually cost you the price of that item. Buy the extra item only if you would buy it anyway.
 
-### When is express delivery worth the extra cost?
+**When is express delivery worth the extra cost?**
 
 When timing genuinely matters — a gift needed tomorrow, an urgent medicine, or a part that stops work. For ordinary items that can wait a few days, the slower cheaper option saves money with no real loss.
 
-### Are pickup points really cheaper than home delivery?
+**Are pickup points really cheaper than home delivery?**
 
 Often, yes. Collecting from a nearby store or locker can cost less than home delivery, sometimes nothing at all. It works best when the pickup point is already on a route you travel daily.
 
-### Should I always choose the cheapest item online?
+**Should I always choose the cheapest item online?**
 
 No — compare the total, item price plus delivery, across sellers. The cheapest item with the most expensive delivery is often the most expensive order. The checkout total is the only price that matters.
 

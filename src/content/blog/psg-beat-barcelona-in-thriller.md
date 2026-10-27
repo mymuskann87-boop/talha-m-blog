@@ -86,23 +86,23 @@ Visiting teams dream of silencing a crowd like that. On this night, nobody could
 
 ## Frequently Asked Questions
 
-### What was the final score between PSG and Barcelona?
+**What was the final score between PSG and Barcelona?**
 
 Paris Saint-Germain beat Barcelona 4-2 at the Parc des Princes in Paris on 21 October 2026 in the Champions League.
 
-### How did PSG win the match?
+**How did PSG win the match?**
 
 The game was level late on, and PSG scored twice in the closing stages to turn a draw into a 4-2 victory.
 
-### What happened to Barcelona's winning run?
+**What happened to Barcelona's winning run?**
 
 The defeat ended Barcelona's run of 11 wins in a row. It was their first loss after that long winning streak.
 
-### Why was the win so important for PSG?
+**Why was the win so important for PSG?**
 
 The victory sent PSG to the top of their group standings, ahead of Barcelona, in the Champions League.
 
-### Where was the match played?
+**Where was the match played?**
 
 The match was played at the Parc des Princes, the home stadium of Paris Saint-Germain in Paris, France.
 

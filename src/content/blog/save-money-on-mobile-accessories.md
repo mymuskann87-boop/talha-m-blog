@@ -65,25 +65,25 @@ Also remember that prices differ by city and country. The habits in this post tr
 - [Make Phone Accessories Last Longer](https://talhablog.com/blog/make-phone-accessories-last-longer/)
 - [Save Money On Phone Repairs](https://talhablog.com/blog/save-money-on-phone-repairs/)
 
-## Common questions
+## Frequently Asked Questions
 
-### Is a cheap phone case good enough?
+**Is a cheap phone case good enough?**
 
 A cheap case is good enough if it fits tightly, covers the corners, and rises slightly above the screen edge. Price alone does not protect a phone — fit and corner coverage do. Press the corners and check the button fit in the shop before buying, whatever the price.
 
-### Should I always buy original brand accessories?
+**Should I always buy original brand accessories?**
 
 Not always. Batteries and safety-critical parts deserve original or certified quality, but cases, stands, and cables often work just as well from certified compatible makers. Check compatibility and certification marks first, then choose by quality rather than by logo.
 
-### How do I spot a fake sale on accessories?
+**How do I spot a fake sale on accessories?**
 
 Compare the sale price with what the same item cost last month in the same shop. A genuine sale drops below the normal price. A fake sale raises the price first and then cuts it back to normal, so the "discount" is an illusion. Keeping track of normal prices is the only reliable test.
 
-### How many cables and chargers do I really need?
+**How many cables and chargers do I really need?**
 
 One good cable and charger for home, and one set for travel if you travel often, is enough for most people. Extra cables usually end up unused in a drawer. Buy one good item instead of three average ones, and replace only when one actually breaks.
 
-### Can a bad charger damage my phone?
+**Can a bad charger damage my phone?**
 
 Yes, a poorly made charger with the wrong output or no safety certification can damage a phone's battery or charging port over time, and in rare cases it can overheat. Always check that a charger matches your phone's requirements and carries proper certification, and never buy a charger that feels suspiciously light and cheap.
 

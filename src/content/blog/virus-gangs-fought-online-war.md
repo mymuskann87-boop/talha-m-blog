@@ -62,25 +62,25 @@ Be suspicious of attachments, even friendly ones. The worms of 2004 travelled be
 
 Finally, remember that strange behaviour is a clue worth acting on. A computer that sends mail by itself, runs hot and slow for no reason, or gets replies to messages you never wrote deserves a full antivirus scan, not a shrug. Catching an infection early keeps your machine out of every army, including the ones fighting each other.
 
-## Common questions
+## Frequently Asked Questions
 
-### What is the difference between Netsky and Bagle?
+**What is the difference between Netsky and Bagle?**
 
 Both were email worms from early 2004 that spread through attachments and turned home computers into spam senders. Bagle appeared in January 2004 and Netsky in February 2004. The famous difference is their rivalry: they insulted each other in hidden code messages, and some Netsky versions actively removed Bagle infections from machines they captured.
 
-### Did Netsky really remove other viruses?
+**Did Netsky really remove other viruses?**
 
 Yes, some versions did, but not to help you. Netsky searched infected computers for rival worms such as Bagle and MyDoom and deleted them, then kept the machine for its own spam work. The computer remained infected and controlled; it had simply changed owners.
 
-### Who wrote Netsky and Bagle?
+**Who wrote Netsky and Bagle?**
 
 Sven Jaschan, a German student who also wrote the Sasser worm, confessed to writing the Netsky family. The authors behind Bagle were never identified, though they were widely believed to be linked to spam businesses. That difference is part of why the war is still talked about today.
 
-### Can a worm war like this happen again?
+**Can a worm war like this happen again?**
 
 The exact families are history, but the behaviour never disappeared. Criminal tools today still compete for infected machines, remove rival malware, and hide messages and tricks in their code. Your protection is the same pair of habits: working antivirus and fast updates.
 
-### How would I know if my computer joined a botnet army?
+**How would I know if my computer joined a botnet army?**
 
 Warning signs include mail being sent that you never wrote, replies to messages you do not recognise, and a machine that runs slowly or noisily for no clear reason. None of these signs is proof on its own. A full scan with an updated antivirus program is the sensible next step, followed by changing important passwords from a clean device if an infection is found.
 

@@ -63,25 +63,25 @@ In my view, presence beats presents every single time. But presence has its own 
 - [Cut Baby Care Costs Smartly](https://talhablog.com/blog/cut-baby-care-costs-smartly/)
 - [Cut Family Medical Bills Down](https://talhablog.com/blog/cut-family-medical-bills-down/)
 
-## Common questions
+## Frequently Asked Questions
 
-### Does caring for parents have to be expensive?
+**Does caring for parents have to be expensive?**
 
 No, not in its largest part. The core of care is time, attention, shared meals, and shared errands, which cost very little. Medicine and essential costs are real and must be planned for, but much of the flexible spending around care can shrink without care shrinking at all.
 
-### What is the most valuable thing I can give ageing parents?
+**What is the most valuable thing I can give ageing parents?**
 
 Regular presence: a fixed visiting day, a daily call, a shared meal. Parents consistently value company above costly gifts or services. Presence also means problems are noticed early, when they are small and cheap to fix.
 
-### How can I help parents with their bills?
+**How can I help parents with their bills?**
 
 Sit with them and review medicine prices, phone plans, utilities, and subscriptions together, just as you would review your own. Compare pharmacy prices, check for duplicate subscriptions, and look for plans that fit their actual use. This compares prices only and changes no medical treatment.
 
-### Should I accept help from neighbours and relatives?
+**Should I accept help from neighbours and relatives?**
 
 Yes. Community and family help — a lift, a shared meal, a visit — is how care has always worked. Accepting it gratefully is not weakness, and it builds a network that keeps a parent safe even when one child is busy.
 
-### When is professional care worth paying for?
+**When is professional care worth paying for?**
 
 When a parent's health or safety needs go beyond what family can safely manage. Serious medical care, safe housing needs, and professional support at that stage are necessities, not luxuries. Spend little where love suffices, and spend willingly where only money will do.
 

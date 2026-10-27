@@ -74,7 +74,7 @@ This is also where honest writers should slow down. Popular articles often shout
 
 Personally, I find that more wonderful, not less. It means two people can stand shoulder to shoulder in front of the same sunset, look at the same sky, and both honestly describe different colors. Neither is lying. Their eyes are simply handing their brains different raw materials.
 
-## Questions people ask
+## Frequently Asked Questions
 
 **Can men be tetrachromats too?**
 Almost certainly not in the usual way, because the red and green cone genes sit on the X chromosome and men typically have only one X. The four-cone arrangement found so far appears in women who inherit one normal X and one shifted X.

@@ -76,25 +76,25 @@ The tools have changed since 1992, but the habits that defeat this kind of virus
 
 **Keep your system updated.** Many viruses, then and now, enter through old flaws that have already been fixed. Installing updates promptly closes doors that malware is actively looking for.
 
-## Common questions
+## Frequently Asked Questions
 
-### What exactly was the Michelangelo virus?
+**What exactly was the Michelangelo virus?**
 
 It was a boot-sector virus discovered in 1991. It hid in the starter area of disks and stayed silent until 6 March — the birthday of the artist Michelangelo — when it would overwrite the beginning of an infected computer's hard disk and destroy access to the data stored there.
 
-### Did the Michelangelo virus really wipe millions of computers?
+**Did the Michelangelo virus really wipe millions of computers?**
 
 No. Some media forecasts at the time spoke of millions of machines being wiped on 6 March 1992, but the reported real damage was far smaller — in the thousands or low tens of thousands of computers. The gap between the forecast and the outcome is a large part of why the story is still remembered.
 
-### How did the Michelangelo virus spread without the internet?
+**How did the Michelangelo virus spread without the internet?**
 
 It travelled on floppy disks, which people constantly shared for games, programs, and documents. When an infected disk started a computer, the virus copied itself onto the hard disk, and from there onto other disks used in the same machine — silently, with no visible signs.
 
-### Could a virus like Michelangelo hurt a computer today?
+**Could a virus like Michelangelo hurt a computer today?**
 
 Boot-sector tricks still exist in modern forms, but today's systems have stronger built-in defences, secure startup checks, and automatic antivirus protection. The bigger modern risks are ransomware and stolen passwords. The defence is the same as it was in 1992: updated protection, caution with downloads, and regular backups kept separately from your main machine.
 
-### Why do people still talk about the Michelangelo virus?
+**Why do people still talk about the Michelangelo virus?**
 
 Because its legacy is cultural, not technical. It was the moment the general public learned what a computer virus was, and the moment antivirus software became an ordinary household product. The panic itself became the lesson: real danger, exaggerated fear, and one very useful habit — backing up — learned by millions at once.
 

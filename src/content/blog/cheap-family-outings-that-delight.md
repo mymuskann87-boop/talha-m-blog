@@ -59,25 +59,25 @@ There is an honest limit to all of this. Transport to the outing still costs mon
 - [Free Fun Ideas For Families](https://talhablog.com/blog/free-fun-ideas-for-families/)
 - [Save Money On Birthday Parties](https://talhablog.com/blog/save-money-on-birthday-parties/)
 
-## Common questions
+## Frequently Asked Questions
 
-### Do cheap outings really make children happy?
+**Do cheap outings really make children happy?**
 
 Yes. Children remember time together, games, and stories far longer than they remember ticket prices. A bicycle ride, a picnic, and a park game are remembered for years, while expensive days often blur together. What children value is attention, not spending.
 
-### How do I keep a picnic cheap?
+**How do I keep a picnic cheap?**
 
 Cook at home and pack enough food and water for everyone before leaving. Buying drinks and snacks one at a time at a park stall quietly eats the saving. A full bag from home, packed with the children's help the night before, keeps the whole day genuinely low-cost.
 
-### Are free public places good for family outings?
+**Are free public places good for family outings?**
 
 Yes, especially on weekdays when they are quieter. Parks, riversides, viewpoints, and public gardens cost nothing and give children room to run and play. Keep a small list of three or four free places near home and rotate through them so traditions can grow.
 
-### Should children really plan an outing themselves?
+**Should children really plan an outing themselves?**
 
 Yes, with a small honest budget and help only when asked. A child who chooses the place and packs the bag remembers the day far longer, because ownership makes memories stick. Planning also teaches choosing and budgeting in a way no lesson can match.
 
-### How often should a family pay for an outing?
+**How often should a family pay for an outing?**
 
 One well-chosen paid outing a month, planned and budgeted together, works better than several rushed expensive ones. Anticipation is half the pleasure, and a family that saves a little through the month enjoys the special day fully, without guilt.
 

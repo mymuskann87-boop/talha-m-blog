@@ -54,7 +54,7 @@ The bottom of the diagram gathers the key facts in one place: engine size, power
 
 The Corvette Stingray matters because it proves that even a legend can change. It kept its name, its spirit, and its V8 heart, but it moved the pieces around to become better. That is why people still talk about it, and why a simple diagram of it can teach so much about how cars work.
 
-## Common questions
+## Frequently Asked Questions
 
 **What does Stingray mean on a Corvette?**
 Stingray is a special name Chevrolet has used for sporty Corvette models since the 1960s. It stands for a flat, smooth, and quick character, like the sea animal of the same name.

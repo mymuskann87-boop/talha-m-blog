@@ -59,23 +59,23 @@ Thirty-four years is not a long life. But a life is not measured only in years. 
 
 ## Frequently Asked Questions
 
-### Who was RJ Mitte?
+**Who was RJ Mitte?**
 
 RJ Mitte was an American actor best known for playing Walter White Jr., also called "Flynn," in the AMC series *Breaking Bad* (2008–2013). He was also a well-known disability rights advocate.
 
-### When and where did RJ Mitte die?
+**When and where did RJ Mitte die?**
 
 He died on Monday, October 12, 2026, at his home in Brownsville, Texas, at the age of 34. He was declared dead at 1:32 p.m. local time.
 
-### What was the cause of RJ Mitte's death?
+**What was the cause of RJ Mitte's death?**
 
 Officials have not announced a cause of death yet. Police said no foul play is suspected, and the investigation is ongoing.
 
-### Did RJ Mitte really have cerebral palsy?
+**Did RJ Mitte really have cerebral palsy?**
 
 Yes. He was diagnosed with cerebral palsy at the age of three, the same condition his *Breaking Bad* character lived with, and he brought his real-life experience to the role.
 
-### What did RJ Mitte do besides acting?
+**What did RJ Mitte do besides acting?**
 
 He was a Screen Actors Guild spokesman for performers with disabilities, an ambassador for United Cerebral Palsy and Shriners Children's, and president of the Mitte Foundation. In 2013 he received the SAG-AFTRA Harold Russell Award.
 

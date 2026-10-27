@@ -62,25 +62,25 @@ Third, keep your guard up with anything copied, borrowed or passed along informa
 
 Finally, take strange behaviour seriously, even when it looks harmless. Falling letters seemed like a joke, and in that one case it mostly was. But odd behaviour is a message from your machine that something uninvited may be present — and the next uninvited guest may not be there to entertain you.
 
-## Common questions
+## Frequently Asked Questions
 
-### Did the Cascade virus delete people's files?
+**Did the Cascade virus delete people's files?**
 
 No. Cascade deleted nothing and stole nothing. Its only real action was its famous display trick, making characters on the screen slide down and pile up at the bottom. People lost a little time and a little peace of mind, but their work stayed intact.
 
-### How did Cascade get onto a computer?
+**How did Cascade get onto a computer?**
 
 It hid inside ordinary DOS program files, the .COM files of the era, and travelled on shared floppy disks. When someone ran an infected program, Cascade copied itself into the machine and then into other program files, ready to travel onward with the next shared disk.
 
-### Why is Cascade important if it was harmless?
+**Why is Cascade important if it was harmless?**
 
 Because it was the first known virus to scramble — or encrypt — its own code so early antivirus tools could not easily read it. That cloaking trick was later copied by harmful malware for decades, which makes this small joke program a genuine turning point in computer security history.
 
-### Could a harmless program still be dangerous today?
+**Could a harmless program still be dangerous today?**
 
 The program itself might be gentle, but anything uninvited on your machine proves a door was left open. The same quiet road that carried Cascade can carry something far worse. That is why knowing where your programs come from still matters more than almost any other safety habit.
 
-### When and where did Cascade appear?
+**When and where did Cascade appear?**
 
 It was first seen in Germany in the autumn of 1987, as reported in accounts of early computer viruses. From there it spread the way everything spread in those days: slowly, on floppy disks, inside ordinary programs passed between ordinary people.
 

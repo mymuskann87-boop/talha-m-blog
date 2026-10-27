@@ -51,7 +51,7 @@ Most fraud calls in Pakistan follow the same few scripts. A fake parcel fee. A b
 
 My own rule at home is simple: any unknown number that starts talking about money gets checked first, even when the voice sounds sweet and the story sounds urgent. Scammers are in a hurry because hurry stops people from thinking.
 
-## Common questions
+## Frequently Asked Questions
 
 **Is Scam Alert free?**
 Yes. Checking a number and reporting a scammer are both fully free, with no sign-up.

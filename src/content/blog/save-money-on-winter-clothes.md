@@ -61,25 +61,25 @@ There are honest limits. In very cold places, proper winter clothing is a need, 
 - [Buy Shoes That Last Longer](https://talhablog.com/blog/buy-shoes-that-last-longer/)
 - [Save Money On Summer Clothes](https://talhablog.com/blog/save-money-on-summer-clothes/)
 
-## Common questions
+## Frequently Asked Questions
 
-### When is the cheapest time to buy winter clothes?
+**When is the cheapest time to buy winter clothes?**
 
 At end-of-winter sales, when shops clear stock for summer. The same coat costs far less in March than in November. Buy next year's sizes for growing children — one size up — and store the clothes clean and dry through summer.
 
-### Is layering really warmer than one heavy coat?
+**Is layering really warmer than one heavy coat?**
 
 Yes, and more flexible. A warm inner layer, a sweater, and a weatherproof outer layer together beat one expensive coat over a thin shirt, because the layers can be adjusted to mild and bitter days alike, and one worn layer can be replaced without replacing the whole system.
 
-### How do I make wool clothes last longer?
+**How do I make wool clothes last longer?**
 
 Wash as the label says, usually in cool water with gentle handling, and dry flat instead of hanging dripping. Store coats clean and fully dry, fix loose buttons at once, and air coats outside instead of washing after every wear — every wash wears fabric a little.
 
-### What should I do with children's outgrown winter clothes?
+**What should I do with children's outgrown winter clothes?**
 
 Swap them with relatives, neighbours, or school friends whose children are the size yours is growing into. A coat too small for one child is a new coat for another. For babies and toddlers, second-hand winter clothes make special sense, since they are barely worn before being outgrown.
 
-### Should I buy one expensive pair of winter shoes or several cheap ones?
+**Should I buy one expensive pair of winter shoes or several cheap ones?**
 
 One good, waterproof pair. Cheap shoes let in water and wear through mid-winter, forcing a full-price replacement in a hurry. A sturdy pair bought in the sales, with insoles replaced and wet shoes dried properly away from direct heat, lasts the whole season and often the next.
 

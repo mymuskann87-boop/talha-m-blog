@@ -48,25 +48,25 @@ But honesty matters here. Home cooking needs time, and some weeks are genuinely 
 
 Home food has one more quiet advantage worth naming. Cooking at home lets the cook control the salt, the oil and the portions — not as a health lecture, simply as a fact. Takeaway food is saltier and oilier because it is built to impress in one bite. Home food is built to be eaten every day, and that difference adds up over a year.
 
-## Common questions
+## Frequently Asked Questions
 
-### I am too tired to cook after work. What helps?
+**I am too tired to cook after work. What helps?**
 
 Lower the bar. Keep three "emergency meals" that take fifteen minutes: eggs and bread, lentils from a tin with rice, noodles with vegetables. A simple home meal still costs far less than takeaway, and it does not need to be impressive to count.
 
-### Does batch cooking mean eating the same thing all week?
+**Does batch cooking mean eating the same thing all week?**
 
 No. Cook the base in bulk and change its shape: rice becomes fried rice, a wrap filling, or a soup base. The ingredients repeat, the meals do not. Two or three days from one pot is plenty; freeze the rest if you want a longer break.
 
-### Is home cooking really cheaper than cheap takeaway?
+**Is home cooking really cheaper than cheap takeaway?**
 
 Yes, in almost every case, because takeaway prices include the shop's rent, staff, packaging and profit on top of the food. A home pot of lentils and rice costs a fraction of the same meal bought ready-made, and the gap grows with every family member fed.
 
-### What if my family prefers takeaway taste?
+**What if my family prefers takeaway taste?**
 
 Make takeaway-style food at home once a week — a homemade version of the favourite dish, with the same spices and sauces. It scratches the same itch for much less money, and it often becomes the family's new favourite.
 
-### How do I start if I barely know how to cook?
+**How do I start if I barely know how to cook?**
 
 Start with one dish, the simplest one you like, and cook it until it feels easy. Then add a second. Five dishes learned one at a time make a full rotation within a couple of months, and nobody needs to learn them all at once.
 

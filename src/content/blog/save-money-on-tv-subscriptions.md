@@ -58,25 +58,25 @@ Cutting subscriptions saves money, but it does not create time, and it should no
 
 Also remember that prices and bundles change. A service that was good value last year may cost more today, and a new bundle may beat the old arrangement. Review the list every few months, not once and never again. The audit is a habit, not a single event.
 
-## Common questions
+## Frequently Asked Questions
 
-### How do I find all my TV subscriptions?
+**How do I find all my TV subscriptions?**
 
 Check the last two months of bank or card statements and write down every TV and streaming charge. Include free trials that turned paid and old bundles added for one event. Most families discover one or two forgotten charges, and the written total usually makes the next steps obvious.
 
-### Should I cancel TV subscriptions nobody watches?
+**Should I cancel TV subscriptions nobody watches?**
 
 Yes. If nobody watched a service in the last month, cancel it — you can almost always return later with your account and watch history intact. A subscription unwatched is a bill for nothing, and the saving starts the very next billing cycle.
 
-### What does rotating TV subscriptions mean?
+**What does rotating TV subscriptions mean?**
 
 It means subscribing to one service at a time, month by month, instead of paying for several at once. Watch one library fully, then switch to the next. Since watching time is limited, one service usually holds more than a month of evenings can cover.
 
-### Are family plans for TV subscriptions worth it?
+**Are family plans for TV subscriptions worth it?**
 
 Often, yes. Where the service allows it and the rules permit, one household plan costs less per person than separate subscriptions. Read the plan's terms about household members and simultaneous screens, and use the plan honestly within those rules.
 
-### Is there enough free TV content to skip paid services?
+**Is there enough free TV content to skip paid services?**
 
 Free channels, public broadcasters, and free services often cover a large share of everyday watching — news, children's shows, and films. Paired with one rotating paid service, free content covers most households' evenings for a fraction of the old bill.
 

@@ -54,7 +54,7 @@ The scale of that habit is hard to hold in your head. Analysts at the Radicati G
 
 Personally, I find something perfect in the fact that the first message is missing. Email was never meant to be a monument. It was a tool built for ordinary words, typed quickly and read later, and its inventor treated that very first line the way we treat most of our own messages: he sent it, it worked, and he moved on. The monument happened anyway. It is sitting in your pocket right now, and somewhere in its endless river of messages, your own inbox is the direct descendant of a forgotten line of test characters, typed between two machines in one quiet Cambridge room.
 
-## Questions people ask
+## Frequently Asked Questions
 
 **What did the first email say?**
 Nobody knows, including its sender. Tomlinson said the early messages were all throwaway tests, typed with whatever characters came to hand. The guess repeated most often is "QWERTYUIOP," the top row of the keyboard, and Tomlinson himself said that may or may not be what it was. The content is honestly lost to history.

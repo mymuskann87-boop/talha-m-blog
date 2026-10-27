@@ -44,21 +44,21 @@ There is also a quieter reason the Vantage deserves attention. Aston Martin is a
 
 The Vantage will not be the right car for everyone, and it does not try to be. It is a car for people who value beauty, sound and feeling as much as speed, and who believe a sports car should stir something in you before it ever moves. In a world where cars are becoming quieter, heavier and more alike, that is a rare and welcome thing.
 
-## Common questions
+## Frequently Asked Questions
 
-### How fast is the Aston Martin Vantage?
+**How fast is the Aston Martin Vantage?**
 
 It reaches 100 km/h from rest in 3.6 seconds and has a top speed of 314 km/h, thanks to its 510 HP twin-turbo V8 engine and rear-wheel drive.
 
-### Is the Vantage a daily-use car?
+**Is the Vantage a daily-use car?**
 
 It can be used daily, with a comfortable ride and a usable boot for two people, but it is happiest as a pleasure car. Space is tight, and running costs sit at sports car levels.
 
-### What makes its engine special?
+**What makes its engine special?**
 
 The 4.0-litre twin-turbo V8 delivers strong pulling power from low speeds and a deep, rich exhaust sound that many drivers consider the car's defining feature.
 
-### Does it handle well on wet roads?
+**Does it handle well on wet roads?**
 
 Yes. The balanced weight, electronic rear differential and adaptive suspension help the car stay stable on wet or uneven surfaces, though careful driving is still essential in a rear-wheel drive sports car.
 

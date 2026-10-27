@@ -78,27 +78,27 @@ That memory hangs over this week's announcement. A claim repeated is not the sam
 
 ## Frequently Asked Questions
 
-### Did Russia and Ukraine actually agree to an energy ceasefire?
+**Did Russia and Ukraine actually agree to an energy ceasefire?**
 
 That is not confirmed. President Trump announced one, Ukraine said it was ready to accept one if Russia did, and Russia has not confirmed that any agreement exists. So at this stage, it is an announcement, not a verified deal.
 
-### What is an energy ceasefire?
+**What is an energy ceasefire?**
 
 It is a limited pause in which both sides agree to stop attacking energy systems — power stations, electricity grids and similar facilities — while other fighting may continue. It is narrower than a full ceasefire.
 
-### Why did Ukraine's president seem surprised?
+**Why did Ukraine's president seem surprised?**
 
 Because, by his own account, he learned of the announcement from the media. He said it "was news for me", and asked Washington to tell him when the ceasefire is supposed to begin.
 
-### What did Russia say?
+**What did Russia say?**
 
 Russia did not confirm any deal. Kremlin spokesman Dmitry Peskov said contacts were continuing and that Moscow would speak when it had something to say. On the separate idea of a 60-day total ceasefire for elections, Peskov said Russia wants long-term peace, not a ceasefire.
 
-### Were there really strikes after the announcement?
+**Were there really strikes after the announcement?**
 
 According to President Zelenskyy, yes. He accused Russia of hitting Kyiv's electricity grid and energy facilities in Kharkiv after Trump's post, causing power cuts. These are Ukraine's claims about events on the ground, reported as part of the dispute over whether any ceasefire is operating.
 
-### What happens next?
+**What happens next?**
 
 That is the open question. Repair work around the Zaporizhzhia power station may move ahead, based on Rosatom's comments. But until Moscow confirms an agreement and the attacks on energy systems actually stop, the "energy ceasefire" exists mainly as words.
 

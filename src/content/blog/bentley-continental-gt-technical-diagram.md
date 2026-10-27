@@ -52,7 +52,7 @@ When the modern Continental GT arrived in 2003, it picked up that thread after a
 
 Knowing this history changes how you look at the car. The grille, the round lights, and the long bonnet are not random styling choices. They are echoes of a century of Bentley design, kept alive by people who care deeply about the badge on the bonnet. When you buy a Continental GT, you are not just buying speed and leather. You are buying into a story that began over a hundred years ago, and that story is part of what makes the car feel special.
 
-## Common questions
+## Frequently Asked Questions
 
 **What engine does the Bentley Continental GT have?**
 This version uses a 6.0-litre twin-turbo W12 engine that makes 650 HP. A W12 packs twelve cylinders into a compact block, giving huge power with smooth manners.

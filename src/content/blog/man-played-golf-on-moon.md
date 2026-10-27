@@ -70,7 +70,7 @@ The golf balls never came home, but the club did. In 1974, at the U.S. Open at W
 
 Shepard retired from NASA and the Navy in 1974 as a rear admiral, and he died in 1998. Of all the Mercury Seven, he alone stood on the Moon. And near the landing site at Fra Mauro, undisturbed in the grey dust exactly where they fell in 1971, two small white golf balls are still sitting there — the trophies of a man who lost the sky, refused to accept it, and won it back.
 
-## Common questions
+## Frequently Asked Questions
 
 **Who was the first person to play golf on the Moon?**
 Alan Shepard, commander of Apollo 14. On 6 February 1971, near the end of his second moonwalk, he hit two golf balls using a Wilson Staff six-iron head attached to the handle of a lunar sampling tool. Nobody had played golf on another world before, and nobody has since.

@@ -67,25 +67,25 @@ Nothing in this post outranks child safety. Trusted drivers only. Safe vehicles 
 - [Save Money On Daily Transport](https://talhablog.com/blog/save-money-on-daily-transport/)
 - [Cut Kids School Costs Smartly](https://talhablog.com/blog/cut-kids-school-costs-smartly/)
 
-## Common questions
+## Frequently Asked Questions
 
-### Is the school bus usually the cheapest school transport option?
+**Is the school bus usually the cheapest school transport option?**
 
 Not always. It depends on your route. For long routes it can be good value, but for short routes a shared van, a parent carpool, or a safe walking group often costs much less. Compare the bus fee with the real alternatives for your own route before deciding.
 
-### How does a school carpool work in practice?
+**How does a school carpool work in practice?**
 
 Three or four nearby families take turns driving, usually one family per week in rotation, and share fuel costs by an agreed rule. Clear rules matter: pickup times, backup plans for sick days, and trusted drivers. Written-down rules before the first trip keep the carpool running all year.
 
-### Is walking to school a realistic way to save money?
+**Is walking to school a realistic way to save money?**
 
 For families living close to school, yes — a supervised group walk costs nothing and gives children fresh air. Safety decides it, though: safe roads, managed crossings, and adult supervision. If the route is not safe, walking is not the right option regardless of price.
 
-### Should I pay school transport fees term-wise for a discount?
+**Should I pay school transport fees term-wise for a discount?**
 
 Only when the provider is established, the route is stable, and you have read the terms — especially what happens during holidays or a mid-term school change. If anything is uncertain, monthly payment is wiser even at a slightly higher rate, because flexibility is worth something too.
 
-### What should I never compromise on for cheaper school transport?
+**What should I never compromise on for cheaper school transport?**
 
 Child safety. Only trusted drivers, safe vehicles with proper seating, and no overloading or rushing. If the cheapest option feels unsafe in any way, discard it. No transport saving is worth a risk to a child.
 

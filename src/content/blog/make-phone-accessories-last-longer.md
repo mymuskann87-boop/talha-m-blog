@@ -65,25 +65,25 @@ Also, safety comes before saving. A cable with exposed wires, a swollen battery 
 - [Save Money On Mobile Accessories](https://talhablog.com/blog/save-money-on-mobile-accessories/)
 - [Make Your Laptop Last Longer](https://talhablog.com/blog/make-your-laptop-last-longer/)
 
-## Common questions
+## Frequently Asked Questions
 
-### Why do my cables always break near the plug?
+**Why do my cables always break near the plug?**
 
 The joint where the cord meets the plug bends every time the cable is used, and repeated bending at the same stiff spot breaks the thin wires inside. Pulling from the plug instead of the cord, and avoiding sharp bends at the joint, removes the main cause of this damage.
 
-### Is it worth buying braided cables?
+**Is it worth buying braided cables?**
 
 For cables that travel, bend, or get daily rough use, yes — braided cables with reinforced joints resist fraying far better than ordinary ones. For a cable that stays plugged in one place and never moves, an ordinary cable is fine, and the extra cost is unnecessary.
 
-### How should I store earphones to make them last?
+**How should I store earphones to make them last?**
 
 Coil them in loose loops, secure them with a clip, and keep them in a case or a pocket of their own. Never stuff them loose into a pocket, where they knot and get yanked during untangling — that is what kills one ear first.
 
-### Can I clean a charging port myself?
+**Can I clean a charging port myself?**
 
 Yes, gently, with a dry wooden toothpick or a soft brush to remove lint. Never use a metal pin, which can short the contacts, and never use water or sharp force. If the port is damaged or the phone still charges badly after cleaning, have it checked professionally.
 
-### When should I stop using a cable?
+**When should I stop using a cable?**
 
 Stop immediately if wires are exposed, the cable feels hot during use, the plug is loose or cracked, or you smell burning. A damaged cable is a safety risk, not a saving — replace it rather than taping it and hoping.
 

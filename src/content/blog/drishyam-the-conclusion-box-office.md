@@ -51,17 +51,17 @@ That's why this article attributes the numbers clearly — about ₹103 crore ov
 
 Will the total climb much further? We don't know yet, and it's better to say that honestly than to guess a final number. What we can say is that the film has crossed ₹300 crore in India, passed the earlier high point of Ajay Devgn's career, and is still going.
 
-## Common questions
+## Frequently Asked Questions
 
-### How much has Drishyam The Conclusion earned worldwide in nine days?
+**How much has Drishyam The Conclusion earned worldwide in nine days?**
 
 According to Sacnilk figures reported by Business Today, it grossed about ₹446.80 crore worldwide in nine days. Box office figures are estimates and keep changing while the film is still running.
 
-### How much did Drishyam The Conclusion earn in India and overseas?
+**How much did Drishyam The Conclusion earn in India and overseas?**
 
 The same reporting says the film crossed ₹300 crore in India and grossed about ₹103 crore overseas. Week-one reports had already placed the India figure near ₹250 crore.
 
-### Is Drishyam The Conclusion Ajay Devgn's highest-grossing film?
+**Is Drishyam The Conclusion Ajay Devgn's highest-grossing film?**
 
 Yes, according to the reporting covered in this article, the thriller has become the highest-grossing film of Ajay Devgn's career.
 

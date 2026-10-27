@@ -106,23 +106,23 @@ Staying teachable is not weakness. It is the one habit that keeps every skill gr
 
 ## Frequently Asked Questions
 
-### Who was McArthur Wheeler?
+**Who was McArthur Wheeler?**
 
 McArthur Wheeler was a Pittsburgh man who, with Clifton Earl Johnson, robbed two banks on 6 January 1995 with lemon juice on their faces, believing it would hide them from security cameras.
 
-### Why did the robber put lemon juice on his face?
+**Why did the robber put lemon juice on his face?**
 
 Wheeler knew lemon juice works as invisible ink — writing made with it appears after heating. He wrongly reasoned that it would also make his face invisible to cameras, and a faulty Polaroid test seemed to confirm it.
 
-### How was McArthur Wheeler caught?
+**How was McArthur Wheeler caught?**
 
 His clear surveillance photograph was shown in a Crime Stoppers segment on the 11 o'clock news on 19 April 1995. Tips came in at once, and he was arrested less than an hour after the broadcast.
 
-### What sentence did McArthur Wheeler receive?
+**What sentence did McArthur Wheeler receive?**
 
 He was sentenced on 5 January 1996 to 24 and a half years in prison, plus three years of probation, for the Swissvale bank robbery. Johnson, who pleaded guilty and testified against him, received five years.
 
-### What is the Dunning-Kruger effect?
+**What is the Dunning-Kruger effect?**
 
 It is the idea, from Kruger and Dunning's 1999 studies, that people with low ability in an area often greatly overestimate themselves, because the skill needed to do a task well is the same skill needed to judge it. Later researchers have debated how large the effect truly is.
 

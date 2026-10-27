@@ -90,7 +90,7 @@ Will's triumph was not only sweetness or advertising. He understood ordinary mor
 
 None of that makes John's caution foolish. Smithsonian notes that many nutrition experts now question whether very easy digestion and a fast rise in blood sugar are benefits at all. The brothers were arguing, long before modern nutrition debates, about a tension still found on cereal boxes today: health versus pleasure, and how much of each a breakfast should contain.
 
-## Questions people ask
+## Frequently Asked Questions
 
 **Were corn flakes really invented by accident?**
 The famous account says yes for the flakes that led to them. A batch of boiled wheat was left standing before rolling, and the grains came out as separate flakes instead of a sheet. The brothers then experimented with other grains, including corn. Sources differ slightly on the exact year each step took.
