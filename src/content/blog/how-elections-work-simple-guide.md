@@ -91,6 +91,10 @@ Yes — and here is why. First, every winning pile was built one vote at a time;
 
 And there is a quieter reason. The secret ballot makes the voting booth the one place where a billionaire and a labourer stand exactly equal: one person, one vote, one private choice. Generations fought for that equality — using it is how an ordinary person holds a real piece of power in their own hand.
 
+## You may also like
+
+- [Palestinian Elections Postponed Until 2027](https://talhablog.com/blog/palestinian-elections-postponed-2027/)
+
 ## Frequently Asked Questions
 
 **What is the difference between a candidate and a party?**

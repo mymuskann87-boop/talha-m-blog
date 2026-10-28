@@ -1,6 +1,6 @@
 ---
 title: "Breaking Bad's RJ Mitte Dies"
-description: "RJ Mitte, who played Walter White Jr. in Breaking Bad, has died at his home in Brownsville, Texas, aged 34. Police say no foul play is suspected, and no official cause of death has been announced."
+description: "RJ Mitte, who played Walter White Jr. in Breaking Bad, has died at his home in Brownsville, Texas, aged 34. Police say no foul play is suspected, and no"
 pubDate: 2026-10-13T09:15:00+05:00
 category: "Celebrity"
 image: "/images/rj-mitte-breaking-bad-actor-dies-at-34.webp"
@@ -57,6 +57,10 @@ Co-star Dean Norris said he was heartbroken, and remembered Mitte as "a sweethea
 
 Thirty-four years is not a long life. But a life is not measured only in years. RJ Mitte will be remembered as Walter White Jr., of course — but also as a young man who took the very thing the world might have used to limit him, and turned it into his message. He showed that disability is not a lack of ability, and he opened a door that others will now walk through. He will be deeply missed.
 
+## You may also like
+
+- [Nana Patekar Dies At 75](https://talhablog.com/blog/nana-patekar-dies-at-75/)
+
 ## Frequently Asked Questions
 
 **Who was RJ Mitte?**
@@ -78,6 +82,8 @@ Yes. He was diagnosed with cerebral palsy at the age of three, the same conditio
 **What did RJ Mitte do besides acting?**
 
 He was a Screen Actors Guild spokesman for performers with disabilities, an ambassador for United Cerebral Palsy and Shriners Children's, and president of the Mitte Foundation. In 2013 he received the SAG-AFTRA Harold Russell Award.
+
+## Sources
 
 Sources: Reuters, USA TODAY, CNN and The Times (October 2026).
 

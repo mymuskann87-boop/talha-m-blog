@@ -1,6 +1,6 @@
 ---
 title: "Shah Rukh Khan Life Story"
-description: "The full life story of Shah Rukh Khan in simple English — his Delhi childhood, family, the loss of his parents, struggle on TV, rise as King Khan, wife Gauri and children, net worth, hard times, the 2023 comeback and life today."
+description: "The full life story of Shah Rukh Khan in simple English — his Delhi childhood, family, the loss of his parents, struggle on TV, rise as King Khan, wife"
 pubDate: 2026-10-18T10:00:00+05:00
 category: "Celebrity"
 image: "/images/shah-rukh-khan-life-story.webp"
@@ -120,6 +120,10 @@ Today Shah Rukh Khan is 60 years old. He will turn 61 on 2 November 2026. He liv
 His next film is *King*, directed by Siddharth Anand. The film co-stars his daughter Suhana Khan in her first theatrical feature film, and it is scheduled for release on 24 December 2026 — a moment many fans are waiting for, because father and daughter will share the big screen as leads for the first time.
 
 A middle-class Delhi boy who lost his father at 15, his mother at 25, and arrived in Mumbai with no connections is now a billionaire superstar honoured by two countries. The Shah Rukh Khan life story is not only about fame. It is about a man who, every time life pushed him down — in his childhood home, in his failing films, and in his family's darkest month — stood up and started again.
+
+## You may also like
+
+- [Salman Khan Koffee Final Season](https://talhablog.com/blog/salman-khan-koffee-with-karan-season-9/)
 
 ## Frequently Asked Questions About Shah Rukh Khan
 

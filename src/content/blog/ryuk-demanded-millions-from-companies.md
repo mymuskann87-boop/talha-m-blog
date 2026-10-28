@@ -56,6 +56,10 @@ You cannot stop a criminal group on another continent from trying. But you can b
 
 To me, the scariest part of Ryuk is not the encryption — it is the weeks of silence before it, while strangers quietly learned somebody's whole workplace.
 
+## You may also like
+
+- [Conficker Infected Millions, Vanished Quietly](https://talhablog.com/blog/conficker-infected-millions-vanished-quietly/)
+
 ## Frequently Asked Questions
 
 **What does the name Ryuk mean?**

@@ -57,9 +57,17 @@ const catLd = JSON.stringify({
     })),
   },
 });
+const breadcrumbLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: new URL('/', Astro.site).toString() },
+    { '@type': 'ListItem', position: 2, name, item: new URL(Astro.url.pathname, Astro.site).toString() },
+  ],
+});
 ---
 
-<Base title={name} description={desc} extraLd={catLd}>
+<Base title={name} description={desc} extraLd={catLd} breadcrumbLd={breadcrumbLd}>
   <nav class="crumbs" aria-label="Breadcrumb">
     <a href="/">Home</a> <span aria-hidden="true">›</span>
     <span class="crumb-here">{name}</span>

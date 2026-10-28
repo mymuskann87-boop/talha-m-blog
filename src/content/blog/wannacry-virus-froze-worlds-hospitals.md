@@ -1,6 +1,6 @@
 ---
 title: "WannaCry Virus Froze World's Hospitals"
-description: "WannaCry ransomware froze more than 200,000 computers in about 150 countries in May 2017, shutting hospital operations and cancelling around 19,000 appointments across England."
+description: "WannaCry ransomware froze more than 200,000 computers in about 150 countries in May 2017, shutting hospital operations and cancelling around 19,000"
 pubDate: 2026-10-23T15:20:00+05:00
 image: "/images/wannacry-virus-froze-worlds-hospitals.webp"
 imageAlt: "An illustration of a dark hospital ward at night where every computer screen is frozen behind one giant glowing red padlock."
@@ -77,6 +77,10 @@ WannaCry itself needed no click, but most ransomware today still arrives through
 ### Never pay the ransom
 
 Security agencies give this advice consistently: do not pay. Payment does not guarantee your files will come back — criminals can take the money and vanish, or hand back a key that only partly works. Paying also marks you as someone who pays, which invites more attacks, and the money funds the next round of crime. If the worst happens, disconnect the machine from the network, and get help from a professional or your local authorities.
+
+## You may also like
+
+- [Virus That Blacked Out Ukraine](https://talhablog.com/blog/virus-that-blacked-out-ukraine/)
 
 ## Frequently Asked Questions
 

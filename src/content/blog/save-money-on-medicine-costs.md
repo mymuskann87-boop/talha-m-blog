@@ -68,6 +68,10 @@ Once a month, sit with the medicine list for ten minutes. What ran out? What is 
 
 The man ahead of me in the queue probably never asked about the generic. Nobody told him to ask. Now you know the question, and that is the whole point. A medicine bill is not a storm you endure. It is a list you manage, one calm question at a time.
 
+## More ways to save
+
+- [Save Money On Gardening Costs](https://talhablog.com/blog/save-money-on-gardening-costs/)
+
 ## Frequently Asked Questions
 
 **Is a generic medicine really as good as the branded one?**

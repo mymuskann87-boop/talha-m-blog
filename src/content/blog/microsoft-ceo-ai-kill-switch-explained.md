@@ -56,6 +56,10 @@ You probably will never press a kill switch yourself. These protections are main
 
 First, it shows what good design looks like. Next time an agent can act for you, a fair question is: how can a human stop it? Second, keep your own limits: give an agent only the access it truly needs. Third, safety is not just about making AI smarter. A system no one can stop, check, or trace is not safe.
 
+## You may also like
+
+- [Microsoft's Maia 300 Chip Explained](https://talhablog.com/blog/microsoft-maia-300-ai-chip-million-deployment/)
+
 ## Frequently Asked Questions
 
 **What is an AI kill switch, in simple words?**

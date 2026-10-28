@@ -151,6 +151,10 @@ Your fridge is the great-grandchild of a frozen Boston pond.
 
 And it all started because one man heard a joke at a dinner table — and refused to laugh.
 
+## You may also like
+
+- [Investors Fear AI Bubble Now](https://talhablog.com/blog/investors-fear-ai-bubble-now/)
+
 ## Frequently Asked Questions
 
 **Who exactly was the Ice King?**

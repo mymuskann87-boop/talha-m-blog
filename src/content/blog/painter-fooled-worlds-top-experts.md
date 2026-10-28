@@ -1,6 +1,6 @@
 ---
 title: "Painter Fooled World's Top Experts"
-description: "Arrested for selling a national treasure to the Nazis, Dutch painter Han van Meegeren saved his life with a shocking claim: the priceless Vermeer paintings were fakes, and he had painted every one of them himself."
+description: "Arrested for selling a national treasure to the Nazis, Dutch painter Han van Meegeren saved his life with a shocking claim: the priceless Vermeer paintings"
 pubDate: 2026-10-22T13:20:00+05:00
 image: "/images/painter-fooled-worlds-top-experts.webp"
 imageAlt: "An illustration of a painter standing proudly in a courtroom beside a classic painting in a golden frame, judges and experts watching."
@@ -85,6 +85,10 @@ He never served it. Within about two months of sentencing, van Meegeren suffered
 The Dutch public, meanwhile, had performed its own strange rewrite of the story. At his trial, van Meegeren presented himself as a patriot who had deliberately swindled the enemy's greediest collector — and many of his countrymen happily remembered him that way: less a criminal, more a folk hero who had made a fool of Göring.
 
 Strip away the legend, though, and the irony stands on its own. The painter could clear himself of the crime that carried a death sentence only by proving, beyond all doubt, that he was guilty of another one. His talent was real — that was the whole problem. The experts who once called his own paintings worthless had hung his secret work in a great museum and praised it as the finest Vermeer ever found. To save his life, he finally made them say his name out loud.
+
+## You may also like
+
+- [Prisoners Who Vanished From Alcatraz](https://talhablog.com/blog/prisoners-who-vanished-from-alcatraz/)
 
 ## Frequently Asked Questions
 

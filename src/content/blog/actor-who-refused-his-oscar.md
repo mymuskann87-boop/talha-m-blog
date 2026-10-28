@@ -102,6 +102,10 @@ An honest telling of this story cannot end without one more fact, because it is 
 
 Readers will judge that dispute for themselves. What no one disputes is what happened on that stage in 1973, the abuse the Academy itself has apologised for, and the conversation that one quiet minute started — a conversation Hollywood is still having today.
 
+## You may also like
+
+- [Why No Nobel For Mathematics](https://talhablog.com/blog/why-no-nobel-for-mathematics/)
+
 ## Frequently Asked Questions
 
 **Who was Sacheen Littlefeather?**

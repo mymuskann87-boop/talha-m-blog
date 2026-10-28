@@ -73,6 +73,10 @@ The eight cases will move through eight different state courts, which means ther
 
 For ordinary users, nothing changes tonight: ChatGPT is still online, still answering, still as friendly as ever. What changed on 14 October is who is now asking the hard questions — not journalists, not rival companies, but the top law officers of eight American states, all saying, in their own courts, that friendly is not the same as safe.
 
+## You may also like
+
+- [OpenAI Engineer Arrested Over Bugging](https://talhablog.com/blog/openai-engineer-arrested-spy-device/)
+
 ## Frequently Asked Questions
 
 **Which states sued OpenAI?**

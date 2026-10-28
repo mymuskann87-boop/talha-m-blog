@@ -1,6 +1,6 @@
 ---
 title: "Sri Lanka Complete Record Chase"
-description: "England scored 429 and still lost. Sri Lanka hunted down 430 in Rawalpindi with one ball left, in the second-highest successful chase ODI cricket has ever seen."
+description: "England scored 429 and still lost. Sri Lanka hunted down 430 in Rawalpindi with one ball left, in the second-highest successful chase ODI cricket has ever"
 pubDate: 2026-10-23T15:10:00+05:00
 image: "/images/sri-lanka-complete-record-chase.webp"
 imageAlt: "An illustration of a Sri Lankan batsman in blue hitting a huge six under floodlights, with a giant scoreboard showing 430 behind him."
@@ -65,6 +65,10 @@ Records in cricket are not broken every week, and this one carries real weight. 
 There is also a lesson in this match for every young cricketer watching. England did almost everything right with the bat and still walked off as losers. That is the strange beauty of limited-overs cricket: the game is never finished until the final run is scored or the final wicket falls. A target of 430 felt like a wall. It turned out to be a door, and Sri Lanka walked straight through it.
 
 Matches like this are why fans stay until the last ball, why crowds refuse to leave early, and why a chase — done properly, with courage and calm heads — can be even more thrilling than the biggest innings ever played.
+
+## You may also like
+
+- [Rabada Breaks Record Against Australia](https://talhablog.com/blog/rabada-breaks-record-against-australia/)
 
 ## Frequently Asked Questions
 

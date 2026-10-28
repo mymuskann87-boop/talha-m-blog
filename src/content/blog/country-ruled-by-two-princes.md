@@ -70,6 +70,10 @@ Governments everywhere rise and collapse. Empires that once surrounded Andorra h
 
 Perhaps that is the real charm of it. The co-princes do not exist to rule Andorra. They exist, in a way, to protect it: two powerful neighbours permanently watching each other across a tiny country, so that neither can ever take it. And so the world's strangest job-share rolls on — one prince in a palace in Paris, one in a cathedral town in Spain, and a small, free country in the mountains between them, getting on with its life.
 
+## You may also like
+
+- [Cat Who Became Town Mayor](https://talhablog.com/blog/cat-who-became-town-mayor/)
+
 ## Frequently Asked Questions
 
 **Who are the two princes of Andorra?**

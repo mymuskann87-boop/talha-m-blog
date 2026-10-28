@@ -1,6 +1,6 @@
 ---
 title: "Investors Fear AI Bubble Now"
-description: "One trading day on Wall Street turned into a slide, as tech shares fell hard and a giant pension fund quietly stepped back from the biggest AI names. Here is what happened, hour by hour, and what it means for ordinary savers."
+description: "One trading day on Wall Street turned into a slide, as tech shares fell hard and a giant pension fund quietly stepped back from the biggest AI names. Here"
 pubDate: 2026-10-23T14:00:00+05:00
 image: "/images/investors-fear-ai-bubble-now.webp"
 imageAlt: "An illustration of a giant soap bubble shaped like a robot head floating over a worried stock exchange floor with red falling charts."
@@ -85,6 +85,10 @@ Eventually, the closing bell rang, the way it always does. The screens froze on 
 Nothing was settled. That is the thing nobody tells you about markets: the bell ends the trading, not the argument. Tomorrow the same question will be asked again — is this a bubble, or is this just a deep breath in a long climb? The giants will report their earnings, the spending figures will come out, and millions of people will judge again.
 
 What this day proved is smaller, and more solid: the question can no longer be ignored, because even the biggest, most careful pools of money in the world are now asking it in the open. On Wall Street, that is how every big story begins — not with an answer, but with a doubt too loud to whisper.
+
+## You may also like
+
+- [Bubble Wrap Was Wallpaper First](https://talhablog.com/blog/bubble-wrap-was-wallpaper-first/)
 
 ## Frequently Asked Questions
 

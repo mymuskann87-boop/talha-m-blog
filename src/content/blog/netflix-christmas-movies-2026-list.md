@@ -45,6 +45,10 @@ Netflix said these four films will arrive weekly between November and December, 
 
 It also makes the season feel longer, in a good way. Instead of one busy weekend of new films, you get a small event each week as December gets closer. The two films we know less about, "Guarding Stars" and "In a Holidaze", will fit into that same weekly pattern between November and December.
 
+## You may also like
+
+- [The Albies 2026 Honorees List](https://talhablog.com/blog/george-clooney-albies-2026-london/)
+
 ## Frequently Asked Questions
 
 **How many Christmas movies is Netflix releasing in its 2026 line-up and when do they arrive?**

@@ -68,6 +68,10 @@ The worm itself belongs to 2007, but its trick is alive today, because the trick
 
 **Watch for a computer behaving oddly.** A machine that runs hot or slow for no reason, sends mail you never wrote, or works hard while nobody is using it deserves a full antivirus scan. A zombie computer gives itself away by working for someone else when it should be resting.
 
+## You may also like
+
+- [Slammer Worm Doubled In Seconds](https://talhablog.com/blog/slammer-worm-doubled-in-seconds/)
+
 ## Frequently Asked Questions
 
 **What is a botnet, in simple words?**

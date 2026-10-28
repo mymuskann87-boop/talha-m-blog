@@ -62,6 +62,10 @@ Elk Cloner is long gone, but its method is not. Things still hitch rides on what
 
 None of this needs to be fear. The lesson of Elk Cloner is friendly, really: sharing is lovely, but a quick scan is the polite way to accept a gift from another computer.
 
+## You may also like
+
+- [First PC Virus From Lahore](https://talhablog.com/blog/first-pc-virus-from-lahore/)
+
 ## Frequently Asked Questions
 
 **Was Elk Cloner really the first computer virus ever?**

@@ -62,6 +62,10 @@ Be suspicious of attachments, even friendly ones. The worms of 2004 travelled be
 
 Finally, remember that strange behaviour is a clue worth acting on. A computer that sends mail by itself, runs hot and slow for no reason, or gets replies to messages you never wrote deserves a full antivirus scan, not a shrug. Catching an infection early keeps your machine out of every army, including the ones fighting each other.
 
+## You may also like
+
+- [Conti Gang Declared War Online](https://talhablog.com/blog/conti-gang-declared-war-online/)
+
 ## Frequently Asked Questions
 
 **What is the difference between Netsky and Bagle?**

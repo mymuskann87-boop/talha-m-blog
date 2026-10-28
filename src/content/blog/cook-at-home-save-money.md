@@ -48,6 +48,10 @@ But honesty matters here. Home cooking needs time, and some weeks are genuinely 
 
 Home food has one more quiet advantage worth naming. Cooking at home lets the cook control the salt, the oil and the portions — not as a health lecture, simply as a fact. Takeaway food is saltier and oilier because it is built to impress in one bite. Home food is built to be eaten every day, and that difference adds up over a year.
 
+## More ways to save
+
+- [Pay Loans Faster Save Interest](https://talhablog.com/blog/pay-loans-faster-save-interest/)
+
 ## Frequently Asked Questions
 
 **I am too tired to cook after work. What helps?**

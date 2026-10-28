@@ -74,6 +74,10 @@ Aramco survived because its oil systems were apart from its office systems. Ordi
 
 Software updates close the doors that malware walks through. And if several machines around you start failing in the same strange way at the same time, disconnect from the network fast — in a wiper attack, every connected minute costs more computers.
 
+## You may also like
+
+- [REvil Hit Thousand Businesses Overnight](https://talhablog.com/blog/revil-hit-thousand-businesses-overnight/)
+
 ## Frequently Asked Questions
 
 **What does "wiper" mean?**

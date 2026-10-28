@@ -71,6 +71,10 @@ Less than a year after the escape, on 21 March 1963, Alcatraz closed as a prison
 
 Today the island belongs to the National Park Service and welcomes more than a million visitors a year, who walk past the three famous cells and stare at the vent holes and the dummy heads. The 1979 film "Escape from Alcatraz" made the story known around the world. But the ending of the real story is still unwritten. Somewhere — on the floor of a cold bay, or in a quiet life lived under another name — the last chapter of Morris and the Anglin brothers exists. After all these years, no one has found it, and no one can honestly say where it is.
 
+## You may also like
+
+- [Hijacker Who Vanished Into Sky](https://talhablog.com/blog/hijacker-who-vanished-into-sky/)
+
 ## Frequently Asked Questions
 
 **Did anyone ever successfully escape from Alcatraz?**

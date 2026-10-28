@@ -1,6 +1,6 @@
 ---
 title: "Nobel Winner Sold His Medal"
-description: "In December 2014, DNA pioneer James Watson auctioned his 1962 Nobel Prize medal for a record $4.1 million — and then the billionaire who bought it did something nobody in the room saw coming."
+description: "In December 2014, DNA pioneer James Watson auctioned his 1962 Nobel Prize medal for a record $4.1 million — and then the billionaire who bought it did"
 pubDate: 2026-10-22T13:00:00+05:00
 image: "/images/nobel-winner-sold-his-medal.webp"
 imageAlt: "An illustration of a golden Nobel Prize medal on an auction table with a raised gavel, bidders watching in a grand hall."
@@ -63,6 +63,10 @@ He kept his word. In June 2015, at a ceremony at the Russian Academy of Sciences
 So the seller kept his medal. He kept the money too, free to send it toward the laboratories and universities he had named. In my view, it is the strangest happy ending in the history of the Nobel Prizes: a prize that was sold at full price, in public, with a world record attached — and then simply came home.
 
 But before you decide it all worked out perfectly, sit with the harder part for a moment. A man held science's greatest honour for fifty-two years, lost his standing in seven, and felt he had to put the medal on the auction block to be heard again. If your life's crowning award sat in a drawer while the world stopped calling, would you sell it too?
+
+## You may also like
+
+- [Nobel Medals Melted Into Liquid](https://talhablog.com/blog/nobel-medals-melted-into-liquid/)
 
 ## Frequently Asked Questions
 

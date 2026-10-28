@@ -65,6 +65,10 @@ So the next time your phone freezes and someone says "it's a bug", spare a thoug
 
 Every bug found since then — and there have been billions — carries a faint echo of that small, taped-down insect.
 
+## You may also like
+
+- [First Computer Programmer Was Woman](https://talhablog.com/blog/first-computer-programmer-was-woman/)
+
 ## Frequently Asked Questions
 
 **Did Grace Hopper invent the word "bug"?**

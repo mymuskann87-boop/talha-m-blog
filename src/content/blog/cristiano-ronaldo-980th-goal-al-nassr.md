@@ -57,6 +57,10 @@ An unused substitute is a player named in the squad who does not come onto the p
 
 One goal does not settle a row with a national team coach. But it does change the mood. Before this match, the talk was about a walkout, a broken word, and a player left on the bench. After it, the talk could also be about a goal, a win, and a team level on points at the top. A player cannot control every headline — he can only give people a new one. On Friday, Ronaldo did that in the 23rd minute.
 
+## You may also like
+
+- [Messi Scores Twice After Farewell](https://talhablog.com/blog/messi-two-goals-inter-miami-dc-united-after-argentina-retirement/)
+
 ## Frequently Asked Questions
 
 **How did Cristiano Ronaldo score his 980th career goal?**

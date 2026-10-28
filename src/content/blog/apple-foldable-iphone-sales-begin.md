@@ -62,6 +62,10 @@ Launch week always brings extra gossip, so let us handle this part carefully. Al
 
 What *is* confirmed is already plenty: the iPhone Duo is real, it is on sale from today, and it is the headline act of Apple's October.
 
+## You may also like
+
+- [Agent Tesla Spies On Keyboards](https://talhablog.com/blog/agent-tesla-spies-on-keyboards/)
+
 ## Frequently Asked Questions
 
 **What is the iPhone Duo?**

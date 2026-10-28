@@ -1,6 +1,6 @@
 ---
 title: "Triton Targeted Plant Safety Systems"
-description: "Triton was the first malware ever built to attack the safety systems of a factory — the very machines whose only job is to stop an explosion before it happens."
+description: "Triton was the first malware ever built to attack the safety systems of a factory — the very machines whose only job is to stop an explosion before it"
 pubDate: 2026-10-23T17:20:00+05:00
 image: "/images/triton-targeted-plant-safety-systems.webp"
 imageAlt: "An illustration of a huge industrial chemical plant at night whose glowing green protective shield is cracking while snakes of red code slither toward the emergency shutdown panel."
@@ -54,6 +54,10 @@ At home, your layers look like this:
 - **Keeping work and personal things apart where you can.** Just as the plant tried to keep its office network away from its factory network, you can keep your main email — the one tied to your bank and password resets — separate from the address you hand out to every website and shop.
 
 No single one of these steps makes you untouchable. Together, they mean an attacker has to beat every layer, one after another, and most attackers simply move on to an easier target.
+
+## You may also like
+
+- [Sobig Flooded World's Email Systems](https://talhablog.com/blog/sobig-flooded-worlds-email-systems/)
 
 ## Frequently Asked Questions
 

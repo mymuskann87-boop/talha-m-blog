@@ -66,6 +66,10 @@ Nobody needs to fear Brain itself today — modern systems do not wake up from f
 
 **Keep backups of the files you love.** Brain deleted nothing, but many of its descendants are far less polite. A copy of your important photos and documents kept somewhere separate means no virus, polite or cruel, can ever truly take them from you.
 
+## You may also like
+
+- [First Virus On Floppy Disks](https://talhablog.com/blog/first-virus-on-floppy-disks/)
+
 ## Frequently Asked Questions
 
 **Who created the Brain virus?**

@@ -44,3 +44,4 @@ When the party is over, take the makeup off gently. Warm water, a soft cloth, an
 
 - [The Mirror Showed Someone Else](https://talhablog.com/blog/the-mirror-showed-someone-else/)
 - [Save Money On Monthly Groceries](https://talhablog.com/blog/save-money-on-monthly-groceries/)
+- [Halloween Nail Art Designs Easy](https://talhablog.com/blog/halloween-nail-art-designs-easy/)

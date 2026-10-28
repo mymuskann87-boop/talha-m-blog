@@ -74,6 +74,10 @@ Early computer owners often had no antivirus at all, which is why a joke could c
 
 Stoned's accidental overwrites taught an early generation of users that data can be damaged by something that was never even aiming at it. A simple backup — copies of your important files on a separate drive or in a trusted cloud account — turns almost any virus story, old or new, from a disaster into an annoyance.
 
+## You may also like
+
+- [Michelangelo Virus That Scared World](https://talhablog.com/blog/michelangelo-virus-that-scared-world/)
+
 ## Frequently Asked Questions
 
 **Who created the Stoned virus?**

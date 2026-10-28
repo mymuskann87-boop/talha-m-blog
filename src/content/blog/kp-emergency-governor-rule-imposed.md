@@ -1,6 +1,6 @@
 ---
 title: "KP Emergency: Governor's Rule Imposed"
-description: "The federal government has imposed an emergency and governor's rule in Khyber Pakhtunkhwa. Here is a simple, step-by-step explanation of what was decided, why, what changes in KP, and what happens next."
+description: "The federal government has imposed an emergency and governor's rule in Khyber Pakhtunkhwa. Here is a simple, step-by-step explanation of what was decided"
 pubDate: 2026-10-11T09:30:00+05:00
 category: "Pakistan News"
 image: "/images/kp-emergency-governor-rule-imposed.webp"
@@ -74,6 +74,10 @@ PTI's long march, which began on October 4 and is demanding the release of Imran
 KP has millions of people, and governor's rule changes who runs their province, schools, hospitals and police. It can also change the political situation of the whole country. If you live in KP, please follow trusted local news and avoid rumours on social media.
 
 This is a developing story, and details may change. We will keep you updated.
+
+## You may also like
+
+- [HSY Designing New PIA Uniforms](https://talhablog.com/blog/hsy-designing-new-pia-uniforms/)
 
 ## Sources
 

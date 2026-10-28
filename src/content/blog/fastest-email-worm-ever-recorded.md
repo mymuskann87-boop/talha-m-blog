@@ -60,6 +60,10 @@ MyDoom's second road was a file-sharing network, and free downloads remain a fav
 
 This sounds strange, but it may be the most useful lesson of all. MyDoom proved that the plainest messages spread the furthest, because nobody fears a boring email. I honestly think the dull little delivery-failure message in your inbox deserves more suspicion than the dramatic warning full of capital letters. The dramatic one is probably ordinary spam. The dull one with an attachment might be a record-breaking worm wearing its most successful disguise.
 
+## You may also like
+
+- [First Worm That Slowed Internet](https://talhablog.com/blog/first-worm-that-slowed-internet/)
+
 ## Frequently Asked Questions
 
 **Is MyDoom still spreading today?**

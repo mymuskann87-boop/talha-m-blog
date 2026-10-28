@@ -1,6 +1,6 @@
 ---
 title: "Love Letter That Crashed Computers"
-description: "On 4 May 2000, one curious little email called ILOVEYOU infected about a tenth of the world's connected computers and caused an estimated $10 billion in damage."
+description: "On 4 May 2000, one curious little email called ILOVEYOU infected about a tenth of the world's connected computers and caused an estimated $10 billion"
 pubDate: 2026-10-23T15:30:00+05:00
 image: "/images/love-letter-that-crashed-computers.webp"
 imageAlt: "An illustration of a giant glowing red envelope with a bright heart bursting open into streams of green computer code above rows of old office computers."
@@ -106,6 +106,10 @@ ILOVEYOU destroyed photos and music by overwriting them. A backup — on an exte
 
 **6. If something feels off, stop and ask.**
 Call the company using a number from its real website. Ask a knowledgeable friend. Search for the exact message wording online, because widespread scams get reported quickly. Worms feed on speed and silence. Questions starve them.
+
+## You may also like
+
+- [Flame Spied On Whole Computers](https://talhablog.com/blog/flame-spied-on-whole-computers/)
 
 ## Frequently Asked Questions
 

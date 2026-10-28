@@ -1,6 +1,6 @@
 ---
 title: "Trump's Wealth, Iran, Imran Khan"
-description: "A simple profile of US President Donald Trump: his birth and age, family, net worth, the Iran war, the criticism against him, and what he has said about Imran Khan."
+description: "A simple profile of US President Donald Trump: his birth and age, family, net worth, the Iran war, the criticism against him, and what he has said"
 pubDate: 2026-10-11T16:30:00+05:00
 category: "US News"
 image: "/images/trump-profile-age-net-worth-iran-war-imran-khan.webp"
@@ -69,6 +69,10 @@ Imran Khan is still in jail. According to a report by Zeteo, supporters who hope
 The next big date is **November 3**, the midterm elections. Trump's party, the Republicans, wants to keep its narrow majority in Congress. How the Iran war goes will probably decide a lot.
 
 This is a developing story, and details may change. We will keep you updated.
+
+## You may also like
+
+- [Oregon School Shooting Kills Four](https://talhablog.com/blog/oregon-school-shooting-kills-four/)
 
 ## Sources
 

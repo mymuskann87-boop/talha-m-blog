@@ -4,6 +4,7 @@ description: "Hurricane Simon and the remnants of Tropical Storm Rachel swept ac
 pubDate: 2026-10-13T21:45:00+05:00
 category: "Disasters"
 image: "/images/hurricane-simon-mexico-pacific-coast.webp"
+imageAlt: "Huge waves crash over a seafront wall as palm trees bend in heavy rain and wind beside coastal houses"
 ---
 The Pacific coast of Mexico has just lived through days of fear. Two powerful weather systems — Hurricane Simon and Tropical Storm Rachel — swept across the region one after another, flooding streets, tearing down trees and electricity poles, blocking roads and filling homes with water. At least five people have lost their lives, families have been rescued by helicopter, and hundreds of thousands of people along the coast are still watching the sky, because the danger is not fully over yet.
 
@@ -42,6 +43,10 @@ Geography makes the risk worse. Much of the coast is backed by steep mountains, 
 The response has been a race against water and mud. Authorities deployed brigades with heavy machinery, backed by the Armed Forces, the National Guard and the Navy, to push fallen trees and debris off highways and reopen roads that landslides had buried. In Baja California, where Rachel's floods hit hardest, helicopters lifted 32 people to safety, and officials set up temporary shelters that were caring for more than 50 people whose homes were under water. Soldiers and rescue workers went street by street through flooded neighbourhoods, checking for anyone trapped and helping families carry what they could save to higher ground.
 
 Ordinary residents, meanwhile, have learned to live in two minds. In Puerto Vallarta, people removed the wooden boards from shop windows and went back to exercising along the seafront promenade under a clear sky — yet many told reporters they would stay on alert, because nobody could say for certain whether Simon would drift away, fall apart, or turn back toward the coast. That uncertainty is the daily reality of hurricane country: blue sky in the morning does not guarantee a safe night, and every family along the shore keeps one eye on the forecast and one bag packed by the door. Schools, ports and airports across the region adjusted their plans day by day, waiting for the official word that this long storm was finally finished.
+
+## You may also like
+
+- [Istanbul Floods Kill Three People](https://talhablog.com/blog/istanbul-floods-kill-three-people/)
 
 ## Frequently Asked Questions
 

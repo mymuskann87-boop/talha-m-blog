@@ -1,6 +1,6 @@
 ---
 title: "Astronaut Grew Taller In Space"
-description: "Scott Kelly spent 340 days in space while his identical twin Mark stayed on Earth. Scott came home measurably taller, and NASA's Twins Study tracked what else changed in his body — and what quietly went back to normal."
+description: "Scott Kelly spent 340 days in space while his identical twin Mark stayed on Earth. Scott came home measurably taller, and NASA's Twins Study tracked what"
 pubDate: 2026-10-22T14:00:00+05:00
 image: "/images/astronaut-grew-taller-in-space.webp"
 imageAlt: "An illustration of two twin brothers standing back to back, one of them an astronaut floating slightly taller in space."
@@ -70,6 +70,10 @@ To me, that 91.3 percent figure is the most comforting number in the whole study
 The point of the experiment reaches far beyond one family's height chart. A round trip to Mars will keep astronauts away from Earth for years, far longer than Scott's 340 days. Before sending people on journeys like that, NASA needs to know which changes space causes, which ones heal, and which ones might need medical protection.
 
 The honest limits matter too. NASA itself points out that a study with a single person in space cannot prove what will happen to every astronaut. Scott is one man, not a statistic. But he is the best-matched comparison science has ever had, and the Twins Study results, published in the journal *Science* in 2019, now guide the health planning for the Moon and Mars missions ahead.
+
+## You may also like
+
+- [Astronauts Stuck In Space Months](https://talhablog.com/blog/astronauts-stuck-in-space-months/)
 
 ## Frequently Asked Questions
 

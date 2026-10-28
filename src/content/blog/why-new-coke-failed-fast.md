@@ -61,6 +61,10 @@ A taste test is a sip. A product is a lifetime. In a blind test, people compared
 
 That is why the story matters far beyond soft drinks. Any business — a giant company or a small shop — can measure the features of what it sells and still miss the reason people truly buy it. Customers do not only purchase a thing. They purchase the place that thing holds in their lives. Coca-Cola learned in 79 days what some companies never learn at all: take away the thing people love, and no spreadsheet in the world can tell you what happens next.
 
+## You may also like
+
+- [Why Prices Always End 99](https://talhablog.com/blog/why-prices-always-end-99/)
+
 ## Frequently Asked Questions
 
 **When was New Coke launched, and how long did it last?**

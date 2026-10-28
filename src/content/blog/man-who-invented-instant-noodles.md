@@ -1,6 +1,6 @@
 ---
 title: "Man Who Invented Instant Noodles"
-description: "In a small shed behind his house in Osaka, 48-year-old Momofuku Ando spent a year of failed experiments chasing a noodle that could wait in a cupboard — until one evening beside his wife's tempura pan changed how the whole world eats."
+description: "In a small shed behind his house in Osaka, 48-year-old Momofuku Ando spent a year of failed experiments chasing a noodle that could wait in a cupboard"
 pubDate: 2026-10-22T13:10:00+05:00
 image: "/images/man-who-invented-instant-noodles.webp"
 imageAlt: "An illustration of Momofuku Ando in a small wooden shed workshop, holding a steaming cup of instant noodles with chopsticks."
@@ -47,6 +47,10 @@ Most inventors, having fed millions, might rest. Ando, at 95, asked his company 
 ## Then and now
 
 Hold the two ends of this story side by side. In 1958 there was one shed, one wok, one 35-yen pack of noodles that most shoppers thought too expensive to try. Today, the World Instant Noodles Association counts more than 124 billion servings of instant noodles eaten across the world in 2025, up from around 123 billion the year before, with China and Hong Kong alone accounting for more than 43 billion. Cup Noodles by itself passed 50 billion cups sold worldwide by 2021 and is now made in some 80 countries and territories, each with flavours of its own. Ando died in 2007, at the age of 96, having lived long enough to see his noodles eaten in space. The two Cup Noodles museums in Japan — one of them in Ikeda, where his shed once stood — now invite children to come and invent something of their own. I think that is the part of his story that stays with me most: the laboratory was never grand, and the tools were a wok and a borrowed idea from a family dinner. What made it powerful was simply that he refused to stop showing up to the shed.
+
+## You may also like
+
+- [Kodak Invented Future, Missed It](https://talhablog.com/blog/kodak-invented-future-missed-it/)
 
 ## Frequently Asked Questions
 

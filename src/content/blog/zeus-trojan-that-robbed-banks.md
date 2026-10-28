@@ -69,6 +69,10 @@ No single habit makes you untouchable, but a handful of simple habits close near
 - **Keep your computer and browser updated.** Many infections slip in through old holes that the makers have already patched. An update you keep postponing is an open window you keep forgetting to close. Turn on automatic updates and let them do their boring, lifesaving work.
 - **Be suspicious of new boxes on familiar pages.** This is the Zeus trick itself. If your bank's page suddenly asks for things it never asked for before — your full card number, your PIN, codes it normally never requests — stop. Close the page. Call the bank on the number printed on your card and ask. A thirty-second phone call is cheaper than an emptied account.
 
+## You may also like
+
+- [Agent Tesla Spies On Keyboards](https://talhablog.com/blog/agent-tesla-spies-on-keyboards/)
+
 ## Frequently Asked Questions
 
 **What is the Zeus trojan in simple words?**

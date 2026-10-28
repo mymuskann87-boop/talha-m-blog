@@ -48,3 +48,4 @@ Set out the bowl, dim the lights a little, and let the fog do the talking. A par
 
 - [Whispers From The Empty House](https://talhablog.com/blog/whispers-from-the-empty-house/)
 - [Save Money While Eating Out](https://talhablog.com/blog/save-money-while-eating-out/)
+- [Scary Halloween Stories For Night](https://talhablog.com/blog/scary-halloween-stories-for-night/)

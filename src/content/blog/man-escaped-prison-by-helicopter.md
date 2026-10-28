@@ -78,6 +78,10 @@ France tried moving Payet constantly, watching him closely and keeping him in so
 
 Payet remained in custody from September 2007 until April 2019, when he was released on parole — an ordinary ending, on the ground, for a man who three times tried to leave prison through the sky.
 
+## You may also like
+
+- [Man Robbed Bank With Lemon](https://talhablog.com/blog/man-robbed-bank-with-lemon/)
+
 ## Frequently Asked Questions
 
 **How many times did Pascal Payet escape by helicopter?**

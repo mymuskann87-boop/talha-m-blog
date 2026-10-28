@@ -1,6 +1,6 @@
 ---
 title: "King Who Renamed His Country"
-description: "At his own 50th birthday party in April 2018, King Mswati III stood up in a packed stadium and gave his whole country a new name: eSwatini. Why he did it, how the world reacted, the argument it started at home, and what actually changed for ordinary people."
+description: "At his own 50th birthday party in April 2018, King Mswati III stood up in a packed stadium and gave his whole country a new name: eSwatini. Why he did it"
 pubDate: 2026-10-22T13:50:00+05:00
 image: "/images/king-who-renamed-his-country.webp"
 imageAlt: "An illustration of a king in traditional dress addressing a huge cheering crowd waving national flags at a celebration."
@@ -59,6 +59,10 @@ Money stayed familiar. The currency kept its name, the lilangeni, and it remains
 Other changes were slow, physical and faintly comic. Police stations replaced their signs one at a time. At the university, workmen removed the nine letters spelling "Swaziland" from the big entrance sign, and months later the gap was still empty, waiting for new letters to arrive. Officials kept tripping over their own tongues, starting sentences with the old name and correcting themselves halfway through. Souvenir sellers had to decide what to carve next: some buyers still wanted Swaziland on their fridge magnets, and some wanted eSwatini. AFP reported that the whole exercise was estimated to cost the government up to $6 million, a figure critics quoted often in a country where many people are poor.
 
 My own feeling is that the blank space on that university sign tells the truth about every name change in history: a king can rename a country in one afternoon, but a country renames itself slowly, in banknotes and signboards and habits, over years. The word on the map changed in a day. The word in people's mouths is taking longer, and perhaps that is exactly as it should be.
+
+## You may also like
+
+- [Country With Seven Presidents Explained](https://talhablog.com/blog/country-with-seven-presidents-explained/)
 
 ## Frequently Asked Questions
 

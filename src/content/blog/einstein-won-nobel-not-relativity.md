@@ -65,6 +65,10 @@ Relativity was famous, celebrated and almost certainly correct — but the commi
 
 Einstein, for his part, got everything in the end: the prize, the money question settled as he had promised, and a lecture hall in Gothenburg where he calmly explained relativity to the world. History gave relativity its crown anyway. Stockholm just needed a little more time — and a little more proof — than the newspapers did.
 
+## You may also like
+
+- [Family That Won Five Nobels](https://talhablog.com/blog/family-that-won-five-nobels/)
+
 ## Frequently Asked Questions
 
 **Did Einstein win the Nobel Prize for the theory of relativity?**

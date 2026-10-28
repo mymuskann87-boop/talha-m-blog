@@ -59,6 +59,10 @@ So the Swiss chose the opposite design: a small team, drawn from the main groups
 
 It is a useful reminder that there is more than one way to run a country. Some nations put one person on the highest chair and hope they choose well. Switzerland put seven chairs in a row — and made sure no one of them is higher than the rest.
 
+## You may also like
+
+- [Country With No Capital City](https://talhablog.com/blog/country-with-no-capital-city/)
+
 ## Frequently Asked Questions
 
 **Does Switzerland really have seven presidents?**

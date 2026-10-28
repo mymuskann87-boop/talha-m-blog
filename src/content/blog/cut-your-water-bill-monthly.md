@@ -54,6 +54,10 @@ One limit stands above every tip in this post. Hygiene and health come first. Ne
 
 Saving water means cutting waste, not cutting care. The drips, the half loads, the running taps — those are waste, and they can go. The water that keeps a family clean and healthy is not waste, and no bill is worth trading it away. A lower bill built on a healthy house is the only kind worth having.
 
+## More ways to save
+
+- [Cut Monthly Gas Bill Down](https://talhablog.com/blog/cut-monthly-gas-bill-down/)
+
 ## Frequently Asked Questions
 
 **How much water does a dripping tap waste?**

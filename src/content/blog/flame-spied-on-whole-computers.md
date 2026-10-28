@@ -58,6 +58,10 @@ You cannot stop a state spy team with a home antivirus alone, and it would be di
 
 **Give apps only the permissions they truly need.** If a torch app wants your microphone and contacts, something is wrong. Check the permissions on your phone a few times a year and take away anything that makes no sense — that one habit shuts the same windows Flame loved to climb through.
 
+## You may also like
+
+- [Love Letter That Crashed Computers](https://talhablog.com/blog/love-letter-that-crashed-computers/)
+
 ## Frequently Asked Questions
 
 **Is Flame still a danger today?**

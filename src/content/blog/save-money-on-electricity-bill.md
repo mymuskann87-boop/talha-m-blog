@@ -60,6 +60,10 @@ Start with the habits, because they cost nothing. Then, if the numbers still ref
 
 My evening walk now takes three minutes, and I do it most nights without thinking. Sockets clicked off, fans stilled in empty rooms, the iron's pile waiting for one hot session, the meter read on the first of the month. The bill did not fall by magic. It fell the way a pile falls when you stop adding to it, one small habit at a time.
 
+## More ways to save
+
+- [Save Money On School Transport](https://talhablog.com/blog/save-money-on-school-transport/)
+
 ## Frequently Asked Questions
 
 **Does switching off at the socket really save anything?**

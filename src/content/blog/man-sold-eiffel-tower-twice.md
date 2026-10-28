@@ -91,6 +91,10 @@ Lustig's Paris is a hundred years behind us, but his toolkit sits in a million p
 
 The Eiffel Tower still stands over Paris, unsold and unsellable. The real monument of this story is a warning: whenever a stranger offers you a secret fortune, remember Andre Poisson, standing in a grand hotel, feeling clever — at the exact moment he was being robbed.
 
+## You may also like
+
+- [Man Stole Mona Lisa Painting](https://talhablog.com/blog/man-stole-mona-lisa-painting/)
+
 ## Frequently Asked Questions
 
 **Did Victor Lustig really sell the Eiffel Tower twice?**

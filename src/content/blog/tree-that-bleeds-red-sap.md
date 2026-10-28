@@ -80,6 +80,10 @@ One of these trees may have been a young sapling when traders of the Roman world
 
 You came to see a tree that bleeds. You leave thinking about a tree that waits.
 
+## You may also like
+
+- [Tree Older Than Egyptian Pyramids](https://talhablog.com/blog/tree-older-than-egyptian-pyramids/)
+
 ## Frequently Asked Questions
 
 **Does the dragon blood tree really bleed blood?**

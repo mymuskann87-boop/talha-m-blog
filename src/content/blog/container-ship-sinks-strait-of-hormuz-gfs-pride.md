@@ -1,6 +1,6 @@
 ---
 title: "Container Ship Sinks Hormuz Strait"
-description: "A Singapore-registered container ship, GFS Pride, has sunk in the Strait of Hormuz after being hit by an unknown projectile and catching fire. A second ship, GFS Giselle, was also hit. All 43 crew members are safe."
+description: "A Singapore-registered container ship, GFS Pride, has sunk in the Strait of Hormuz after being hit by an unknown projectile and catching fire. A second"
 pubDate: 2026-10-15T06:10:00+05:00
 category: "Conflict"
 image: "/images/container-ship-sinks-strait-of-hormuz-gfs-pride.webp"
@@ -50,6 +50,11 @@ That is why every attack there is world news. When ships are hit, insurance cost
 The MPA said it was **deeply concerned** about the continued attacks on commercial shipping in the strait, calling such attacks a breach of international law and saying that actions affecting international shipping must not endanger the safety of seafarers and ships at sea.
 
 For the sailors themselves, the human side of this story is simple. Forty-three sailors went to work on two ordinary cargo ships. One ship burned and sank beneath them. The other limped to safety with a damaged hull. All of them are alive — and that, in a week when at least ten vessels have been attacked in these waters, is the one piece of luck in this story.
+
+## You may also like
+
+- [Drones Hit Tankers Near Romania](https://talhablog.com/blog/drones-hit-tankers-near-romania/)
+- [Zelenskyy Accuses Musk Over Starlink](https://talhablog.com/blog/zelenskyy-accuses-musk-over-starlink/)
 
 ## Frequently Asked Questions
 

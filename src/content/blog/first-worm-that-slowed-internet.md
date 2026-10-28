@@ -68,6 +68,10 @@ None of the protection steps are fancy, and every one of them answers a trick fr
 
 The deepest lesson of 1988 has not changed at all: weak passwords were the biggest hole in the internet then, and they still are now.
 
+## You may also like
+
+- [Good Worm That Fixed Computers](https://talhablog.com/blog/good-worm-that-fixed-computers/)
+
 ## Frequently Asked Questions
 
 **Was the Morris worm meant to be an attack?**

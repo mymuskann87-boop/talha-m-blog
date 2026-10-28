@@ -60,6 +60,10 @@ Download programs only from their official sites or trusted app stores, and slow
 
 NotPetya walked through networks using stolen passwords. Use a different strong password for each important account, and turn on two-step verification where you can, the setting that asks for a code from your phone as well as your password. Then one stolen password cannot open every door in your life.
 
+## You may also like
+
+- [GandCrab Makers Claimed Two Billion](https://talhablog.com/blog/gandcrab-makers-claimed-two-billion/)
+
 ## Frequently Asked Questions
 
 **Was NotPetya really ransomware?**

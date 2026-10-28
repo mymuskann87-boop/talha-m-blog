@@ -1,6 +1,6 @@
 ---
 title: "First Email Ever Sent Anywhere"
-description: "In late 1971, engineer Ray Tomlinson sent the first message ever to travel from one computer to another, and chose the @ symbol that still sits in every email address. The strangest part? He could never remember what that first message said."
+description: "In late 1971, engineer Ray Tomlinson sent the first message ever to travel from one computer to another, and chose the @ symbol that still sits in every"
 pubDate: 2026-10-23T10:50:00+05:00
 image: "/images/first-email-ever-sent-anywhere.webp"
 imageAlt: "An illustration of two old computers in side-by-side 1971 offices connected by a cable, with the first email travelling between them."
@@ -53,6 +53,10 @@ The years after 1971 added the furniture of the inbox you know today. In 1973 To
 The scale of that habit is hard to hold in your head. Analysts at the Radicati Group estimate that in 2026 roughly 392 billion emails are sent and received around the world every single day, by about 4.7 billion users. That is an estimate, not a count, but even the roughest version of the number is staggering: millions of messages every second, carrying job offers and wedding invitations, receipts and apologies, reset codes and love letters, spam and scams and birthday wishes.
 
 Personally, I find something perfect in the fact that the first message is missing. Email was never meant to be a monument. It was a tool built for ordinary words, typed quickly and read later, and its inventor treated that very first line the way we treat most of our own messages: he sent it, it worked, and he moved on. The monument happened anyway. It is sitting in your pocket right now, and somewhere in its endless river of messages, your own inbox is the direct descendant of a forgotten line of test characters, typed between two machines in one quiet Cambridge room.
+
+## You may also like
+
+- [Happy99 Sent Fireworks By Email](https://talhablog.com/blog/happy99-sent-fireworks-by-email/)
 
 ## Frequently Asked Questions
 

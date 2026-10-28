@@ -60,6 +60,10 @@ The good news is that this entire chain breaks at several points, and breaking a
 
 **Warn your circle fast if your phone sends strange texts.** If friends say they received an odd parcel message from your number, believe them, tell every contact not to tap it, and have the phone cleaned or reset. Speed matters — an infected phone keeps knocking on the doors of people who trust your name.
 
+## You may also like
+
+- [Nimda Spread Five Ways Fast](https://talhablog.com/blog/nimda-spread-five-ways-fast/)
+
 ## Frequently Asked Questions
 
 **Can FluBot infect an iPhone too?**

@@ -1,6 +1,6 @@
 ---
 title: "Youngest Nobel Winner In History"
-description: "Malala Yousafzai was seventeen when she received the Nobel Peace Prize in 2014, the youngest winner the prize has ever had. Her story begins on ordinary school mornings in Pakistan's Swat Valley, where a girl who loved her books refused to accept that girls should stop learning."
+description: "Malala Yousafzai was seventeen when she received the Nobel Peace Prize in 2014, the youngest winner the prize has ever had. Her story begins on ordinary"
 pubDate: 2026-10-23T09:20:00+05:00
 image: "/images/youngest-nobel-prize-winner-ever.webp"
 imageAlt: "An illustration of a young schoolgirl in uniform carrying her books on a bright morning in the Swat Valley, walking proudly toward her school."
@@ -61,6 +61,10 @@ Malala did not treat the medal as a finish line. With her father, she co-founded
 She also kept faith with her own education. She finished school in England and graduated from the University of Oxford in 2020. Today the Malala Fund backs education projects in six countries, and Malala remains one of the world's most persistent voices for the millions of girls who are still out of school. Running through all of her work is one steady message: a child's right to education is a foundation for peace, and teaching children is one of the surest ways to defeat extremism before it takes hold.
 
 Some doors are closed with locks and threats. Others are opened by a girl carrying books, walking through them anyway, and holding them open behind her for everyone else. That, more than the medal, is what the world celebrated in Oslo.
+
+## You may also like
+
+- [Navi Pillay Wins Nobel Prize](https://talhablog.com/blog/navi-pillay-nobel-peace-prize-2026/)
 
 ## Frequently Asked Questions
 

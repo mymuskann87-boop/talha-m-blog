@@ -68,6 +68,10 @@ You may never work at a power station, but the tricks that opened the door in Uk
 
 **Keep your programs updated.** Infected documents and stolen passwords do most of their damage on systems that have been left unpatched and unprotected. Installing updates for your operating system and office programs closes holes that attackers rely on, and it costs nothing but a few minutes.
 
+## You may also like
+
+- [Tennis Photo Virus Tricked Millions](https://talhablog.com/blog/tennis-photo-virus-tricked-millions/)
+
 ## Frequently Asked Questions
 
 **Did the BlackEnergy virus attack really switch off Ukraine's power?**

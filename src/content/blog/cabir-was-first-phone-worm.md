@@ -1,6 +1,6 @@
 ---
 title: "Cabir Was First Phone Worm"
-description: "In 2004 a tiny worm named Cabir learned to hop between mobile phones by Bluetooth, proving for the first time that the phone in your pocket could catch a virus."
+description: "In 2004 a tiny worm named Cabir learned to hop between mobile phones by Bluetooth, proving for the first time that the phone in your pocket could catch"
 pubDate: 2026-10-23T23:10:00+05:00
 image: "/images/cabir-was-first-phone-worm.webp"
 imageAlt: "An illustration of a tiny glowing worm travelling through bright blue wireless waves between two chunky 2004 mobile phones with small antennas."
@@ -51,6 +51,10 @@ Cabir itself is long retired, but the road it opened is busier than ever, and th
 **Keep your phone's software updated.** Updates quietly close the little doors that malware walks through. A phone that updates itself is a phone whose locks keep changing for the better.
 
 **Slow down for the tap.** Every protection above ends at the same place: one human decision. Fake parcel texts, smiling poisoned apps, mystery files — all of them are still waiting for exactly the tap Cabir waited for. Refuse the tap, and the worm starves.
+
+## You may also like
+
+- [CryptoLocker Locked Files For Money](https://talhablog.com/blog/cryptolocker-locked-files-for-money/)
 
 ## Frequently Asked Questions
 

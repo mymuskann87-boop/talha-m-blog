@@ -70,6 +70,10 @@ A family that follows this week will still pay a winter heating bill. It will si
 
 The blanket is back in the cupboard now, folded, waiting. The heater clicks on in the evening, the curtains close at sunset, and the room holds its warmth the way a room should — quietly, without drama, without waste. Winter will come again next year. The house will be ready a little earlier, and the bill a little smaller.
 
+## More ways to save
+
+- [Save Money On Winter Clothes](https://talhablog.com/blog/save-money-on-winter-clothes/)
+
 ## Frequently Asked Questions
 
 **What is the cheapest way to reduce winter heating costs?**

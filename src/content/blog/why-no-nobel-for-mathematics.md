@@ -71,6 +71,10 @@ The first Abel Prize, in 2003, went to Jean-Pierre Serre — the same man who ha
 
 So mathematics never got its Nobel. Instead, it got something arguably better suited to its nature: a medal that celebrates youth and promise every four years, and a great annual prize that celebrates a lifetime. Nobel's silence left a hole in the world's most famous prize list — and mathematicians filled it themselves.
 
+## You may also like
+
+- [Youngest Nobel Winner In History](https://talhablog.com/blog/youngest-nobel-prize-winner-ever/)
+
 ## Frequently Asked Questions
 
 **Is the love-rival story about Nobel and Mittag-Leffler true?**

@@ -50,6 +50,10 @@ The good news buried inside this strange story is that Conficker's three roads c
 
 **Back up your important files.** This worm did not destroy files, but many of its cousins do. A copy of your photos and documents on a separate drive or in cloud storage means no worm can ever truly take them from you.
 
+## You may also like
+
+- [First Webcam Watched Coffee Pot](https://talhablog.com/blog/first-webcam-watched-coffee-pot/)
+
 ## Frequently Asked Questions
 
 **Is Conficker still around today?**

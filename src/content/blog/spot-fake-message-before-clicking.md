@@ -87,6 +87,10 @@ Finally, report the message — it genuinely helps others. In the United States,
 
 The scammer's whole business runs on sixty hurried seconds. Give yourself sixty careful ones instead, and the trap is empty.
 
+## You may also like
+
+- [Fake Pilot Flew Without Licence](https://talhablog.com/blog/fake-pilot-flew-without-licence/)
+
 ## Frequently Asked Questions
 
 ### How can I tell if a message is fake?

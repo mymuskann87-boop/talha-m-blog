@@ -1,6 +1,6 @@
 ---
 title: "Oregon School Shooting Kills Four"
-description: "A 16-year-old gunman opened fire at Silver Rail Elementary School in Bend, Oregon, killing three children and a teacher before a community member stopped him."
+description: "A 16-year-old gunman opened fire at Silver Rail Elementary School in Bend, Oregon, killing three children and a teacher before a community member stopped"
 pubDate: 2026-10-16T14:45:00+05:00
 category: "US News"
 image: "/images/oregon-school-shooting-kills-four.webp"
@@ -48,6 +48,10 @@ Steven Cook, the superintendent of the Bend-La Pine school district, said simply
 According to CNN's count, this was the 36th shooting on the grounds of a primary or secondary school in the United States this year alone.
 
 Each time it happens, the same national argument begins again about guns and school safety. But in Bend this week, that argument feels very far away. What the town is left with is four funerals to plan — three of them for children who were 5, 8 and 11 years old.
+
+## You may also like
+
+- [Trump Announces Russia-Ukraine Energy Ceasefire](https://talhablog.com/blog/trump-russia-ukraine-energy-ceasefire/)
 
 ## Frequently Asked Questions
 

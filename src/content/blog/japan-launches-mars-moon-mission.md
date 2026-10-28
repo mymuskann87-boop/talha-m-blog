@@ -1,6 +1,6 @@
 ---
 title: "Japan Launches Mars Moon Mission"
-description: "A spacecraft is on its way to grab a piece of a Mars moon and bring it home. Ride along with the MMX mission, entry by entry, from a midnight launch in Japan to the red planet."
+description: "A spacecraft is on its way to grab a piece of a Mars moon and bring it home. Ride along with the MMX mission, entry by entry, from a midnight launch"
 pubDate: 2026-10-23T14:30:00+05:00
 image: "/images/japan-launches-mars-moon-mission.webp"
 imageAlt: "An illustration of a white rocket launching from a seaside spaceport toward red Mars and its small moon Phobos in the sky."
@@ -75,6 +75,10 @@ Ahead of it waits August 2027, and a rendezvous with Mars. Ahead of that wait th
 No part of the road ahead is easy. But that is what makes this mission worth following. For the first time, a spacecraft has been sent on this exact errand: visit the moons of Mars, learn where they came from, and bring a piece of one back to Earth.
 
 The countdown is over. The travel has begun. And somewhere out there, between our blue world and the red one, a small machine is flying through the night, carrying the hopes of two space agencies and the curiosity of everyone who has ever looked up at Mars and wondered about the two strange little moons beside it.
+
+## You may also like
+
+- [Footprints On Moon Last Forever](https://talhablog.com/blog/footprints-on-moon-last-forever/)
 
 ## Frequently Asked Questions
 

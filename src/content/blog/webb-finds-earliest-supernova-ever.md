@@ -1,6 +1,6 @@
 ---
 title: "Webb Finds Earliest Supernova Ever"
-description: "A star died when the universe was just 730 million years old, and its light travelled for nearly the whole age of creation before a golden telescope finally caught it. Follow the detectives who solved the oldest cold case in the sky."
+description: "A star died when the universe was just 730 million years old, and its light travelled for nearly the whole age of creation before a golden telescope finally"
 pubDate: 2026-10-23T14:20:00+05:00
 image: "/images/webb-finds-earliest-supernova-ever.webp"
 imageAlt: "An illustration of the golden James Webb Space Telescope watching an ancient star explode in deep space among young galaxies."
@@ -59,6 +59,10 @@ It is fair to ask why a single distant flash deserves this much attention. The a
 This detection also proves the method works. A small monitoring telescope catches the alarm, flags the events that look unusually far away, and the great observatory follows up to read the faint evidence. That is how more of these ancient deaths will be found, each one another witness statement from the universe's first billion years.
 
 The light from GRB 250314A has finished its journey now. The star is long gone. The story it carried is not.
+
+## You may also like
+
+- [What Is A Black Hole](https://talhablog.com/blog/what-is-a-black-hole/)
 
 ## Frequently Asked Questions
 

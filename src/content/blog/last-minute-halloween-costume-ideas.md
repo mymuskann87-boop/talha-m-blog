@@ -56,3 +56,4 @@ The best part of a last-minute costume is the story behind it. When someone asks
 
 - [Voices Beneath The Old Floor](https://talhablog.com/blog/voices-beneath-the-old-floor/)
 - [Buy Clothes Smart Spend Less](https://talhablog.com/blog/buy-clothes-smart-spend-less/)
+- [Halloween Pumpkin Carving Ideas Easy](https://talhablog.com/blog/halloween-pumpkin-carving-ideas-easy/)

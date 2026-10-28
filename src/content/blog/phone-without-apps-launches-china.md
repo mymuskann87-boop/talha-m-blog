@@ -1,6 +1,6 @@
 ---
 title: "Phone Without Apps Launches China"
-description: "A new phone from StepFun has no grid of app icons, yet it is built to get things done. Meet the STEPX Neo, the handset that places an AI agent called Amoo at the centre of everything."
+description: "A new phone from StepFun has no grid of app icons, yet it is built to get things done. Meet the STEPX Neo, the handset that places an AI agent called Amoo"
 pubDate: 2026-10-23T13:30:00+05:00
 image: "/images/phone-without-apps-launches-china.webp"
 imageAlt: "An illustration of a smartphone with a completely empty home screen and one glowing AI orb, held high against the Shanghai skyline at night."
@@ -93,6 +93,10 @@ StepFun’s answer is Amoo. If the agent truly sits at the foundation, then the 
 The partner list supports the idea, and Step AOS 1.0 gives it a software home. Yet the concept remains a challenge to habit. Most people do not buy a phone hoping to relearn the first step of using it. The STEPX Neo asks them to see that missing first step as progress.
 
 That tension makes the launch interesting. The phone’s screen may look empty, but the argument behind it is full: smartphones were built for apps, while StepFun believes they should now be built for agents.
+
+## You may also like
+
+- [Joker Hid Inside Play Apps](https://talhablog.com/blog/joker-hid-inside-play-apps/)
 
 ## Frequently Asked Questions
 

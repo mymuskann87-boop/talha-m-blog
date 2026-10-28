@@ -155,6 +155,10 @@ Only inside the imagination. The real Venus would destroy any visitor long befor
 
 But imagination costs nothing, so picture it one last time: a world turning slower than it travels, the Sun rising in the west, about two mornings in a year, and a single day that refuses to end before the year does. Earth's twin in size — and like nothing else we know when it comes to time.
 
+## You may also like
+
+- [Planet Where It Rains Diamonds](https://talhablog.com/blog/planet-where-it-rains-diamonds/)
+
 ## Frequently Asked Questions
 
 **Does one day on Venus really last longer than one year there?**

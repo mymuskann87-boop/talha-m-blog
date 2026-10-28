@@ -1,6 +1,6 @@
 ---
 title: "Drone Attack Hits Saudi Airport"
-description: "An ordinary evening at Dammam's King Fahd International Airport turned into a night of alarm, diverted flights and sad news. A clear, calm timeline of what the reports say happened, and why the whole region is watching closely."
+description: "An ordinary evening at Dammam's King Fahd International Airport turned into a night of alarm, diverted flights and sad news. A clear, calm timeline of what"
 pubDate: 2026-10-23T14:50:00+05:00
 image: "/images/drone-attack-hits-saudi-airport.webp"
 imageAlt: "An illustration of a dark drone silhouette in a red dusk sky over an airport runway with flashing red warning lights."
@@ -59,6 +59,10 @@ That single line changes the picture. It suggests the weapons involved are not c
 Step back from the timeline and the pattern is clear. In a short span of time, according to the reports: an international airport was attacked and one person was killed there, eight were injured and flights were diverted; two more people were killed by drone debris at an oil field; oil prices jumped to their highest since May; the United Kingdom prepared to send fighter jets; and reports pointed to advanced missiles built with foreign parts.
 
 Each of those facts is a thread, and together they form a tense picture. The region is holding its breath, not because of one night, but because nobody knows whether the next night will be calm or bring another alarm. For travellers, that means watching the news before flying. For workers in the oil fields, it means going to work under a heavier sky. For families across the region, it means hoping that ordinary evenings stay ordinary.
+
+## You may also like
+
+- [Container Ship Sinks Hormuz Strait](https://talhablog.com/blog/container-ship-sinks-strait-of-hormuz-gfs-pride/)
 
 ## Frequently Asked Questions
 

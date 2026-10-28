@@ -70,6 +70,10 @@ Now the honest part. Pegasus is built for important targets: politicians, offici
 
 I will be honest: the thought that a phone can be turned against its owner without a single tap is the part of this story that stays with me. These devices hold our whole lives, so keeping them updated and healthy is not a small chore — it is basic self-defence.
 
+## You may also like
+
+- [Triton Targeted Plant Safety Systems](https://talhablog.com/blog/triton-targeted-plant-safety-systems/)
+
 ## Frequently Asked Questions
 
 **Who makes Pegasus spyware?**

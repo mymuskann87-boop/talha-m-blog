@@ -1,6 +1,6 @@
 ---
 title: "Mirai Broke Internet Using Cameras"
-description: "In 2016, the Mirai botnet turned hundreds of thousands of ordinary home cameras and gadgets into an army that knocked giant websites offline for much of a day."
+description: "In 2016, the Mirai botnet turned hundreds of thousands of ordinary home cameras and gadgets into an army that knocked giant websites offline for much"
 pubDate: 2026-10-23T16:10:00+05:00
 image: "/images/mirai-broke-internet-using-cameras.webp"
 imageAlt: "An illustration of a vast army of small home cameras and smart devices with glowing red eyes marching over a dark city while internet cables snap above them."
@@ -73,6 +73,10 @@ The good news hidden inside this story is that Mirai's trick is easy to defeat, 
 **Buy with a little care.** When choosing cheap smart gadgets, prefer makers who let you change the password easily and who provide updates. If a device forces you to keep a fixed factory password forever, it is asking to be recruited.
 
 None of these steps costs money. All of them together take less than an hour, once, for the whole house.
+
+## You may also like
+
+- [Stuxnet Worm That Broke Machines](https://talhablog.com/blog/stuxnet-worm-that-broke-machines/)
 
 ## Frequently Asked Questions
 

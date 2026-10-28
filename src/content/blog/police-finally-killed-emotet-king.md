@@ -78,6 +78,10 @@ Emotet and the malware it delivered often climbed in through old, unpatched soft
 
 Because Emotet began as a banking thief, stolen passwords were its first treasure. Unique passwords for important accounts — especially email and banking — limit the damage if one ever leaks. A reputable, updated antivirus adds another layer, catching known infected documents before they open.
 
+## You may also like
+
+- [Police Seized LockBit Gang's Website](https://talhablog.com/blog/police-seized-lockbit-gangs-website/)
+
 ## Frequently Asked Questions
 
 **What is Emotet in simple words?**

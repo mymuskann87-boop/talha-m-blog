@@ -76,6 +76,10 @@ So the pattern should feel familiar by now: a message carrying a trusted name, a
 
 **If people accuse you of sending a virus, stay calm.** Your address may simply have been borrowed, the way Klez borrowed thousands of addresses. Run a full antivirus scan of your own machine to be sure it is clean, and then explain, plainly, that email sender names can be forged. Being the name on a bad email is not the same as being its sender.
 
+## You may also like
+
+- [Melissa Virus That Clogged Emails](https://talhablog.com/blog/melissa-virus-that-clogged-emails/)
+
 ## Frequently Asked Questions
 
 **What is Klez in simple words?**

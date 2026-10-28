@@ -1,6 +1,6 @@
 ---
 title: "Riyadh Airport Attack Kills 13"
-description: "Riyadh's airport was attacked again on Sunday, a day after the deadliest Houthi strike on Saudi soil in over a decade killed 13. A Pakistani national died in the latest attack. A simple explainer."
+description: "Riyadh's airport was attacked again on Sunday, a day after the deadliest Houthi strike on Saudi soil in over a decade killed 13. A Pakistani national died"
 pubDate: 2026-10-12T08:45:00+05:00
 category: "Conflict"
 image: "/images/riyadh-airport-attack-deadliest-strike-pakistani-killed.webp"
@@ -56,6 +56,10 @@ India's foreign ministry strongly condemned the strikes. The Houthis' own claim 
 Some things are not yet known. The full extent of the damage to Terminal 4 has not been published in detail, and as of the latest reports the airport remained closed while assessments continued. Official updates on the wounded, the damage, and when normal operations can safely resume are still to come.
 
 What is clear is the human cost of one weekend: at least 12 people killed on Saturday, with the toll later reported as 13, and more than 300 wounded — then, on Sunday, one more person killed, a Pakistani national, and 11 injured. These were travellers, workers and pilgrims at an airport. They deserve to be remembered as people, not just numbers.
+
+## You may also like
+
+- [Drone Attack Hits Saudi Airport](https://talhablog.com/blog/drone-attack-hits-saudi-airport/)
 
 ## Frequently Asked Questions
 

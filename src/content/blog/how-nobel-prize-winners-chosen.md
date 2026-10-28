@@ -63,6 +63,10 @@ Then comes the day every laureate waits for: 10 December, known as Nobel Day. It
 
 So the next time the October headlines appear, you will know the hidden story behind them. The winner smiling on your screen did not apply, did not campaign and did not win a vote of the crowd. Somewhere, an invited expert wrote down their name before a January deadline, a committee argued over it for months in total secrecy — and the full story of how close the contest was will stay locked away until most of us are long gone.
 
+## You may also like
+
+- [Man Refused Nobel Prize Deliberately](https://talhablog.com/blog/man-refused-nobel-prize-deliberately/)
+
 ## Frequently Asked Questions
 
 **Can anyone apply for a Nobel Prize?**

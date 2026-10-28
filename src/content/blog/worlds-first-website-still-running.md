@@ -59,6 +59,10 @@ Today, the web is where much of humanity learns, works, shops, plays, argues, fa
 
 And the best part? The beginning is still there. The first website is still running. Go and say hello to it.
 
+## You may also like
+
+- [WannaCry Virus Froze World's Hospitals](https://talhablog.com/blog/wannacry-virus-froze-worlds-hospitals/)
+
 ## Frequently Asked Questions
 
 **What was the address of the first website?**

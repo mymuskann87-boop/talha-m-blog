@@ -52,3 +52,4 @@ One last thought, and it is something I believe strongly: the best game is the o
 
 - [Whispers From The Empty House](https://talhablog.com/blog/whispers-from-the-empty-house/)
 - [Free Fun Ideas For Families](https://talhablog.com/blog/free-fun-ideas-for-families/)
+- [Funny Halloween Jokes For Everyone](https://talhablog.com/blog/funny-halloween-jokes-for-everyone/)

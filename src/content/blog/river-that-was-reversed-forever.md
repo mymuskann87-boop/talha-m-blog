@@ -1,6 +1,6 @@
 ---
 title: "River That Was Reversed Forever"
-description: "In 1900, the city of Chicago did something no city had ever dared: it dug a canal deeper than its own river and forced the Chicago River to flow away from Lake Michigan. More than a century later, the river still runs backwards."
+description: "In 1900, the city of Chicago did something no city had ever dared: it dug a canal deeper than its own river and forced the Chicago River to flow away"
 pubDate: 2026-10-23T10:10:00+05:00
 image: "/images/river-that-was-reversed-forever.webp"
 imageAlt: "An illustration of a wide city river flowing between city bridges, with giant engineering works and cranes along its banks."
@@ -67,6 +67,10 @@ Once a year, it also turns a shamrock green. Since 1962, the local plumbers' uni
 The reversal has also left one modern headache. By joining two great water systems that nature kept apart, the canal opened a highway for invasive species. Asian carp, which have overwhelmed stretches of the Illinois River, could use the canal to reach Lake Michigan and the whole Great Lakes system. To guard the door, the United States Army Corps of Engineers installed a series of electric barriers in the canal near Romeoville between 2002 and 2011. The barriers pulse electricity through the water to turn fish back, and monitoring suggests they stop all but the smallest fish from passing upstream.
 
 To me, that is the perfect ending to the story, because it refuses to be simple. The canal is one of the greatest public health rescues in history, and it is also a permanent ecological problem that engineers must keep guarding, every single day, with electric fences. Chicago solved its crisis so completely that we now maintain the solution like a living thing. The river runs backwards, the city drinks safely, and the bill, in a sense, is still being paid — which is true of nearly every bold thing human beings have ever built.
+
+## You may also like
+
+- [Place Where Lightning Strikes Nightly](https://talhablog.com/blog/place-where-lightning-strikes-nightly/)
 
 ## Frequently Asked Questions
 

@@ -66,3 +66,4 @@ This Halloween, pick one movie from each mood, or just pick your favourite and w
 
 - [Whispers From The Empty House](https://talhablog.com/blog/whispers-from-the-empty-house/)
 - [Free Fun Ideas For Families](https://talhablog.com/blog/free-fun-ideas-for-families/)
+- [Halloween Decorations On Low Budget](https://talhablog.com/blog/halloween-decorations-on-low-budget/)

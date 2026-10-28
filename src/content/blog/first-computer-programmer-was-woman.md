@@ -1,6 +1,6 @@
 ---
 title: "First Computer Programmer Was Woman"
-description: "Asked only to translate a short article, Ada Lovelace handed back notes three times longer — including a set of instructions now called the first computer program."
+description: "Asked only to translate a short article, Ada Lovelace handed back notes three times longer — including a set of instructions now called the first computer"
 pubDate: 2026-10-19T20:10:00+05:00
 category: "Technology"
 image: "/images/first-computer-programmer-was-woman.webp"
@@ -55,6 +55,10 @@ Historian Allan G. Bromley later pointed out another fact: Babbage himself had p
 Ada Lovelace died on 27 November 1852, of the illness contemporary accounts called uterine cancer. She was 36 years old — exactly the age her father, Lord Byron, had been when he died, a father she had never once met.
 
 Her notes were largely forgotten for a century, then republished in 1953 and recognised for what they were: a description of a computer and its software, written a hundred years before electronic computers arrived. The United States Department of Defense later created a programming language for its systems and named it, in her honour, Ada. The reference manual for the language was approved on 10 December 1980 — her birthday — and its military standard number, MIL-STD-1815, was chosen to echo 1815, the year she was born. Every year, on the second Tuesday in October, Ada Lovelace Day celebrates the contributions of women in science, technology, engineering and mathematics. Not bad for a translator who decided her assignment was too small.
+
+## You may also like
+
+- [First Computer Bug Was Real](https://talhablog.com/blog/first-computer-bug-was-real/)
 
 ## Frequently Asked Questions
 

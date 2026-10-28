@@ -1,6 +1,6 @@
 ---
 title: "PTI March For Imran Khan"
-description: "The PTI long march led by KP Chief Minister Sohail Afridi has completed one week. Here is a simple, step-by-step explanation of what it is, where it has gone, and what may come next."
+description: "The PTI long march led by KP Chief Minister Sohail Afridi has completed one week. Here is a simple, step-by-step explanation of what it is, where it has"
 pubDate: 2026-10-11T14:00:00+05:00
 category: "Pakistan News"
 image: "/images/pti-long-march-khyber-pakhtunkhwa.webp"
@@ -79,6 +79,10 @@ KP is a big province with millions of people, and this march is one of the bigge
 Big gatherings like this can also affect traffic and daily life in nearby towns. If you live in or travel through Swabi, Mardan, Charsadda or the roads around them, it is a good idea to follow local news updates.
 
 This is a developing story, and details may change. We will keep you updated.
+
+## You may also like
+
+- [Protests Erupt Over Petrol Levy](https://talhablog.com/blog/protests-erupt-over-petrol-levy/)
 
 ## Sources
 

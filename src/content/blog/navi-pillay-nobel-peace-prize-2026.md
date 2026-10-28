@@ -55,6 +55,10 @@ You don't need to be a lawyer to take something from this story. Pillay's life s
 
 It also sends a message to victims: their stories matter, and some people have spent entire careers making sure those stories are heard in court. For students, her path offers a simple lesson too — she moved step by step, and each step built on the one before it.
 
+## You may also like
+
+- [How Nobel Prize Winners Chosen](https://talhablog.com/blog/how-nobel-prize-winners-chosen/)
+
 ## Frequently Asked Questions
 
 **Who is Navi Pillay, the winner of the 2026 Nobel Peace Prize?**

@@ -104,6 +104,10 @@ If you look at her career, you can see a pattern. She can play a quiet and lonel
 
 Scarlett Johansson's story is a story of hard work. She started as a child actor in New York, and she became one of the most successful actresses of her time. With new films and her work as a director, her story is still going on.
 
+## You may also like
+
+- [Taylor Swift Life Story Explained](https://talhablog.com/blog/taylor-swift-life-story-explained/)
+
 ## Frequently Asked Questions
 
 **When was Scarlett Johansson born?**

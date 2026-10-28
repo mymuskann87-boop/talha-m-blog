@@ -1,6 +1,6 @@
 ---
 title: "Nepal Flood Sweeps Away Houses"
-description: "A flash flood on the Budhi Gandaki river in Nepal's Gorkha district on October 11 swept away around 45 houses and four bridges. Five people are missing, more than 80 were rescued, and officials believe a landslide dam burst caused the sudden surge."
+description: "A flash flood on the Budhi Gandaki river in Nepal's Gorkha district on October 11 swept away around 45 houses and four bridges. Five people are missing"
 pubDate: 2026-10-12T23:49:00+05:00
 category: "Disasters"
 image: "/images/nepal-flash-flood-budhi-gandaki-gorkha-houses-swept-away.webp"
@@ -56,6 +56,10 @@ The timing adds another layer of concern. The flood struck at the very start of 
 The immediate priorities are clear: find the five missing people, reach the settlements cut off by broken bridges, and restore power and communication to the valley. The Budhi Gandaki is part of the wider Trishuli and Gandaki river system, so officials downstream have reason to stay alert as well. The technical analysis will matter too, because understanding exactly where the slope failed is the first step toward watching that spot in the future.
 
 For the families of Salleri Bazaar, Jagat Bazaar and the small settlements along the river, the road back will be long: houses to rebuild, belongings to replace, and a river to learn to trust again. The one mercy in this disaster is that, despite the speed of the water and the scale of the destruction, no deaths have been confirmed so far — a fact that owes much to an early warning sent at dawn, and to rescuers who reached the valley in time.
+
+## You may also like
+
+- [Massive 7.6 Earthquake Hits Panama](https://talhablog.com/blog/panama-earthquake-7-6-what-happened/)
 
 ## Frequently Asked Questions
 

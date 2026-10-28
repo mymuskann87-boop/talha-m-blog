@@ -88,6 +88,10 @@ Some people find unsolved mysteries frustrating. But consider what these three f
 
 Somewhere above us tonight, in the constellation Cassiopeia, three quiet ghosts are glowing in oxygen light too faint for any eye to catch. They were there long before us. They will be there long after us. And now, thanks to four patient watchers and one clever filter, we finally know to wave back.
 
+## You may also like
+
+- [SpaceX Dragon Carries 6,300 Pounds](https://talhablog.com/blog/spacex-dragon-cargo-launch-iss/)
+
 ## Frequently Asked Questions
 
 **What exactly did the photographers find in Cassiopeia?**

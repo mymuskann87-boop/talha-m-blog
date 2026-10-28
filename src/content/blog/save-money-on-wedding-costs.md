@@ -72,6 +72,10 @@ A wedding does not need a fortune to be remembered. It needs the right people in
 
 Close the notebook when the last payment is written in. The celebration is over, the photographs are beautiful, the guests went home happy — and the new household begins with its savings intact. That is not a smaller wedding. That is a wiser one.
 
+## More ways to save
+
+- [Save Money On Gardening Costs](https://talhablog.com/blog/save-money-on-gardening-costs/)
+
 ## Frequently Asked Questions
 
 **What decides a wedding budget more than anything else?**

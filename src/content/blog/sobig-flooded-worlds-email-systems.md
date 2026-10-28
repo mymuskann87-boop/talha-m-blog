@@ -52,6 +52,10 @@ The good news in this old story is that the sandbags work, and most of them are 
 
 **Slow down at the moment of the click.** Nearly every part of Sobig's flood depended on one person, somewhere, opening one message without a second thought. Two seconds of doubt at that exact moment is worth more than any expensive cleanup afterwards. I find it humbling that the biggest email flood in history was not powered by some unstoppable machine, but by millions of perfectly ordinary clicks from people who were simply busy.
 
+## You may also like
+
+- [Locky Ransomware Arrived By Email](https://talhablog.com/blog/locky-ransomware-arrived-by-email/)
+
 ## Frequently Asked Questions
 
 **Was Sobig a virus or a worm?**

@@ -55,6 +55,10 @@ You can visit the forest. You can walk the trail that winds through Methuselah's
 
 Methuselah is not even the only secret in those mountains. Guinness records that another bristlecone, sampled by Schulman himself and crossdated years later by Tom Harlan, is even older — about 5,074 years old as of 2024, currently the oldest verified living tree in the world. It has no famous name and no marked trail. Perhaps that is fitting. The lesson of this whole story is that the longest life on Earth belongs to a tree that grows almost invisibly slowly, in a place almost nothing else can stand, kept safe at last not by fences or fame — but by being left quietly alone.
 
+## You may also like
+
+- [Town Where Fish Rain Yearly](https://talhablog.com/blog/town-where-fish-rain-yearly/)
+
 ## Frequently Asked Questions
 
 **How old is Methuselah, exactly?**

@@ -46,6 +46,10 @@ Moving is not free, and a saving guide that forgets this is lying by omission. T
 
 One last thing, cousin. The goal is not the cheapest roof in the city. The goal is a home that leaves you money for the rest of your life — food, learning, family, and a little saving for the future. A rent that lets you live, not just survive, is the right rent, whatever the number turns out to be.
 
+## More ways to save
+
+- [Cut Monthly Gaming Costs Down](https://talhablog.com/blog/cut-monthly-gaming-costs-down/)
+
 ## Frequently Asked Questions
 
 **How much of my income should go to rent?**

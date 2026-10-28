@@ -73,6 +73,10 @@ And it happened because one chemist understood his science deeply and stayed cal
 
 Two discs of gold became a jar of orange liquid, and a jar of orange liquid became two medals again. Of all the hiding places in all the wars in history, it is hard to beat a shelf.
 
+## You may also like
+
+- [Nobel Winner Sold His Medal](https://talhablog.com/blog/nobel-winner-sold-his-medal/)
+
 ## Frequently Asked Questions
 
 **Were the Nobel medals really melted?**

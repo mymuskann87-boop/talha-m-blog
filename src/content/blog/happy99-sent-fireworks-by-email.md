@@ -66,6 +66,10 @@ The good news is that Happy99's trick has a clear weakness, and the habits that 
 
 None of this requires fear. It only requires one pause — a single breath between the fireworks and the click.
 
+## You may also like
+
+- [First Email Ever Sent Anywhere](https://talhablog.com/blog/first-email-ever-sent-anywhere/)
+
 ## Frequently Asked Questions
 
 **Was Happy99 a virus or a worm?**

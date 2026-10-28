@@ -56,3 +56,4 @@ So this year, before you head to the shops, look around your home. A sheet, a ja
 
 - [Voices Beneath The Old Floor](https://talhablog.com/blog/voices-beneath-the-old-floor/)
 - [Save Money On Home Repairs](https://talhablog.com/blog/save-money-on-home-repairs/)
+- [Halloween Snacks Kids Will Love](https://talhablog.com/blog/halloween-snacks-kids-will-love/)

@@ -50,6 +50,10 @@ His past comments make the news a little more interesting. In a 2014 interview w
 
 That is perhaps the nicest way to read this story. A person who once questioned whether marriage was necessary has now chosen to marry his longtime partner, quietly and privately. I am not going to guess at his reasons, because he has not given them in the facts shared here. The confirmed news is enough on its own, and it is happy news.
 
+## You may also like
+
+- [Russell Brand Trial Begins London](https://talhablog.com/blog/russell-brand-trial-begins-london/)
+
 ## Frequently Asked Questions
 
 **Who is Jim Carrey's wife Min Ah and what is she also known as?**

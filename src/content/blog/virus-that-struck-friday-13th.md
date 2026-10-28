@@ -64,6 +64,10 @@ Jerusalem belongs to the floppy disk age, yet the trap it built is still set eve
 
 For me, the creepiest part of this story was never the deleted programs — it is the patience, a piece of code sitting silently in a machine for months, watching ordinary days go by, waiting for one date like it could read a calendar and hold a grudge.
 
+## You may also like
+
+- [Virus Gangs Fought Online War](https://talhablog.com/blog/virus-gangs-fought-online-war/)
+
 ## Frequently Asked Questions
 
 **What is the Jerusalem virus?**

@@ -48,3 +48,4 @@ So this Halloween, skip the expensive shop aisle. Grab a sheet, a box, and a lit
 
 - [Whispers From The Empty House](https://talhablog.com/blog/whispers-from-the-empty-house/)
 - [Buy Clothes Smart Spend Less](https://talhablog.com/blog/buy-clothes-smart-spend-less/)
+- [Best Horror Movies This Halloween](https://talhablog.com/blog/best-horror-movies-this-halloween/)

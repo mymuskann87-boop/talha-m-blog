@@ -74,6 +74,10 @@ One arrival deserves a special mention. Bianca Jagger, 81, made a rare public ou
 
 I would suggest reading the coverage in a particular order. Start with the purpose of the Albies. Then read the honorees' names. Only after that, look at who hosted, who performed and who attended. That order keeps the story honest. The guests came to support an evening that belongs, first of all, to the people being honoured for defending justice at great personal risk. If we remember that, the glamour and the serious purpose of the night can sit side by side, without one hiding the other.
 
+## You may also like
+
+- [Jim Carrey Marries Min Ah](https://talhablog.com/blog/jim-carrey-marries-min-ah-private-ceremony/)
+
 ## Frequently Asked Questions
 
 **When was The Albies 2026 held?**

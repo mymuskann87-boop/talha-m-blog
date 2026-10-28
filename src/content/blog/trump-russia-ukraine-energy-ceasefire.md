@@ -1,9 +1,10 @@
 ---
 title: "Trump Announces Russia-Ukraine Energy Ceasefire"
-description: "Donald Trump declared an immediate energy ceasefire between Russia and Ukraine. Kyiv says it was never told, Moscow has not confirmed it, and strikes were reported hours later. What is really going on?"
+description: "Donald Trump declared an immediate energy ceasefire between Russia and Ukraine. Kyiv says it was never told, Moscow has not confirmed it, and strikes were"
 pubDate: 2026-10-14T13:00:00+05:00
 category: "US News"
 image: "/images/trump-russia-ukraine-energy-ceasefire.webp"
+imageAlt: "A glowing phone screen between two power plants under a night sky, one side blue and calm and the other red with smoke"
 ---
 
 Imagine waking up one morning and reading on social media that a war in your country has partly stopped — and nobody told you first. That is almost exactly what happened this week between the United States, Ukraine and Russia, and the whole story is as strange as it sounds.
@@ -75,6 +76,10 @@ Zaporizhzhia is Europe's largest nuclear power station, and it has been a source
 There is one more reason for caution, and it comes from history. As the Japanese broadcaster NHK pointed out, Trump made a similar claim back in September — and afterwards, both sides kept striking each other's energy facilities anyway.
 
 That memory hangs over this week's announcement. A claim repeated is not the same as an agreement kept, and Ukrainians who have lived through announcements before have learned to watch actions, not posts.
+
+## You may also like
+
+- [Trump's Wealth, Iran, Imran Khan](https://talhablog.com/blog/trump-profile-age-net-worth-iran-war-imran-khan/)
 
 ## Frequently Asked Questions
 

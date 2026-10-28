@@ -47,6 +47,10 @@ The open-source **Kimi K2.6** from Moonshot AI is being talked about because it 
 - **Cost and trust are the big topics.** Cheaper models like Haiku 5.5 reduce cost, and self-hosted tools like IBM Bob try to solve trust.
 - **Be careful.** Before you give any agent access to your money, files or accounts, check what it is allowed to do and keep a human in control.
 
+## You may also like
+
+- [Best AI Coding Agents 2026](https://talhablog.com/blog/best-ai-coding-agents-october-2026/)
+
 ## Sources
 
 - [AI Agents Store: AI Agents News, Week of October 10, 2026](https://aiagentstore.ai/ai-agent-news/this-week)

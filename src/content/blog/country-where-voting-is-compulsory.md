@@ -79,6 +79,10 @@ My honest hesitation sits with the fine. A$20 is nothing to a comfortable househ
 
 On balance, though, I would rather live with a small, soft-edged push that pulls everyone into the count than with a spotless freedom in which the quietest voices are simply never heard. But I hold that view loosely. The other side is defending something real — the right to be left alone — and a healthy democracy should never laugh that instinct out of the room.
 
+## You may also like
+
+- [Country That Has Three Capitals](https://talhablog.com/blog/country-that-has-three-capitals/)
+
 ## Frequently Asked Questions
 
 **What actually happens to an Australian who does not vote?**

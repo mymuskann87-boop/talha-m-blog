@@ -1,6 +1,6 @@
 ---
 title: "Country That Has Three Capitals"
-description: "South Africa is the only country in the world with three capital cities. Join a road trip through Pretoria, Cape Town and Bloemfontein, and find out about the 1910 compromise that split one government across three cities."
+description: "South Africa is the only country in the world with three capital cities. Join a road trip through Pretoria, Cape Town and Bloemfontein, and find out"
 pubDate: 2026-10-23T10:20:00+05:00
 image: "/images/country-that-has-three-capitals.webp"
 imageAlt: "An illustration of three capital cities of one country shown side by side, with parliament buildings, a high court and government offices."
@@ -65,6 +65,10 @@ The argument flared up again in January 2022, when a serious fire gutted parts o
 South Africa's talent for sharing things around does not stop at capitals. The country famously has 12 official languages — more than almost any nation on Earth. For many years there were 11, including English, Afrikaans, Zulu and Xhosa. Then, in 2023, South African Sign Language was added as the twelfth, a change made to recognise the rights of deaf South Africans. A country that speaks in twelve official tongues perhaps finds nothing strange about a government that works in three official cities.
 
 So next time a quiz asks you for the capital of South Africa, smile. The honest answer is not one city. It is a road trip: Pretoria to run things, Cape Town to make the laws, Bloemfontein to judge them — and Johannesburg, the giant with no title, quietly holding the highest court of all.
+
+## You may also like
+
+- [Country That Abolished Its Army](https://talhablog.com/blog/country-that-abolished-its-army/)
 
 ## Frequently Asked Questions
 

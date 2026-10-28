@@ -52,3 +52,4 @@ So pick a pair, raid the wardrobe, and spend the evening being a team. The cheap
 
 - [Dead Man Called Me Twice](https://talhablog.com/blog/dead-man-called-me-twice/)
 - [Smart Gift Giving Saves Money](https://talhablog.com/blog/smart-gift-giving-saves-money/)
+- [Cheap Halloween Costumes That Impress](https://talhablog.com/blog/cheap-halloween-costumes-that-impress/)

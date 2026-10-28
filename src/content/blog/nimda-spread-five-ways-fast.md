@@ -66,6 +66,10 @@ The good news is that Nimda's five doors each have a simple lock, and most of th
 
 **Remember that trusted places can be turned.** A famous website can be hacked, and a friend's account can be stolen. Caution is not rudeness. Pausing for five seconds before downloading a file a website suddenly offers you is one of the cheapest forms of protection ever invented.
 
+## You may also like
+
+- [FluBot Spread Through Fake Texts](https://talhablog.com/blog/flubot-spread-through-fake-texts/)
+
 ## Frequently Asked Questions
 
 **What does the name Nimda mean?**

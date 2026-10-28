@@ -1,6 +1,6 @@
 ---
 title: "Locky Ransomware Arrived By Email"
-description: "Locky ransomware hid inside fake invoice emails and became so powerful that a major Los Angeles hospital paid about $17,000 in Bitcoin to get its own files back."
+description: "Locky ransomware hid inside fake invoice emails and became so powerful that a major Los Angeles hospital paid about $17,000 in Bitcoin to get its own files"
 pubDate: 2026-10-23T19:40:00+05:00
 image: "/images/locky-ransomware-arrived-by-email.webp"
 imageAlt: "An illustration of an ordinary office envelope and invoice document splitting open to reveal a huge glowing padlock and heavy chains inside."
@@ -75,6 +75,10 @@ The good news is that Locky's whole empire rested on a few simple habits, and ha
 **Use security software and keep it on.** A good, updated security program can catch many malicious documents before they run, and block connections to the criminal servers ransomware tries to call. It is not a magic shield, but it is a strong second line of defence.
 
 **Slow down when a message pushes you.** Almost every one of these attacks begins with pressure: an unpaid bill, a closing account, a deadline today. Pressure is not a side effect. It is the tool. When an email makes your heart beat faster, that feeling is your warning light. Urgent and unexpected is the most dangerous combination in your inbox, and the cure is simply to pause before clicking anything at all.
+
+## You may also like
+
+- [Smartphone Sales Hit 14-Year Low](https://talhablog.com/blog/smartphone-sales-fall-14-year-low-ai-chip-shortage/)
 
 ## Frequently Asked Questions
 

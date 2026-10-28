@@ -79,6 +79,10 @@ So the next time a child asks why the sky is blue, you have a real answer that t
 
 Blue sky and red sunset are not two different tricks; they are one trick seen at two different hours. The National Weather Service makes the same point in its own guide: one scattering process, working all day long, gives us both the blue of noon and the fire of evening. One Sun, one sky, one beautiful piece of physics — performed fresh for you every morning and evening, free of charge.
 
+## You may also like
+
+- [Volcano That Burns Bright Blue](https://talhablog.com/blog/volcano-that-burns-bright-blue/)
+
 ## Frequently Asked Questions
 
 **Is the sky blue because it reflects the ocean?**

@@ -73,6 +73,10 @@ So the wave that passes through a family in the evening may not stop with the hu
 
 Normal yawning — when you are tired, bored, waking up, or surrounded by yawning people — is a healthy, ordinary part of being human, and nothing in this article is medical advice. But because yawning is wired into the brain's temperature and alertness systems, yawning that is constant, excessive, or arrives together with other unexplained symptoms is worth mentioning to a doctor, simply so a professional can take a proper look. Trust the pattern, not the single yawn.
 
+## You may also like
+
+- [Why Always Tired After Sleep](https://talhablog.com/blog/why-always-tired-after-sleep/)
+
 ## Frequently Asked Questions
 
 **Is yawning a sign that my brain needs more oxygen?**

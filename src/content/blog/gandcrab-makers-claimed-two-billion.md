@@ -1,6 +1,6 @@
 ---
 title: "GandCrab Makers Claimed Two Billion"
-description: "In May 2019, the gang behind the GandCrab ransomware posted a proud farewell note claiming it had earned over two billion dollars — while police were quietly giving victims free keys."
+description: "In May 2019, the gang behind the GandCrab ransomware posted a proud farewell note claiming it had earned over two billion dollars — while police were"
 pubDate: 2026-10-23T20:20:00+05:00
 image: "/images/gandcrab-makers-claimed-two-billion.webp"
 imageAlt: "An illustration of a proud cartoon crab wearing a gold crown, sitting on a mountain of gold coins inside a glowing cave of computer screens."
@@ -85,6 +85,10 @@ You cannot control criminal gangs, but you can make their job much harder. These
 **Keep security protection switched on.** A good, updated antivirus or built-in security tool cannot catch everything, but GandCrab's versions fought antivirus companies for a reason — the protection genuinely got in their way.
 
 **If the worst happens, check No More Ransom before anything else.** This is the lesson GandCrab teaches best: never pay first. Gangs lose keys. Gangs get raided. Researchers beat their code. Before even thinking about paying, visit the No More Ransom website and check whether a free decryption tool already exists for the ransomware that locked you. In the GandCrab case, many thousands of people got their files back for free simply because they checked.
+
+## You may also like
+
+- [NotPetya Caused Ten Billion Damage](https://talhablog.com/blog/notpetya-caused-ten-billion-damage/)
 
 ## Frequently Asked Questions
 

@@ -1,6 +1,6 @@
 ---
 title: "Rabada Breaks Record Against Australia"
-description: "Kagiso Rabada just did something no bowler in Test cricket history had ever done before. Open the record book and follow the clues to a number that stood untouched for decades."
+description: "Kagiso Rabada just did something no bowler in Test cricket history had ever done before. Open the record book and follow the clues to a number that stood"
 pubDate: 2026-10-23T15:30:00+05:00
 image: "/images/rabada-breaks-record-against-australia.webp"
 imageAlt: "An illustration of a fast bowler in silhouette at sunset in a packed stadium, the ball leaving his hand like a glowing comet."
@@ -81,6 +81,10 @@ You might ask why a number hidden in statistics deserves a whole story. The answ
 Numbers like this one give the argument a floor to stand on. Strike rate does not care about fame, face or fan clubs. It counts balls and wickets, nothing else. And by that cold, honest count, no bowler who ever collected 200 wickets at home did the job as fast as Kagiso Rabada.
 
 It also tells young bowlers something valuable. Greatness is not always the loudest celebration or the fastest single delivery. Sometimes greatness is a habit, repeated ball after ball, match after match, until one day a quiet man from South Africa looks up and finds that history has been keeping score all along.
+
+## You may also like
+
+- [PSG Beat Barcelona In Thriller](https://talhablog.com/blog/psg-beat-barcelona-in-thriller/)
 
 ## Frequently Asked Questions
 

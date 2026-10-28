@@ -73,6 +73,10 @@ So what should an ordinary person do with all this? Three honest takeaways. Firs
 
 The sugar pill teaches a humbling lesson. The mind is not separate from the body; it is one of the body's own medicines — powerful for pain and feelings, useless against germs and tumours, and always deserving of honesty. That is why the fake medicine that still works remains one of the most important tools in science: it keeps medicine honest.
 
+## You may also like
+
+- [Boy Stayed Awake Eleven Days](https://talhablog.com/blog/boy-stayed-awake-eleven-days/)
+
 ## Frequently Asked Questions
 
 **Is the placebo effect real, or is it just imagination?**

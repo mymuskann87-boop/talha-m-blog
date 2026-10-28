@@ -60,3 +60,4 @@ So this Halloween, gather your people, dim the lights, and open a book. The nigh
 
 - [Dead Man Called Me Twice](https://talhablog.com/blog/dead-man-called-me-twice/)
 - [Save Money On Internet Package](https://talhablog.com/blog/save-money-on-internet-package/)
+- [Spooky Halloween Drinks For Parties](https://talhablog.com/blog/spooky-halloween-drinks-for-parties/)

@@ -64,6 +64,10 @@ And children bend every rule in this post. A child outgrows clothes in months, s
 
 My wardrobe audit took one Sunday afternoon. The bed was covered, the pile of unworn pieces went into a bag by the door, and the closet that came back together was smaller, calmer, and honest. Getting dressed in the morning is easier now, because everything in there earns its place. And the money that used to vanish into tags still hanging from sleeves stays where it belongs: saved, not displayed.
 
+## More ways to save
+
+- [Buy Shoes That Last Longer](https://talhablog.com/blog/buy-shoes-that-last-longer/)
+
 ## Frequently Asked Questions
 
 **What is cost per wear, in simple words?**

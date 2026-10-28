@@ -82,6 +82,10 @@ Instead, they kept asking a better question: not "why did our product fail?" but
 
 So the next time you pop a bubble in a delivery box, remember what your fingers already know. You are not playing with rubbish. You are playing with a failure that refused to quit — and that is exactly why it is in your hands.
 
+## You may also like
+
+- [Evergrande Founder Gets Life Sentence](https://talhablog.com/blog/china-evergrande-collapse-300-billion-debt/)
+
 ## Frequently Asked Questions
 
 **What was bubble wrap originally invented to be?**

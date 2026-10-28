@@ -70,3 +70,4 @@ Seal everything with a top coat, wait a little longer than you think you need to
 
 - [Voices Beneath The Old Floor](https://talhablog.com/blog/voices-beneath-the-old-floor/)
 - [Save Money On Monthly Groceries](https://talhablog.com/blog/save-money-on-monthly-groceries/)
+- [Easy Halloween Makeup Looks Fast](https://talhablog.com/blog/easy-halloween-makeup-looks-fast/)

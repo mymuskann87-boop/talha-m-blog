@@ -63,6 +63,10 @@ Attention will likely stay on the condition of the wounded, when normal airport 
 
 For now, the most important facts are the human ones, and they deserve to be stated plainly. Twelve people lost their lives and 309 were wounded, according to Saudi civil aviation authorities. They were Saudis and visitors, workers and travellers. If you are reading this from far away, the kindest response is also the simplest: remember these were ordinary people at an airport, and keep their families in your thoughts.
 
+## You may also like
+
+- [Riyadh Airport Attack Kills 13](https://talhablog.com/blog/riyadh-airport-attack-deadliest-strike-pakistani-killed/)
+
 ## Frequently Asked Questions
 
 **What happened at King Khalid International Airport in Riyadh on October 10?**

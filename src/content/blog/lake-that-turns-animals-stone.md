@@ -79,6 +79,10 @@ Most wild animals, though, give the open lake a wide berth. They drink from the 
 
 So the next time you see those grey, ghostly photographs, you will know the full story. There is no Medusa lake, and no animal is turned to stone in a flash. There is a volcano quietly feeding a soda lake under a burning sun — and dead birds, dried and dusted with the same mineral the Egyptians used for their mummies, keeping their shapes on the shore, while on the red water itself, millions of pink flamingos raise their chicks in the one place their enemies cannot follow. The truth needed no magic added. It was already wonderful enough.
 
+## You may also like
+
+- [Lake That Explodes Without Warning](https://talhablog.com/blog/lake-that-explodes-without-warning/)
+
 ## Frequently Asked Questions
 
 **Does Lake Natron really turn animals into stone instantly?**

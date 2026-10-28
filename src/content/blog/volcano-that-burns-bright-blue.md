@@ -72,6 +72,10 @@ Slowly, the black sky above the crater turns grey, then pale gold. As the sunlig
 
 The tourists walk down the mountain, sleepy and thrilled, already looking at their photographs. The miners make their last trip down with the morning loads, shoulders aching, faces wrapped in rags. Tonight, at two o'clock, the line of little lights will climb the mountain again — and the volcano will light its blue fire for the men who work inside it.
 
+## You may also like
+
+- [Why Sky Blue Sunset Orange](https://talhablog.com/blog/why-sky-blue-sunset-orange/)
+
 ## Frequently Asked Questions
 
 **Why does the fire at Kawah Ijen burn blue?**

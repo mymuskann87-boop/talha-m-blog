@@ -1,6 +1,6 @@
 ---
 title: "Good Worm That Fixed Computers"
-description: "In August 2003 the Welchia worm broke into unpatched computers through the same hole as the Blaster worm — then deleted Blaster, tried to install Microsoft's patch, and removed itself."
+description: "In August 2003 the Welchia worm broke into unpatched computers through the same hole as the Blaster worm — then deleted Blaster, tried to install"
 pubDate: 2026-10-23T23:00:00+05:00
 image: "/images/good-worm-that-fixed-computers.webp"
 imageAlt: "An illustration of a friendly glowing green worm wearing a small medic cap, patching a broken computer with bandages of light while traffic jams of glowing data pile up behind it."
@@ -65,6 +65,10 @@ The beautiful irony of the Welchia story is that the cure for both worms was ide
 **Keep backups of the files you love.** If any worm — destructive, helpful, or clumsy — damages your machine, a backup turns a disaster into an inconvenience. Photos, documents and work files deserve a copy somewhere separate.
 
 Honestly, I find something almost touching in the Welchia story — a mysterious stranger spending August 2003 mending strangers' locks — but a lock mended by an intruder is still a house that was broken into. Mend your own. It takes minutes, it costs nothing, and it keeps out the burglars and the vigilantes alike.
+
+## You may also like
+
+- [Blaster Worm Crashed Windows Computers](https://talhablog.com/blog/blaster-worm-crashed-windows-computers/)
 
 ## Frequently Asked Questions
 

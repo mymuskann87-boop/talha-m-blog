@@ -56,6 +56,10 @@ The cheapest repair is the one that never happens. Clean the gutters before the 
 
 None of this is exciting, and that is why it works. Maintenance is a handful of dull afternoons a year that quietly prevent the emergencies that ruin budgets. Put them on a calendar — gutters in autumn, seals before winter, filters every few weeks in summer — and treat them like appointments, because that is what they are.
 
+## More ways to save
+
+- [Save Money On Summer Cooling](https://talhablog.com/blog/save-money-on-summer-cooling/)
+
 ## Frequently Asked Questions
 
 **What home repairs can a beginner safely do?**

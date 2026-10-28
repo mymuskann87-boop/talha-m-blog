@@ -74,6 +74,7 @@ Quattro is Audi's name for all-wheel drive, where all four wheels share the powe
 
 - [Porsche Taycan Turbo S Diagram](https://talhablog.com/blog/porsche-taycan-turbo-s-diagram/)
 - [BMW M4 Competition Technical Diagram](https://talhablog.com/blog/bmw-m4-competition-technical-diagram/)
+- [Maserati MC20 Cielo Technical Diagram](https://talhablog.com/blog/maserati-mc20-cielo-technical-diagram/)
 
 ## Sources
 

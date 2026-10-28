@@ -64,6 +64,10 @@ So next time the small plate arrives, you will already know what is on it: lunch
 
 And that is the whole change, really. Not a smaller life, not fewer celebrations — just a table where the food is chosen with the same care as the company. The friends will not remember what the bill said. They will remember that the evening felt easy, that nobody winced when the plate arrived, and that the next outing did not need a week of quiet regret to pay for it.
 
+## More ways to save
+
+- [Quit Smoking Save Money Daily](https://talhablog.com/blog/quit-smoking-save-money-daily/)
+
 ## Frequently Asked Questions
 
 **Is lunch really cheaper than dinner at restaurants?**

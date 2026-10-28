@@ -66,6 +66,10 @@ This post targets only the controllable part: the bag, the bottle, the stationer
 
 The bag from the kitchen table went back to school this term, washed and zipped and ready. It is not the newest bag in the classroom. It is, quietly, the cheapest bag in the classroom — because it cost nothing at all, and it still carries every book it is asked to carry.
 
+## More ways to save
+
+- [Cut Pet Care Costs Smartly](https://talhablog.com/blog/cut-pet-care-costs-smartly/)
+
 ## Frequently Asked Questions
 
 **Should I buy everything new for the new term?**

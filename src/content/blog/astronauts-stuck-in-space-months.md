@@ -86,6 +86,10 @@ Living without gravity slowly changes a person. Bones lose density, muscles weak
 
 After splashdown, flight surgeons checked the crew, who then flew to Houston to be reunited with their families. Officials said the astronauts would be allowed home after a day or two, once their bodies had begun adjusting to gravity again. For Williams and Wilmore, the strangest sensation of all must have been the simplest one: the solid weight of their own bodies, pressing down into an ordinary bed, on an ordinary night, back on Earth.
 
+## You may also like
+
+- [Astronaut Grew Taller In Space](https://talhablog.com/blog/astronaut-grew-taller-in-space/)
+
 ## Frequently Asked Questions
 
 **Why were Suni Williams and Butch Wilmore stuck in space for so long?**

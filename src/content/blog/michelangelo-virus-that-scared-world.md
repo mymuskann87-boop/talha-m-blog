@@ -76,6 +76,10 @@ The tools have changed since 1992, but the habits that defeat this kind of virus
 
 **Keep your system updated.** Many viruses, then and now, enter through old flaws that have already been fixed. Installing updates promptly closes doors that malware is actively looking for.
 
+## You may also like
+
+- [Stoned Virus Flashed Funny Message](https://talhablog.com/blog/stoned-virus-flashed-funny-message/)
+
 ## Frequently Asked Questions
 
 **What exactly was the Michelangelo virus?**

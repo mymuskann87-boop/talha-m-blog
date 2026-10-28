@@ -1,6 +1,6 @@
 ---
 title: "Pakistan's Adam Gilchrist Goes Viral"
-description: "A 17-year-old school cricketer from Karachi is named Adam Gilchrist, just like the Australian legend. He scored 117 runs in a school tournament and the internet cannot stop talking about him."
+description: "A 17-year-old school cricketer from Karachi is named Adam Gilchrist, just like the Australian legend. He scored 117 runs in a school tournament"
 pubDate: 2026-10-12T15:20:00+05:00
 category: "Sports"
 image: "/images/pakistan-adam-gilchrist-karachi-teen-century.webp"
@@ -56,6 +56,10 @@ It is important to keep expectations honest. This is school cricket, and one cen
 But stories like his are exactly what talent hunt programmes are made for. The PCB's school championship put him in an organised match, his performance got noticed, and now coaches and fans know his name — in every sense. If he keeps scoring runs and working on his keeping, he will get more chances at higher age-group levels.
 
 For now, Pakistan's Adam Gilchrist is simply a happy schoolboy whose name and century made the whole cricket world stop, smile, and read his story. That is a pretty good week for a 17-year-old.
+
+## You may also like
+
+- [Brook Smashes Fastest Double Century](https://talhablog.com/blog/brook-smashes-fastest-double-century/)
 
 ## Frequently Asked Questions
 

@@ -1,6 +1,6 @@
 ---
 title: "Code Red Worm Attacked Websites"
-description: "In July 2001, the Code Red worm infected about 359,000 web servers in less than a day, painted a strange message across websites, and then marched on the White House itself."
+description: "In July 2001, the Code Red worm infected about 359,000 web servers in less than a day, painted a strange message across websites, and then marched"
 pubDate: 2026-10-23T18:00:00+05:00
 image: "/images/code-red-worm-attacked-websites.webp"
 imageAlt: "An illustration of a giant glowing red warning radar screen in a dark cybersecurity control room sweeping across a network map covered in red alert lights."
@@ -61,6 +61,10 @@ You probably do not run a giant web server, but the rules that would have saved 
 - **Change default passwords.** Many devices and server tools arrive with a factory password printed in manuals anyone can read. Set your own strong password on your router, your website's admin panel, and every device admin page. It takes five minutes and closes one of the oldest tricks there is.
 - **Restart and clean, in the right order.** If a device or site ever behaves strangely — sluggish, altered, showing pages you did not write — take it offline, update everything, change its passwords, and only then bring it back. Code Red taught the world that a restart alone is a pause, not a cure.
 - **Keep a backup you control.** A copy of your website files and important documents, stored separately, means a bad day becomes an inconvenience instead of a funeral. Test that the backup opens. A backup you have never checked is a hope, not a backup.
+
+## You may also like
+
+- [Fastest Email Worm Ever Recorded](https://talhablog.com/blog/fastest-email-worm-ever-recorded/)
 
 ## Frequently Asked Questions
 

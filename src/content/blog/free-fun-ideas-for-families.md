@@ -64,6 +64,10 @@ In my view, children remember the day, not the ticket price — and the days the
 
 The kite on the park grass dived again as the sun went down, and the little girl laughed harder than before. Her father wound the string in, patient as anything, and the grandmother folded the blanket with the slow care of someone who had done it a hundred times. They walked home together, carrying a bag that had cost nothing extra, through an evening that had cost nothing at all. That is the whole secret, and it fits in a bag you already own.
 
+## More ways to save
+
+- [Free Workouts Replace Costly Gyms](https://talhablog.com/blog/free-workouts-replace-costly-gyms/)
+
 ## Frequently Asked Questions
 
 **What can a family do for free on a weekend?**

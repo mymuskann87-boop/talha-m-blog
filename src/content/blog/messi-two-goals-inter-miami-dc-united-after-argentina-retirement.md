@@ -1,6 +1,6 @@
 ---
 title: "Messi Scores Twice After Farewell"
-description: "Four days after ending his 21-year Argentina career, Lionel Messi scored two goals as Inter Miami beat DC United 4-0. Luis Suarez also scored twice in a night that ended Miami's five-match winless run."
+description: "Four days after ending his 21-year Argentina career, Lionel Messi scored two goals as Inter Miami beat DC United 4-0. Luis Suarez also scored twice"
 pubDate: 2026-10-12T23:47:00+05:00
 category: "Sports"
 image: "/images/messi-two-goals-inter-miami-dc-united-after-argentina-retirement.webp"
@@ -52,6 +52,10 @@ Saturday's win answered many of them. It was also the first league victory for h
 ## What happens next
 
 There is no long rest ahead. Inter Miami are back at home on Wednesday night, when they host New York City FC. After a performance like Saturday's, the home fans will arrive expecting more of the same: Suárez sharp in the box, Messi pulling the strings, and a team that suddenly looks like it believes again. Four days after he closed the biggest chapter of his life, Messi has already started writing the next one, and on this evidence, it could be a very good one.
+
+## You may also like
+
+- [Ronaldo Scores 980th Career Goal](https://talhablog.com/blog/cristiano-ronaldo-980th-goal-al-nassr/)
 
 ## Frequently Asked Questions
 

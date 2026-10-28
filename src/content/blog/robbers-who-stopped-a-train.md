@@ -1,6 +1,6 @@
 ---
 title: "Robbers Who Stopped A Train"
-description: "On 8 August 1963, a gang used a false red signal to stop a Royal Mail train and steal about £2.6 million. The plan worked for one night, then a farm, a board game, and fingerprints gave them away."
+description: "On 8 August 1963, a gang used a false red signal to stop a Royal Mail train and steal about £2.6 million. The plan worked for one night, then a farm"
 pubDate: 2026-10-23T09:50:00+05:00
 image: "/images/robbers-who-stopped-a-train.webp"
 imageAlt: "An illustration of a mail train stopped on dark countryside tracks at night, with masked robbers beside it under the moonlight."
@@ -87,6 +87,10 @@ David Whitby was only twenty-five when he was attacked and thrown down the emban
 Jack Mills's story is the one that should stay at the centre. He was a driver doing his job on an ordinary night run. He stopped for a signal because that was the safe and correct thing to do. For obeying it, he was beaten, forced to drive while bleeding, and left with an injury and a trauma from which, by his family's account and by the record of his working life, he never fully recovered.
 
 In my view, the word "great" in Great Train Robbery describes the size of the theft, not the worth of the men who did it. The money was huge. The planning was detailed. Neither fact makes the crime admirable. A gang stole a record sum and then proved, at a farmhouse table, that it could not even hide its own fingerprints. Mills paid for their night's work long after the sacks had been emptied.
+
+## You may also like
+
+- [Spot Fake Message Before Clicking](https://talhablog.com/blog/spot-fake-message-before-clicking/)
 
 ## Frequently Asked Questions
 

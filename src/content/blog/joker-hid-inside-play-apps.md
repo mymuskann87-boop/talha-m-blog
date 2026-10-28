@@ -62,6 +62,10 @@ You cannot make any phone completely risk-free, but you can make Joker's job muc
 
 The simple rule running through all of this: an app from the official store is safer, never perfectly safe. Trust the store, but still check the app.
 
+## You may also like
+
+- [Phone Without Apps Launches China](https://talhablog.com/blog/phone-without-apps-launches-china/)
+
 ## Frequently Asked Questions
 
 **What is Joker malware in simple words?**

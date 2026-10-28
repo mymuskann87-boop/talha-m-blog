@@ -57,6 +57,10 @@ Panama lies along the Pacific "Ring of Fire" — despite the name, this isn't ab
 
 Living in such a region means preparation matters — clear evacuation habits and quick official warnings help protect people when the ground moves. For communities in Veraguas, Herrera and Los Santos, the coming days will be about recovery. Our thoughts are with everyone affected.
 
+## You may also like
+
+- [Nepal Flood Sweeps Away Houses](https://talhablog.com/blog/nepal-flash-flood-budhi-gandaki-gorkha-houses-swept-away/)
+
 ## Frequently Asked Questions
 
 **How strong was the Panama earthquake on October 9, 2026, and where was its epicentre?**

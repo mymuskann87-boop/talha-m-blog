@@ -66,6 +66,10 @@ So tonight, walk past the blinking box and give it a look. Check the last two bi
 
 The router will keep blinking either way. The question is only whether the bill behind it belongs to the house you actually live in, or to a house you imagined when you signed up years ago. Bring the package back to the real house — the real usage, the real rooms, the real evenings — and the saving follows on its own, month after month, without another thought.
 
+## More ways to save
+
+- [Save Money On Wedding Costs](https://talhablog.com/blog/save-money-on-wedding-costs/)
+
 ## Frequently Asked Questions
 
 **How much internet speed does a normal household need?**

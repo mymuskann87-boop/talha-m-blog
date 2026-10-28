@@ -62,6 +62,10 @@ A rally like that shows how deeply people, even far away, feel connected to what
 
 Watch for clear updates about the September 2027 dates: whether the date is confirmed, whether it moves again, and whether a clear plan is shared for how voting will be held. It also helps to read more than one trusted source, and to check a bold social media claim against trusted reporting before you share it.
 
+## You may also like
+
+- [How Elections Work Simple Guide](https://talhablog.com/blog/how-elections-work-simple-guide/)
+
 ## Frequently Asked Questions
 
 **When are the Palestinian elections now planned?**

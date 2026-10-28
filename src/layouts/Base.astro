@@ -12,6 +12,7 @@
     category?: string;
     categorySlug?: string;
     extraLd?: string;
+    breadcrumbLd?: string;
     preloadImage?: string;
     noindex?: boolean;
   }
@@ -26,6 +27,7 @@
     category,
     categorySlug,
     extraLd,
+    breadcrumbLd,
     preloadImage,
   } = Astro.props;
 
@@ -110,6 +112,7 @@
       <meta name="twitter:image" content={ogImage} />
       {jsonLd && <script type="application/ld+json" set:html={jsonLd} />}
       {crumbs && <script type="application/ld+json" set:html={crumbs} />}
+      {breadcrumbLd && <script type="application/ld+json" set:html={breadcrumbLd} />}
       {extraLd && <script type="application/ld+json" set:html={extraLd} />}
       {type === 'article' && pubDate && <meta property="article:published_time" content={pubDate.toISOString()} />}
       {type === 'article' && updatedDate && <meta property="article:modified_time" content={updatedDate.toISOString()} />}

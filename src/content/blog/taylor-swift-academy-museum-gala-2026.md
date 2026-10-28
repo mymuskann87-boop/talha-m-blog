@@ -50,6 +50,10 @@ A co-chair is a person who helps lead or support an event in an official role, s
 
 You do not need to know every detail about how a gala is organised to follow this story. What matters is simple. The museum announced a performer, three honorees, a group of co-chairs, a date and a purpose. Together, those details describe a planned and formal event, not a surprise appearance.
 
+## You may also like
+
+- [Netflix Christmas Movies 2026 List](https://talhablog.com/blog/netflix-christmas-movies-2026-list/)
+
 ## Frequently Asked Questions
 
 **When will Taylor Swift perform at the Academy Museum Gala in 2026?**

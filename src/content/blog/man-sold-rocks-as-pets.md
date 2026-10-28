@@ -94,6 +94,10 @@ Dahl did not sell a product. He sold an idea wrapped around a product: a story p
 
 Every modern business that sells an ordinary thing at an extraordinary price through story, humour and packaging is walking a path that a broke copywriter first paved in 1975 — with, quite literally, a pile of beach stones.
 
+## You may also like
+
+- [Company That Sold Ice Abroad](https://talhablog.com/blog/company-that-sold-ice-abroad/)
+
 ## Frequently Asked Questions
 
 **Who invented the Pet Rock?**

@@ -1,6 +1,6 @@
 ---
 title: "First Computer Virus Ever Created"
-description: "In 1971 a playful program called Creeper began hopping between computers on the early ARPANET, printing a cheeky taunt wherever it landed. It harmed nothing, yet it started a chase that has never really ended."
+description: "In 1971 a playful program called Creeper began hopping between computers on the early ARPANET, printing a cheeky taunt wherever it landed. It harmed"
 pubDate: 2026-10-23T10:40:00+05:00
 image: "/images/first-computer-virus-ever-created.webp"
 imageAlt: "An illustration of an old 1970s computer with a playful program hopping from machine to machine along glowing cables."
@@ -63,6 +63,10 @@ Notice the pattern across these fifteen years. Creeper moved politely between at
 Set that gentle beginning beside the world you live in now. Today, harmful programs lock up hospital systems and demand payment, steal banking details from phones, and spread through email attachments and fake downloads in seconds. The number of connected devices is counted in the billions, and an entire global security industry works day and night doing, at enormous scale, exactly what Reaper did in 1972: travelling toward the threat and removing it.
 
 In my view, the sweetest detail in this whole history is that it did not begin with a criminal. It began with an engineer asking a curious question and a program whose entire payload was a joke printed on paper. Creeper never wanted your files, your money or your secrets. It wanted to be chased. The shadow came later, when other people realised the same travelling trick could carry greed instead of a punchline. The chase that started as a game between colleagues in one building now runs across the whole planet, and every antivirus scan on your own computer is a small echo of a teletype chattering in 1971: catch me if you can.
+
+## You may also like
+
+- [CIH Virus That Killed Computers](https://talhablog.com/blog/cih-virus-that-killed-computers/)
 
 ## Frequently Asked Questions
 

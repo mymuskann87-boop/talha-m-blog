@@ -48,6 +48,10 @@ He lived about one more year in that new, strange silence. For a man who had not
 
 This post tells a true story from medical history; it is not medical advice. Most hiccups are harmless and pass in minutes, but if you or someone in your family ever has hiccups that last more than a few days, please see a doctor rather than waiting — that is the standard guidance from medical references such as MedlinePlus.
 
+## You may also like
+
+- [People Who See Extra Colors](https://talhablog.com/blog/people-who-see-extra-colors/)
+
 ## Frequently Asked Questions
 
 **Who was the man who hiccupped for 68 years?**

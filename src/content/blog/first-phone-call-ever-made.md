@@ -83,6 +83,10 @@ Then: 21 subscribers in a single Connecticut town. Now: by EBSCO's count, mobile
 
 Then: a sentence shouted in pain because acid burned through a man's clothes. Now: countless everyday hellos — and every one of them walks the road that wire opened in 1876.
 
+## You may also like
+
+- [Make Phone Battery Last Longer](https://talhablog.com/blog/make-phone-battery-last-longer/)
+
 ## Frequently Asked Questions
 
 **What were the exact words of the first telephone call?**

@@ -1,6 +1,6 @@
 ---
 title: "Man Played Golf On Moon"
-description: "Alan Shepard was America's first man in space, then an ear disease grounded him for years. He fought his way back to command Apollo 14 in 1971 — and marked the comeback by playing golf on the Moon."
+description: "Alan Shepard was America's first man in space, then an ear disease grounded him for years. He fought his way back to command Apollo 14 in 1971 — and marked"
 pubDate: 2026-10-23T10:30:00+05:00
 image: "/images/man-played-golf-on-moon.webp"
 imageAlt: "An illustration of an astronaut in a white spacesuit swinging a golf club on the grey surface of the Moon, Earth shining in the black sky."
@@ -69,6 +69,10 @@ Forty yards. On a normal golf course, that is a gentle chip onto the green. But 
 The golf balls never came home, but the club did. In 1974, at the U.S. Open at Winged Foot, Shepard donated it to the United States Golf Association. It remains on display at the USGA Golf Museum and Library in Liberty Corner, New Jersey, where visitors can see the most travelled golf club in existence. A replica of the club, along with Shepard's famous tube sock, is displayed at the World Golf Hall of Fame in North Carolina.
 
 Shepard retired from NASA and the Navy in 1974 as a rear admiral, and he died in 1998. Of all the Mercury Seven, he alone stood on the Moon. And near the landing site at Fra Mauro, undisturbed in the grey dust exactly where they fell in 1971, two small white golf balls are still sitting there — the trophies of a man who lost the sky, refused to accept it, and won it back.
+
+## You may also like
+
+- [Japan Launches Mars Moon Mission](https://talhablog.com/blog/japan-launches-mars-moon-mission/)
 
 ## Frequently Asked Questions
 

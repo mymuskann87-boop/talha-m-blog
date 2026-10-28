@@ -50,6 +50,7 @@ So when you carve a pumpkin or hand a sweet to a small ghost at your door, you a
 
 - [Dead Man Called Me Twice](https://talhablog.com/blog/dead-man-called-me-twice/)
 - [Free Fun Ideas For Families](https://talhablog.com/blog/free-fun-ideas-for-families/)
+- [Trick Or Treat Safety Rules](https://talhablog.com/blog/trick-or-treat-safety-rules/)
 
 ## Sources
 

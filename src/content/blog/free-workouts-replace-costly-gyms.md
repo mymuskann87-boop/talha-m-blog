@@ -52,6 +52,10 @@ Anyone with a health condition should ask a doctor before starting a new hard ro
 
 The best gym, in my opinion, is the one you actually visit — even if that gym is a park. Memberships do not make people fit. Mornings do.
 
+## More ways to save
+
+- [Study Free Without Costly Books](https://talhablog.com/blog/study-free-without-costly-books/)
+
 ## Frequently Asked Questions
 
 **Is walking really enough exercise?**

@@ -1,6 +1,6 @@
 ---
 title: "First Webcam Watched Coffee Pot"
-description: "In 1991, tired Cambridge researchers pointed a camera at their shared coffee pot so they would never again walk across the building for an empty pot. Two years later it became the world's first webcam, and millions of strangers watched their coffee."
+description: "In 1991, tired Cambridge researchers pointed a camera at their shared coffee pot so they would never again walk across the building for an empty pot. Two"
 pubDate: 2026-10-22T14:10:00+05:00
 image: "/images/first-webcam-watched-coffee-pot.webp"
 imageAlt: "An illustration of an old computer monitor showing a coffee pot on its screen, in a 1990s university computer lab."
@@ -103,6 +103,10 @@ The little experiment refused to remain a footnote. The tech world kept saluting
 In 1998, an official April Fools' joke specification described a "Hyper Text Coffee Pot Control Protocol" — a pretend internet standard for controlling coffee pots, written in loving tribute. Years later, the pot even turned up in a BBC Radio 4 drama, *The Archers*, in 2005.
 
 Historians of technology point to it as one of the earliest experiments in ideas we now use daily without thinking: live-streaming, and ordinary objects reporting their status over a network. Long before anyone said the words "smart home," a coffee pot in Cambridge was already doing the job — telling the world, honestly and in greyscale, exactly how it was doing.
+
+## You may also like
+
+- [Oppo Find X10 Launched Globally](https://talhablog.com/blog/oppo-find-x10-launched-globally/)
 
 ## Frequently Asked Questions
 

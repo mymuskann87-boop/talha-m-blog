@@ -1,6 +1,6 @@
 ---
 title: "Elizabeth Holmes Documentary Sparks Buzz"
-description: "Elizabeth Holmes, the founder who fooled Silicon Valley with a blood-test machine that never worked, is trending again from her Texas prison cell — because a new documentary filmed her final days of freedom. Her full story, in simple words."
+description: "Elizabeth Holmes, the founder who fooled Silicon Valley with a blood-test machine that never worked, is trending again from her Texas prison cell — because"
 pubDate: 2026-10-15T02:00:00+05:00
 category: "US News"
 image: "/images/elizabeth-holmes-trending-new-documentary.webp"
@@ -48,6 +48,10 @@ Holmes' story has already produced a bestselling book, an award-winning TV drama
 Partly, it is the access. No Theranos film before this one was allowed inside her home, with her husband and babies, in the last free days — the long goodbye before the prison gates. Partly, it is the question her story never stops asking: how did so many rich, powerful, experienced people believe a machine that did not work? And partly, if we are honest, it is her. The black turtleneck. The voice. The stare. A whole era of "fake it till you make it" is packed into one person, and the culture keeps returning to her the way you return to the scene of an accident.
 
 This week, from a prison cell in Texas, Elizabeth Holmes is famous again. She will not see most of it. But the rest of the world is watching — which, in the end, was always the thing she wanted most, and the thing that destroyed her.
+
+## You may also like
+
+- [Netflix Layoffs: 1,000 Jobs Cut](https://talhablog.com/blog/netflix-cuts-1000-jobs-biggest-layoffs/)
 
 ## Frequently Asked Questions
 

@@ -1,6 +1,6 @@
 ---
 title: "Nana Patekar Dies At 75"
-description: "Indian actor and filmmaker Nana Patekar died at his home in Goa at the age of 75. Here is what happened, and a simple look back at his life and his best-known films."
+description: "Indian actor and filmmaker Nana Patekar died at his home in Goa at the age of 75. Here is what happened, and a simple look back at his life and his"
 pubDate: 2026-10-10T21:10:00+05:00
 category: "Celebrity"
 image: "/images/nana-patekar-dies-at-75.webp"
@@ -52,6 +52,10 @@ He was also linked with an organisation called the Naam Foundation.
 We have not yet confirmed the funeral details, so we are not sharing any. Please follow trusted news sources for official updates from his family.
 
 May his soul rest in peace.
+
+## You may also like
+
+- [Breaking Bad's RJ Mitte Dies](https://talhablog.com/blog/rj-mitte-breaking-bad-actor-dies-at-34/)
 
 ## Sources
 

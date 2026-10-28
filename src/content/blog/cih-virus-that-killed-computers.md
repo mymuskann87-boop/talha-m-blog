@@ -1,6 +1,6 @@
 ---
 title: "CIH Virus That Killed Computers"
-description: "The CIH virus, nicknamed Chernobyl, slept quietly inside computers all year and woke on 26 April to destroy files and leave machines completely unable to start."
+description: "The CIH virus, nicknamed Chernobyl, slept quietly inside computers all year and woke on 26 April to destroy files and leave machines completely unable"
 pubDate: 2026-10-23T18:10:00+05:00
 image: "/images/cih-virus-that-killed-computers.webp"
 imageAlt: "An illustration of a spooky graveyard of old desktop computers under a huge full moon, every screen black and dead."
@@ -67,6 +67,10 @@ The good news is that the lessons CIH taught are simple, and they still protect 
 **Do not ignore strange behaviour.** CIH hid well, but many infections give small warnings first: programs becoming slow, files behaving oddly, a computer doing things nobody asked it to do. Running a full antivirus scan at the first sign of trouble is always cheaper than waiting.
 
 I keep coming back to one thought in this story: the most frightening viruses are not always the loud ones, because a quiet program and a single date were enough to leave whole rooms of computers dead.
+
+## You may also like
+
+- [First Computer Virus Ever Created](https://talhablog.com/blog/first-computer-virus-ever-created/)
 
 ## Frequently Asked Questions
 

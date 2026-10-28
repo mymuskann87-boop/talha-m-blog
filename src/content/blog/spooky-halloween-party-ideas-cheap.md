@@ -42,3 +42,4 @@ When the night ends, send guests home with a small treat bag: a few sweets, a pa
 
 - [Dead Man Called Me Twice](https://talhablog.com/blog/dead-man-called-me-twice/)
 - [Save Money While Eating Out](https://talhablog.com/blog/save-money-while-eating-out/)
+- [Haunted House Ideas On Budget](https://talhablog.com/blog/haunted-house-ideas-on-budget/)

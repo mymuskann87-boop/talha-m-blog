@@ -131,6 +131,10 @@ In 2025 he closed his long Ethan Hunt chapter with *Mission: Impossible — The 
 
 A boy who grew up poor, changed schools again and again, struggled to read, lost his wrestling dream to a bad knee and was told in many small ways that he did not belong — that boy is still running at 64, still doing his own stunts, and now holds an honorary Oscar. The Tom Cruise life story is not only about fame. It is about a man who decided, very young, that when life knocked him down, he would simply get up and run faster.
 
+## You may also like
+
+- [Wang Yibo Loves Malaysian Food](https://talhablog.com/blog/wang-yibo-loves-malaysian-food/)
+
 ## Frequently Asked Questions About Tom Cruise
 
 **When was Tom Cruise born?**

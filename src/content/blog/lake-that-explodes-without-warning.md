@@ -1,6 +1,6 @@
 ---
 title: "Lake That Explodes Without Warning"
-description: "On a quiet night in August 1986, Lake Nyos in Cameroon released a vast invisible cloud of carbon dioxide that took 1,746 lives. What happened that night, what scientists discovered afterwards, and the pipes that now keep the lake safe."
+description: "On a quiet night in August 1986, Lake Nyos in Cameroon released a vast invisible cloud of carbon dioxide that took 1,746 lives. What happened that night"
 pubDate: 2026-10-22T13:40:00+05:00
 image: "/images/lake-that-explodes-without-warning.webp"
 imageAlt: "An illustration of a dark silent lake at night with a huge gas cloud rising above the water under the moonlight."
@@ -59,6 +59,10 @@ The solution that engineers chose is beautifully simple. A pipe is lowered from 
 The first permanent pipe was installed at Lake Nyos in 2001, and two more were added in 2011. Lake Monoun received degassing pipes as well, and carbon dioxide detectors and warning systems were placed near both lakes. In 2019, researchers reported that the degassing at Nyos had settled into a steady state, and that even a single pipe could keep the gas at a safe level far into the future, without any external power. Scientists also watch other deep volcanic lakes, including Lake Kivu on the border of Rwanda and the Democratic Republic of Congo, which is far larger than Nyos. Studies there continue, and a study released in 2020 suggested that the risk at Kivu does not appear to be growing, though the watching continues.
 
 I find something quietly hopeful in the patience of that arrangement: no wall, no weapon, just a pipe, a raft, and people who return year after year to measure the water and make sure a sleeping valley stays safe.
+
+## You may also like
+
+- [Lake That Turns Animals Stone](https://talhablog.com/blog/lake-that-turns-animals-stone/)
 
 ## Frequently Asked Questions
 

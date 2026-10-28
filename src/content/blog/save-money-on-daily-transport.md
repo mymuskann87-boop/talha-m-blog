@@ -44,6 +44,10 @@ Keep the notebook going for a full month, not just a day. A single day can misle
 
 Here is the part a saving guide must not hide. A cheaper journey that takes two extra hours a day is not a saving for everyone. A person who reaches work exhausted after three changes of bus has paid with their energy, and energy is a real currency too. So the rule is balance: take the cheaper option when it costs a little extra time, and pay for the faster option when the time matters more — a job interview, a sick child, a day that is already full. Transport saving is about the average week, not about winning every single trip. The person who walks the short trips, holds a pass for the daily route, and pays for a fast ride twice a month has the best of both, and the notebook will prove it.
 
+## More ways to save
+
+- [Quit Smoking Save Money Daily](https://talhablog.com/blog/quit-smoking-save-money-daily/)
+
 ## Frequently Asked Questions
 
 **Is a monthly pass always cheaper than daily tickets?**

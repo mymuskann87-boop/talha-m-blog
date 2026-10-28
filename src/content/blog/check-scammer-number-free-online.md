@@ -51,6 +51,10 @@ Most fraud calls in Pakistan follow the same few scripts. A fake parcel fee. A b
 
 My own rule at home is simple: any unknown number that starts talking about money gets checked first, even when the voice sounds sweet and the story sounds urgent. Scammers are in a hurry because hurry stops people from thinking.
 
+## You may also like
+
+- [FBI Dismantled QakBot Botnet Worldwide](https://talhablog.com/blog/fbi-dismantled-qakbot-botnet-worldwide/)
+
 ## Frequently Asked Questions
 
 **Is Scam Alert free?**

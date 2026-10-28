@@ -66,3 +66,4 @@ So grab a marker, pick a pumpkin, and start drawing. Your porch is waiting for i
 
 - [Shadows Followed Her Home Tonight](https://talhablog.com/blog/shadows-followed-her-home-tonight/)
 - [Cook At Home Save Money](https://talhablog.com/blog/cook-at-home-save-money/)
+- [Harmless Halloween Pranks For Friends](https://talhablog.com/blog/harmless-halloween-pranks-for-friends/)

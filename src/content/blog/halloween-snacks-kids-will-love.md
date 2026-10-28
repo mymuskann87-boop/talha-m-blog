@@ -58,3 +58,4 @@ Halloween snacks do not need to be perfect. A wobbly ghost or a crooked spider o
 
 - [The Mirror Showed Someone Else](https://talhablog.com/blog/the-mirror-showed-someone-else/)
 - [Save Money On Monthly Groceries](https://talhablog.com/blog/save-money-on-monthly-groceries/)
+- [Halloween Safety Tips For Kids](https://talhablog.com/blog/halloween-safety-tips-for-kids/)

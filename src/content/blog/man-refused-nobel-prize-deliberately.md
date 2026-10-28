@@ -85,6 +85,10 @@ Look at that crowd one more time. Not officials. Not an institution. Readers —
 
 So here is the question his refusal leaves sitting on the table. If the greatest honour of your life knocked tomorrow — the medal, the money, the world's applause — and accepting it meant owing a small piece of yourself forever, would you open the door? Or would you pick up a pen, write a polite letter to Stockholm, and push it shut?
 
+## You may also like
+
+- [Actor Who Refused His Oscar](https://talhablog.com/blog/actor-who-refused-his-oscar/)
+
 ## Frequently Asked Questions
 
 **What made Sartre turn the prize down?**

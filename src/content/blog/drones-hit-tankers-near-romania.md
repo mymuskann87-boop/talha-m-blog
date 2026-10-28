@@ -51,6 +51,10 @@ Romania shares a border of about 614 kilometres with Ukraine, much of it along t
 
 For now, the most urgent work is simple and human: finding seven missing sailors in a rough, cold sea, before the waves that slowed the rescue make their task impossible.
 
+## You may also like
+
+- [North Korea Fires Ballistic Missiles](https://talhablog.com/blog/north-korea-fires-ballistic-missiles-sea-of-japan/)
+
 ## Frequently Asked Questions
 
 **What happened near Romania in the Black Sea?**

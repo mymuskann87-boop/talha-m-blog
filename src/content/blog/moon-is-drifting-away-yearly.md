@@ -50,6 +50,10 @@ Here is where the drift touches something people actually love. A total solar ec
 
 NASA points out that this arrangement will not last forever. As the Moon keeps drifting outward, it looks a little smaller in the sky each century. Once it has travelled roughly another 23,500 kilometres away, it will appear too small to cover the Sun at all — and NASA's estimate gives us about another 600 million years before that border is crossed. After that, Earth will still have eclipses, but they will be annular ones, where a bright ring of the Sun remains visible around the Moon's dark edge. We already get a preview of that future during annular eclipses today. Total darkness at midday, the sudden stars, the Sun's ghostly outer glow — those belong only to this chapter of Earth's story, and we happen to live in it.
 
+## You may also like
+
+- [Man Played Golf On Moon](https://talhablog.com/blog/man-played-golf-on-moon/)
+
 ## Frequently Asked Questions
 
 **How do scientists measure the distance to the Moon so exactly?**

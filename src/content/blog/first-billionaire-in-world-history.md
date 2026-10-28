@@ -1,6 +1,6 @@
 ---
 title: "First Billionaire In World History"
-description: "John D. Rockefeller built Standard Oil into a company that handled nearly all of America's oil, and a single barrel of Pennsylvania crude can carry us through the whole tale: the lamps it lit, the empire it built, the court order that split it apart, and the strange twist that made him richer than ever."
+description: "John D. Rockefeller built Standard Oil into a company that handled nearly all of America's oil, and a single barrel of Pennsylvania crude can carry us"
 pubDate: 2026-10-23T09:30:00+05:00
 image: "/images/first-billionaire-in-world-history.webp"
 imageAlt: "An illustration of oil barrels and a rising money chart in a vintage American oil field, telling the story of the first billionaire."
@@ -67,6 +67,10 @@ He helped found the University of Chicago, giving it some 35 million dollars by 
 Our barrel's world was a world of lamps. A barrel of crude meant light for reading after supper, and almost nothing else. Today's world drinks oceans of oil: it moves cars, trucks, ships and aeroplanes, and it supplies fuel, lubricants, medicines, dyes and the plastics in nearly everything we touch. The industry our barrel helped to start grew far larger than Rockefeller himself could have pictured standing in that Pennsylvania mud.
 
 Yet the shape of the story still feels familiar. One man saw that the real power lay not in owning a well but in controlling the path every barrel travelled, and he built a system so complete that a government had to cut it into 34 pieces. Then, in the strangest ending of all, those pieces made him the first billionaire in history, and he spent his final decades giving the money away, one foundation, one university and one dime at a time.
+
+## You may also like
+
+- [Man Sold Rocks As Pets](https://talhablog.com/blog/man-sold-rocks-as-pets/)
 
 ## Frequently Asked Questions
 

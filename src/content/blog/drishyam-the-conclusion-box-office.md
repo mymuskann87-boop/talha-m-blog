@@ -51,6 +51,10 @@ That's why this article attributes the numbers clearly — about ₹103 crore ov
 
 Will the total climb much further? We don't know yet, and it's better to say that honestly than to guess a final number. What we can say is that the film has crossed ₹300 crore in India, passed the earlier high point of Ajay Devgn's career, and is still going.
 
+## You may also like
+
+- [Elon Musk Life Story Explained](https://talhablog.com/blog/elon-musk-life-story-explained/)
+
 ## Frequently Asked Questions
 
 **How much has Drishyam The Conclusion earned worldwide in nine days?**

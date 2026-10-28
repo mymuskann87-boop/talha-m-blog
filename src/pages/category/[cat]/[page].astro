@@ -67,9 +67,18 @@ const catLd = JSON.stringify({
 const slug = slugify(name);
 const prevHref = pageNum === 2 ? `/category/${slug}/` : `/category/${slug}/${pageNum - 1}/`;
 const nextHref = `/category/${slug}/${pageNum + 1}/`;
+const breadcrumbLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: new URL('/', Astro.site).toString() },
+    { '@type': 'ListItem', position: 2, name, item: new URL(`/category/${slug}/`, Astro.site).toString() },
+    { '@type': 'ListItem', position: 3, name: `${name} — Page ${pageNum}`, item: new URL(Astro.url.pathname, Astro.site).toString() },
+  ],
+});
 ---
 
-<Base title={`${name} — Page ${pageNum}`} description={pageDesc} extraLd={catLd}>
+<Base title={`${name} — Page ${pageNum}`} description={pageDesc} extraLd={catLd} breadcrumbLd={breadcrumbLd}>
   <nav class="crumbs" aria-label="Breadcrumb">
     <a href="/">Home</a> <span aria-hidden="true">›</span>
     <span class="crumb-here">{name}</span>

@@ -57,6 +57,10 @@ Digital sellers also use price endings as a private language. Shopify notes that
 
 So the next time a price ends in 99, read it the slow way: round it up in your head — 9.99 is 10 — and then decide if you still want the thing. The trick works on every brain, including yours and including the shopkeeper's. The only defence is knowing it is there.
 
+## You may also like
+
+- [Oil Prices Jump Past $114](https://talhablog.com/blog/oil-prices-jump-past-114/)
+
 ## Frequently Asked Questions
 
 **What is the left-digit effect?**

@@ -76,6 +76,10 @@ Two teams walked into a tri-series match in Rawalpindi. By the end of it, the re
 
 That is why cricket fans will remember this match long after ordinary wins and losses fade. Not just for Brook's breathtaking speed. Not just for Sri Lanka's fearless chase. But for the impossible way the two collided, leaving the greatest innings of the day on the losing side of the scorecard.
 
+## You may also like
+
+- [Multan Star Shines On Debut](https://talhablog.com/blog/multan-star-shines-on-debut/)
+
 ## Frequently Asked Questions
 
 **Who scored the fastest double century in ODI cricket?**

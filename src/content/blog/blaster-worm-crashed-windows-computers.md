@@ -66,6 +66,10 @@ The good news is that the defences against this kind of worm are simple, and mos
 
 Think of updates and the firewall as seatbelts. Nobody enjoys fastening a seatbelt, and for years cars had them fitted while drivers ignored them — until crashes taught everyone why they existed. Blaster was one of computing's big crashes, and the habits it forced on the industry still protect you every day.
 
+## You may also like
+
+- [Cabir Was First Phone Worm](https://talhablog.com/blog/cabir-was-first-phone-worm/)
+
 ## Frequently Asked Questions
 
 **Did the Blaster worm steal money or passwords?**

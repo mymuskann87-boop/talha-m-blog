@@ -52,6 +52,10 @@ A useful extra habit is to read the bill on the day it arrives, not the day it m
 
 A smaller package is not always the right answer. Someone who genuinely uses a lot of data for work will lose money on overage charges with a package that is too small. The goal is a match, not a minimum. Check the real numbers first, choose the package that fits them, and leave a little room for an unusual month. And if the cheapest option comes with poor coverage where you live, it is not cheap at all — a phone that does not connect is useless at any price.
 
+## More ways to save
+
+- [Cut Monthly Gas Bill Down](https://talhablog.com/blog/cut-monthly-gas-bill-down/)
+
 ## Frequently Asked Questions
 
 **Should I switch companies to save money?**

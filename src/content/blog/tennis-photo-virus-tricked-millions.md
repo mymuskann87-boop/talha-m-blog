@@ -58,6 +58,10 @@ The defence against this twenty-year-old worm is the same defence that works aga
 
 **Remember the door is the click.** Worms like this one cannot walk through a closed door. They wait, politely, inside a tempting promise, for a person to invite them in. Refusing the invitation is the entire defence.
 
+## You may also like
+
+- [Ryuk Demanded Millions From Companies](https://talhablog.com/blog/ryuk-demanded-millions-from-companies/)
+
 ## Frequently Asked Questions
 
 **Was there really a photograph of Anna Kournikova in the email?**

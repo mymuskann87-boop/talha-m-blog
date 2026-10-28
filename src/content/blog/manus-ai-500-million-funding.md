@@ -60,6 +60,10 @@ There are a few simple reasons. First, an independent company can move with a cl
 
 None of this guarantees success. Big funding helps a company hire, build, and keep going, but it does not promise every plan will work. What it shows is belief — and for Manus, the practical result is clear: the money lets it keep working independently.
 
+## You may also like
+
+- [DeepSeek Raises Fifteen Billion Dollars](https://talhablog.com/blog/deepseek-raises-fifteen-billion-dollars/)
+
 ## Frequently Asked Questions
 
 **How much money did Manus's parent company announce?**

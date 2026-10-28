@@ -53,6 +53,10 @@ More than twenty countries and territories in the world manage without a standin
 
 That is what makes Costa Rica stand out. It is not a microstate with a few thousand citizens; it is a full-sized country of more than five million people, with borders, ports, jungles and cities to protect. Among countries that are not microstates, Costa Rica and Panama are the rare exceptions — and Costa Rica, which has now lived without an army for over seventy-five years, is the example the whole world points to when the idea sounds impossible.
 
+## You may also like
+
+- [Country Ruled By Two Princes](https://talhablog.com/blog/country-ruled-by-two-princes/)
+
 ## Frequently Asked Questions
 
 **When did Costa Rica abolish its army?**

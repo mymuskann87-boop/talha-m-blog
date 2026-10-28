@@ -65,6 +65,10 @@ So two good ideas stand face to face: the wind that carries, and the river that 
 
 Maybe that is why the town loves its festival so much. Once a year, the storm comes, the wet ground sparkles with silver, and everyone is reminded that the world still holds wonders science has not finished explaining — and that a good legend, like Father Subirana's, can feed the heart while everyone waits for the answer.
 
+## You may also like
+
+- [Tree That Bleeds Red Sap](https://talhablog.com/blog/tree-that-bleeds-red-sap/)
+
 ## Frequently Asked Questions
 
 **Where does the fish rain happen?**

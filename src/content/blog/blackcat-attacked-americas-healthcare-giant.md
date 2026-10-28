@@ -70,6 +70,10 @@ For work, even in a tiny business, treat the computer used for banking and accou
 
 Finally, remember the Change Healthcare lesson: one supplier can affect thousands of strangers. At home, the risk is smaller but real. If all your photos sit in one account and all your documents sit on one laptop, one bad day can take everything. Spread the risk. Back up. Lock accounts properly. Make the cat work harder than it wants to.
 
+## You may also like
+
+- [Code Red Worm Attacked Websites](https://talhablog.com/blog/code-red-worm-attacked-websites/)
+
 ## Frequently Asked Questions
 
 **What is BlackCat ransomware?**

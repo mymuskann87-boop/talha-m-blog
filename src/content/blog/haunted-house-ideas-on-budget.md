@@ -58,3 +58,4 @@ When the last guest leaves and you switch the lights back on, the sheets are jus
 
 - [Shadows Followed Her Home Tonight](https://talhablog.com/blog/shadows-followed-her-home-tonight/)
 - [Save Money On Electricity Bill](https://talhablog.com/blog/save-money-on-electricity-bill/)
+- [Spooky Halloween Party Ideas Cheap](https://talhablog.com/blog/spooky-halloween-party-ideas-cheap/)

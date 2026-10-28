@@ -70,6 +70,10 @@ Malaysian fans will get to watch him in a completely different role — not the 
 
 He came to Malaysia for speed. Malaysia fed him first.
 
+## You may also like
+
+- [Tom Cruise Life Story Explained](https://talhablog.com/blog/tom-cruise-life-story-explained/)
+
 ## Frequently Asked Questions
 
 **Why is Wang Yibo in Malaysia?**

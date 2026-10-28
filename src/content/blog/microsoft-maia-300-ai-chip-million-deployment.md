@@ -1,6 +1,6 @@
 ---
 title: "Microsoft's Maia 300 Chip Explained"
-description: "Microsoft has announced the Maia 300, the third generation of its own custom AI chip. The company plans to deploy potentially more than a million of them next year to power its AI services."
+description: "Microsoft has announced the Maia 300, the third generation of its own custom AI chip. The company plans to deploy potentially more than a million of them"
 pubDate: 2026-10-13T09:10:00+05:00
 category: "AI"
 image: "/images/microsoft-maia-300-ai-chip-million-deployment.webp"
@@ -61,6 +61,10 @@ Think of it like a town where only one shop sells flour. Every bakery in town mu
 
 For the rest of us, this race is quiet good news. More competition usually means AI services get cheaper and faster. The Maia 300 may never sit inside your phone — it is built for giant data centres. But the answers you get from AI tools, and how fast they arrive, depend on chips exactly like this one.
 
+## You may also like
+
+- [Manus AI Raises $500 Million](https://talhablog.com/blog/manus-ai-500-million-funding/)
+
 ## Frequently Asked Questions
 
 **What is the Maia 300?**
@@ -77,6 +81,8 @@ That is Microsoft's own claim — the company says the chip does about 40% more 
 
 **Why is Microsoft making its own chips?**
 Like its rivals, including OpenAI, Microsoft wants to depend less on Nvidia, which currently holds a powerful position in the AI chip market.
+
+## Sources
 
 Sources: Reuters (October 12, 2026).
 

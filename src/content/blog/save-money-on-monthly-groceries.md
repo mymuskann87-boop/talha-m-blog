@@ -50,6 +50,10 @@ A plan takes fifteen minutes a week at first, and some weeks will still go wrong
 
 The maths is gentle but real. For example, saving even a small amount every week — the price of two unplanned snack packs — adds up across a month into a sum the whole family can see, and across a year into something worth a small celebration. Nobody gets rich from a grocery list. But a grocery list is one of the few savings that asks nothing except fifteen minutes and a pencil.
 
+## More ways to save
+
+- [Sew Clothes Save Money Monthly](https://talhablog.com/blog/sew-clothes-save-money-monthly/)
+
 ## Frequently Asked Questions
 
 **Does meal planning mean eating the same food every week?**

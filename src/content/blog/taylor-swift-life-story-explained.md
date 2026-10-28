@@ -99,6 +99,10 @@ In December 2023, Time magazine named her Person of the Year. The Eras Tour is f
 
 A girl from a Pennsylvania Christmas tree farm became the biggest songwriter of her generation — not by luck in one moment, but by writing her own story, again and again, until she owned it completely.
 
+## You may also like
+
+- [Taylor Swift Academy Museum Gala](https://talhablog.com/blog/taylor-swift-academy-museum-gala-2026/)
+
 ## Frequently Asked Questions About Taylor Swift
 
 **When was Taylor Swift born?**

@@ -61,6 +61,10 @@ So the footprints are not eternal — they are simply on a very, very slow clock
 
 Until then, the Moon keeps our first steps the way a museum keeps its treasures — untouched, in the dark, under a black sky. The next visitor to stand at Tranquility Base, whenever that may be, will find our footprints waiting.
 
+## You may also like
+
+- [Golden Record Still Flying Today](https://talhablog.com/blog/golden-record-still-flying-today/)
+
 ## Frequently Asked Questions
 
 **Are the Apollo footprints really still on the Moon?**

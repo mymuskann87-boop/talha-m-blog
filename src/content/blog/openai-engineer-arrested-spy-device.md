@@ -1,9 +1,10 @@
 ---
 title: "OpenAI Engineer Arrested Over Bugging"
-description: "An OpenAI engineer has been arrested after a hidden recording device was found inside an executive conference room at the company's San Francisco headquarters. The full story of the device, the investigation and the charges."
+description: "An OpenAI engineer has been arrested after a hidden recording device was found inside an executive conference room at the company's San Francisco"
 pubDate: 2026-10-14T09:00:00+05:00
 category: "AI"
 image: "/images/openai-engineer-arrested-spy-device.webp"
+imageAlt: "A small black recording device taped to a wall beside a wall-mounted television in a dark office meeting room overlooking city lights at night"
 ---
 
 It sounds like a scene from a spy film. Inside the headquarters of the most famous artificial intelligence company in the world, in a quiet executive meeting room where the company's biggest secrets are discussed, someone found a hidden listening device. It was tucked behind a television, plugged into a USB port, and wrapped in toilet paper so nobody would notice it.
@@ -80,3 +81,7 @@ What is already certain is this: the world's leading AI company found a listenin
 - [Al Jazeera](https://www.aljazeera.com/economy/2026/10/15/openai-bugging-suspect-allegedly-booked-one-way-trip-to-saudi-arabia)
 - [The Times](https://www.thetimes.com/us/news-today/article/openai-employee-hidden-recording-device-abdulrahman-alfozan-v27nvksvg)
 - [The Economic Times](https://economictimes.indiatimes.com/world/us/openai-engineer-accused-of-bugging-executive-room-how-the-investigation-unfolded-and-what-he-wanted-to-record/articleshow/134964810.cms)
+
+## You may also like
+
+- [Eight States Sue OpenAI ChatGPT](https://talhablog.com/blog/eight-us-states-sue-openai-chatgpt-harms-young-users/)

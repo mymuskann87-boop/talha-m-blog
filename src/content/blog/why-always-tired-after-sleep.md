@@ -84,6 +84,10 @@ Watch especially for: tiredness that goes on for weeks without getting better; b
 
 A doctor may arrange simple tests, such as blood tests for anaemia, diabetes or thyroid problems. And the NHS is clear: do not try to diagnose yourself. This post can point you towards help, but it cannot name your condition. If your tiredness continues for weeks, please see a doctor — that visit is not a weakness, it is the smartest step a tired person can take.
 
+## You may also like
+
+- [Why Yawning Spreads So Fast](https://talhablog.com/blog/why-yawning-spreads-so-fast/)
+
 ## Frequently Asked Questions
 
 **How many hours of sleep do adults really need?**

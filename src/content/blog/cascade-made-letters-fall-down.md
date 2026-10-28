@@ -62,6 +62,10 @@ Third, keep your guard up with anything copied, borrowed or passed along informa
 
 Finally, take strange behaviour seriously, even when it looks harmless. Falling letters seemed like a joke, and in that one case it mostly was. But odd behaviour is a message from your machine that something uninvited may be present — and the next uninvited guest may not be there to entertain you.
 
+## You may also like
+
+- [DarkSide Stopped America's Fuel Pipeline](https://talhablog.com/blog/darkside-stopped-americas-fuel-pipeline/)
+
 ## Frequently Asked Questions
 
 **Did the Cascade virus delete people's files?**

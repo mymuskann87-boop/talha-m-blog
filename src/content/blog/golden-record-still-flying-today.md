@@ -71,6 +71,10 @@ But silence is not the end. The spacecraft will keep flying, and so will the rec
 
 And if, in some unimaginable future, someone does find one — opens the aluminium cover, follows the picture instructions, sets the needle gently into the groove — the first thing they will hear is us: hello, in fifty-five languages, from a small blue world that once looked up at the stars and decided to introduce itself.
 
+## You may also like
+
+- [Moon Is Drifting Away Yearly](https://talhablog.com/blog/moon-is-drifting-away-yearly/)
+
 ## Frequently Asked Questions
 
 **What exactly is the Golden Record?**

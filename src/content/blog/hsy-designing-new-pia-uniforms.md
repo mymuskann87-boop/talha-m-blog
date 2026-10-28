@@ -1,6 +1,6 @@
 ---
 title: "HSY Designing New PIA Uniforms"
-description: "Pakistan's most famous fashion designer HSY is set to create brand-new cabin crew uniforms for PIA, and the whole country is curious about what its flying flag will look like next."
+description: "Pakistan's most famous fashion designer HSY is set to create brand-new cabin crew uniforms for PIA, and the whole country is curious about what its flying"
 pubDate: 2026-10-23T16:10:00+05:00
 image: "/images/hsy-designing-new-pia-uniforms.webp"
 imageAlt: "An illustration of a fashion designer sketching in an elegant studio beside mannequins wearing deep green and maroon airline crew uniforms."
@@ -53,6 +53,11 @@ It is easy to imagine this job as pure fun: beautiful cloth, famous name, happy 
 The designer must think about every kind of crew member, every body shape, every age, and every role on board, and still make the whole team look like one family the moment they walk together through the terminal. Colours must stay true under harsh airport light. Fabrics must breathe, stretch and endure. Small things, like where a scarf sits or how a jacket closes in a hurry, suddenly become big things.
 
 That is why this pairing of airline and designer is so interesting to watch. It is fashion being asked to work hard, to be practical and proud at the same time, and to do its job in front of thousands of passengers every single day.
+
+## You may also like
+
+- [Pakistan Signs Four Nation Accord](https://talhablog.com/blog/pakistan-signs-four-nation-accord/)
+- [Rehman Baba Express Derails Multan](https://talhablog.com/blog/rehman-baba-express-derailment-multan/)
 
 ## Frequently Asked Questions
 

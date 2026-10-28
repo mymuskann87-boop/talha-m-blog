@@ -82,6 +82,10 @@ Fifth, treat any infection warning seriously. Many people ignore a strange pop-u
 
 Finally, keep backups of important files in a place not always connected to your computer. Backups do not stop TrickBot entering, but they limit what ransomware gangs can threaten later. The lesson is plain: a small infection is never small. The bank-login thief on one office computer was the scout for the ransomware army that arrived later.
 
+## You may also like
+
+- [World's First Website Still Running](https://talhablog.com/blog/worlds-first-website-still-running/)
+
 ## Frequently Asked Questions
 
 **What is TrickBot in simple words?**

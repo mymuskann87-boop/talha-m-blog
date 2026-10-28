@@ -71,6 +71,10 @@ And perhaps that is already a great deal. A stretch of DNA the world had labelle
 
 *One last note, offered gently: everything in this post is general information about a reported medical case. It is not medical advice. If pain troubles you often — or if you have ever suspected that you feel far less pain than the people around you — please take that to a doctor.*
 
+## You may also like
+
+- [Woman Who Feels No Fear](https://talhablog.com/blog/woman-who-feels-no-fear/)
+
 ## Frequently Asked Questions
 
 **Who is Jo Cameron?**

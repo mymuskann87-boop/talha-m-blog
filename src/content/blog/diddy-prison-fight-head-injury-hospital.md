@@ -49,6 +49,10 @@ The cost is already visible on the calendar. His expected release date was first
 
 So the man who once hosted the most glamorous parties in America is now losing days, losing privileges, and spending his nights in a special housing unit — while two versions of one frightening night compete for the truth. His team says his health is the priority. The prison has said almost nothing. And until someone in authority speaks, the bunk bed and the kingpin will both remain suspects in the strangest celebrity story of the week.
 
+## You may also like
+
+- [Cristiano Ronaldo Life Story Explained](https://talhablog.com/blog/cristiano-ronaldo-life-story-explained/)
+
 ## Frequently Asked Questions
 
 **What happened to Diddy in prison?**

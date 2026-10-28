@@ -44,3 +44,4 @@ A few last things to pack: a phone with charge for the adult, a bottle of water,
 
 - [Shadows Followed Her Home Tonight](https://talhablog.com/blog/shadows-followed-her-home-tonight/)
 - [Cut Kids School Costs Smartly](https://talhablog.com/blog/cut-kids-school-costs-smartly/)
+- [Halloween Outfits For Kids Cheap](https://talhablog.com/blog/halloween-outfits-for-kids-cheap/)

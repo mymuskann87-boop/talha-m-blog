@@ -93,6 +93,10 @@ Abagnale himself has conceded ground. A statement on his company's website says 
 
 What survives the checking is a solid outline. A teenage runaway forged cheques and posed as other people. He was jailed in France, Sweden and the United States. Afterwards he built a real, decades-long career teaching fraud prevention. The precise jobs, the precise millions and the great escapes rest, in the main, on the word of a man who once earned his living by being believed.
 
+## You may also like
+
+- [Hackers Hack 700 Supermarket Fridges](https://talhablog.com/blog/france-supermarket-fridges-cyberattack/)
+
 ## Frequently Asked Questions
 
 **Did Frank Abagnale ever fly a plane himself?**

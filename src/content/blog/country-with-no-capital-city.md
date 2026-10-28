@@ -72,6 +72,10 @@ So how does Nauru live today? Carefully, and from several smaller streams of mon
 
 Nauru's story carries a lesson far bigger than the island: wealth that comes out of the ground always has an end date, and the only real treasure is what a nation builds before that date arrives.
 
+## You may also like
+
+- [Country Where Voting Is Compulsory](https://talhablog.com/blog/country-where-voting-is-compulsory/)
+
 ## Frequently Asked Questions
 
 **What is the capital of Nauru?**

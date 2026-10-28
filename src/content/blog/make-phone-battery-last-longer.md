@@ -104,6 +104,10 @@ Short on time? Do these, in this order:
 
 Everything else in this guide is extra polish. These three steps catch most of the problem for most people.
 
+## You may also like
+
+- [First Phone Call Ever Made](https://talhablog.com/blog/first-phone-call-ever-made/)
+
 ## Frequently Asked Questions
 
 **Why does my phone battery drain fast even when I am not using it?**

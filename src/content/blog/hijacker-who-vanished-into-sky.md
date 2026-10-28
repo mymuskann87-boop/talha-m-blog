@@ -81,6 +81,10 @@ The FBI kept the case officially alive for 45 years — one of the longest inves
 
 It remains what the FBI itself calls one of the great unsolved mysteries in its history, and the only skyjacking in American commercial aviation that was never solved. Somewhere out there — in a forest, along a river, or in a quiet life lived under another name — the last page of this story exists. Nobody has ever found it.
 
+## You may also like
+
+- [Police Rescue Girl From Blackmailers](https://talhablog.com/blog/police-rescue-girl-from-blackmailers/)
+
 ## Frequently Asked Questions
 
 **Was the hijacker's real name D. B. Cooper?**

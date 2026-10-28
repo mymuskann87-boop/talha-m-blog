@@ -49,6 +49,10 @@ In the neighbouring Kocaeli province, a stream overflowed in the Gebze district 
 
 More heavy rain has been forecast for Istanbul and the surrounding region over the weekend, which means the cleanup — and the search for the missing — is not over yet.
 
+## You may also like
+
+- [Hurricane Simon Slams Mexico Coast](https://talhablog.com/blog/hurricane-simon-mexico-pacific-coast/)
+
 ## Frequently Asked Questions
 
 **How many people died in the Istanbul floods?**

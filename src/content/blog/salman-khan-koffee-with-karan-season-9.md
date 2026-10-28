@@ -4,6 +4,7 @@ description: "After 22 years, Koffee With Karan returns for its ninth and final 
 pubDate: 2026-10-13T21:45:00+05:00
 category: "Celebrity"
 image: "/images/salman-khan-koffee-with-karan-season-9.webp"
+imageAlt: "An empty ornate television studio set with a green velvet sofa, gold curtains and carved panels, and two cups of coffee on a round table"
 ---
 Every famous couch has a story, but very few couches become famous themselves. The Koffee With Karan couch is one of them. For more than two decades, India's biggest film stars have sat on it, laughed on it, cried on it, fought on it, and sometimes said things on it that became headlines for weeks. Now, that couch is being used one final time. Koffee With Karan is returning for its ninth season — and it will be the last season ever. The farewell run begins on October 14, 2026, streaming on JioHotstar, and the makers have chosen the perfect person to sit down first: Salman Khan.
 
@@ -44,6 +45,10 @@ That distinction matters to fans. Koffee With Karan is not fading away quietly b
 The ninth and final season streams on JioHotstar's Peacock Hub from October 14, 2026, with Salman Khan in the hot seat for episode one. Beyond that, the makers have kept most of the guest list a mystery, which is exactly how this show likes it — rumours, speculation, and surprises have always been part of its fuel. Johar has already swatted away at least one rumour with his trademark sarcasm, making clear that cricketers are not on the guest list this season.
 
 What viewers can expect is a farewell run designed to go out on a high: the biggest names, the most personal conversations, and a host who knows this is his last lap and intends to enjoy every minute of it. If the final season delivers even a few moments like the ones that built its legend, it will be remembered as one of television's great goodbyes.
+
+## You may also like
+
+- [Shah Rukh Khan Life Story](https://talhablog.com/blog/shah-rukh-khan-life-story/)
 
 ## Frequently Asked Questions
 

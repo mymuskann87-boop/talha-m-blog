@@ -4,6 +4,7 @@ description: "Pakistan has test-fired the Fatah-2 ER hypersonic ballistic missil
 pubDate: 2026-10-13T21:45:00+05:00
 category: "Pakistan News"
 image: "/images/pakistan-fatah-2-hypersonic-missile-test.webp"
+imageAlt: "A dark missile launches into an orange sunset sky over a desert site, leaving a huge plume of white smoke"
 ---
 
 For the second time in less than a week, the skies over Pakistan carried the fire trail of a brand-new test. On Tuesday, October 13, 2026, the Pakistan Army successfully test-launched the Fatah-2 Extended Range — better known as the Fatah-2 ER — a hypersonic ballistic missile described by the military as one of the most advanced weapons the country has ever tested. Only days earlier, Pakistan had tested an upgraded version of its Fatah-4 ground-launched cruise missile. Two major missile tests in a single week is not a routine event, and it has naturally raised a big question: what exactly is this new missile, and why does it matter so much?
@@ -56,6 +57,10 @@ Behind all the technical words, the purpose of a test like this is deterrence �
 
 There is also a technology story here. Hypersonic weapons are one of the most difficult fields in modern defence science, pursued by only a limited number of countries. Every successful test places Pakistan's scientists in a demanding global race where navigation, materials, electronics and aerodynamics all have to work perfectly at once, at speeds where a tiny error means total failure. The Fatah-2 ER did not fail. It flew, it manoeuvred, and it completed its test — that is why the achievement is being celebrated.
 
+## You may also like
+
+- [Two Army Pilots Martyred Quetta](https://talhablog.com/blog/pakistan-army-mushshak-crash-quetta-two-pilots-martyred/)
+
 ## Frequently Asked Questions
 
 **What is the Fatah-2 ER missile?**
@@ -75,6 +80,8 @@ The ISPR did not disclose the missile's exact maximum range in its announcement.
 Days before the Fatah-2 ER test, Pakistan also tested an upgraded version of its Fatah-4 ground-launched cruise missile. The two tests covered different types of weapons — a low-flying cruise missile and a high-speed ballistic missile — showing the breadth of Pakistan's missile programme.
 
 One test can be an event. Two tests in a single week is a statement. With the Fatah-2 ER, Pakistan has shown a hypersonic missile that is not only extremely fast but also smart enough to change its path in flight and challenge the most modern defences. The full technical details will stay secret, as they always do — but the message of October 13 was delivered loud and clear, at more than five times the speed of sound.
+
+## Sources
 
 **Source links:**
 - [Dawn](https://www.dawn.com/news/2037012)

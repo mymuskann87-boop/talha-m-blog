@@ -85,6 +85,10 @@ Inventing the future is only the first step. The harder step is daring to change
 
 The camera in the drawer took its revenge in the end.
 
+## You may also like
+
+- [Man Who Invented Instant Noodles](https://talhablog.com/blog/man-who-invented-instant-noodles/)
+
 ## Frequently Asked Questions
 
 **Who invented the first digital camera?**

@@ -60,6 +60,10 @@ The good news is that Sasser's whole trick depends on one thing: a computer that
 
 **Restart loops are a warning sign, not just bad luck.** If a computer ever starts shutting down and restarting on its own in a cycle, treat it as a possible infection: disconnect it from the internet so it cannot spread or be reached, and get it checked rather than fighting the countdown.
 
+## You may also like
+
+- [Virus That Struck Friday 13th](https://talhablog.com/blog/virus-that-struck-friday-13th/)
+
 ## Frequently Asked Questions
 
 **Did Sasser need an email or a click to infect a computer?**

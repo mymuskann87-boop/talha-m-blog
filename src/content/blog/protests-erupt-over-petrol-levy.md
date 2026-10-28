@@ -1,6 +1,6 @@
 ---
 title: "Protests Erupt Over Petrol Levy"
-description: "Of every litre of petrol sold in Pakistan, Rs114 goes straight to the government in taxes and duties — and now fresh protests have been announced over it. Here is one litre, broken into rupees, and why the anger keeps growing."
+description: "Of every litre of petrol sold in Pakistan, Rs114 goes straight to the government in taxes and duties — and now fresh protests have been announced over it."
 pubDate: 2026-10-23T16:20:00+05:00
 image: "/images/protests-erupt-over-petrol-levy.webp"
 imageAlt: "An illustration of frustrated people at a petrol station holding empty fuel cans and blank placards under a giant fuel price board."
@@ -69,6 +69,10 @@ The answer — Rs114 out of every litre of petrol, Rs100 out of every litre of d
 Fresh protests have been announced, and their size and shape will become clear in the days ahead. What is already clear is the pressure behind them. As long as fuel prices keep rising and the levy stays this heavy, the petrol pump will remain one of the most political places in Pakistan — a place where national policy is not debated in words, but counted out, litre by litre, in front of ordinary people.
 
 The young man on the motorbike eventually rides away with his half-full tank. He will be back in a few days, because the bike does not care about budgets. And when the meter starts climbing again, he will watch it the same way as before — tick, tick, tick — wondering how a litre of anything came to carry so much weight.
+
+## You may also like
+
+- [PTI March For Imran Khan](https://talhablog.com/blog/pti-long-march-khyber-pakhtunkhwa/)
 
 ## Frequently Asked Questions
 

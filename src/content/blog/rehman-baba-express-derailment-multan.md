@@ -1,10 +1,11 @@
 ---
 title: "Rehman Baba Express Derails Multan"
-description: "The rescue operation after the Rehman Baba Express derailment near Multan is over. Officials confirm 5 dead and 49 injured, some sources report 7 dead, and a formal inquiry will be held on October 17 and 18."
+description: "The rescue operation after the Rehman Baba Express derailment near Multan is over. Officials confirm 5 dead and 49 injured, some sources report 7 dead"
 pubDate: 2026-10-13T21:45:00+05:00
 updatedDate: 2026-10-14T09:55:00+05:00
 category: "Pakistan News"
 image: "/images/rehman-baba-express-derailment-multan.webp"
+imageAlt: "A derailed green train carriage tilted off the tracks in misty fields, with rescue workers in orange vests and ambulances nearby"
 ---
 
 **Update — Wednesday, October 14:** The rescue operation at the accident site has now been completed, and most of the injured passengers have been sent home from hospital. But a sad confusion remains: different reports give different death tolls. Pakistan Railways' chief executive and Rescue 1122 officials say five people were killed and 49 were injured, while rescue sources quoted by some newspapers put the deaths at seven, including a baby girl of about 18 months. A formal inquiry into the crash will be held on October 17 and 18. The full updated story is below.
@@ -67,6 +68,10 @@ Train accidents are, sadly, not rare in Pakistan. News agencies have long report
 
 Every accident brings the same promises: an inquiry, compensation, better safety. The families of the victims will hope that this time the questions are answered fully — what failed, who was responsible, and what will change so another train, on another dark morning, does not end the same way.
 
+## You may also like
+
+- [HSY Designing New PIA Uniforms](https://talhablog.com/blog/hsy-designing-new-pia-uniforms/)
+
 ## Frequently Asked Questions
 
 **What happened to the Rehman Baba Express?**
@@ -86,6 +91,8 @@ The cause has not been officially established yet. An initial railways report su
 The Railways Minister announced compensation for the families of those who died and for the injured passengers under the Pakistan Railways insurance policy. Stranded passengers were given temporary accommodation, transport and food arrangements by the local administration, and the bodies of the deceased were being sent to their home areas.
 
 The rescue near Sher Shah is over, the tracks are being cleared, and most of the injured have gone home. But for the families who lost someone in those dark early hours, nothing is over. The inquiry on October 17 and 18 must now do its work honestly, because Pakistan's railway carries millions of ordinary people who trust it with their lives every single day. The least they deserve is a journey that brings them home.
+
+## Sources
 
 **Source links:**
 - [Dawn](https://www.dawn.com/news/2036832)

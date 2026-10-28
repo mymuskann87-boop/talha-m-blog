@@ -58,6 +58,10 @@ One limit matters more than all the tips above. In extreme heat, cooling is heal
 
 The same honesty applies to expectations. These steps will not make a tin-roofed room in a heatwave feel like a mountain resort. They will make an ordinary home noticeably cooler and noticeably cheaper to run, which is a real result. The house that learned to breathe that Monday week is still not cold in the afternoon. It is liveable, and the bill at month's end no longer stings the way it used to.
 
+## More ways to save
+
+- [Save Money On Summer Clothes](https://talhablog.com/blog/save-money-on-summer-clothes/)
+
 ## Frequently Asked Questions
 
 **Does a fan actually cool a room?**

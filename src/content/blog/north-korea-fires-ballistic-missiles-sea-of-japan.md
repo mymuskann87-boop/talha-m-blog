@@ -1,6 +1,6 @@
 ---
 title: "North Korea Fires Ballistic Missiles"
-description: "North Korea fired several ballistic missiles from near Pyongyang on October 12, 2026. Some flew more than 900 km, Japan protested, and South Korea held an emergency meeting as tensions on the Korean Peninsula keep growing."
+description: "North Korea fired several ballistic missiles from near Pyongyang on October 12, 2026. Some flew more than 900 km, Japan protested, and South Korea held"
 pubDate: 2026-10-13T09:05:00+05:00
 category: "Conflict"
 image: "/images/north-korea-fires-ballistic-missiles-sea-of-japan.webp"
@@ -59,6 +59,10 @@ It is also worth knowing what did not happen. North Korea issued no public state
 
 For ordinary people in Japan and South Korea, life went on as normal on Monday. No one was harmed, and the missiles fell into the sea. But every launch brings new protests, new meetings and new worries, and it keeps the whole region on edge. Diplomats will keep talking, militaries will keep watching the skies, and until the two Koreas — and the countries around them — find a calmer path, mornings like this one are likely to come again.
 
+## You may also like
+
+- [What Happened Riyadh Airport Attack](https://talhablog.com/blog/riyadh-airport-attack-what-happened/)
+
 ## FAQ
 
 **What did North Korea fire on October 12, 2026?**
@@ -75,6 +79,8 @@ A landmine blast in the DMZ on September 21 injured three South Korean soldiers.
 
 **Why does the UN ban these missile tests?**
 North Korea has been under UN sanctions since 2006 over its nuclear and missile programmes, and the Security Council has banned it from ballistic missile testing. North Korea continues the tests anyway.
+
+## Sources
 
 Sources: Reuters, Kyodo News, AFP, TRT World
 

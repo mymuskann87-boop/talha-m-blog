@@ -59,3 +59,4 @@ So start with the wardrobe, add one fun detail, check the safety bits, and let y
 
 - [The Mirror Showed Someone Else](https://talhablog.com/blog/the-mirror-showed-someone-else/)
 - [Buy Clothes Smart Spend Less](https://talhablog.com/blog/buy-clothes-smart-spend-less/)
+- [Halloween Costumes For Couples Cheap](https://talhablog.com/blog/halloween-costumes-for-couples-cheap/)

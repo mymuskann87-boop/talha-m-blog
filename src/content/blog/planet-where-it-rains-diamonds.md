@@ -71,6 +71,10 @@ So be clear about what we truly know. Nobody has photographed diamond rain on Ne
 
 And there is a gentle bonus for life on Earth. Today, tiny industrial diamonds are mostly made by setting off explosives. These experiments suggest lasers could one day grow nanodiamonds far more cleanly and precisely — diamonds small enough to serve in sensitive medical tools, quantum sensors and scientific instruments. The rain of two distant blue planets may end up helping doctors and engineers here at home.
 
+## You may also like
+
+- [Planet Where Day Outlasts Year](https://talhablog.com/blog/planet-where-day-outlasts-year/)
+
 ## Frequently Asked Questions
 
 **Is it really raining diamonds on Neptune and Uranus?**

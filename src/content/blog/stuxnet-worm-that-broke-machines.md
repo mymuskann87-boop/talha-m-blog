@@ -56,6 +56,10 @@ You will probably never be the target of a state-built cyber weapon. But the tri
 
 **Be slow with files from people you do not know.** Strange attachments, free download sites and "cracked" programs are the everyday cousins of the infected USB stick. If a file arrives with pressure to open it quickly, that pressure itself is the warning sign.
 
+## You may also like
+
+- [Mirai Broke Internet Using Cameras](https://talhablog.com/blog/mirai-broke-internet-using-cameras/)
+
 ## Frequently Asked Questions
 
 **What is Stuxnet in simple words?**

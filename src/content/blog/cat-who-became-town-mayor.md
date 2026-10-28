@@ -57,6 +57,10 @@ The mayor's office, however, did not stay empty for long. Stubbs's owners sugges
 
 Stubbs never passed a law, never signed a paper, and never pretended to be anything but a cat. Yet for twenty years he did something many human politicians never manage: he made his town proud, made strangers smile, and gave a tiny community in Alaska a story the whole world wanted to hear.
 
+## You may also like
+
+- [King Who Renamed His Country](https://talhablog.com/blog/king-who-renamed-his-country/)
+
 ## Frequently Asked Questions
 
 **Was Stubbs officially elected mayor of Talkeetna?**

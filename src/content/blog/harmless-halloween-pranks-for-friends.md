@@ -54,3 +54,4 @@ Halloween is a night for friends, sweets, and silly fun. A harmless prank adds a
 
 - [Voices Beneath The Old Floor](https://talhablog.com/blog/voices-beneath-the-old-floor/)
 - [Beat Impulse Buying With Ease](https://talhablog.com/blog/beat-impulse-buying-with-ease/)
+- [Last Minute Halloween Costume Ideas](https://talhablog.com/blog/last-minute-halloween-costume-ideas/)

@@ -78,3 +78,4 @@ So pick your favourites from this list, practise them once in front of a mirror,
 
 - [Shadows Followed Her Home Tonight](https://talhablog.com/blog/shadows-followed-her-home-tonight/)
 - [Free Fun Ideas For Families](https://talhablog.com/blog/free-fun-ideas-for-families/)
+- [Halloween Party Games Everyone Enjoys](https://talhablog.com/blog/halloween-party-games-everyone-enjoys/)

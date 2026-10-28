@@ -68,6 +68,10 @@ You cannot control everything, but this attack teaches clear, practical lessons 
 
 **Make a plan before the bad day arrives.** Decide in advance: if our computers were locked tomorrow, who do we call, where are our backups, and how do we keep serving customers? A business with a plan panics less and recovers faster — and never has to consider a criminal's price tag in a moment of fear.
 
+## You may also like
+
+- [Shamoon Wiped Thirty Thousand Computers](https://talhablog.com/blog/shamoon-wiped-thirty-thousand-computers/)
+
 ## Frequently Asked Questions
 
 **What does REvil's other name, Sodinokibi, mean?**

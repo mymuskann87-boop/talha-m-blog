@@ -58,6 +58,10 @@ You cannot control gangs on the other side of the world, but you can control the
 
 **Have a simple plan before trouble arrives.** Know who you would call, how you would work on paper for a day, and where your backups are. A small office or family that has thought about it once will panic far less than offices forced to improvise.
 
+## You may also like
+
+- [Check Scammer Number Free Online](https://talhablog.com/blog/check-scammer-number-free-online/)
+
 ## Frequently Asked Questions
 
 **What is Conti ransomware in simple words?**

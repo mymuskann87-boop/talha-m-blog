@@ -66,6 +66,7 @@ Yes. The balanced weight, electronic rear differential and adaptive suspension h
 
 - [Bentley Continental GT Technical Diagram](https://talhablog.com/blog/bentley-continental-gt-technical-diagram/)
 - [Rolls-Royce Ghost Saloon Technical Diagram](https://talhablog.com/blog/rolls-royce-ghost-saloon-technical-diagram/)
+- [Lotus Emira Sports Technical Diagram](https://talhablog.com/blog/lotus-emira-sports-technical-diagram/)
 
 ## Sources
 

@@ -1,6 +1,6 @@
 ---
 title: "Multan Star Shines On Debut"
-description: "A young all-rounder from the dusty grounds of Multan has announced himself to world cricket with a dream debut against Australia. Meet Arafat Minhas, the hometown boy whose rise from junior cricket to the Pakistan one-day team is the feel-good story of the season."
+description: "A young all-rounder from the dusty grounds of Multan has announced himself to world cricket with a dream debut against Australia. Meet Arafat Minhas"
 pubDate: 2026-10-23T15:40:00+05:00
 image: "/images/multan-star-shines-on-debut.webp"
 imageAlt: "An illustration of a young cricketer in a green kit, seen from behind, raising his bat to a cheering crowd in a floodlit stadium."
@@ -93,6 +93,10 @@ Pakistan fans, who love their heroes fiercely and loudly, will hope for exactly 
 Whatever comes next, one thing is already written into the story and cannot be taken away. A young all-rounder from the city of saints walked into international cricket against Australia, in the biggest moment of his young life, and he did not blink. He shone.
 
 The star from Multan has risen. Now the whole cricket world gets to watch how brightly he burns.
+
+## You may also like
+
+- [Pakistan's Adam Gilchrist Goes Viral](https://talhablog.com/blog/pakistan-adam-gilchrist-karachi-teen-century/)
 
 ## Frequently Asked Questions
 

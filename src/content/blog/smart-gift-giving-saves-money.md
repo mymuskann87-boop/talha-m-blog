@@ -52,6 +52,10 @@ Customs matter too. In some families and communities, gift-giving carries strong
 
 There is also the other side of the table: receiving. A person who receives a modest gift graciously gives the giver something priceless — the feeling that it was enough. Gracious receiving is part of the same craft, and it costs nothing at all.
 
+## More ways to save
+
+- [Save Money On Dinner Parties](https://talhablog.com/blog/save-money-on-dinner-parties/)
+
 ## Frequently Asked Questions
 
 **How much should I spend on a gift?**

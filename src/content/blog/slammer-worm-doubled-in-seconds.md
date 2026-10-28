@@ -1,6 +1,6 @@
 ---
 title: "Slammer Worm Doubled In Seconds"
-description: "In January 2003, the 376-byte SQL Slammer worm doubled every 8.5 seconds, infected around 75,000 servers in about ten minutes, and jammed networks across the world."
+description: "In January 2003, the 376-byte SQL Slammer worm doubled every 8.5 seconds, infected around 75,000 servers in about ten minutes, and jammed networks"
 pubDate: 2026-10-23T16:20:00+05:00
 image: "/images/slammer-worm-doubled-in-seconds.webp"
 imageAlt: "An illustration of one tiny glowing red worm on a dark world map splitting into thousands in an explosive chain reaction of light."
@@ -47,6 +47,10 @@ There is also an indirect road, and the morning-after stories prove it. A person
 **Take "boring" security mail seriously.** When a software maker announces an urgent security fix, that dull message is the sound of a door being offered a lock before the crowd arrives. I honestly think the saddest part of the Slammer story is that the cure sat there, free, for six months, and still was not enough on its own. A patch only works on the machines that actually install it.
 
 Ten minutes was all it took for 376 bytes to circle the planet. The next Slammer will be faster. The good news hidden inside this old story is that its victims were not beaten by cleverness; they were beaten by one skipped update, and a skipped update is something anyone can fix today.
+
+## You may also like
+
+- [Storm Worm Built Zombie Army](https://talhablog.com/blog/storm-worm-built-zombie-army/)
 
 ## Frequently Asked Questions
 

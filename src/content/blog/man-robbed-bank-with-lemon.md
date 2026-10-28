@@ -104,6 +104,10 @@ Test your ideas properly, the way Wheeler tried to — but then ask a harder que
 
 Staying teachable is not weakness. It is the one habit that keeps every skill growing.
 
+## You may also like
+
+- [Man Escaped Prison By Helicopter](https://talhablog.com/blog/man-escaped-prison-by-helicopter/)
+
 ## Frequently Asked Questions
 
 **Who was McArthur Wheeler?**

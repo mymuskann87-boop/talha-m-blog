@@ -68,6 +68,10 @@ Her case changed how scientists talk about forgetting. Forgetting, it turns out,
 
 A short, honest note: this article explains a rare condition described in scientific research. It is not medical advice, and it cannot diagnose anyone. If you have worries about your own memory, the right step is to speak to a qualified doctor.
 
+## You may also like
+
+- [Woman Who Never Feels Pain](https://talhablog.com/blog/woman-who-never-feels-pain/)
+
 ## Frequently Asked Questions
 
 **Who is Jill Price?**

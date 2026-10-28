@@ -65,6 +65,10 @@ It is tempting to read this story as a fun challenge. Please do not. Sleep resea
 
 This article shares a piece of history for general interest only. It is not medical advice. If you or someone in your family struggles with sleep, the right step is to talk to a qualified doctor — never to test your limits. The real lesson of the boy who stayed awake for eleven days is not that sleep is optional. It is how quickly and quietly the mind begins to unravel without it — and how much we should respect the thing Randy Gardner went eleven days without.
 
+## You may also like
+
+- [Fake Medicine That Still Works](https://talhablog.com/blog/fake-medicine-that-still-works/)
+
 ## Frequently Asked Questions
 
 **Who was Randy Gardner, and what exactly did he do?**

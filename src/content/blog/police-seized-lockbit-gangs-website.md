@@ -54,6 +54,10 @@ The second shield is updates. The holes that criminals walk through are usually 
 
 The fourth shield is a pause before clicking. Unexpected attachments, surprise invoices and urgent messages demanding instant action are the classic delivery trucks for ransomware. A thirty-second check, such as calling the sender on a number you already trust, breaks most of these attacks before they begin. And one final lesson matters most of all: never build your safety on the hope that a gang will be caught. Operation Cronos was a famous victory, but it arrived after years of victims had already paid, lost data or closed down. Police work is good news when it comes. It is not a protection plan.
 
+## You may also like
+
+- [Police Finally Killed Emotet King](https://talhablog.com/blog/police-finally-killed-emotet-king/)
+
 ## Frequently Asked Questions
 
 **What is LockBit in simple words?**

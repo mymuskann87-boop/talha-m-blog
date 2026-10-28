@@ -1,6 +1,6 @@
 ---
 title: "Zelenskyy Accuses Musk Over Starlink"
-description: "Kyiv says Elon Musk disrupted Ukraine's satellite lifeline, Washington says it ordered nothing — a strange public quarrel over the internet connection Ukraine's army depends on."
+description: "Kyiv says Elon Musk disrupted Ukraine's satellite lifeline, Washington says it ordered nothing — a strange public quarrel over the internet connection"
 pubDate: 2026-10-23T15:00:00+05:00
 image: "/images/zelenskyy-accuses-musk-over-starlink.webp"
 imageAlt: "An illustration of a communications satellite beaming blue signals down to Earth at night, with one beam breaking apart in red sparks."
@@ -63,6 +63,10 @@ Step back from the two voices for a moment, and a bigger picture appears. Wars u
 For ordinary readers, the story carries a quiet warning about the world we now live in. The services we all depend on — for talking, working, learning and staying safe — increasingly belong to a small number of giant companies. Most days, that fact is invisible. On days like this one, when a president accuses and a superpower denies, the whole world suddenly sees the wires — or in this case, the invisible beams — that hold modern life together.
 
 Whether the disruption Ukraine describes is ever fully explained, one thing is certain: as long as this war continues, the small dishes pointing at the sky will remain some of the most important pieces of equipment in Ukraine, and every word spoken about them, in Kyiv or in Washington, will be listened to very carefully indeed.
+
+## You may also like
+
+- [Container Ship Sinks Hormuz Strait](https://talhablog.com/blog/container-ship-sinks-strait-of-hormuz-gfs-pride/)
 
 ## Frequently Asked Questions
 

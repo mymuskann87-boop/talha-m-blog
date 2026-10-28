@@ -86,6 +86,10 @@ Before 22 May 2010, nobody could be certain that Bitcoin would ever work as mone
 
 Laszlo Hanyecz did not lose a fortune on 22 May 2010. At the prices of that day, he paid a perfectly fair 41 dollars for his dinner. What he bought with it was something no amount of money could purchase later at any price: the receipt that started it all.
 
+## You may also like
+
+- [Teenager's Sasser Worm Grounded Flights](https://talhablog.com/blog/teenagers-sasser-worm-grounded-flights/)
+
 ## Frequently Asked Questions
 
 **Who paid 10,000 bitcoins for two pizzas?**

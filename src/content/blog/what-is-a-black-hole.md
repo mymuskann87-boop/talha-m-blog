@@ -69,6 +69,10 @@ Black holes are extreme, strange, and worth studying — but they endanger nothi
 
 One last wonder: near a black hole, time itself passes more slowly, as Einstein's theory of general relativity predicted long before any photo existed — and the glowing rings in the photos match what that theory expected. Studying these strange objects is also how we learn how galaxies like ours were born and grew.
 
+## You may also like
+
+- [Webb Finds Earliest Supernova Ever](https://talhablog.com/blog/webb-finds-earliest-supernova-ever/)
+
 ## Frequently Asked Questions
 
 **Is a black hole really a hole?**

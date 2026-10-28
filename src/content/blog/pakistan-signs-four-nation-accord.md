@@ -1,6 +1,6 @@
 ---
 title: "Pakistan Signs Four Nation Accord"
-description: "Four flags, one table, one promise. Pakistan has joined Turkiye, Qatar and Indonesia in a new defence accord built on self-reliance — here is what each country brings and why it matters."
+description: "Four flags, one table, one promise. Pakistan has joined Turkiye, Qatar and Indonesia in a new defence accord built on self-reliance — here is what each"
 pubDate: 2026-10-23T16:00:00+05:00
 image: "/images/pakistan-signs-four-nation-accord.webp"
 imageAlt: "An illustration of the flags of Pakistan, Turkiye, Qatar and Indonesia waving over a grand signing table with an open document and a golden pen."
@@ -67,6 +67,10 @@ An accord is a beginning, not a finish line. The paper has been signed and annou
 My own view is simple: friendships between countries work the same way as friendships between people — they are strongest when each side brings something, learns something, and leaves the table more capable than before. On paper, at least, this accord has exactly that shape.
 
 Four flags rose together this October. The sky they fly in is wide. What they build under it is now up to them.
+
+## You may also like
+
+- [What Pakistan's Government Crisis Means](https://talhablog.com/blog/pakistan-government-crisis-kp-punjab-petrol/)
 
 ## Frequently Asked Questions
 

@@ -1,6 +1,6 @@
 ---
 title: "Evergrande Founder Gets Life Sentence"
-description: "Evergrande was once China's biggest property company. Then it fell under $300 billion of debt, its founder got life in prison, and now the company is being sold piece by piece. Here is the full story — and why it is still not over."
+description: "Evergrande was once China's biggest property company. Then it fell under $300 billion of debt, its founder got life in prison, and now the company is being"
 pubDate: 2026-10-14T19:30:00+05:00
 category: "Business"
 image: "/images/china-evergrande-collapse-300-billion-debt.webp"
@@ -83,6 +83,10 @@ And this is where the story refuses to end.
 
 The biggest property collapse in modern history is not finished. It has only entered its next chapter — and the whole world is still watching.
 
+## You may also like
+
+- [First Billionaire In World History](https://talhablog.com/blog/first-billionaire-in-world-history/)
+
 ## Frequently Asked Questions
 
 **Is Evergrande completely finished?**
@@ -96,6 +100,8 @@ Hui Ka Yan, once Asia's richest person, was sentenced to life in prison by a She
 
 **Will homebuyers get their money back?**
 Nobody knows, and the numbers are not hopeful: only about $255 million in assets had been sold by last August against around $45 billion of claims. Ordinary buyers are still waiting.
+
+## Sources
 
 **Source links:**
 - [Business Times](https://www.businesstimes.com.sg/international/global/china-evergrande-founder-sentenced-life-prison)

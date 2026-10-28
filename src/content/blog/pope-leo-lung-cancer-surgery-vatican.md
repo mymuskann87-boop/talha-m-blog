@@ -1,9 +1,10 @@
 ---
 title: "Pope Leo Lung Cancer Confirmed"
-description: "Pope Leo XIV, 71, had part of his right lung removed at Rome's Gemelli Hospital after tests confirmed lung cancer. The surgery, what adenocarcinoma means, and why doctors say there is real reason for hope."
+description: "Pope Leo XIV, 71, had part of his right lung removed at Rome's Gemelli Hospital after tests confirmed lung cancer. The surgery, what adenocarcinoma means"
 pubDate: 2026-10-14T12:00:00+05:00
 category: "Health"
 image: "/images/pope-leo-lung-cancer-surgery-vatican.webp"
+imageAlt: "A watercolour view of St Peter's Basilica in the Vatican beside a hospital building with a cross, with a white dove flying in a sunrise sky"
 ---
 
 He walked into the hospital on his own feet, waving and smiling at the people who had gathered to wish him well. A few hours later, Pope Leo XIV was waking up from surgery — and asking for some dinner.
@@ -67,6 +68,10 @@ In the United States, Secretary of State Marco Rubio, who is himself a practisin
 In Australia, Prime Minister Anthony Albanese sent his thoughts and prayers as well, describing Leo as "a voice for peace, humanity and reason" — words that seemed to sum up how many leaders, of many faiths and none, see this Pope.
 
 From ordinary parish churches to heads of government, the message of the week has been the same: get well soon.
+
+## You may also like
+
+- [Twins Reunited After Thirty-Nine Years](https://talhablog.com/blog/twins-reunited-after-thirty-nine-years/)
 
 ## Frequently Asked Questions
 

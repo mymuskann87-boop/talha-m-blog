@@ -54,3 +54,4 @@ Halloween is meant to be a little spooky and a lot of fun. A planned route, brig
 
 - [The Mirror Showed Someone Else](https://talhablog.com/blog/the-mirror-showed-someone-else/)
 - [Cut Kids School Costs Smartly](https://talhablog.com/blog/cut-kids-school-costs-smartly/)
+- [The Real History Of Halloween](https://talhablog.com/blog/the-real-history-of-halloween/)

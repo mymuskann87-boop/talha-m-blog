@@ -70,6 +70,10 @@ You cannot guard a pipeline from your kitchen table, but you can guard the doors
 
 None of this needs special skill or expensive tools. It needs only the habit of remembering your doors — all of them.
 
+## You may also like
+
+- [BlackCat Attacked America's Healthcare Giant](https://talhablog.com/blog/blackcat-attacked-americas-healthcare-giant/)
+
 ## Frequently Asked Questions
 
 **Did DarkSide physically damage the pipeline?**

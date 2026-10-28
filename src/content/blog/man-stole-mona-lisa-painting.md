@@ -60,6 +60,10 @@ His true motive is still argued about today. The patriotic story has a problem: 
 
 Honestly, yes — a very large part of her fame begins here. Before 1911 the *Mona Lisa* was admired by artists and scholars, but she was not yet the global icon she is today; she was not widely known outside the art world. The theft changed that in days. A two-year disappearance, banner headlines, wanted posters, satirical postcards and songs turned a Renaissance portrait into a household name on every continent. Guinness World Records describes the painting as the most valuable object ever stolen, and notes that its long disappearance placed it at the centre of world attention. The crowds who queued to see an empty wall in 1911 were, in a way, the first of the millions who queue to see her today.
 
+## You may also like
+
+- [Man Sold Eiffel Tower Twice](https://talhablog.com/blog/man-sold-eiffel-tower-twice/)
+
 ## Frequently Asked Questions
 
 **Who stole the Mona Lisa?**

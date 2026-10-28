@@ -78,6 +78,10 @@ Glory came with a heavy cost, and no honest telling can hide it. The Curies work
 
 Yet the name they paid for so dearly still serves the world. Element number 96 in the periodic table is called curium, named in honour of Marie and Pierre. The Curie Institutes Marie founded in Paris and in Warsaw remain major centres for medical and cancer research today. And every young student who reads about a Polish girl who was barred from university, crossed a continent, and won science's greatest prize twice, receives the family's final gift: proof that a determined mind can outgrow every wall built in front of it.
 
+## You may also like
+
+- [Einstein Won Nobel Not Relativity](https://talhablog.com/blog/einstein-won-nobel-not-relativity/)
+
 ## Frequently Asked Questions
 
 **Which family has won the most Nobel Prizes?**

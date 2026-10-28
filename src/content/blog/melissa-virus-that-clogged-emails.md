@@ -59,6 +59,10 @@ None of the defences here are complicated, and together they stop almost every a
 - **Slow down on Friday afternoons, deadlines and panics.** Attackers love rushed people. A document that demands instant action is asking you to skip exactly the thinking that would protect you.
 - **Back up your important files somewhere separate.** If a modern macro virus ever does lock or damage your documents, a clean copy kept elsewhere turns a disaster into an inconvenience.
 
+## You may also like
+
+- [Klez Sent Emails As You](https://talhablog.com/blog/klez-sent-emails-as-you/)
+
 ## Frequently Asked Questions
 
 **Did the Melissa virus delete people's files?**

@@ -72,6 +72,10 @@ A budget with zero joy breaks, and the break is always expensive, because it arr
 
 My trolley that day left the shop with rice, lentils, soap and vegetables, and without the gadget, the shirt, the mugs and the giant snack pack. Nothing about the week was poorer for their absence. The gadget is probably still gleaming on its shelf, waiting for someone else's three seconds. My three days passed, and I never thought of it again — which is the test working exactly as it should.
 
+## More ways to save
+
+- [Beat Rainy Season Extra Costs](https://talhablog.com/blog/beat-rainy-season-extra-costs/)
+
 ## Frequently Asked Questions
 
 **What exactly is impulse buying?**
