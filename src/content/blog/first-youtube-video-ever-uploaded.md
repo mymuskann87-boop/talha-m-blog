@@ -1,6 +1,6 @@
 ---
 title: "First YouTube Video Ever Uploaded"
-description: "YouTube began with 19 seconds at a zoo. The true story of Jawed Karim's 'Me at the zoo', the first video ever uploaded to the site."
+description: "When was the first YouTube video uploaded? On 23 April 2005, Jawed Karim posted 19 seconds at San Diego Zoo: Me at the zoo, the first video ever uploaded."
 pubDate: 2026-10-18T12:10:00+05:00
 category: "Technology"
 image: "/images/first-youtube-video-ever-uploaded.webp"
@@ -73,6 +73,14 @@ Hundreds of millions. The Victoria and Albert Museum puts the total at nearly 38
 
 **Can I still watch "Me at the zoo" today?**
 Yes. It is still on YouTube under Karim's original "jawed" account — and a reconstructed 2006 version of its watch page is also on display at the V&A Museum in London.
+
+**When was YouTube itself registered?**
+
+Steve Chen, Chad Hurley and Jawed Karim registered YouTube on 14 February 2005, after all three had worked at PayPal.
+
+**Where was the first YouTube video filmed?**
+
+At the San Diego Zoo, in front of the elephants. Jawed Karim pointed out how very long the elephants' trunks are, and then admitted that is basically all there is to say.
 
 ## Sources
 

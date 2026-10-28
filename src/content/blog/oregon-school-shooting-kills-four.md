@@ -55,21 +55,26 @@ Each time it happens, the same national argument begins again about guns and sch
 
 ## Frequently Asked Questions
 
-**What happened at the Oregon school?**
-On Thursday, a 16-year-old gunman forced his way into Silver Rail Elementary School in Bend, Oregon, and opened fire. Three children and a teacher were killed, and two more people were critically injured.
+**What happened at the Oregon school shooting?**
+On Thursday, just before 1pm local time, the first emergency call came in that someone had fired a gun at a car outside Silver Rail Elementary School in Bend, a city in central Oregon. Police say a 16-year-old boy from Bend then shot at the school's locked doors to force his way inside, carrying a long gun, and opened fire inside. Three children, aged just 5, 8 and 11, were killed, along with one teacher, and a 7-year-old child and a 54-year-old teacher were shot and taken to hospital in a critical condition. Officers reached the school within minutes, but by then the gunman was already dead, stopped by someone else entirely.
 
 **How many people were killed in the Bend school shooting?**
-Four people were killed: three children aged 5, 8 and 11, and one teacher. The attacker also died. A 7-year-old child and a 54-year-old teacher are in hospital in a critical condition.
+Four people were killed: three children aged 5, 8 and 11, and one teacher. The attacker also died. A 7-year-old child and a 54-year-old teacher are in hospital in a critical condition. The school was placed on lockdown after the attack, and a special meeting point was set up so frightened parents could be reunited with their children. Steven Cook, superintendent of the Bend-La Pine school district, said simply: We are heartbroken. We are horrified. The town was left with four funerals to plan, three of them for children who were 5, 8 and 11 years old.
 
-**Who stopped the shooter?**
-A community member who saw the teenager entering the school followed him inside and shot him before police arrived. Police have praised his actions but have not released his name.
+**Who stopped the Oregon school shooter?**
+A community member who saw the teenager entering the school followed him inside and engaged him in a gun battle, and the attacker was shot dead inside the building before police arrived. Police Chief Mike Krantz said the community member followed the teenager inside after seeing him enter. Oregon's Governor, Tina Kotek, said her heart was absolutely broken, and praised the bystander who, in her words, heroically intervened to stop further loss of life, saying his actions would carry a heavy emotional burden. Police have not named the community member, and have praised his actions while keeping his name private.
 
-**What weapon did the attacker use?**
-Police said he carried a long gun. A law enforcement official told the Associated Press it was a pump-action shotgun purchased by the attacker's mother.
+**What weapon did the Oregon attacker use?**
+Police said the attacker carried a long gun, and used it to shoot at the school's locked doors to force his way inside. According to a law enforcement official who spoke to the Associated Press, he used a pump-action shotgun that had been bought by his mother. Police have not released the attacker's name, because he was a minor, and they have also not released the name of the community member who stopped him. The FBI is helping local police with the investigation, and its director, Kash Patel, said every resource the local teams need will be made available to them.
 
-**Do police know the motive?**
-No. Police say the motive is still unknown, and they do not yet know whether the attacker attended the school or knew anyone there. The FBI is assisting the investigation.
+**Do police know why the Oregon school shooter did it?**
+No. Police say they still do not know why he did it, and they do not yet know if he had ever attended the school, or if he knew any of the children or teachers inside. The shooter was a 16-year-old who lived in Bend, and the motive remains unknown while the investigation continues. That uncertainty is part of what makes the story so painful for the town, because there is no explanation to hold on to, only the fact of what happened just before lunch at a school for small children, and the grief that followed.
 
+**What kind of school is Silver Rail Elementary?**
+Silver Rail Elementary teaches children from kindergarten to fifth grade, with the youngest pupils only five years old, and the school had 459 students enrolled last year, according to Oregon's education department. It is a school for small children in Bend, in central Oregon, and the attack happened just before lunch, when the youngest children in the school were inside. After the attack, the school was placed on lockdown, and a special meeting point was set up so frightened parents could be reunited with their children, while the town began the long work of mourning.
+
+**How common are school shootings in the United States?**
+According to CNN's count, this was the 36th shooting on the grounds of a primary or secondary school in the United States this year alone. Each time it happens, the same national argument begins again about guns and school safety. But in Bend this week, that argument feels very far away, because what the town is left with is four funerals to plan, three of them for children. The number shows how often such attacks happen, and why a single shooting in a small city becomes a story all of America talks about.
 ## Sources
 
 - [CNN — 3 children and a teacher were killed in Oregon elementary school shooting](https://www.cnn.com/2026/10/15/us/oregon-school-active-shooter)

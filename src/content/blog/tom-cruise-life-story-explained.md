@@ -1,6 +1,6 @@
 ---
 title: "Tom Cruise Life Story Explained"
-description: "Tom Cruise life story in simple English: childhood, dyslexia, Top Gun, Mission: Impossible stunts, marriages, and today."
+description: "Tom Cruise life story in simple English: where he grew up, his parents, dyslexia, Top Gun, Mission: Impossible stunts, marriages, and today."
 pubDate: 2026-10-18T18:00:00+05:00
 category: "Celebrity"
 image: "/images/tom-cruise-life-story-explained.webp"
@@ -135,47 +135,59 @@ A boy who grew up poor, changed schools again and again, struggled to read, lost
 
 - [Wang Yibo Loves Malaysian Food](https://talhablog.com/blog/wang-yibo-loves-malaysian-food/)
 
-## Frequently Asked Questions About Tom Cruise
-
-**When was Tom Cruise born?**
-Tom Cruise was born on 3 July 1962.
-
-**Where was Tom Cruise born?**
-He was born in Syracuse, New York, United States.
-
-**What is Tom Cruise's full name?**
-His full name is Thomas Cruise Mapother IV.
-
-**How old is Tom Cruise?**
-He is 64 years old in October 2026. He turned 64 on 3 July 2026.
+## Frequently Asked Questions
 
 **What is Tom Cruise famous for?**
+
 Tom Cruise is famous as Ethan Hunt in the *Mission: Impossible* films and as Maverick in *Top Gun* and *Top Gun: Maverick*, and for hit films like *Risky Business*, *Rain Man*, *Born on the Fourth of July*, *A Few Good Men* and *Jerry Maguire*. He is also famous for doing most of his own stunts.
 
+**When was Tom Cruise born?**
+
+Tom Cruise was born on 3 July 1962 in Syracuse, New York, United States. His full name is Thomas Cruise Mapother IV, and he is 64 years old in October 2026, having turned 64 on 3 July 2026. He was a poor boy who could hardly read in class, who moved from school to school and thought about becoming a priest before a knee injury ended his sports dream.
+
+**Where was Tom Cruise born?**
+
+He was born in Syracuse, New York, United States, on 3 July 1962. His full name is Thomas Cruise Mapother IV. His father was Thomas Cruise Mapother III, an electrical engineer who died in 1984, and his mother was Mary Lee Pfeiffer, a special education teacher who died in 2017, and he has three sisters: Lee Anne, Marian and Cass.
+
+**What is Tom Cruise's full name?**
+
+His full name is Thomas Cruise Mapother IV. He was born on 3 July 1962 in Syracuse, New York, United States, and he is 64 years old in October 2026. He is famous as Ethan Hunt in the Mission: Impossible films and as Maverick in Top Gun and Top Gun: Maverick, and for doing most of his own stunts.
+
+**How old is Tom Cruise?**
+
+He is 64 years old in October 2026. He turned 64 on 3 July 2026, having been born on 3 July 1962 in Syracuse, New York. He is alive, living and working in films in 2026, and Top Gun: Maverick from 2022 is his biggest film, earning about 1.49 billion dollars worldwide.
+
 **Who are Tom Cruise's parents?**
+
 His father was Thomas Cruise Mapother III, an electrical engineer who died in 1984, and his mother was Mary Lee Pfeiffer, a special education teacher who died in 2017. He has three sisters: Lee Anne, Marian and Cass.
 
 **Who were Tom Cruise's wives?**
+
 Tom Cruise was married to Mimi Rogers (1987–1990), Nicole Kidman (1990–2001) and Katie Holmes (2006–2012). All three marriages ended in divorce, and he is not married at present.
 
 **How many children does Tom Cruise have?**
+
 He has three children: Isabella Jane (born 1992) and Connor Antony (born 1995), adopted during his marriage to Nicole Kidman, and Suri Cruise (born 2006), his daughter with Katie Holmes.
 
 **What is Tom Cruise's net worth?**
+
 Celebrity Net Worth estimates his net worth at about $600 million. This is a reported estimate, not an exact figure confirmed by Tom Cruise.
 
 **What was Tom Cruise's first film?**
+
 His first film was *Endless Love* in 1981, where he had a small role. His breakthrough leading role was *Risky Business* in 1983.
 
 **What is Tom Cruise's biggest film?**
+
 *Top Gun: Maverick* (2022) is his biggest film, earning about $1.49 billion worldwide. It was also his first film to cross $1 billion.
 
 **Has Tom Cruise won an Oscar?**
+
 He has never won a competitive Oscar, despite four nominations. In November 2025 the Academy gave him an honorary Oscar for his commitment to filmmaking, his support of the theatrical experience and his body of work.
 
 **Is Tom Cruise still alive?**
-Yes. Tom Cruise is alive, 64 years old, living and working in films in 2026.
 
+Yes. Tom Cruise is alive, 64 years old, living and working in films in 2026. He was born on 3 July 1962 in Syracuse, New York, and he turned 64 on 3 July 2026. His biggest film is Top Gun: Maverick, from 2022, which earned about 1.49 billion dollars worldwide and was his first film to cross 1 billion dollars.
 ## Sources
 
 - Britannica — Tom Cruise biography, breakout roles, Mission: Impossible list, Top Gun: Maverick, Digger, personal life and honorary Oscar: https://www.britannica.com/biography/Tom-Cruise

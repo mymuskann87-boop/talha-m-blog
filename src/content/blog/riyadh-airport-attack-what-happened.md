@@ -69,18 +69,23 @@ For now, the most important facts are the human ones, and they deserve to be sta
 
 ## Frequently Asked Questions
 
-**What happened at King Khalid International Airport in Riyadh on October 10?**
-
-On Saturday, October 10, a missile strike hit the airport. Saudi civil aviation authorities said 12 people were killed and 309 wounded, some critically, and operations were suspended while flights were diverted.
+**What happened at Riyadh airport on 10 October?**
+On Saturday, October 10, a missile strike hit King Khalid International Airport in Riyadh, the capital of Saudi Arabia, in a shocking attack on a busy civilian airport. Saudi civil aviation authorities said 12 people were killed and 309 wounded, some critically, and airport operations were suspended while flights were diverted. It was the third attack on the airport that week, and officials called it the deadliest strike on Saudi soil in more than a decade, which helps explain the strong language used by governments in their responses.
 
 **Who were the victims of the Riyadh airport attack?**
+According to Saudi civil aviation authorities, the dead included four Saudis, two Bangladeshis, and one person each from the United States, Egypt, Jordan, Syria, Palestine and Sudan. The victims came from many countries, as is often true at a large international airport, where travellers and workers from around the world pass through every day. Authorities also said 309 people were wounded, some critically, and this post does not share graphic details, because they are not needed to understand what happened and the families involved deserve dignity and privacy.
 
-According to the authorities, the dead included four Saudis, two Bangladeshis, and one person each from the US, Egypt, Jordan, Syria, Palestine and Sudan.
+**Why was this attack called the deadliest in more than a decade?**
+Officials called it the deadliest strike on Saudi soil in more than a decade because of the scale of the casualties, 12 killed and 309 wounded in a single strike on a civilian airport, and because it was the third attack on the same airport in one week. Three attacks in one week points to a repeated danger at the same civilian location, not a single incident. An airport is a place of journeys, reunions and work, which is a big part of why this attack drew such wide condemnation from governments around the world.
 
-**Who was blamed for the Riyadh airport attack, and how did the world respond?**
+**How many flights were cancelled after the Riyadh airport strike?**
+Reports said 291 flights were cancelled in 24 hours, attributed to FlightAware tracking, after airport operations were suspended and flights were diverted. In simple words, planes meant to use the airport had to go elsewhere or wait, leaving thousands of passengers unsure when they would get home. Travellers were advised to follow official airline and airport updates rather than rumours on social media, especially while information was still changing quickly, because schedules in such a situation can change at short notice.
 
-The Saudi-led coalition blamed Yemen's Iran-backed Houthis and called the attack a war crime. UN Secretary-General António Guterres condemned it, US President Trump called it unacceptable, and India also condemned it.
+**Who was blamed for the Riyadh airport attack?**
+The Saudi-led coalition blamed Yemen's Iran-backed Houthis for the attack and called it a war crime, while a diplomatic source attributed it to a missile. These are claims made by officials and sources in the reporting, presented in this post as such, and readers should expect more official statements over time. What is clear, and stated plainly in this post, is the human cost described by Saudi civil aviation authorities: 12 killed and 309 wounded, with the victims including Saudis and visitors, workers and travellers.
 
+**How did the world react to the Riyadh airport attack?**
+The reaction from international leaders was quick and strong. UN Secretary-General Antonio Guterres condemned the attack, saying attacks on civilians and civilian infrastructure violate international law and must cease immediately, sending a clear message that airports, travellers and other civilians should not be targets. US President Trump also spoke about the attack, saying it was not acceptable, and India condemned the attack as well. Together, these reactions show a shared position across very different governments: whatever the wider conflict, striking a civilian airport and harming ordinary people crosses a line.
 ## Sources
 
 - UN News — https://news.un.org/en/story/2026/10/1168572

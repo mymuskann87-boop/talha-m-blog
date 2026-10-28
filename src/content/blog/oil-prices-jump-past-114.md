@@ -84,7 +84,7 @@ Brent crude is the most famous oil price benchmark in the world. When news repor
 
 **How high is $114 compared with recent months?**
 
-It is the highest level in more than five months. Brent crude climbed to its highest since May, which is why this jump made headlines around the world.
+It is the highest level in more than five months. Brent crude climbed to its highest since May, which is why this jump made headlines around the world. The jump followed reports of escalating Houthi attacks, including attacks on Saudi oil facilities, a drone attack on King Fahd International Airport in Dammam, and deaths from drone debris at an Aramco-operated field. Traders feared oil supplies could be disturbed, so they bought quickly and pushed the price up, which is why this jump made headlines around the world.
 
 **Will petrol prices in my country also go up?**
 

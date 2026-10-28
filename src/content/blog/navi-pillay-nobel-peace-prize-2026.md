@@ -71,7 +71,7 @@ She defended Nelson Mandela and other anti-apartheid activists as a lawyer, serv
 
 **How many South Africans have won the Nobel Peace Prize?**
 
-Pillay is the fifth South African to win the prize, according to the announcement coverage.
+Pillay is the fifth South African to win the prize, according to the announcement coverage. She is 85, of Tamil (Indian) origin, a part of her story noted with pride in many places, and actor Kamal Haasan called her journey extraordinary and described the win as a moment of pride for Tamils everywhere. The committee honoured her role in making sure war crimes, crimes against humanity and genocide are prosecuted, through a career that ran from defending anti-apartheid activists to leading international courts and the UN human rights office.
 
 ## Sources
 

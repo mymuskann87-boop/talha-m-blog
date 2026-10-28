@@ -72,10 +72,10 @@ Maybe that is why the town loves its festival so much. Once a year, the storm co
 ## Frequently Asked Questions
 
 **Where does the fish rain happen?**
-In and around Yoro, a town in the department of Yoro in Honduras, a country in Central America.
+In and around Yoro, a town in the department of Yoro in Honduras, a country in Central America. Reports of it go back to the 1800s, well over a hundred years, and to this day nobody on Earth can fully explain it. When people step outside after the storm, they find the ground covered with fish: hundreds of small silver fish, still living, flipping and struggling on the wet earth.
 
 **When does it happen?**
-During the rainy season, usually around May or June. Reports say it happens at least once a year, and in some years twice.
+During the rainy season, usually around May or June. Reports say it happens at least once a year, and in some years twice. The reports follow the same pattern almost every time. In the rainy season, usually around May or June, a huge storm rolls over the Yoro area, with rain so heavy that everyone stays indoors until it passes. When the sky clears and people step outside, they find the ground covered with fish.
 
 **Do fish really fall from the sky there?**
 That is the famous claim, but it has never been proven. Live fish are certainly found on the ground after heavy storms. Experts are divided between waterspouts carrying fish through the air and underground rivers pushing fish up to the surface.

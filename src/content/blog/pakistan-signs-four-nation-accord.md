@@ -76,11 +76,11 @@ Four flags rose together this October. The sky they fly in is wide. What they bu
 
 **Which countries signed the accord with Pakistan?**
 
-Pakistan signed the joint defence cooperation accord with three partners: Turkiye, Qatar and Indonesia. The four countries together form the partnership.
+Pakistan signed the joint defence cooperation accord with three partners: Turkiye, Qatar and Indonesia, four countries spread across three corners of the map, from the Mediterranean's edge all the way to the Pacific. Turkiye brings its rising defence industry, built factory by factory from buyer to producer. Qatar brings resources, connections and balance as a small country that talks to many sides. Indonesia, the giant of Southeast Asia, brings scale, geography and ambition, with its shipyards, growing technical base and huge population. Pakistan brings a large, experienced military and its own journey from depending on others to producing at home.
 
 **When and where was the accord announced?**
 
-The accord was reported on 21 October 2026, and it was announced from Ankara, the capital of Turkiye, according to Reuters reporting carried by Arab News.
+The accord was reported on 21 October 2026, and it was announced from Ankara, the capital of Turkiye, according to Reuters reporting carried by Arab News. The announcement coming from Ankara tells its own small story: this was not a deal pushed on reluctant partners, but a shared step presented from the heart of one of the four capitals. Four flagpoles in a row, one by one the flags climbing into the sky together, now matches something real, a formal promise between countries to help each other in military matters.
 
 **What is the main aim of the accord?**
 

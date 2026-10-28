@@ -1,6 +1,6 @@
 ---
 title: "Moon Is Drifting Away Yearly"
-description: "Scientists bounce laser light off mirrors Apollo astronauts left on the Moon, and the returning flash keeps arriving a little later every year."
+description: "The Moon takes about 27 days to orbit Earth, and laser light bounced off Apollo mirrors shows it drifting a little farther away every year."
 pubDate: 2026-10-19T20:00:00+05:00
 category: "Space"
 image: "/images/moon-is-drifting-away-yearly.webp"
@@ -62,7 +62,7 @@ They use lunar laser ranging. Observatories fire laser pulses at reflector array
 
 **How fast is the Moon moving away each year?**
 
-About 3.8 centimetres (1.5 inches) per year, according to NASA measurements — roughly 3 millimetres a month, about the speed your fingernails grow.
+About 3.8 centimetres (1.5 inches) per year, according to NASA measurements — roughly 3 millimetres a month, about the speed your fingernails grow. Year after year of measurements point the same way. Lunar laser ranging has shown, in the words of NASA's Jet Propulsion Laboratory, that the distance between Earth and the Moon increases by about 1.5 inches, 3.8 centimetres, every year, which works out to roughly 3 millimetres a month. To picture 3.8 centimetres a year, scientists often compare it to something growing quietly on your own body: it is about the speed at which your fingernails grow.
 
 **Why does the Moon move away instead of falling toward Earth?**
 
@@ -75,6 +75,9 @@ Not in any human timescale. The change is a few centimetres a year. Its effects 
 **When will the last total solar eclipse happen?**
 
 Scientists estimate roughly 600 million years from now. By then the Moon will have drifted about another 23,500 kilometres away and will look too small to cover the Sun completely, so only annular and partial eclipses will remain.
+
+**How many times does the Moon orbit the Earth in a day?**
+Less than once. The Moon takes about 27 days to complete one orbit around Earth, so in a single day it covers only about one twenty-seventh of its orbit. Earth, by contrast, spins once every 24 hours, which is why our planet spins so much faster than the Moon travels, dragging the ocean tidal bulges slightly ahead of the Moon and slowly pushing it into a wider, more distant orbit.
 
 ## Sources
 

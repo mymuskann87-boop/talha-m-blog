@@ -65,7 +65,7 @@ Messi scored two goals in Inter Miami's 4-0 win. He found the net in the 47th mi
 
 **Who else scored for Inter Miami in the match?**
 
-Luis Suárez scored the other two goals, both in the first half. He opened the scoring in the 3rd minute and added his second in the 39th minute.
+Luis Suárez scored the other two goals, both in the first half, in what was his third season with Miami. In the 3rd minute, Germán Berterame headed the ball into his path, and Suárez finished neatly inside the left post to make it 1-0. The second arrived in the 39th minute in classic Suárez style: Messi forced goalkeeper Sean Johnson into a save, Berterame reacted fastest to the rebound and headed it across goal, and Suárez was standing in exactly the right place to tap the ball home. The two goals took Suárez to 15 goals and 9 assists for the season, his third straight year with at least ten goals and twenty goal contributions.
 
 **Was this Messi's first match after retiring from Argentina?**
 
@@ -73,11 +73,11 @@ Yes. It was his first club match after his final appearance for Argentina four d
 
 **How many goals does Messi have this MLS season?**
 
-Messi now has 23 goals and 13 assists this season. He leads the Golden Boot race by four goals ahead of FC Dallas striker Petar Musa.
+Messi now has 23 goals and 13 assists this MLS season, the kind of output most forwards can only dream of across a whole career peak, never mind at 39 years old. In the Golden Boot race he sits four goals ahead of his nearest rival, FC Dallas striker Petar Musa, and he is chasing a second straight Golden Boot. The individual honours could go further still: he could become the first player in history to win the Landon Donovan MLS MVP award three times, a once-unthinkable record that is now a genuine possibility heading into the final stretch.
 
 **When do Inter Miami play next?**
 
-Inter Miami's next match is on Wednesday night, when they host New York City FC.
+Inter Miami's next match is on Wednesday night, when they host New York City FC at home, with no long rest ahead after Saturday's 4-0 win. After a performance like that, the home fans will arrive expecting more of the same: Suárez sharp in the box, Messi pulling the strings, and a team that suddenly looks like it believes again. The win lifted Miami to second place in the Eastern Conference with 49 points, and the final stretch of the season is where the Golden Boot and MVP races will be decided.
 
 *Sources: MLS Soccer, NDTV Sports, The National and Mathrubhumi English reported this match on October 11, 2026.*
 

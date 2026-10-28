@@ -125,6 +125,12 @@ Probably, but do not relax completely. Close the page, do not download anything 
 
 In the US: forward phishing emails to reportphishing@apwg.org, texts to 7726 (SPAM), and report at ReportFraud.ftc.gov. In Pakistan: forward the fraud SMS to PTA on 9000, and report serious fraud to the FIA cybercrime helpline 1991.
 
+**How can I spot a fake message before I click anything?**
+Take the example message apart line by line: it calls you "Dear Customer" instead of using your name, because your bank knows your name and this sender does not. It says your account will be BLOCKED today, using fear on purpose, because a scared person does not check details and simply taps. It claims "incomplete verification" without any real detail, while real problems come with real details. And the link is the whole point of the message: everything before it is just pressure pushing your thumb toward it. One sign is a warning, but several together mean you should delete it.
+
+**What should I do if I clicked a fake link and typed my password?**
+Do not waste time on shame, spend it on speed. If you gave away personal or financial information, such as a card or bank account number, the FTC directs people to IdentityTheft.gov, which walks you through the exact steps for the kind of information you lost, and you should also contact your bank through its official number and tell them what happened. Change the password of any account involved from a clean, safe device, switch on two-factor authentication, and if you opened an attachment or think harmful software may have downloaded, update your security software and run a full scan. Then report the message, delete it, and warn your family, because the same message is probably buzzing on their phones too.
+
 ## Sources
 
 - U.S. Federal Trade Commission — Protect yourself from phishing scams: https://consumer.ftc.gov/consumer-alerts/2025/04/protect-yourself-phishing-scams

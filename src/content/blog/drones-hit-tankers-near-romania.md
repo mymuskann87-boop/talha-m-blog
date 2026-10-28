@@ -57,21 +57,26 @@ For now, the most urgent work is simple and human: finding seven missing sailors
 
 ## Frequently Asked Questions
 
-**What happened near Romania in the Black Sea?**
-Drones hit two chemical tankers near the town of Sulina on Wednesday night and Thursday morning. The Yara J caught fire inside Romanian waters and its crew was safe. The Wine Trader was hit just outside Romanian waters; five of its 12 sailors were rescued and seven are missing.
+**What happened to the tankers near Romania in the Black Sea?**
+Drones hit two chemical tankers near the Romanian town of Sulina on Wednesday night and Thursday morning. The Yara J caught fire inside Romanian waters, and its crew managed to put out the flames themselves, with every sailor on board safe. The Wine Trader was hit just outside Romanian waters, at about 7 in the morning on Thursday, after explosions and a fire on board; five of its 12 sailors were rescued and seven are missing. Romanian President Nicusor Dan later confirmed in Brussels that drones had hit both ships.
 
-**Which ships were hit?**
-The Wine Trader, sailing under the flag of San Marino and travelling from Tunisia to Romania, and the Yara J, a Comoros-flagged chemical and oil tanker travelling from Turkey. NATO said two more ships, the Sea Destiny and the Dania J, were also targeted the same night.
+**Which ships were hit near Romania and where were they?**
+The two main ships were the Wine Trader, a chemical tanker sailing under the flag of San Marino and travelling empty from Tunisia to Romania, and the Yara J, a Comoros-flagged chemical and oil tanker. The Yara J was anchored about 8 to 10 miles southeast of Sulina, inside Romania's territorial waters, while the Wine Trader was about 13 nautical miles southeast of Sulina, roughly one mile outside Romanian waters. Both ships were waiting near the mouth of the Sulina Canal, where the Danube River meets the Black Sea, a spot where ships often anchor, slowed by weather and busy traffic.
 
-**Who is blamed for the drone attacks?**
-Romania's president confirmed drones hit the ships but did not publicly blame Russia. A NATO military source said the drones were of Russian origin. Moscow said ships carrying military cargo towards Odesa had been hit, but did not name any vessels.
+**How many sailors are missing after the tanker attacks?**
+Seven sailors are missing, all from the Wine Trader, which had 12 crew members on board. The first reports said eight people were missing, but Romanian officials later corrected the number to seven. Of the 12, five were rescued and checked by medical teams: one had burns to the scalp, another had breathed in smoke, and the others appeared unharmed. Romania's Interior Ministry sent two Black Hawk helicopters and two ships with medical staff to search for the missing men, but very large waves made it unsafe to carry out the rescue at first.
 
-**Why was the rescue so difficult?**
-Romania sent two Black Hawk helicopters and two ships with medical staff, but officials said very large waves made it unsafe to carry out the rescue at first.
+**Who is blamed for the drone attacks on the tankers?**
+Romania's president confirmed that drones hit the ships but declined to say in public whether Russia was responsible, and neither Romania nor Bulgaria has directly blamed Russia in public. A NATO military source, however, said the drones that set the tankers on fire were of Russian origin. Reports also carried a statement from Moscow saying that two cargo ships carrying military cargo towards Ukraine's Odesa port had been hit, but Moscow did not name the ships, and that claim could not be confirmed independently.
+
+**Why was the rescue of the missing sailors so difficult?**
+Romania sent two Black Hawk helicopters and two ships with medical staff, but officials said the sea itself became the biggest problem. The Interior Ministry said the rescue could not be carried out safely at that moment because the waves were very big, and the search had to fight rough weather as it went on. The most urgent work, finding seven missing sailors in a rough, cold sea, had to be done before the waves that slowed the rescue made the task impossible.
+
+**Were other ships targeted in the Black Sea that night?**
+Yes. NATO said two other vessels were also targeted in the Black Sea that same night: the Sea Destiny, a bulk carrier sailing under the flag of the Marshall Islands, which was inside Romanian waters, and the Dania J, a tanker flying the flag of Tanzania, which was moored in Izmail, a Ukrainian port on the Danube. NATO did not report casualties from those two ships. NATO said it is in close contact with Romanian officials, and its Secretary General, Mark Rutte, met President Dan and Bulgaria's Prime Minister Rumen Radev, with a summit planned to discuss the growing drone attacks in the Black Sea.
 
 **Why does this attack matter for the wider world?**
-The ships were near the Sulina Canal, a key Danube route Ukraine uses to export grain while its own ports are attacked. At least one strike happened inside the waters of Romania, a NATO member, which raises the risk that the war spreads further.
-
+The ships were near the Sulina Canal, a key Danube route Ukraine uses to export grain while its own Black Sea ports are attacked, and Romania, Ukraine and their neighbours are among the world's important grain exporters, so trouble in these waters is felt in food prices and supply chains around the world. At least one strike happened inside the waters of Romania, a member of both NATO and the European Union, which carries extra weight, because an attack on one NATO member can, in the most serious cases, become a matter for the whole alliance. The strikes were also part of a bigger wave: in the past 10 days, at least five other cargo ships had been hit near Romania and Bulgaria, with at least 23 sailors missing or dead.
 ## Sources
 
 - [Reuters — Two ships ablaze in Romanian Black Sea waters, 8 sailors missing](https://www.reuters.com/world/two-ships-ablaze-romanian-black-sea-waters-8-sailors-missing-2026-10-15/)

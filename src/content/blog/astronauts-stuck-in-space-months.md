@@ -98,7 +98,7 @@ Their Boeing Starliner capsule developed helium leaks and thruster failures on t
 
 **How many days were the astronauts in space?**
 
-They spent 286 days in space, from 5 June 2024 to 18 March 2025 — 278 days longer than the roughly eight days originally planned.
+They spent 286 days in space, from 5 June 2024 to 18 March 2025 — 278 days longer than the roughly eight days originally planned. They launched on 5 June 2024 at 10:52 in the morning Florida time from Cape Canaveral, on the first Starliner flight ever to carry people. They came home on 18 March 2025, so a trip meant to last about eight days stretched into most of a year.
 
 **Were the astronauts ever in real danger?**
 

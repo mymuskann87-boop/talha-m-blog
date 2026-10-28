@@ -90,7 +90,10 @@ Because plastic holds the same basic ingredients — carbon and hydrogen, and in
 It is a strange form of water that may exist deep inside ice giants, where oxygen atoms sit in a fixed crystal pattern while hydrogen nuclei move freely through it. It can conduct electricity, so it may help create the planets' unusual magnetic fields.
 
 **Could we ever collect those diamonds?**
-No. They lie thousands of miles deep, under pressure and heat that would destroy any machine we could send. Their value is knowledge, not treasure.
+No. They lie thousands of miles deep, under pressure and heat that would destroy any machine we could send. Their value is knowledge, not treasure. Inside the planets, researchers predict the falling diamonds could grow very large over time, possibly reaching millions of carats, and gather into a thick layer around the core. In the laboratory they were only a few nanometres wide, and they lie thousands of miles deep under pressure and heat that would destroy any machine we could send, so their value is knowledge, not treasure.
+
+**Which planets have diamond rain?**
+Uranus and Neptune, the two blue ice giants past Mars, Jupiter and Saturn. Deep inside them, crushing pressure turns carbon into diamonds that fall like rain, sinking slowly through the darkness toward the heart of each planet. Scientists have not seen it directly, because nobody can look inside a planet, but laboratory experiments copying the planets' inner conditions produced real diamonds from the same ingredients, so the evidence is strong that this sparkling rain truly falls there.
 
 ## Sources
 

@@ -1,6 +1,6 @@
 ---
 title: "Man Stole Mona Lisa Painting"
-description: "In 1911 a quiet museum workman walked out of the Louvre with the Mona Lisa. Follow the dated timeline of the theft that made a painting world famous."
+description: "In 1911 a quiet museum workman stole the Mona Lisa from the Louvre and walked out with it. The dated timeline of the theft that made a painting famous."
 pubDate: 2026-10-19T19:20:00+05:00
 category: "Crime"
 image: "/images/man-stole-mona-lisa-painting.webp"
@@ -68,7 +68,7 @@ Honestly, yes — a very large part of her fame begins here. Before 1911 the *Mo
 
 **Who stole the Mona Lisa?**
 
-The thief was Vincenzo Peruggia, an Italian glazier and decorator who had briefly worked at the Louvre and had helped build the painting's protective glass case.
+The thief was Vincenzo Peruggia, an Italian glazier and decorator who had briefly worked at the Louvre and had helped build the painting's protective glass case. Peruggia was born on 8 October 1881 in Dumenza, a small village in the Italian Alps near the Swiss border. In 1908 he moved to Paris, like many young Italians looking for work, and found jobs as a decorator and glazier, a man who works with glass. For a short time he worked inside the Louvre, and he had helped build the painting's protective glass case.
 
 **How did Peruggia steal the Mona Lisa?**
 
@@ -76,15 +76,18 @@ On the museum's closing day, Monday 21 August 1911, he entered dressed in a work
 
 **How long was the Mona Lisa missing?**
 
-Just over two years — from August 1911 until December 1913, when Peruggia tried to sell it in Florence and was arrested.
+Just over two years — from August 1911 until December 1913, when Peruggia tried to sell it in Florence and was arrested. For over two years, the Mona Lisa lay in a trunk in Paris while the world wondered where she was. In November 1913 Peruggia wrote, under the name Leonardo, to Alfredo Geri, an art dealer in Florence, Italy, offering to bring the painting to Italy in return for a reward, and he was arrested when he tried to sell it there.
 
 **Was Picasso really accused of stealing the Mona Lisa?**
 
-Yes. Picasso and the poet Guillaume Apollinaire were arrested and questioned during the investigation, then released. Neither man had anything to do with the theft.
+Yes. Picasso and the poet Guillaume Apollinaire were arrested and questioned during the investigation, then released. Neither man had anything to do with the theft. Police even searched the passengers of an ocean liner about to sail, and searched another ship in New York. The poet Guillaume Apollinaire was arrested, and he named his friend, the young Spanish painter Pablo Picasso, who was also brought in and questioned. Both men were released, and both were completely innocent, but the arrests show how desperate, and how lost, the police had become.
 
 **How long did Peruggia spend in prison?**
 
 He was sentenced to one year and fifteen days, and served only about seven months after an appeal — a light sentence, helped by the court's view that he had acted from patriotic motives.
+
+**When was the Mona Lisa stolen?**
+On Monday, 21 August 1911, the museum's closing day, when Vincenzo Peruggia entered dressed in a worker's white smock, lifted the painting off its four iron pegs, removed the frame and case on a service stairway, and walked out through a service door with the panel hidden under his smock. The painting was missing for just over two years, from August 1911 until December 1913, when Peruggia tried to sell it in Florence and was arrested, and the theft is what made the painting world famous.
 
 ## Sources
 

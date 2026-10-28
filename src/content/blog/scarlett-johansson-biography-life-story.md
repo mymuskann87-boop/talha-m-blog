@@ -1,6 +1,6 @@
 ---
 title: "Scarlett Johansson: Black Widow's Story"
-description: "Scarlett Johansson life story in simple English: childhood in New York, early films, Marvel years, awards, and family."
+description: "Who is Scarlett Johansson? Her childhood, origin and education, early films, Marvel years, awards, and family — her life story in simple English."
 pubDate: 2026-10-11T12:30:00+05:00
 updatedDate: 2026-10-17
 category: "Celebrity"
@@ -110,18 +110,25 @@ Scarlett Johansson's story is a story of hard work. She started as a child actor
 
 ## Frequently Asked Questions
 
+**Which two films made 2003 Scarlett Johansson's breakthrough year?**
+
+Lost in Translation, in which she played a lonely young woman in Tokyo and won the BAFTA Award for Best Actress, and Girl with a Pearl Earring, in which she played the girl in the famous painting by Johannes Vermeer.
+
 **When was Scarlett Johansson born?**
 
-Scarlett Johansson was born on 22 November 1984 in New York City.
+Scarlett Johansson was born on 22 November 1984 in New York City. Her full name is Scarlett Ingrid Johansson, and she is married to Colin Jost, whom she married in 2020. She first appeared on stage as a child in an Off-Broadway play in New York, and her first film was North in 1994, when she was still a child.
 
 **What is Scarlett Johansson's full name?**
 
-Her full name is Scarlett Ingrid Johansson.
+Her full name is Scarlett Ingrid Johansson. She was born on 22 November 1984 in New York City, and she is married to Colin Jost, whom she married in 2020. Her breakthrough came in 2003 with Lost in Translation, which won her the BAFTA Award for Best Actress, and Girl with a Pearl Earring.
 
 **Who is Scarlett Johansson married to?**
 
-She is married to Colin Jost. They married in 2020.
+She is married to Colin Jost. They married in 2020. She was born on 22 November 1984 in New York City, her full name is Scarlett Ingrid Johansson, and her first big role came in Manny and Lo in 1996, where she played a young girl on the run and was nominated for an Independent Spirit Award at a very young age.
 
+**What was Scarlett Johansson's first big role?**
+
+Manny and Lo (1996), where she played a young girl on the run. Critics liked her work, and she was nominated for an Independent Spirit Award at a very young age.
 ## Sources
 
 - [Wikipedia: Scarlett Johansson](https://en.wikipedia.org/wiki/Scarlett_Johansson)

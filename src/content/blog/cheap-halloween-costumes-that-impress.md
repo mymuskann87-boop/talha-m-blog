@@ -49,3 +49,17 @@ So this Halloween, skip the expensive shop aisle. Grab a sheet, a box, and a lit
 - [Whispers From The Empty House](https://talhablog.com/blog/whispers-from-the-empty-house/)
 - [Buy Clothes Smart Spend Less](https://talhablog.com/blog/buy-clothes-smart-spend-less/)
 - [Best Horror Movies This Halloween](https://talhablog.com/blog/best-horror-movies-this-halloween/)
+
+## Frequently Asked Questions
+
+**How can I make a cheap Halloween costume that impresses?**
+
+A costume does not need a big price tag to win hearts. Last October, a small boy in an old white bedsheet with two eye holes stopped the whole street, while a child in a costly shiny costume got no reaction at all. Most of us already have everything we need at home: a black bin bag can become a witch's cape, a cardboard box can turn into a robot, and an old shirt with a few patches can make a scarecrow. A costume made at home carries a story, and that story is what makes it memorable, not the price on the label.
+
+**What is the easiest Halloween costume to make at home?**
+
+The bedsheet ghost never fails. Take an old white sheet, fold it in half, and ask an adult to cut two eye holes. Add a few grey smudges with an old pencil or some light face paint, and you have a ghost that looks soft, a little silly, and very friendly. Tie a ribbon around the waist or add a small hat to dress it up, keep the sheet short enough that nobody trips over it, and make the eye holes wide enough to see clearly.
+
+**What can I make a Halloween costume from?**
+
+Cardboard is the secret weapon of cheap costumes. A big box, some paint, and safe scissors can build almost anything: cut a hole for the head and two for the arms, paint it silver, and you have a robot, then add bottle caps as buttons and a kitchen colander as a helmet. A cardboard box can also become a television, a car, or a house with windows. A black bin bag becomes a witch's cape, and an old shirt with patches becomes a scarecrow that looks like it walked straight out of a field.

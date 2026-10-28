@@ -68,6 +68,17 @@ It has not rung again. Not yet. But last night, when he came home late, he found
 
 He has not touched them. He will not touch them. Because now he understands the rule that Ray was trying to teach him from the other side of a disconnected line: some calls are not meant to be answered, some keys are not meant to be taken, and the third call is never a warning. The third call is an invitation. And Daniel has decided, quite firmly, that he will not be home when it comes.
 
+## Frequently Asked Questions
+
+**Who called Daniel from a dead man's phone number?**
+Daniel's phone showed the name Uncle Ray, a name he had deleted from his contacts seven days earlier, after the funeral, because seeing it there had felt like leaving a door open in an empty flat. Ray had died the previous Tuesday, Daniel had carried the coffin and watched the earth go over it, and the first call came at 11:47 at night, followed by a second call at 11:49, from the same name and the same number. The phone company later told Daniel the number had been disconnected on the day of the funeral, at the family's request, and that no calls could come from it, because there was nothing left to call from, using the word impossible twice.
+
+**What did the voicemail from Uncle Ray say?**
+The voicemail was in Ray's voice, rough from forty years of cigarettes and slow in the way of a man who never hurried a sentence, and it said: Danny boy, you left your keys on my table. Come and get them before the rain gets in. Daniel had not left his keys on Ray's table, and had never left his keys anywhere except his own pocket, but Ray had always called him Danny boy, and no one else had ever used that name. When Daniel went to Ray's house to collect the last boxes, he found his own keys, his house key, his car key, and the small brass key to his mother's old trunk, sitting in the exact centre of the kitchen table, in a room that had been empty for a week.
+
+**What warning did Ray give Daniel on the second call?**
+On the second night, the phone rang at exactly 11:47 again, and Daniel answered on the second ring to hear rain on the other end, although the night outside his window was clear. Ray's voice said: You didn't take them, Danny boy. You have to take them, because if you don't, he'll use yours instead. When Daniel asked who, Ray answered very quietly, as if afraid of being overheard by something standing close beside him: The man who took my keys first. Daniel understood, with terrible clarity at midnight, that Ray had not been calling to frighten him, but to warn him, and that somewhere, someone was collecting keys, gathering the small metal objects that open the doors of the living, one set at a time, and Ray's had been first.
+
 ## More stories to read
 
 - [The Mirror Showed Someone Else](https://talhablog.com/blog/the-mirror-showed-someone-else/)

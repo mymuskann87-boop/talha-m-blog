@@ -1,6 +1,6 @@
 ---
 title: "Cat Who Became Town Mayor"
-description: "For 20 years, Talkeetna, Alaska had a cat for a mayor. The true, funny story of Stubbs, the orange cat who ruled a town from a general store."
+description: "The mayor cat in Alaska: for 20 years, Talkeetna had a cat for a mayor. The true, funny story of Stubbs, the orange cat who ruled from a general store."
 pubDate: 2026-10-18T21:50:00+05:00
 category: "Politics"
 image: "/images/cat-who-became-town-mayor.webp"
@@ -67,10 +67,10 @@ Stubbs never passed a law, never signed a paper, and never pretended to be anyth
 No. The write-in election is the famous version of the story, but Talkeetna is an unincorporated community with no real mayor's post, so there was no official election. His title of mayor was honorary.
 
 **Where was Mayor Stubbs's office?**
-Nagley's General Store in Talkeetna, Alaska, where he lived and greeted visitors. Every afternoon he visited the West Rib restaurant next door for his catnip water.
+Nagley's General Store in Talkeetna, Alaska, was Mayor Stubbs's office, and his working day would make any politician jealous. He lived at the store, greeted shoppers, posed for endless photographs, and received fan mail, with some 30 to 40 tourists a day coming hoping to meet him, many passing through on their way to Denali. Every afternoon he made his way to the restaurant next door, the West Rib, for his official refreshment: water mixed with catnip, served in a wine glass or a margarita glass, before settling down for a nap.
 
 **How did Stubbs get his name?**
-He was a part-Manx kitten born without a proper tail — only a little stub. The store manager who adopted him, Lauri Stec, named him Stubbs because of it.
+He was an orange, part-Manx kitten born without a proper tail, just a small stub where a tail should be, and that little stub gave him his name: Stubbs. He was found in 1997 by Lauri Stec, the manager of Nagley's General Store, in a box of kittens being given away in the store's parking lot. One kitten stood out, the orange one with the stub, and Stec adopted him, giving him the name that would become famous around the world.
 
 **What happened to Stubbs in 2013?**
 A dog attacked him, leaving him with a punctured lung and a fractured sternum. He was treated at a veterinary hospital in Wasilla, recovered after nine days, and fans around the world donated more than enough to cover his care.

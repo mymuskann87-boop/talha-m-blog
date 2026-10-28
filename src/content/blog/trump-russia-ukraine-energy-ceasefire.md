@@ -84,29 +84,28 @@ That memory hangs over this week's announcement. A claim repeated is not the sam
 ## Frequently Asked Questions
 
 **Did Russia and Ukraine actually agree to an energy ceasefire?**
+That is not confirmed. President Trump announced one, Ukraine said it was ready to accept one if Russia did, and Russia has not confirmed that any agreement exists. So at this stage, it is an announcement, not a verified deal. The announcement was made in a few lines on social media, and the two countries actually fighting have not jointly confirmed it, which is why this post calls it words that the world is wise to wait and watch, until the strikes truly stop and the lights stay on.
 
-That is not confirmed. President Trump announced one, Ukraine said it was ready to accept one if Russia did, and Russia has not confirmed that any agreement exists. So at this stage, it is an announcement, not a verified deal.
+**When and how did Trump announce the energy ceasefire?**
+On Sunday, October 11, 2026, US President Donald Trump posted a short message on his Truth Social platform declaring that an energy ceasefire between Russia and Ukraine was starting right away, writing that both sides had agreed and ending with a warning: Do not break it. The post sounded like huge news, but within hours a very different picture started to appear, with missing pieces, surprised leaders and fresh reports of attacks. The announcement gave no start time beyond immediately, no end date, no list of places covered, and no explanation of who would check that both sides were keeping their word.
 
 **What is an energy ceasefire?**
+It is a limited pause in which both sides agree to stop attacking energy systems, power stations, electricity grids and similar facilities, while other fighting may continue. It is narrower than a full ceasefire, because soldiers would still fight on the front lines, and missiles and drones could still be used against military targets, with only attacks on energy systems stopping. Even so, for ordinary people in Ukraine, where power cuts have become a part of daily life, such a pause would matter a great deal, because it would protect the heating and electricity that keep homes warm through the winter.
 
-It is a limited pause in which both sides agree to stop attacking energy systems — power stations, electricity grids and similar facilities — while other fighting may continue. It is narrower than a full ceasefire.
+**Why did Ukraine's president seem surprised by the announcement?**
+Because, by his own account, he learned of the announcement from the media. Ukrainian President Volodymyr Zelenskyy admitted openly that the announcement was news for me, having learned about it from the media, just like everyone else, rather than through a phone call or an official message. His position was not simply negative: he said Ukraine would accept an energy ceasefire if Russia did the same, asked Washington to tell him when exactly it begins, and said Ukraine was ready. In other words, Kyiv did not reject the idea, it simply had not been part of making it.
 
-**Why did Ukraine's president seem surprised?**
-
-Because, by his own account, he learned of the announcement from the media. He said it "was news for me", and asked Washington to tell him when the ceasefire is supposed to begin.
-
-**What did Russia say?**
-
-Russia did not confirm any deal. Kremlin spokesman Dmitry Peskov said contacts were continuing and that Moscow would speak when it had something to say. On the separate idea of a 60-day total ceasefire for elections, Peskov said Russia wants long-term peace, not a ceasefire.
+**What did Russia say about the energy ceasefire?**
+Russia did not confirm any deal. Kremlin spokesman Dmitry Peskov said contacts were continuing and that Moscow would speak when it had something to say. On the separate idea of a 60-day total ceasefire for elections, Peskov said Russia wants long-term peace, not a ceasefire. Repair work around the Zaporizhzhia power station may move ahead, based on Rosatom's comments, but until Moscow confirms an agreement and attacks on energy systems actually stop, the energy ceasefire exists mainly as words.
 
 **Were there really strikes after the announcement?**
+According to President Zelenskyy, yes. He accused Russia of hitting Kyiv's electricity grid and energy facilities in Kharkiv after Trump's post, causing power cuts. These are Ukraine's claims about events on the ground, reported as part of the dispute over whether any ceasefire is operating. The strikes, if confirmed, would show the gap between the announcement and the reality on the ground, where people in Ukrainian cities judge a ceasefire only by whether the lights stay on and the attacks stop.
 
-According to President Zelenskyy, yes. He accused Russia of hitting Kyiv's electricity grid and energy facilities in Kharkiv after Trump's post, causing power cuts. These are Ukraine's claims about events on the ground, reported as part of the dispute over whether any ceasefire is operating.
+**What details were missing from Trump's ceasefire announcement?**
+Almost all of them. The post was short, and that is part of the problem: it said an energy ceasefire was in effect immediately, but gave no start time beyond that word, no end date, no list of places covered, and no explanation of who would check that both sides were keeping their word. For something as serious as a pause in a war, the announcement was just a few lines long, with no details about monitoring, duration, or scope. That absence of detail is why Ukraine asked Washington when exactly the ceasefire is supposed to begin, and why Russia's silence left the deal unconfirmed.
 
-**What happens next?**
-
-That is the open question. Repair work around the Zaporizhzhia power station may move ahead, based on Rosatom's comments. But until Moscow confirms an agreement and the attacks on energy systems actually stop, the "energy ceasefire" exists mainly as words.
-
+**What happens next with the energy ceasefire?**
+That is the open question. Repair work around the Zaporizhzhia power station may move ahead, based on Rosatom's comments. But until Moscow confirms an agreement and the attacks on energy systems actually stop, the energy ceasefire exists mainly as words. The honest summary, as this post puts it, is short: a powerful announcement, made in a few lines on social media, that the two countries actually fighting have not jointly confirmed. Ukraine says it is ready but was never told. Russia says almost nothing. And people in Ukrainian cities will judge this ceasefire the only way that matters, by whether the lights stay on.
 ## The Bottom Line
 
 Right now, the honest summary is short: a powerful announcement, made in a few lines on social media, that the two countries actually fighting have not jointly confirmed. Ukraine says it is ready but was never told. Russia says almost nothing. And people in Ukrainian cities, watching their power grids and their skies, will judge this ceasefire the only way that matters — by whether the lights stay on. Until the strikes truly stop, the world is wise to wait, watch, and hope that the words eventually become real.

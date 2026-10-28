@@ -57,3 +57,21 @@ The best part of a last-minute costume is the story behind it. When someone asks
 - [Voices Beneath The Old Floor](https://talhablog.com/blog/voices-beneath-the-old-floor/)
 - [Buy Clothes Smart Spend Less](https://talhablog.com/blog/buy-clothes-smart-spend-less/)
 - [Halloween Pumpkin Carving Ideas Easy](https://talhablog.com/blog/halloween-pumpkin-carving-ideas-easy/)
+
+## Frequently Asked Questions
+
+**What is the best last-minute Halloween costume?**
+
+Some of the best costumes ever seen were thrown together in under fifteen minutes, and a quick homemade costume often gets more compliments than an expensive shop-bought one. The trick is simple: pick one strong idea and go all in on it. The classic ghost needs only an old white bedsheet and two eye holes, cut a little larger than you think you need so you can see properly, and kept short enough that you will not trip on it, because everyone recognises it instantly.
+
+**How can I dress as a mummy in 15 minutes?**
+
+Wrap strips of an old white sheet or bandage cloth loosely around your arms, legs, and body over plain clothes, and leave a little mess on purpose. A mummy is supposed to look untidy, so there is no way to get it wrong. Add dark circles around your eyes with a soft pencil if you like, and the whole costume is ready in minutes from things already at home.
+
+**What can I wear as a Halloween costume from my wardrobe?**
+
+The tourist who got lost needs a bright shirt, shorts, sunglasses, a sun hat, a camera around your neck, and a paper map, and people laugh the moment they see you. The witch with a twist needs a black outfit, a pointy hat made from folded black card, and a broom from the kitchen, plus a twist of your choice, like a handbag, bright red shoes, or a cooking spoon instead of a wand. The mad scientist needs a white shirt open over normal clothes, messy hair, a jar with coloured water, and old glasses, with no face paint at all.
+
+**How do I make a last-minute costume memorable?**
+
+A small strange detail is what makes people remember the costume. The witch's twist, a handbag, bright red shoes, or a cooking spoon instead of a wand, turns a base outfit into a talking point. A quick homemade costume often gets more compliments than an expensive shop-bought one, because the joke is clear, the idea is strong, and the maker went all in on one idea instead of buying a set.

@@ -45,3 +45,21 @@ A few last things to pack: a phone with charge for the adult, a bottle of water,
 - [Shadows Followed Her Home Tonight](https://talhablog.com/blog/shadows-followed-her-home-tonight/)
 - [Cut Kids School Costs Smartly](https://talhablog.com/blog/cut-kids-school-costs-smartly/)
 - [Halloween Outfits For Kids Cheap](https://talhablog.com/blog/halloween-outfits-for-kids-cheap/)
+
+## Frequently Asked Questions
+
+**How can I keep kids safe trick-or-treating on Halloween?**
+
+Safety rules work best when children help make them, not when adults just hand them over. Sit down together before the night, talk through the plan, and let your child suggest a rule or two, because a child who helped write the rules is far more likely to follow them. Keep the tone light: this is not a lecture, but a team talk before a fun night out, and trick-or-treating is one of the happiest nights of the year for children.
+
+**Should kids stay with an adult on Halloween?**
+
+Young children should always walk with an adult, and older children should stay in a small group with a clear plan. Pick a route before you leave the house, agree on a meeting point in case anyone gets separated, and choose a familiar street with good lighting over a new street in the dark. If older children go out with friends instead of adults, agree on check-in times, a short message every half hour, a shared location on the phone, and a firm time to be home, and never let the group split up to cover more houses.
+
+**How can I make my child visible on Halloween night?**
+
+Halloween happens after dark, so being visible matters a lot. Bright costumes are easier to spot than dark ones, and a strip of reflective tape on a costume, a bucket, or a shoe works wonders. Glow sticks are cheap, fun, and children love carrying them, and a small torch in the pocket helps both for seeing the path and for being seen by drivers. Check masks before you leave: a mask should never block the eyes, nose, or mouth, and if a child keeps lifting the mask to see, switch to face paint instead.
+
+**How should families plan the Halloween route?**
+
+Pick a route before you leave the house, and agree on a meeting point in case anyone gets separated. A familiar street with good lighting beats a new street in the dark every time. Walk on sidewalks wherever they exist, cross roads only at corners or crossings, hold hands with little ones near traffic, and remind older children to look both ways even when they are excited. Costumes can be long and masks can block side vision, so remind children to turn their whole head when they look for cars.

@@ -1,6 +1,6 @@
 ---
 title: "First Email Ever Sent Anywhere"
-description: "In late 1971, engineer Ray Tomlinson sent the first message ever to travel from one computer to another, and chose the @ symbol that still sits in every"
+description: "The first email ever sent travelled between two computers in late 1971. How Ray Tomlinson sent it, and why he chose the @ symbol for every address."
 pubDate: 2026-10-23T10:50:00+05:00
 image: "/images/first-email-ever-sent-anywhere.webp"
 imageAlt: "An illustration of two old computers in side-by-side 1971 offices connected by a cable, with the first email travelling between them."
@@ -74,6 +74,14 @@ Tomlinson himself. His tests were sent from one BBN computer to another a few fe
 
 **How many emails are sent today?**
 The Radicati Group estimates that around 392 billion emails are sent and received worldwide each day in 2026, across roughly 4.7 billion email users. Treat the exact figure as a well-informed estimate rather than a precise count.
+
+**Who received the first email?**
+
+Tomlinson himself. His tests were sent from one BBN computer to another a few feet away, addressed to his own mailbox, simply to prove the delivery worked.
+
+**Is email older than the World Wide Web?**
+
+Yes. Network email began on ARPANET in 1971, the internet in its modern form is usually dated to 1 January 1983, and the World Wide Web was invented in 1989. Email is older than both.
 
 ## Sources
 

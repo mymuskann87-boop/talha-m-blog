@@ -284,7 +284,7 @@ A guest post on a real, respected website in your topic can bring you readers, t
 
 **Is guest blogging the same as guest posting?**
 Yes, completely.
-Guest blogging is simply the older name for the same thing.
+Guest blogging is simply the older name for the same thing. Whichever name is used, the deal is the same: your name appears with the article, so a completely new audience learns who you are, and at the end of the article there is usually a short introduction about you, with one link back to your own website inside it.
 
 **How do I find websites that accept guest posts?**
 Search Google for **write for us** plus your topic, and look at the websites in your field that publish articles by outside writers.

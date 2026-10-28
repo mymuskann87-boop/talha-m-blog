@@ -55,3 +55,21 @@ Halloween is meant to be a little spooky and a lot of fun. A planned route, brig
 - [The Mirror Showed Someone Else](https://talhablog.com/blog/the-mirror-showed-someone-else/)
 - [Cut Kids School Costs Smartly](https://talhablog.com/blog/cut-kids-school-costs-smartly/)
 - [The Real History Of Halloween](https://talhablog.com/blog/the-real-history-of-halloween/)
+
+## Frequently Asked Questions
+
+**What are the trick-or-treat safety rules?**
+
+Plan the route first, sticking to streets you know and houses with their porch lights on, because a lit porch is a quiet invitation and a dark house is not part of the game. Check costumes before the door opens, so children can see clearly through any mask and long capes do not trail on the ground, and add something bright to every costume. Walk, do not run, stay on pavements, cross at corners, and stay together as a group, then wait on the doorstep at every house and never eat treats on the street.
+
+**Which houses should children visit on Halloween?**
+
+Stick to streets you know, and houses with their porch lights on. A lit porch is a quiet invitation, while a dark house is not part of the game, so walk past it without knocking. Plan the route first, before stepping out, so the group knows exactly where it is going and no child is left guessing which doors belong to the night's game.
+
+**How should children behave at the door?**
+
+Teach children to wait on the doorstep, not to step inside a stranger's house, even if invited warmly, because a kind host will always understand. Take treats politely, say thank you, and move on, because the best nights move at a steady pace and not a race to the most houses. Stay together as a group, and keep the group small enough that one adult can actually watch everyone.
+
+**Should children eat sweets while trick-or-treating?**
+
+Never eat treats on the street. Wait until you are home, where an adult can check everything first, and throw away anything unwrapped or damaged. These rules are not meant to spoil the fun: they are meant to protect it, so that every child comes home tired, happy, and safe, and the evening stays a happy memory instead of a spoiled one.

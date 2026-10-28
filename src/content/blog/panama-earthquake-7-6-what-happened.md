@@ -63,18 +63,23 @@ Living in such a region means preparation matters — clear evacuation habits an
 
 ## Frequently Asked Questions
 
-**How strong was the Panama earthquake on October 9, 2026, and where was its epicentre?**
-
-The US Geological Survey first measured it at 8.0, then revised it to 7.6 and later 7.7. Its epicentre was about 10 km from Pitaloza Arriba in Herrera province, at a depth of about 10 km.
+**How strong was the Panama earthquake and where was its epicentre?**
+The US Geological Survey first measured the earthquake at 8.0, then revised it to 7.6 and later to 7.7, as more readings came in and the estimate was adjusted, which is a normal part of how measurements improve in the first hours. Its epicentre, the point on the surface closest to where the quake began, was about 10 km from the small town of Pitaloza Arriba in Herrera province, at a depth of about 10 km, which is relatively shallow, and shallow earthquakes are often felt more strongly at the surface. The quake struck on Friday, October 9, 2026, and a second quake of about 6.6 followed, with more than 80 aftershocks reported.
 
 **Were there any casualties in the Panama earthquake?**
-
-No casualties were immediately reported, according to AP reports. Damage was concentrated in the Veraguas, Herrera and Los Santos provinces, while no damage was reported in Panama City, about 200 km away.
+No casualties were immediately reported, according to AP reports, even though buildings and roads collapsed near the centre of the country and people evacuated tall buildings in the capital. Damage was concentrated in the Veraguas, Herrera and Los Santos provinces, near the centre of the country, where reports said buildings and roads collapsed and local TV showed a cathedral in Penonome that had collapsed. No damage was reported in Panama City, about 200 km away, though the coming days for the affected provinces were expected to be about recovery, with thoughts for everyone affected.
 
 **Was there a tsunami after the Panama earthquake?**
+A tsunami warning was issued for the coasts of Panama, Colombia, Costa Rica, Ecuador, Peru, Nicaragua, Guatemala, El Salvador and Mexico, and the threat later passed. The warning was issued because a powerful, shallow earthquake under the sea can displace water and send waves toward distant coasts, so coastal countries across the region were alerted at once. In the end, the tsunami threat passed, and the story of the earthquake became one of damage and aftershocks on land, rather than waves at sea, though the warning itself shows how seriously the first reports were taken.
 
-A tsunami warning was issued for the coasts of Panama, Colombia, Costa Rica, Ecuador, Peru, Nicaragua, Guatemala, El Salvador and Mexico, and the threat later passed.
+**What did Panama's president say about the earthquake?**
+President Jose Raul Mulino called it a major disaster and asked people to stay calm. That matters in a crisis, because calm communities share information more clearly, keep roads open for emergency help, and look after neighbours. The president's message was part of the first official response, alongside the work of rescue and assessment teams in the provinces where buildings and roads had collapsed, and it set the tone for the days that followed, in which recovery, not blame, was the focus for communities in Veraguas, Herrera and Los Santos.
 
+**Why do earthquakes happen in Panama?**
+Panama lies along the Pacific Ring of Fire, a region around the Pacific Ocean where the earth's crust is especially active, and powerful earthquakes are a known risk. Despite the name, the Ring of Fire is not about flames, but about the active geology of the Pacific rim, where tectonic plates meet and move. Living in such a region means preparation matters, with clear evacuation habits and quick official warnings helping to protect people when the ground moves, and the Panama quake, with its shallow depth and many aftershocks, is a reminder of that standing risk.
+
+**Why did the reported size of the Panama earthquake keep changing?**
+You may have seen three different numbers for this one quake, 8.0, 7.6 and 7.7, and the explanation is simple. The US Geological Survey first measured it at 8.0, then revised it to 7.6, and later to 7.7, because in the first hours scientists work with early information, and as more readings come in, the estimate is adjusted. A revision is a normal part of how these measurements improve, and either way this was a powerful earthquake, with its epicentre about 10 km from Pitaloza Arriba at a depth of about 10 km, followed by a second quake of about 6.6 and more than 80 aftershocks.
 ## Sources
 
 - AP via The Weather Channel — https://weather.com/2026/10/09/news/weather/panama-earthquakes-aftershocks-updates-damage

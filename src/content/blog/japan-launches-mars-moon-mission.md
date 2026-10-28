@@ -96,7 +96,7 @@ The mission launched from the Tanegashima Space Center in Japan. Liftoff was sch
 
 **When will the spacecraft reach Mars?**
 
-The spacecraft is scheduled to arrive at Mars in August 2027, after a long cruise through space following its launch from Earth.
+The spacecraft is scheduled to arrive at Mars in August 2027, after a long cruise through space following its launch from Earth. After a long cruise through space following its launch from Earth, the spacecraft is scheduled to arrive at Mars in August 2027. Its main work is then to study Phobos and Deimos and determine how these moons formed, whether they are captured asteroids or debris left over from an ancient impact on Mars, and to bring samples of surface material back to Earth.
 
 **What is NASA contributing to the mission?**
 

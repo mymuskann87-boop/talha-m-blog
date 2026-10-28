@@ -1,6 +1,6 @@
 ---
 title: "Taylor Swift Academy Museum Gala"
-description: "Taylor Swift will perform at the Academy Museum Gala on October 17, 2026 in Los Angeles. Meet the honorees, the co-chairs and the cause it supports."
+description: "Taylor Swift will perform at the Academy Museum Gala on October 17, 2026, in Los Angeles. The date, honorees, co-chairs, and the cause it supports."
 pubDate: 2026-10-11T21:50:00+05:00
 category: "Celebrity"
 image: "/images/taylor-swift-academy-museum-gala-2026.webp"
@@ -68,6 +68,13 @@ The evening will honour Charlize Theron, Colman Domingo and John Carpenter. Thei
 
 The fundraiser supports the museum's exhibitions, film screenings and education programs. That is the purpose the museum shared in its announcement.
 
+**Who are the co-chairs of the Academy Museum Gala 2026?**
+
+The co-chairs include Tom Ford, Robert Rodriguez, Steven Spielberg and Kate Capshaw, whose names were included by the museum as part of the official announcement.
+
+**What did the museum director say about Taylor Swift?**
+
+Academy Museum director and president Amy Homma praised Swift as an extraordinary talent whose work resonates around the world. Those kind and careful words tell you how the museum sees this booking: the praise was not only about fame, but about her work and the way that work reaches people in many places, which explains the thinking behind inviting her to perform at this particular event.
 ## Sources
 
 - Just Jared — https://www.justjared.com/2026/10/08/taylor-swift-perform-2026-academy-museum-gala-honorees/

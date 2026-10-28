@@ -1,6 +1,6 @@
 ---
 title: "Evergrande Founder Gets Life Sentence"
-description: "Evergrande was once China's biggest property company. Then it fell under $300 billion of debt, its founder got life in prison, and now the company is being"
+description: "Evergrande, once China's biggest property company, fell under $300 billion of debt, its founder got life in prison, and liquidators now sell what is left."
 pubDate: 2026-10-14T19:30:00+05:00
 category: "Business"
 image: "/images/china-evergrande-collapse-300-billion-debt.webp"
@@ -93,13 +93,16 @@ The biggest property collapse in modern history is not finished. It has only ent
 As a working company, yes. A Hong Kong court ordered it liquidated in January 2024 and its shares were delisted last year. What remains is a legal process: liquidators selling its pieces and fighting court cases to recover money for creditors.
 
 **How much money does Evergrande owe?**
-It defaulted on most of its roughly $300 billion in liabilities. Formal creditor claims in the liquidation are reported at around $45 billion.
+It defaulted on most of its roughly $300 billion in liabilities. Formal creditor claims in the liquidation are reported at around $45 billion. Evergrande was the biggest property builder in China, a country of 1.4 billion people. The company defaulted on most of its $300 billion debt, construction stopped on project after project, and a Hong Kong court ordered it liquidated in January 2024, so that whatever could be sold would be sold to repay creditors.
 
 **What happened to Evergrande's founder?**
 Hui Ka Yan, once Asia's richest person, was sentenced to life in prison by a Shenzhen court on August 20, 2026, after being convicted of crimes including misuse of funds and bribery.
 
 **Will homebuyers get their money back?**
 Nobody knows, and the numbers are not hopeful: only about $255 million in assets had been sold by last August against around $45 billion of claims. Ordinary buyers are still waiting.
+
+**Why did Evergrande collapse in simple words?**
+Evergrande sold homes that did not exist yet and borrowed huge sums to keep building, so it owed around $300 billion. Then a crackdown on developers who had borrowed too much closed the tap while the bills were still filling up: loans became hard to get, buyers grew nervous, and sales slowed. One by one the payment deadlines arrived and the money was not there, so the company defaulted on most of its $300 billion debt, construction stopped on project after project across China, and a Hong Kong court ordered it liquidated in January 2024.
 
 ## Sources
 

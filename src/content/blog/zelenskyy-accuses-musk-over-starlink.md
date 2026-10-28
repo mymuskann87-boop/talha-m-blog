@@ -71,21 +71,22 @@ Whether the disruption Ukraine describes is ever fully explained, one thing is c
 ## Frequently Asked Questions
 
 **What exactly is Starlink?**
-
-Starlink is a satellite internet service run by SpaceX, the company founded by Elon Musk. Instead of sending the internet through cables and towers, it beams connections down from a large group of satellites orbiting close to the Earth. Users connect through a small dish that can be set up almost anywhere.
+Starlink is a satellite internet service run by SpaceX, the company founded by Elon Musk. Instead of sending the internet through cables and towers, it beams connections down from a large group of satellites orbiting close to the Earth, and users connect through a small dish that can be set up almost anywhere. A dish can be carried in a box, placed on a roof or beside a tent, and switched on, which is why it works where wars have destroyed towers and wires, and why it became a lifeline for Ukraine after the war with Russia began.
 
 **What is President Zelenskyy accusing Elon Musk of?**
+President Zelenskyy has accused Elon Musk of disrupting the Starlink network in Ukraine, the same network that Ukraine's military and civilians rely on heavily for communication during the war with Russia. Kyiv's message, in simple words, is that the connection its people depend on was interfered with, and the man whose company controls it bears responsibility. A president does not publicly blame a man like Musk unless he believes the matter is grave, or unless he wants the whole world to hear the complaint loudly and clearly, and the accusation travelled fast around the world for that reason.
 
-Zelenskyy has accused Musk of disrupting the Starlink network in Ukraine — the same network that Ukraine's military and civilians rely on heavily for communication during the war with Russia.
-
-**What has the United States said about the accusation?**
-
-The United States has denied ordering a slowdown of the Starlink network in Ukraine. Washington's position is that it gave no such instruction.
+**What has the United States said about the Starlink accusation?**
+The United States has denied ordering a slowdown of the Starlink network in Ukraine, saying it gave no such instruction. The denial matters because of the close relationship between America, Ukraine and SpaceX, with the US as Ukraine's strongest supporter in the war, supplying weapons, money and intelligence, and with contracts involving satellite services passing through that partnership. If Washington had quietly asked for the network to be slowed, that would be a political earthquake, and Washington's answer says the opposite: no such order was given, leaving two statements that do not fit together.
 
 **Why does Ukraine depend on Starlink so much?**
+Ukraine depends on Starlink because the war has damaged or destroyed much of its normal communication infrastructure, and satellite dishes keep working where towers and cables cannot. Soldiers use it to communicate along a long front line, commanders use it to share information quickly, and hospitals, officials, journalists and ordinary families have also depended on it when normal networks went dark. Its dishes are small, portable and hard to knock out all at once, because the satellites above keep moving and there are so many of them, with no single tower whose fall silences a whole region.
 
-Because the war has damaged or destroyed much of Ukraine's normal communication infrastructure. Starlink's portable dishes keep working where towers and cables cannot, giving soldiers, officials, hospitals and families a connection that arrives from the sky and is very hard to shut down completely.
+**What else happened on the day the Starlink quarrel broke?**
+The argument did not appear on a quiet day. On the same day these reports spread, Russian aerial strikes killed nine people in Ukraine, while President Zelenskyy was meeting US and European officials in Norway, with talks about support, weapons and the future of the war happening in calm rooms far away. That contrast explains the emotion behind Kyiv's accusation, because for Ukraine's leaders, every discussion about networks, aid and promises happens against the sound of real attacks, and a disrupted connection is measured in danger for people they are responsible for protecting.
 
+**Why does private ownership of Starlink worry Ukraine?**
+The network does not belong to a government, but to a private company run by one very famous man, which is unusual in the history of war, when communications were controlled by states and armies. The system still runs through accounts, decisions and company policies made far from the battlefield, and a soldier in a trench cannot repair a decision taken in an office on another continent. That dependence, on technology the country does not own, controlled by a man it cannot command, is the deeper worry behind Zelenskyy's words: the accusation is about disruption, but the anxiety underneath it is about dependence itself.
 ## Sources
 
 - ABP Live (news headlines, 23 October 2026) — https://news.abplive.com/education/school-assembly-news-headlines-today-october-23-top-national-international-sports-business-news-1872688

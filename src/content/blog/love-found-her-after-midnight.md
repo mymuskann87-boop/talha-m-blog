@@ -78,6 +78,20 @@ She leaned forward and kissed his cheek, soft and slow, and he closed his eyes a
 
 Some love stories do not begin with fireworks or grand speeches. Some begin at 1:40 in the morning, in a small café on a quiet street, with a cup of coffee and a kind word that one person forgets and another never can.
 
+## Frequently Asked Questions
+
+**Why did Daniel come to the cafe at 1:40 every night?**
+Daniel came at 1:40 every night because Maya, working the night shift at the little cafe on Rose Lane, had once, without being asked, poured him a coffee and said: This one is on the house. Tomorrow will be kinder, on a night when he had lost his job and his small flat in the same week, and had walked the streets all night with nowhere to go. He never forgot that kindness, came back the next night to thank her but was too shy to speak, and kept coming for four months, sitting in the window seat with black coffee, no sugar, in the blue cup, reading a worn paperback until 2:15, because the cafe and Maya had become the one place in the city where he felt like a person again.
+
+**What did Maya write on the napkin for Daniel?**
+Maya, twenty-six and saving for a small flat of her own, who worked nights for taxi drivers, nurses, students and lonely people, wrote Have a good night on a napkin and slipped it under Daniel's saucer, after her coworker Rosa said: That one likes you. Daniel read it, looked up, met her eyes for one long second, nodded, folded the napkin carefully, put it in his coat pocket, and left, leaving Maya standing behind the counter feeling like a schoolgirl and a fool and something else she did not dare to name. It was the bravest thing she had dared in four months of silent visits, and it was the first small bridge between two people who had been watching each other without words.
+
+**How did Daniel finally speak to Maya?**
+On the night of the great storm, when wind threw rain against the windows and the cafe was empty except for Maya and Rosa, Daniel arrived at 1:40 soaked to the skin, looking lost, and Maya hurried to him with a clean towel, saying: You will catch a cold. Here. Please. He stared at the towel, looked at her face, and said, in a voice rough from months of silence: Thank you, the first word he had ever spoken to her. After that night, he began to speak, a few words, then sentences, then his whole story, and he told her he had found a new job working nights at the hospital stores, which was why he was always awake when the rest of the world slept.
+
+**What happened when Daniel walked Maya home at dawn?**
+As Maya's shift ended and the sky turned pale gold, Daniel asked the question he had been carrying for months: May I walk you home? Maya said yes before he had finished asking, and they walked through the waking streets together, past shuttered shops and birds beginning to sing. At her door, Daniel took her hand, warm and a little rough, fitting around hers as if it had been waiting to do so, and said: Maya, I came here for coffee. I stayed because of you. She leaned forward and kissed his cheek, soft and slow, and he closed his eyes and smiled like a man who had finally arrived somewhere safe, because some love stories begin at 1:40 in the morning, with a cup of coffee and a kind word one person forgets and another never can.
+
 ## More stories to read
 
 - [The Letter He Never Sent](https://talhablog.com/blog/the-letter-he-never-sent/)

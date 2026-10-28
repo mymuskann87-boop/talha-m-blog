@@ -1,6 +1,6 @@
 ---
 title: "How Nobel Prize Winners Chosen"
-description: "You cannot apply for a Nobel Prize. Here is the secret journey from nomination to the December ceremony, in simple words."
+description: "How are Nobel Prize winners chosen? You cannot apply for a Nobel Prize. The secret journey from nomination to the December ceremony, in simple words."
 pubDate: 2026-10-17T13:30:00+05:00
 category: "Awards"
 image: "/images/how-nobel-prize-winners-chosen.webp"
@@ -71,7 +71,7 @@ So the next time the October headlines appear, you will know the hidden story be
 
 **Can anyone apply for a Nobel Prize?**
 
-No. There is no application at all. Self-nominations are not allowed, so a person can only be considered if an invited expert nominates them.
+No. There is no application at all, and nobody is allowed to put forward their own name. Self-nominations are simply not accepted, so a brilliant scientist cannot write in and ask to be considered, a famous writer cannot campaign, and a peace worker cannot gather signatures. Everything depends on other people, the right other people, deciding that the work deserves to be named. If nobody with the power to nominate ever sends a name, then, as far as the Nobel system is concerned, that person does not exist that year.
 
 **Who is allowed to nominate someone?**
 
@@ -79,15 +79,15 @@ Thousands of chosen people, such as professors, academy members, scientists and 
 
 **Why is everything kept secret for 50 years?**
 
-The secrecy protects the process. Committees can judge the work honestly, without pressure, campaigns or public fighting, and unsuccessful candidates are never embarrassed in public.
+The secrecy protects the process in two ways. Committees can judge the work honestly, without pressure, campaigns or public fighting, and unsuccessful candidates are never embarrassed in public, because nobody outside the committees can know they were nominated. The rule is real and long: the names of nominees and of the people who nominated them stay secret for fifty years. History shows it working, as the first nomination for Martin Luther King Jr. arrived in 1963, yet the world only learned who had sent his name in 2014, half a century later.
 
 **Can two or three people share one prize?**
 
-Yes. A prize can be shared by up to three individuals. The peace prize can also go to an organisation instead of a person.
+Yes. One prize can be shared by as many as three people, which often happens in science, where big discoveries are team efforts, and the awarding institutions vote with a decision that is final and cannot be appealed. The peace prize is special once more: it can also be given to an organisation, not only to a person. And if the judges feel that no candidate reaches the high standard in a given year, a prize can even be held back rather than awarded.
 
 **When do winners receive their prize?**
 
-The names are announced in October, and the medal, diploma and prize money are presented on 10 December at ceremonies in Stockholm and Oslo.
+The names are announced in October over about eight days, beginning around the first Monday of the month, in medicine, physics, chemistry, literature, peace and economic sciences, and for many winners the news arrives as a complete surprise, since they were never told they were being considered. Then comes 10 December, Nobel Day, the anniversary of Alfred Nobel's death, when winners receive their medal, diploma and prize money at ceremonies in Stockholm and in Oslo, with the peace prize presented in Oslo and the others in Stockholm.
 
 ## Sources
 

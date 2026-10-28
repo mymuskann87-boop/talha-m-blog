@@ -76,6 +76,20 @@ On Sunday, James took her to the river path where they had walked as teenagers, 
 
 That evening, Lena put the letter back in its envelope and placed it on her bookshelf, next to the poetry book where she had found it. It no longer felt like someone else's secret. It felt like the first page of a story that had been waiting six years to be finished, and now, at last, she and James were writing the rest of it together, one ordinary, extraordinary day at a time.
 
+## Frequently Asked Questions
+
+**Who was the unsent love letter written for?**
+The letter was written for Lena herself, though she did not know it when she found it. It was dated six years earlier, in June, and began: My dearest girl, I have loved you since the summer you moved into the yellow house and taught me how to laugh again, signed only J. The writer, James Hartley, had loved the girl in the yellow house since the summer she spent in Brindlewick at seventeen, staying with her aunt, teaching a boy with grass-stained knees to climb the old oak tree and to laugh again after his father died that spring. Lena had spent only that one summer there, barely remembered it, and had never known his last name, until the letter, the yellow house, and the Sunday in June all pointed to her.
+
+**Where did Lena find the unsent love letter?**
+Lena had lived in the old house on Willow Street for exactly nine days when she found the letter hidden inside a hollowed-out poetry book on the attic shelf, folded small, yellow at the edges, sealed with wax cracked like dry earth, with no name on the envelope, only three words in faded ink: For the girl. On the inside cover of the poetry book, in the same handwriting, someone had written: Property of James Hartley, 14 Willow Street, and Lena's house was number 12, so James had lived right next door. She read the letter twice, then a third time, her heart beating fast, asking who the girl was, who J was, and why the letter had never been sent.
+
+**Who is James Hartley in the letter story?**
+James Hartley is the quiet man who lived at number 14 Willow Street, in the neat little house with blue shutters and a lemon tree by the door, who went away to university, came back, and teaches history at the school, keeping to himself, according to the baker. He wrote the letter the day Lena left, six years earlier, and was too afraid to give it to her, thinking about her every year since, and when a moving van came to number 12 nine days before Lena knocked on his door, he saw her and thought his heart would stop. He told Lena: You taught me to laugh again after my father died that spring. I never forgot you. He kept a small flat stone painted with two initials, found years ago, just in case.
+
+**What happened when Lena took the letter to James?**
+At dawn, Lena took the letter from her bedside drawer, walked to number 14, and knocked on the blue door, where a man about her age, with kind eyes and chalk dust on his sleeve, looked at her and went very still. She held out the letter and asked if the girl in the yellow house, who left on a Sunday in June, was her, and he nodded slowly, as if the nod cost him everything and gave him everything at once. He stepped forward, took her hand gently, and said: You don't have to start over. You can just continue. With me, if you want. She said: I want, and he smiled, leaned forward, and kissed her forehead, tender and unhurried, like a promise finally kept, six years late, one street apart, and somehow exactly on time.
+
 ## More stories to read
 
 - [Her Heart Chose Him Twice](https://talhablog.com/blog/her-heart-chose-him-twice/)

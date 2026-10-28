@@ -63,6 +63,24 @@ This is a developing story, and details may change. We will keep you updated.
 
 - [KP Emergency: Governor's Rule Imposed](https://talhablog.com/blog/kp-emergency-governor-rule-imposed/)
 
+## Frequently Asked Questions
+
+**What is the government crisis in Pakistan right now?**
+
+Pakistan is going through a tense time, with the federal government and Khyber Pakhtunkhwa in open conflict, fuel getting more expensive, and open talk of governor's rule in KP. The federal government is led by Prime Minister Shehbaz Sharif of the PML-N, KP is run by PTI with Sohail Afridi as Chief Minister, and Punjab is run by Maryam Nawaz of the PML-N. Because the federal government and Punjab belong to PML-N while KP belongs to PTI, the three sides clash often. Petrol had crossed Rs398 per litre, and PTI's long march, which started on October 4 with the main demand of Imran Khan's release, was still moving inside KP.
+
+**What is governor's rule and when can it be imposed in KP?**
+
+Governor's rule means the central government takes over the running of a province for some time. It is a very big step, and it can only be taken by the President on the advice of the Prime Minister. KP Governor Faisal Karim Kundi said an emergency or governor's rule would be imposed if the Prime Minister and the President thought it was needed to save the province. Chief Minister Afridi said he was not afraid of it and accused the governor of acting against the Constitution. Federal Information Minister Attaullah Tarar said the KP government had failed to keep law and order and that terrorists were moving freely in the province, which PTI does not accept.
+
+**Why is petrol so expensive in Pakistan?**
+
+Petrol is expensive mainly because Pakistan buys most of its oil from other countries, so any rise in international prices hits quickly, and the IMF has noted that Pakistan gets nearly 90 percent of its energy imports from the Middle East, which has been hit by war this year. According to Pakistani news websites, petrol was Rs266.17 per litre on March 1, 2026, reached a peak of Rs458.41 on April 3, then came down, but in the first week of October it moved up almost every day. On October 9, petrol was increased by Rs2.31 to Rs398.96 per litre, with diesel at Rs395.72 per litre, and the price may change again.
+
+**What is the role of Punjab in the KP crisis?**
+
+Punjab is the biggest province and the home of the ruling party, and because the KP march wants to go towards Islamabad, it would have to pass through Punjab, which a federal minister has already said it will not be allowed to enter. PTI supporters often say Punjab and the federal government are not fair to KP, and in 2025 a Punjab ban on wheat supply to KP caused a big outcry that the KP governor himself condemned. The PML-N says it is only doing its job and following the law. Both sides blame each other, and the post reports only what each side says.
+
 ## Sources
 
 - [Pak Observer: Petrol price in Pakistan inches away from Rs400](https://pakobserver.net/?p=780938)

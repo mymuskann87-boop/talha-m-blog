@@ -1,6 +1,6 @@
 ---
 title: "Golden Record Still Flying Today"
-description: "Far from Earth, a gold record carrying our greetings, music and the sounds of home still flies between the stars — built to last a billion years."
+description: "Where is the Voyager Golden Record now? Far from Earth, the gold record still flies in space, carrying greetings and music, built to last a billion years."
 pubDate: 2026-10-18T22:00:00+05:00
 category: "Space"
 image: "/images/golden-record-still-flying-today.webp"
@@ -87,7 +87,7 @@ A small committee chaired by astronomer Carl Sagan. Its members included Frank D
 They are still attached to Voyager 1 and Voyager 2, flying through interstellar space. Voyager 1 entered interstellar space in 2012 and Voyager 2 in 2018, and they are the most distant human-made objects from Earth.
 
 **How long will the Golden Record last?**
-NASA estimates more than a billion years. Space has almost nothing in it to damage the record, and gold is eroded by cosmic radiation only extremely slowly.
+NASA estimates more than a billion years. Space has almost nothing in it to damage the record, and gold is eroded by cosmic radiation only extremely slowly. In the emptiness of space there is almost nothing to wear a record away: no rain, no air, no rust, only the slow touch of cosmic radiation. A billion years is longer than humans have existed and longer than almost everything on Earth's surface will last. The spacecraft carrying the record will fall silent within years, but the record, if NASA's estimate holds, will still be out there, still playable, still carrying a kiss and a whale song and a child saying hello.
 
 **Will aliens really find and play it?**
 Nobody knows. The chance is very small — it will be about 40,000 years before a Voyager passes near another star system. The team knew the odds, and made the record anyway, as a hopeful message about life on Earth.

@@ -1,6 +1,6 @@
 ---
 title: "Prisoners Who Vanished From Alcatraz"
-description: "Three prisoners fooled Alcatraz guards with dummy heads, crossed the bay on a raincoat raft, and vanished forever. The true unsolved story."
+description: "Who escaped from Alcatraz? Three prisoners fooled guards with dummy heads, crossed the bay on a raincoat raft, and vanished forever. The true unsolved story."
 pubDate: 2026-10-18T21:20:00+05:00
 category: "Crime"
 image: "/images/prisoners-who-vanished-from-alcatraz.webp"
@@ -90,10 +90,13 @@ He could not loosen his cell vent in time on escape night and was left behind. A
 After seventeen years, the FBI concluded the men most likely drowned in the cold, fast-moving bay water, and closed its case on 31 December 1979. The U.S. Marshals Service took over and still keeps the case open.
 
 **Is the 2013 letter from John Anglin genuine?**
-It has never been proven. The letter, revealed by the FBI in 2018, claimed Morris and Clarence had died and offered a surrender deal. Analysis left its authenticity inconclusive.
+It has never been proven. The letter, revealed by the FBI in 2018, claimed Morris and Clarence had died and offered a surrender deal. Analysis left its authenticity inconclusive. The letter claimed Morris and Clarence had died, and its writer said he was ill with cancer and wanted to negotiate his surrender in exchange for medical treatment. It may be a genuine message from a dying fugitive, or it may be a cruel or playful fake. Science could not decide, and so the letter joins the paddle and the packet among the clues that raise the question without ever answering it.
 
 **Can you visit Alcatraz today?**
 Yes. The island is run by the National Park Service, opened to the public in 1973, and receives more than a million visitors a year. The escape cells and dummy heads are among its most famous sights.
+
+**Who escaped from Alcatraz in 1962?**
+Three prisoners: Frank Morris and the brothers John and Clarence Anglin. They fooled the guards with dummy heads placed on pillows with blankets pulled up, dug and drilled for six months, sewed a raft from raincoats, and on the night of 11 June 1962 they crossed the bay and vanished forever. A fourth man, Allen West, could not loosen his cell vent in time and was left behind. Officially, no escape from Alcatraz was ever confirmed successful: the FBI concluded the men most likely drowned, while the U.S. Marshals Service still keeps the case open, because their fate was never proven either way.
 
 ## Sources
 

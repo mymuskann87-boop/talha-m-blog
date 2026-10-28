@@ -1,6 +1,6 @@
 ---
 title: "Youngest Nobel Winner In History"
-description: "Malala Yousafzai was seventeen when she received the Nobel Peace Prize in 2014, the youngest winner the prize has ever had. Her story begins on ordinary"
+description: "Who is the youngest person to win a Nobel Prize? Malala Yousafzai was seventeen when she received the Peace Prize in 2014. Her story, in simple words."
 pubDate: 2026-10-23T09:20:00+05:00
 image: "/images/youngest-nobel-prize-winner-ever.webp"
 imageAlt: "An illustration of a young schoolgirl in uniform carrying her books on a bright morning in the Swat Valley, walking proudly toward her school."
@@ -69,7 +69,7 @@ Some doors are closed with locks and threats. Others are opened by a girl carryi
 ## Frequently Asked Questions
 
 **How old was Malala when she won the Nobel Peace Prize?**
-She was 17 years old. The prize was announced on 10 October 2014, and she received it in Oslo that December, making her the youngest Nobel laureate in history.
+She was 17 years old. The Nobel Peace Prize was announced on 10 October 2014, when she was seventeen, and she received it in Oslo that December, making her the youngest Nobel laureate in history. The committee praised her for showing, under the most dangerous circumstances, that young people too can improve their own situation. Many also noticed the pairing itself: a 60-year-old Hindu from India, Kailash Satyarthi, and a 17-year-old Muslim from Pakistan, honoured together for the same cause, like a small bridge built between two nations, two faiths and two generations.
 
 **Who shared the 2014 Nobel Peace Prize with her?**
 Kailash Satyarthi, an Indian activist honoured for his long struggle against child labour and for children's rights. The Nobel Committee described the two as partners in the same cause: the right of every child to education.
@@ -81,7 +81,7 @@ Gul Makai was the pen name she used for her anonymous BBC Urdu diary in 2009. Wr
 It is the organisation Malala co-founded with her father. It funds education projects with local partners, currently in six countries, and presses governments to give every girl a quality secondary education.
 
 **Did Malala finish her own studies?**
-Yes. She went back to school in Birmingham in March 2013, a few months after she was attacked, and later graduated from the University of Oxford in 2020.
+Yes. She went back to school in Birmingham in March 2013, a few months after she was attacked on 9 October 2012, when a Taliban gunman stopped her school bus and shot her. For a girl who had been told that girls must not learn, simply sitting down at a school desk again was its own quiet victory, after weeks of treatment and slow recovery that included several operations. She later graduated from the University of Oxford in 2020, completing the education she had been shot for defending, and she went on co-founding the Malala Fund with her father to press governments to give every girl a quality secondary education.
 
 ## Sources
 

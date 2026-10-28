@@ -71,3 +71,21 @@ Seal everything with a top coat, wait a little longer than you think you need to
 - [Voices Beneath The Old Floor](https://talhablog.com/blog/voices-beneath-the-old-floor/)
 - [Save Money On Monthly Groceries](https://talhablog.com/blog/save-money-on-monthly-groceries/)
 - [Easy Halloween Makeup Looks Fast](https://talhablog.com/blog/easy-halloween-makeup-looks-fast/)
+
+## Frequently Asked Questions
+
+**What are easy Halloween nail art designs for beginners?**
+
+You do not need steady artist hands. You need patience, a toothpick, and designs that forgive wobbles: a pumpkin with a slightly crooked smile still looks like a pumpkin, and a ghost with uneven eyes still looks like a ghost. The post gives five designs anyone can try at a kitchen table, with a bottle of orange polish, a bottle of black, a toothpick, and a spooky playlist. Small nails suit tiny designs better than long ones, because one clear picture on each nail reads better than a crowded scene.
+
+**How do I paint a pumpkin on my nails?**
+
+Paint the nail orange. When it dries, add a small black triangle for each eye and a zigzag mouth with the toothpick, and add a tiny green line on top for the stalk. This is the easiest design on the list, and it always gets noticed first. A base coat goes on first so the colour does not stain your nails, and a top coat seals everything at the end.
+
+**How do I paint a ghost on my nails?**
+
+Paint the nail black or dark purple. Then paint a white blob shape in the middle, wider at the top and wavy at the bottom, and add two black dots for the eyes. A ghost on a dark nail glows like a small night sky. The spiderweb is another quick win: paint the nail white or pale grey, draw three lines spreading out from one corner with black polish on the toothpick, and join them with small curved lines, which takes about two minutes.
+
+**What do I need for Halloween nail art at home?**
+
+A base coat, so the colour does not stain your nails; orange, black, white, and purple polish; a toothpick or a bobby pin for dots and lines; a top coat to seal everything; and nail polish remover and cotton buds for quick fixes. That is all. No special pens, no salon visit, and no kit ordered online are needed.

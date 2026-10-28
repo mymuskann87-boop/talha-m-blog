@@ -1,6 +1,6 @@
 ---
 title: "Family That Won Five Nobels"
-description: "One family, five Nobel Prizes. How Marie Curie, her husband, her daughter and her son-in-law turned one small laboratory into science history."
+description: "Which family has the most Nobel Prizes? The Curies, with five. How Marie Curie, her husband, her daughter and her son-in-law made science history."
 pubDate: 2026-10-19T19:00:00+05:00
 category: "Awards"
 image: "/images/family-that-won-five-nobels.webp"
@@ -94,7 +94,7 @@ She won the 1903 Nobel Prize in Physics, shared with Pierre Curie and Henri Becq
 
 **How did Pierre Curie die?**
 
-Pierre Curie died on 19 April 1906 in Paris, when he was struck by a horse-drawn carriage while crossing the Rue Dauphine. He was 46 years old.
+Pierre Curie died on 19 April 1906 in Paris, when he crossed the Rue Dauphine after a meeting, stepped in front of a horse-drawn carriage, and was killed instantly. He was only 46 years old. Marie was left alone with two little daughters, Irène, aged eight, and baby Ève, who was one, and she accepted Pierre's teaching post at the Sorbonne, becoming the first woman professor at the university, beginning her first lecture by continuing the course from the very sentence where Pierre had stopped.
 
 **Did Marie Curie's daughter win a Nobel Prize?**
 

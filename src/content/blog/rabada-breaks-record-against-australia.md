@@ -102,7 +102,7 @@ His fellow South African Dale Steyn was the closest, with a home strike rate of 
 
 **How many bowlers have taken 200 wickets in one country?**
 
-Only 26 bowlers in all of Test history have taken 200 wickets in a single country, and each of them achieved it on home soil.
+Only 26 bowlers in all of Test history have taken 200 wickets in a single country, and each of them achieved it on home soil. Think how many thousands of bowlers have run in with a red ball since Test cricket began: spinners who twirled away for twenty years, fast men who terrified the world, swing kings, seam masters, legends with statues outside stadiums. Out of all of them, only 26 ever collected 200 wickets in one country, which is fewer than the number of players in two cricket teams' dressing rooms combined. Rabada, the fourth South African after Pollock, Ntini and Steyn, is now one of those 26, and the first of them with a strike rate below 40.
 
 **How did Rabada perform in the Gqeberha Test itself?**
 

@@ -1,6 +1,6 @@
 ---
 title: "Drishyam Conclusion Crosses ₹446 Crore"
-description: "Drishyam: The Conclusion is now Ajay Devgn's highest-grossing film. A simple look at the reported box office numbers from India and overseas."
+description: "Is Drishyam The Conclusion a hit or flop? It crossed ₹446 crore worldwide in nine days and became Ajay Devgn's highest-grossing film. The numbers."
 pubDate: 2026-10-11T15:55:00+05:00
 category: "Celebrity"
 image: "/images/drishyam-the-conclusion-box-office.webp"
@@ -68,6 +68,14 @@ The same reporting says the film crossed ₹300 crore in India and grossed about
 **Is Drishyam The Conclusion Ajay Devgn's highest-grossing film?**
 
 Yes, according to the reporting covered in this article, the thriller has become the highest-grossing film of Ajay Devgn's career.
+
+**How much did Drishyam The Conclusion earn in India in its first week?**
+
+Week-one reports had already placed the India figure near 250 crore rupees, and the same reporting says the film crossed 300 crore rupees in India within nine days.
+
+**Why did a third Drishyam film have a head start?**
+
+Series films begin with trust, because audiences already know what kind of experience they are paying for. With Drishyam, that experience is a thriller built around suspense, tension, smart turns, and an ending people want to discuss afterwards.
 
 ## Sources
 

@@ -54,7 +54,7 @@ The Bolide will never be common. It will never be cheap. It will never be practi
 
 **Is the Bugatti Bolide road legal?**
 
-No. It is a track-only machine, built for race tracks and not for normal roads.
+No. It is a track-only machine, built for race tracks and not for normal roads. It has no number plate and does not meet the rules for lights, bumpers, and noise that road cars must follow. Bugatti showed the Bolide to the world in 2020, and its name comes from a French word for a racing car, a fireball on wheels. On a track, the only rule is speed.
 
 **How fast is the Bugatti Bolide?**
 
@@ -62,12 +62,11 @@ It goes from 0 to 100 kilometres per hour in 2.2 seconds, and its top speed is 5
 
 **What engine does the Bolide have?**
 
-It has an 8.0-litre W16 engine with four turbochargers, making 1600 horsepower.
+It has an 8.0-litre W16 engine with four turbochargers, making 1600 horsepower. W16 means sixteen cylinders arranged in a W shape, while most cars have four or six cylinders and some fast cars have eight or twelve. Four turbochargers push huge amounts of air into those cylinders. Bugatti took the mighty W16 from the Chiron and put it in a body that is far lighter and far more extreme.
 
 **How many Bolides were built?**
 
-Bugatti built only a very small number of them, which makes the car extremely rare.
-
+Bugatti built only a tiny number of them, which makes the car extremely rare, and very few people will ever drive one. Prices vary by market, year, and options, but no price tag can capture what this car is. It is not transport. It is a statement, showing how far engineering can go when nothing holds it back.
 ## More cars to explore
 
 - [Koenigsegg Jesko Absolut Technical Diagram](https://talhablog.com/blog/koenigsegg-jesko-absolut-technical-diagram/)

@@ -1,6 +1,6 @@
 ---
 title: "KP Emergency: Governor's Rule Imposed"
-description: "The federal government has imposed an emergency and governor's rule in Khyber Pakhtunkhwa. Here is a simple, step-by-step explanation of what was decided"
+description: "Emergency and governor's rule imposed in Khyber Pakhtunkhwa. What governor raj in KP means, why it was imposed, and what changes for the province."
 pubDate: 2026-10-11T09:30:00+05:00
 category: "Pakistan News"
 image: "/images/kp-emergency-governor-rule-imposed.webp"
@@ -78,6 +78,24 @@ This is a developing story, and details may change. We will keep you updated.
 ## You may also like
 
 - [HSY Designing New PIA Uniforms](https://talhablog.com/blog/hsy-designing-new-pia-uniforms/)
+
+## Frequently Asked Questions
+
+**What happened in KP today with the emergency and governor's rule?**
+
+On Sunday, October 11, 2026, the federal government imposed an emergency under Article 232 and governor's rule under Article 234 in Khyber Pakhtunkhwa. The federal cabinet, chaired by Prime Minister Shehbaz Sharif, recommended both measures, and President Asif Ali Zardari approved them on the Prime Minister's advice. According to Daily Times, the proclamation took effect immediately. A joint session of Parliament was set for Tuesday, October 13, to approve the measures, and under the Constitution an emergency declared by the President on his own must be approved by Parliament within 10 days.
+
+**What does governor's rule mean in Khyber Pakhtunkhwa?**
+
+Governor's rule under Article 234 means the President can impose it if a province's government cannot work according to the Constitution, and then the governor, appointed by the federal government, runs the province on behalf of the centre. KP's governor is Faisal Karim Kundi. According to Daily Times, the proclamation says the federal government can direct the governor to use some or all of the powers of the provincial government, Parliament will use the powers of the KP Assembly or they will be used under its authority, and Chief Minister Sohail Afridi, the provincial ministers, advisers and the advocate general no longer hold their offices. A new chief secretary, Dr Muhammad Fakhr Alam Irfan, was also appointed.
+
+**Why did the federal government impose emergency in KP?**
+
+The federal government said the main reason was rising terrorism and the claim that the PTI-led KP government had disengaged from the fight against terrorism. It cited figures shared with the cabinet from intelligence and police reports: terrorist incidents in KP rose by about 195 percent between March 2024 and September 2026, police were the target in about 73 percent of attacks in 2026, drone attacks on police went from none in 2024 to about 170 in 2026, and KP has more than 9,000 empty police posts with shortages of modern weapons, night-vision gear and armoured vehicles. The post notes these figures come from the federal side and have not been independently checked, and that Federal Information Minister Attaullah Tarar also said the KP government did not strengthen counter-terrorism systems such as forensic labs and the Counter Terrorism Department.
+
+**What did PTI say about governor's rule in KP?**
+
+A full official statement from PTI or Sohail Afridi could not be found at the time of writing. Before the decision, Afridi had warned of a strong reaction if governor's rule was imposed and had said his government would stay within the Constitution. PTI also says extraordinary federal action hurts provincial autonomy. Barrister Gohar was reported saying KP was already effectively under governor's rule, and Aimal Wali Khan was reported refusing to support the move. Constitutional experts quoted in the media said each article must meet its own conditions, and that political differences alone are not enough reason.
 
 ## Sources
 

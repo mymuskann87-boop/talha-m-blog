@@ -59,3 +59,21 @@ When the last guest leaves and you switch the lights back on, the sheets are jus
 - [Shadows Followed Her Home Tonight](https://talhablog.com/blog/shadows-followed-her-home-tonight/)
 - [Save Money On Electricity Bill](https://talhablog.com/blog/save-money-on-electricity-bill/)
 - [Spooky Halloween Party Ideas Cheap](https://talhablog.com/blog/spooky-halloween-party-ideas-cheap/)
+
+## Frequently Asked Questions
+
+**How can I make a haunted house on a budget?**
+
+A haunted house is not about expensive props. It is about what visitors cannot quite see, and darkness does most of the work for you. Nobody spent a fortune on the room in the post: it was built from old sheets, paper, string, and one very good idea. Cover bright lamps with thin coloured cloth, orange or red, switch off the main lights, and use candles in safe holders or small battery lights instead, because shadows stretch across the walls and every ordinary object suddenly looks strange.
+
+**How do I set the mood at a haunted house entrance?**
+
+Hang strips of black cloth or torn paper over the doorway so visitors must push through them to enter. It feels strange to walk through something you cannot see past, and that small moment of doubt is the whole trick. Add a hand-written sign that says Enter If You Dare in wobbly letters, because a sign made by hand always feels creepier than a printed one.
+
+**What scary rooms can I make in a haunted house?**
+
+Do not try to scare people everywhere: pick two or three spots and make them count. In the kitchen, put a bowl of peeled grapes on the table with a label that says eyeballs, and guests will poke them, shiver, and laugh at themselves for being scared of fruit. In the hallway, hang paper bats from the ceiling on threads so they sway gently when someone walks past. In the living room, drape old white sheets over the chairs and sofa, so furniture shaped like ghosts looks simple, cheap, and oddly unsettling.
+
+**Why does darkness make a haunted house scarier?**
+
+Good lighting matters more than any decoration you can buy, because it changes the whole feeling of a room in seconds. Cover bright lamps with thin coloured cloth and switch off the main lights, and shadows stretch across the walls while every ordinary object suddenly looks strange. A haunted house works on what visitors cannot quite see, and darkness is what turns an ordinary room into a place where a thin white sheet hanging from the ceiling looks like a ghost that forgot to leave.

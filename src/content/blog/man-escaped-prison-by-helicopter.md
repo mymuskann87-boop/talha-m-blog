@@ -98,11 +98,14 @@ He was captured on 21 September 2007 in Mataró, near Barcelona in Spain, about 
 
 **Were the helicopter pilots hurt in the escapes?**
 
-In the 2007 escape, the pilot was taken hostage by the four masked men and was released unharmed when the helicopter landed at Brignoles.
+In the 2007 escape, the pilot was taken hostage by the four masked men and was released unharmed when the helicopter landed at Brignoles. The post records the pilot's fate in detail for the 2007 escape. Four masked men hijacked a helicopter at Cannes-Mandelieu airport and took its pilot hostage, forced the helicopter toward Grasse, and landed on the prison roof just as the night shift was starting. The men used heavy machinery to break open two doors and reach the isolation ward where Payet was held, and the pilot was released unharmed when the helicopter landed at Brignoles.
 
 **Where is Pascal Payet now?**
 
 After his 2007 recapture he was held in a secret location and received further sentences for the escape and for crimes committed while on the run. Records list him as being in custody from September 2007 to April 2019, and then on parole.
+
+**Who is Pascal Payet?**
+Pascal Payet was a French prisoner who became famous around the world for escaping from jail by helicopter, not once but again and again. He was sentenced to 30 years in prison for murder, after taking part in a 1997 attack on a Banque de France armoured car in Salon-de-Provence during which a security guard was killed. Guards, watchtowers, locked doors and solitary confinement all failed to hold him, because every plan to free him began in the air: he escaped by helicopter twice himself, from Luynes prison in October 2001 and from Grasse prison in July 2007, and in between he organised a third helicopter escape that freed three other inmates.
 
 ## Sources
 

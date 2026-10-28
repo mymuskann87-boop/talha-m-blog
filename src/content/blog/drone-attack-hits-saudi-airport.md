@@ -66,30 +66,29 @@ Each of those facts is a thread, and together they form a tense picture. The reg
 
 ## Frequently Asked Questions
 
-**What happened at King Fahd International Airport?**
+**What happened at King Fahd International Airport in Dammam?**
+According to news headlines on 23 October 2026, a drone attack struck King Fahd International Airport in Dammam, Saudi Arabia, on an ordinary evening that had begun like any other busy night at the airport. One person was killed and eight people were injured, according to those reports, and flights were diverted to other airports. Inside the terminal, travellers faced confusion and delay, while outside, the airport that had been running like clockwork became the centre of an emergency, and no further details about the victims are given in the reports this post is based on.
 
-According to news headlines on 23 October 2026, a drone attack struck King Fahd International Airport in Dammam, Saudi Arabia. One person was killed, eight people were injured, and flights were diverted to other airports.
+**Where is King Fahd International Airport and why does it matter?**
+King Fahd International Airport serves Dammam, a city on Saudi Arabia's eastern coast, close to the waters of the Gulf, and it is one of the country's important airports. It is used by workers, families, business travellers and visitors moving between Saudi Arabia and the wider world, with planes landing and taking off in a steady flow on a normal evening. Airports are built around routine and safety, with every movement planned, which is why an attack there breaks more than a schedule: it breaks the feeling that ordinary journeys are safe.
 
-**Where is King Fahd International Airport?**
+**What does it mean when flights are diverted after an attack?**
+When flights are diverted, planes that were heading for Dammam are sent to land at other airports instead of their planned destination. Pilots approaching the airport are told to change course, and travellers waiting for arrivals or departures face sudden delay and confusion. Diversion is a safety measure, taken while the airport deals with an emergency, and it affects far more people than those inside the terminal, because connecting flights, hotel plans and onward journeys all have to be rearranged at short notice.
 
-It is the international airport serving Dammam, a city on Saudi Arabia's eastern coast near the Gulf. It is one of the country's important airports for workers, families and international travellers.
+**Were other places attacked at the same time as the airport?**
+Yes, according to the same reports. The airport attack came amid fresh Houthi attacks on Saudi oil facilities, and at an Aramco-operated field, two people were killed by drone debris. The reports connect these events to the Houthis, the group based in Yemen that has been in conflict with Saudi Arabia for years. On the same stretch of days, drones and debris were therefore threatening two kinds of places at once: an airport full of travellers, and oil fields full of workers, both part of daily life in the region.
 
-**Were other places attacked too?**
-
-Yes, according to the same reports. The airport attack came amid fresh Houthi attacks on Saudi oil facilities, and two people were killed by drone debris at an Aramco-operated field.
+**How many people died in the attacks described in this post?**
+Three people died in total in the attacks described in this post, according to the reports it is based on. One person was killed at King Fahd International Airport in Dammam, and eight people were injured there. Two more people were killed by drone debris at an Aramco-operated oil field in the same stretch of days. Behind every short headline there are real families, which is why this post shares the sad news calmly, without drama and without graphic detail, because the facts themselves are serious enough.
 
 **What happened to oil prices after the attacks?**
+According to the reports, Brent crude climbed to its highest level since May after the attacks. Brent crude is one of the world's main oil price measures, watched by governments, companies and markets everywhere. Saudi Arabia is one of the world's most important oil producers, and when oil facilities there are attacked, traders fear that supply could be interrupted, so fear pushes prices up even before any actual shortage happens. A higher oil price can later show up in fuel costs, transport costs and the price of goods that travel by road, sea and air.
 
-According to the reports, Brent crude climbed to its highest level since May. Attacks on a major oil-producing region make markets fear supply problems, and that fear pushes prices upward.
+**What is the United Kingdom doing in response to the attacks?**
+According to the reports, the United Kingdom is to deploy Typhoon fighter jets to Saudi Arabia amid the rising Houthi attacks. Typhoon jets are advanced fighter aircraft, and sending them is a strong signal of support for Saudi Arabia's defence. Moves like this are meant to protect skies and reassure allies, and they show how seriously the situation is being taken. When a country sends fighter jets to help guard another country's airspace, it is saying that the threat is real and that airports, oil fields and cities need stronger protection.
 
-**What is the United Kingdom doing in response?**
-
-According to the reports, the United Kingdom is to deploy Typhoon fighter jets to Saudi Arabia amid the rising Houthi attacks, as a show of support and to help protect the skies.
-
-**What do reports say about the Houthis' weapons?**
-
-Reports also say the Houthis have been using Chinese parts to build advanced missiles capable of striking Israel and Saudi Arabia, which is one reason the threat is being taken so seriously across the region.
-
+**What do reports say about the weapons used by the Houthis?**
+Reports say the Houthis have been using Chinese parts to build advanced missiles capable of striking Israel and Saudi Arabia. That detail changes the picture, because it suggests the weapons involved are not crude or short-ranged, but advanced and able to travel long distances. Weapons built with parts sourced from abroad can be harder to stop and can reach targets far from where they are launched, which is why an airport in Dammam, oil fields in the desert and capitals across the region all appear in the same worried conversation.
 ## Sources
 
 - Jagran Josh (news headlines, 23 October 2026) https://www.jagranjosh.com/lite/articles/school-assembly-news-headlines-october-23-2026-ca-result-jee-mains-neet-ug-and-other-news-1800018111-1

@@ -60,6 +60,20 @@ But sometimes, when I pass a shop window at night, I catch my reflection, and it
 
 If you ever inherit a house, and you find a mirror covered with a cloth, and a note that says do not uncover it, believe the note. Believe it completely. Because some mirrors do not show you yourself. Some mirrors show you the person who will replace you. And once you have seen her smile, she has already seen you.
 
+## Frequently Asked Questions
+
+**What did Clara see in her grandmother's mirror?**
+Clara, twenty-nine, inherited her grandmother's old house, where a mirror at the end of the long hallway stood covered with a white cloth, with a note in her grandmother's careful handwriting saying: Do not uncover this. Ever. Love, Gran. When she lifted the cloth, the mirror cleared and showed a woman with Clara's face, hair, height and grey sweater, but standing too still, not breathing, with an expression of terrible patience, who did not raise her hand when Clara raised hers, and then smiled a wrong smile, Clara's smile and not Clara's smile, knowing things Clara had never told anyone.
+
+**Why was the mirror covered with a cloth?**
+When Clara arrived, three weeks after inheriting the house, the mirror was not hanging but standing against the wall, covered with a white cloth, with her grandmother's note on top of it warning her never to uncover it. Clara obeyed the note for six days, walking past it every day, until on the seventh day the cloth moved, rippling as if something beneath it had breathed, and then lifting at one corner as if someone beneath it had pinched the fabric to look out. That night she dreamed of her grandmother, young again, pointing at the mirror and shaking her head without speaking, a second warning she did not listen to, because curiosity grows strongest where people have been told not to look.
+
+**What happened when Clara's friend looked in the mirror?**
+Clara called her friend, who came within the hour, listened without interrupting or laughing, and then lifted the cloth herself, quickly, before Clara could stop her, and they both looked into the mirror together. It showed the hallway, her friend, and Clara, everything exactly as it should have been, ordinary and empty and still, with no other woman and no wrong smile, only two frightened people staring at a perfectly normal mirror. Her friend laughed, relieved, said Clara had scared herself with an old house and too little sleep, and Clara laughed too, because she wanted more than anything for her friend to be right.
+
+**Why does the mirror no longer show Clara at the end?**
+After her friend left that evening, Clara went back inside and stopped in front of the mirror, which neither of them had thought to cover again, and the mirror showed the hallway, the doors and the rug, but it did not show her. She understood, with a calm that frightened her more than fear, that the woman in the mirror had been waiting for someone to look long enough, and when she did, something had changed places: she was still in the house, walking its hallways and writing her account, but the thing that belongs in a mirror was no longer standing where she stood. She covered the mirror again with a heavier cloth, tied it down, turned it to face the wall, packed a bag and left, and now sometimes her reflection in a shop window takes a fraction of a second too long to catch up with her.
+
 ## More stories to read
 
 - [Voices Beneath The Old Floor](https://talhablog.com/blog/voices-beneath-the-old-floor/)

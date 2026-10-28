@@ -54,7 +54,7 @@ What viewers can expect is a farewell run designed to go out on a high: the bigg
 
 **When does Koffee With Karan Season 9 start?**
 
-The ninth and final season premieres on October 14, 2026, streaming exclusively on JioHotstar.
+The ninth and final season premieres on October 14, 2026, streaming exclusively on JioHotstar. Salman Khan opens the season as the first guest, confirmed by Karan Johar with a promo video on October 12. The run began in 2004 and produced 8 seasons and 161 episodes before this farewell edition, and Johar has said he wants to spend the next decade focusing on directing films.
 
 **Who is the first guest of the final season?**
 
@@ -67,7 +67,6 @@ Yes. Karan Johar announced on September 30 that Season 9 will be the definitive 
 **Why is Karan Johar ending the show?**
 
 Johar has said he wants to spend the next decade focusing on directing films. He described the decision as heavy-hearted — a personal choice to close the journey, not a cancellation.
-
 ## One Last Cup
 
 There is a sweet sadness in watching something beloved end on purpose. Koffee With Karan gave Indian entertainment two decades of laughter, drama, honesty and unforgettable television. Now it returns for one last round of coffee, starting with the superstar who helped define it. On October 14, millions will press play — not just for an episode, but to say thank you, and goodbye, to a show that became part of their lives.

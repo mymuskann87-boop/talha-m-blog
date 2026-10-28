@@ -57,13 +57,13 @@ Nvidia still sits above Apple, worth about $5.3 trillion, so Apple is second, no
 Apple's shares closed at a record $342.96, up 0.5 percent, giving the company a market value of $5.005 trillion. It was the first time Apple finished a trading day above $5 trillion.
 
 **Which company did it before Apple?**
-Nvidia. It is the only other company to have closed above $5 trillion, and it remains the most valuable company at about $5.3 trillion.
+Nvidia. It is the only other company to have closed above $5 trillion, and it remains the most valuable company at about $5.3 trillion. Nvidia is the chip giant, and Apple is now the second name in that very small club. The milestone also came less than a year after Apple first closed above $4 trillion, which shows how fast the number has grown in just twelve months.
 
 **Had Apple crossed $5 trillion before?**
-Yes, six times during trading hours, according to The Wall Street Journal and Barron's — but the value always fell back below the line before the market closed.
+Yes, six times during trading hours, according to The Wall Street Journal and Barron's — but the value always fell back below the line before the market closed. Six times before, Apple touched this height during the day and six times it slipped back before the closing bell. On Wednesday, the seventh try held, and when trading ended in New York the iPhone maker was worth more than $5 trillion.
 
 **Who leads Apple now?**
-John Ternus. He took over just over a month ago, after Tim Cook's 15-year run as chief executive ended on 31 August 2026.
+John Ternus. He took over just over a month ago, after Tim Cook's 15-year run as chief executive ended on 31 August 2026. Cook's record is the mountain the new boss has to climb: under Cook, Apple's market value grew about 13 times over, yearly iPhone sales nearly quadrupled, and the services business covering app sales, music, TV and storage grew with them.
 
 **What is the next big test for Apple?**
 Pre-orders for the foldable iPhone Duo open on Friday 16 October, ahead of its 23 October release, and Apple's next earnings report will show whether phone demand can support the record value.

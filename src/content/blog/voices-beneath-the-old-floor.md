@@ -56,6 +56,20 @@ Thomas has not answered his phone since. He keeps it in a drawer now, switched o
 
 And somewhere, in a house on Miller's Hill, in a room at the top of the stairs that nobody uses, the floor is warm for the first time in a hundred years. Because there is nothing underneath it anymore. And there does not need to be. They are already out.
 
+## Frequently Asked Questions
+
+**What did Thomas hear beneath the floor?**
+Thomas, who inherited the old house on Miller's Hill from an uncle he barely remembered, knelt on the floor of the unused top room to fix creaking boards, pressed his palm to wood colder than the rest of the house, and heard a small, polite voice from directly beneath his hand, sounding like a child speaking through water, saying Hello. The voice said it had been waiting for someone who presses down, because most people just walk across, and that night, in the bedroom below, Thomas heard a murmur, soft and many-voiced, like a crowd speaking in another room with the door almost closed, going on for hours, rising and falling, until he fell asleep dreaming of people standing shoulder to shoulder, looking up.
+
+**What did the builder say about the floor?**
+The builder Thomas called, a broad man with sawdust on his boots, knelt, knocked on the boards with his knuckles, frowned, knocked harder, and said: There's nothing under there. No space. No gap. These boards are laid straight onto solid earth. Must be the old way of building. Sound doesn't travel through that. Whatever you're hearing, it's not coming from below. Thomas paid him, watched him leave, and went back up alone, pressed his ear to the coldest board, and heard the voices thank him together, like a choir whispering, saying the builder was right, there is nothing under here anymore, and that is why they need him to lift the boards, so there can be something again.
+
+**What did the voices under the floor want?**
+The voices told Thomas every night, a little more clearly each night, that they had been under the floor for a very long time, longer than the house and longer than the hill, put there by people who were afraid of them, and that they were not finished. All they wanted, they said, was to be let out, just for a little while, just to stand in the air again and see the sky, promising they would be grateful and leave the house alone afterward, with each promise sounding exactly like the truth. When Thomas asked what would come out if he lifted the boards, a single small voice answered: Us. And the dark we have been keeping down here with us. But mostly us.
+
+**How did the voices escape from under the floor?**
+Thomas refused to lift the boards and packed a bag to sell the house, but when he returned in daylight to collect the rest of his things, a single board in the middle of the room had been lifted and set aside neatly, as if by careful hands, with complete darkness beneath it, and the voices rising from it, no longer whispering or patient, but singing. He sold the house six weeks later to a young couple, without telling them about the top room, and last month his phone rang with an unknown number, and he heard the same many-voiced murmur, and a small voice saying: Hello. We've been waiting for someone who answers. Most people just let it ring. He keeps his phone switched off in a drawer now, knowing the voices are no longer under a floor, but in the lines, in the wires, waiting for someone who presses down, listens, or lifts the board.
+
 ## More stories to read
 
 - [Shadows Followed Her Home Tonight](https://talhablog.com/blog/shadows-followed-her-home-tonight/)

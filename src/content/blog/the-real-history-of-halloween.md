@@ -52,6 +52,20 @@ So when you carve a pumpkin or hand a sweet to a small ghost at your door, you a
 - [Free Fun Ideas For Families](https://talhablog.com/blog/free-fun-ideas-for-families/)
 - [Trick Or Treat Safety Rules](https://talhablog.com/blog/trick-or-treat-safety-rules/)
 
+## Frequently Asked Questions
+
+**What is the real history of Halloween?**
+
+Halloween grew out of two traditions meeting each other: an older harvest festival and a newer day of remembering the dead. Long ago, the Celtic people of the lands that are now Ireland, the United Kingdom, and northern France marked Samhain, the end of the harvest and the start of the dark, cold half of the year, with large bonfires and a belief that the line between the world of the living and the world of the dead felt thinner than usual. Centuries later, the first of November became All Saints' Day, the evening before it was called All Hallows' Eve, and the name slowly shortened into Halloween.
+
+**Where does Halloween come from?**
+
+Halloween comes from the meeting of an older harvest festival, Samhain, and a newer Christian day of remembering saints and the dead, All Saints' Day on the first of November. The costumes, the fires, and the night-time gatherings carried over from the older festival, but their meanings changed a little with each generation. That is why Halloween sits exactly where it does on the calendar, on the last night of October, the evening before All Saints' Day.
+
+**Why do we carve pumpkins on Halloween?**
+
+One of the oldest Halloween customs was carving faces into vegetables. In Ireland and Scotland, people carved turnips and potatoes, placed a small light inside, and set them on windowsills or carried them on dark roads, because these glowing faces were meant to keep away unfriendly spirits, or so people believed at the time. When large numbers of Irish and Scottish people moved to America, they found pumpkins everywhere, and pumpkins took over from turnips as the vegetable of choice.
+
 ## Sources
 
 - Britannica — https://www.britannica.com/topic/Halloween

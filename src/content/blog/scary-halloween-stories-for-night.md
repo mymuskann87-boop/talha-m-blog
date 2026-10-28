@@ -61,3 +61,21 @@ So this Halloween, gather your people, dim the lights, and open a book. The nigh
 - [Dead Man Called Me Twice](https://talhablog.com/blog/dead-man-called-me-twice/)
 - [Save Money On Internet Package](https://talhablog.com/blog/save-money-on-internet-package/)
 - [Spooky Halloween Drinks For Parties](https://talhablog.com/blog/spooky-halloween-drinks-for-parties/)
+
+## Frequently Asked Questions
+
+**What are good scary Halloween stories for the night?**
+
+Not all scary stories are the same. Some are spooky, some are funny, and some are mysterious, so picking the right kind for your group makes all the difference. The post names four kinds to try: the haunted house, where a family moves into an old house and strange things start happening; the friendly ghost, who is lost, lonely, or looking for a friend; the mystery, where a curious character must solve something odd in a quiet town; and the brave kid, who faces something scary and finds courage they did not know they had.
+
+**Why do scary stories feel scarier at night?**
+
+At night, our senses work differently. We hear small sounds more clearly, we notice shadows we ignored during the day, and our imagination fills in the gaps, which is exactly what a good story needs. Night also brings people together: when you listen to a story in the dark, you are sharing the same feeling at the same time, and that shared feeling is what makes story nights memorable, long after the details fade.
+
+**What scary stories are good for younger listeners?**
+
+The friendly ghost is perfect for younger listeners who want a thrill without fear, because not every ghost wants to frighten people: some are lost, lonely, or just looking for a friend, and these stories mix spookiness with warmth. The brave kid is another good choice, as a young hero faces something scary and finds courage they did not know they had, which gives younger listeners someone brave to follow through the dark.
+
+**What makes a good scary storyteller?**
+
+A storyteller does not need special effects. A pause at the right moment does more than any sound effect, and a quiet voice, a slow build, and a surprise at the end are enough to make a whole room gasp. The same story in daylight feels ordinary, but at night, with shadows on the walls and silence between the words, it feels alive, and that is why Halloween night and scary stories belong together.

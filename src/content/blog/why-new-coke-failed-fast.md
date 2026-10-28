@@ -77,7 +77,7 @@ Its lead over Pepsi had been shrinking for years, and in blind taste tests — n
 Mainly because the old drink was taken away. The tests measured flavour, but drinkers were attached to Coca-Cola emotionally — as a habit, a memory and a piece of identity — and they reacted as if something of theirs had been stolen.
 
 **Was New Coke a secret marketing plan to boost the original?**
-No, according to the company, which has always denied it. President Donald Keough said of the theory: "The truth is we're not that dumb and we're not that smart."
+No, according to the company, which has always denied it. President Donald Keough said of the theory: "The truth is we're not that dumb and we're not that smart." The ending was so perfect that many people refused to believe it was an accident. The theory spread: Coca-Cola had planned the whole thing, removing the beloved drink, letting the nation panic, then bringing it back to a hero's welcome and a mountain of free publicity. President Donald Keough said of the theory: The truth is we are not that dumb and we are not that smart.
 
 **What happened to New Coke in the end?**
 It was sold alongside Coca-Cola Classic, renamed Coke II in 1990, and finally abandoned in 2002. Coca-Cola Classic became the top-selling sugar cola again within a few months of its return.

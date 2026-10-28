@@ -61,7 +61,7 @@ The hot oil forced the water inside the cooked noodles out as steam, leaving beh
 He saw chicken soup as rich and nourishing, and a flavour that would not clash with the dietary rules of most religions, so the noodles could be welcomed almost anywhere.
 
 **How old was Momofuku Ando when he invented instant ramen?**
-He was 48 years old, working alone in a small shed behind his house in Ikeda, Osaka, after roughly a year of failed experiments.
+He was 48 years old, working alone in a small shed behind his house in Ikeda, Osaka, after roughly a year of failed experiments. Ando was born in 1910 in Taiwan, which was then under Japanese rule, and he moved to Osaka in 1933. He was a restless, practical man, always building small businesses and always watching what ordinary people needed, and in 1948 he set up the small food company that would one day make the noodles. He worked alone in a small shed behind his house in Ikeda, Osaka, after roughly a year of failed experiments.
 
 **What exactly was Space Ram?**
 A special space version of Nissin's noodles developed at Ando's request. Its soup was thickened so it would not splatter in zero gravity, and its noodles could cook in 70-degree water. Astronaut Soichi Noguchi ate it aboard the shuttle Discovery in 2005.

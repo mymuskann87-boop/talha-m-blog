@@ -63,23 +63,28 @@ For ordinary people in Japan and South Korea, life went on as normal on Monday. 
 
 - [What Happened Riyadh Airport Attack](https://talhablog.com/blog/riyadh-airport-attack-what-happened/)
 
-## FAQ
+## Frequently Asked Questions
 
-**What did North Korea fire on October 12, 2026?**
-It fired several ballistic missiles of different types from near Pyongyang toward the East Sea (Sea of Japan), starting at about 9:20 a.m. local time, according to South Korea's Joint Chiefs of Staff.
+**What did North Korea fire on 12 October 2026?**
+North Korea fired several ballistic missiles of different types from near Pyongyang toward the East Sea, which is also called the Sea of Japan, starting at about 9:20 a.m. local time, according to South Korea's Joint Chiefs of Staff. It was the fourth launch in about a month, according to Reuters. North Korea itself said nothing publicly about the launches in the reports, with no speech, no warning and no explanation from Pyongyang, so the missiles spoke, and the rest of the world was left to guess the exact reason.
 
-**How far did the missiles fly?**
-Some flew more than 900 km. Japan estimated one missile reached a height of about 70 km and flew over 910 km, and said two missiles likely fell outside Japan's exclusive economic zone.
+**How far did the North Korean missiles fly?**
+Some of the missiles flew more than 900 kilometres. Japan estimated that one missile reached a height of about 70 km and travelled over 910 km, and said two missiles likely fell outside Japan's exclusive economic zone, the area of sea where Japan has special rights. That detail matters, because it means the missiles splashed down in open water rather than in the area Japan controls, but they still came close enough to make Tokyo react quickly and firmly, ordering officials to gather information, inform the public, and keep ships and aircraft safe.
 
-**How did other countries react?**
-Japan protested and strongly condemned the launches, South Korea held an emergency security meeting, and the US Indo-Pacific Command said the missiles were no immediate threat to US personnel, territory or allies.
+**How did Japan, South Korea and the US react to the launches?**
+Japan protested through diplomatic channels and strongly condemned the launches, with Prime Minister Sanae Takaichi ordering officials to analyse information, inform the public quickly, and make sure ships and aircraft stayed safe. South Korea's National Security Office held an emergency meeting and condemned the launches, which are felt personally in Seoul, a capital close to the border with the North. The United States gave a calmer response: the US Indo-Pacific Command said North Korea had launched two ballistic missiles and that they posed no immediate threat to US personnel, US territory or America's allies.
 
 **Why are tensions high between North and South Korea right now?**
-A landmine blast in the DMZ on September 21 injured three South Korean soldiers. Seoul and the UN Command concluded North Korea planted the mines; North Korea denies it, and sharp words followed.
+A landmine blast in the Demilitarised Zone on 21 September injured three South Korean soldiers, two of them seriously, and a joint investigation by Seoul and the UN Command concluded that North Korea had planted the mines more than a year earlier, which North Korea denies. Kim Yo Jong, the sister of North Korean leader Kim Jong Un, called South Korea's demand for an apology despicable and rejected an offer of medical equipment from Seoul. Then, on 3 October, North Korea test-fired another ballistic missile from the Wonsan area, which flew more than 700 km, adding to the tension before the 12 October launches.
 
-**Why does the UN ban these missile tests?**
-North Korea has been under UN sanctions since 2006 over its nuclear and missile programmes, and the Security Council has banned it from ballistic missile testing. North Korea continues the tests anyway.
+**Was the October launch a response to a South Korean weapons test?**
+A South Korean military source told Kyodo News that the launches appeared to be a response to South Korea's own test-firing of its first hypersonic glide vehicle, a very fast weapon that can glide and change direction. In simple words, each side is showing the other what it can do, and each new test answers the one before it. The October 3 North Korean missile, described by state media as an intermediate-range strategic missile able to change its flight path, which makes it harder to stop, fits the same pattern of action and answer between the two Koreas.
 
+**Why does the UN ban North Korea's ballistic missile tests?**
+North Korea has been under UN sanctions since 2006 over its nuclear and missile programmes, and the UN Security Council has banned it from testing ballistic missiles. Japan's position is that these tests break the rules set by the Security Council. The sanctions are punishments, such as limits on trade, placed on a country to pressure it to change its behaviour, and they have been in place for twenty years. Still, the tests continue, and Monday's launch was the fourth in about a month, which looks like a pattern of a country steadily developing its weapons.
+
+**What is a ballistic missile in simple words?**
+A ballistic missile works a little like a stone thrown very high and very far. It is powered up into the sky, travels in a great arc, and then falls toward the sea or land below. Because of that arc, it can cover huge distances in a short time, which is exactly why these tests worry the countries around North Korea. North Korea, South Korea and Japan are neighbours separated by narrow stretches of sea, so a missile fired from near Pyongyang crosses the region in minutes, not hours, and even a test that ends safely in the water is treated as serious news.
 ## Sources
 
 Sources: Reuters, Kyodo News, AFP, TRT World

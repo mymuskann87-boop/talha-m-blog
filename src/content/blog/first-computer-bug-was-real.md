@@ -1,6 +1,6 @@
 ---
 title: "First Computer Bug Was Real"
-description: "In 1947 a moth stopped a giant computer at Harvard. The true story of the first real computer bug — and why Grace Hopper did not find it."
+description: "What is a computer bug? In 1947 a real moth stopped a giant Harvard computer. The true story of the first real computer bug, and the word bug itself."
 pubDate: 2026-10-18T10:10:00+05:00
 category: "Technology"
 image: "/images/first-computer-bug-was-real.webp"
@@ -85,6 +85,14 @@ It means finding and removing the faults — the "bugs" — that stop a machine 
 
 **Was the moth really the first computer bug?**
 It was the first famous *actual* insect found causing trouble in a computer, and the team joked about exactly that in the logbook. Faults called "bugs" existed long before; this was simply the first time the bug had wings.
+
+**Which computer did the moth stop?**
+
+The Harvard Mark II. On 9 September 1947, operators found a moth stuck in Relay #70, Panel F, and taped it into the logbook.
+
+**Was the word bug new in 1947?**
+
+No. Engineers, including Thomas Edison in the 1870s, used bug for machine faults long before computers. The moth was the first famous actual insect found causing trouble in a computer.
 
 ## Sources
 

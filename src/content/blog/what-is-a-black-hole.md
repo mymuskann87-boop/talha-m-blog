@@ -1,6 +1,6 @@
 ---
 title: "What Is A Black Hole"
-description: "What is a black hole, really? A simple story of a dying giant star, a border nothing can cross, the first photo, and why Earth is safe."
+description: "What is a black hole, really? How scientists know black holes exist, the first photo, a border nothing can cross, and why Earth is safe."
 pubDate: 2026-10-17T14:00:00+05:00
 category: "Space"
 image: "/images/what-is-a-black-hole.webp"
@@ -76,7 +76,7 @@ One last wonder: near a black hole, time itself passes more slowly, as Einstein'
 ## Frequently Asked Questions
 
 **Is a black hole really a hole?**
-No. It is not an empty hole or a tunnel, but a huge amount of matter crushed into a very small space, which makes its gravity extremely strong.
+No. It is not an empty hole or a tunnel, but a huge amount of matter crushed into a very small space, which makes its gravity extremely strong. Most black holes are born from very big stars, much, much heavier than our Sun. When such a star's fuel runs out, its heavy centre falls in on itself while the outer parts blast outward in a huge explosion called a supernova, and the centre keeps falling inward until almost all of it is packed into a point. Imagine a whole mountain squeezed into a tiny marble: that is the kind of squeezing we are talking about, and far beyond it.
 
 **Can a black hole swallow the whole universe?**
 No. It only affects things that come close to it. Far away, its pull is like that of any object with the same mass, and the universe is far too big and spread out.
@@ -89,6 +89,9 @@ They did not photograph the black hole itself. With the Event Horizon Telescope 
 
 **Will the Sun become a black hole one day?**
 No. Only very massive stars, much heavier than the Sun, can collapse into black holes. The Sun is too small and will end its life in a much quieter way.
+
+**How do we know black holes exist if we cannot see them?**
+Scientists cannot see a black hole itself, but they can see what it does to the things around it. Gas falling toward a black hole circles faster and faster, becomes extremely hot, and throws out X-rays that special space telescopes can detect before the gas crosses the border of no return. Stars near a black hole circle it the way Earth circles the Sun, and by watching how fast they travel, scientists can work out how heavy the invisible thing in the middle must be. NASA's Hubble Space Telescope has used exactly this method, measuring fast-moving gas and stars, to confirm black holes at the centres of galaxies, and the Event Horizon Telescope later photographed the glowing hot gas around two of them, with a dark shadow in the middle.
 
 ## Sources
 

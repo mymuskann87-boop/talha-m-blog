@@ -62,6 +62,20 @@ Tonight, when the clock reaches half past two, I will sit at the top of the cell
 
 And if you ever pass a house that has stood empty too long, and the price seems too kind, and the silence inside feels like a blanket laid gently over you, ask who lived there before. Ask what they were called. And if the house whispers your name on the first night, do not answer with theirs.
 
+## Frequently Asked Questions
+
+**Who is Mara in the empty house story?**
+Mara is the name the house whispers to Elena, the woman who buys the long-empty house at the end of Willow Lane, from the very first night, even though Elena's real name is Elena Marsh and she has never been called Mara in her life. Eleven years earlier, a woman named Mara Ellison had lived in the same house, and she vanished one October night, with no body ever found, her car still in the drive in the morning and her kettle still warm. The house had stood empty for eleven years before Elena bought it, in a town where every other home sells in a week, and the whispers call Elena Mara as if any woman who sleeps within its walls becomes, to the house, the same woman.
+
+**Why did the empty house stay empty for eleven years?**
+The house had stood empty for eleven years, the estate agent said, and the price showed it, with a wild garden, paint peeled down to grey wood, and rooms that were big with tall windows. Elena bought it because it was quiet, after ten years of thin apartment walls and traffic that never slept, and she did not ask why a house stays empty for eleven years in a town where every other home sells in a week. The answer, found later in old newspapers at the town library, was Mara Ellison, who had lived there and vanished one October night eleven years earlier, in a missing person case that police eventually stopped calling anything at all.
+
+**What do the whispers in the empty house want?**
+At first the whispers only say Elena's borrowed name, Mara, and then, on the second night, Mara, you came back, as if her arrival were a return and not a beginning. On the night Elena finds the library record, the whispers change, coming from every room at once, urgent and pleading, and for the first time she understands a whole sentence, clear as a bell in the dark: Find the door she left open. In the cellar, behind the old water heater, there is a small, low door, painted the same colour as the wall, with no handle on Elena's side, and the whispers stop the moment she touches it.
+
+**What is the small door in the cellar?**
+The small door is hidden in the cellar, behind the old water heater, low and painted the same colour as the wall, with no handle on Elena's side, and Elena had never noticed it in all her checking of the house. The whispers stop the moment she touches it, and in the silence Elena understands that the house had not been whispering to frighten her, but because it was afraid too, and had been waiting eleven years for someone who would listen long enough to find the one door that should never have been opened, and the one door that had never been closed. She does not open it, and she does not try to find a handle, because some doors are shut to keep something in, not to keep people out.
+
 ## More stories to read
 
 - [Dead Man Called Me Twice](https://talhablog.com/blog/dead-man-called-me-twice/)

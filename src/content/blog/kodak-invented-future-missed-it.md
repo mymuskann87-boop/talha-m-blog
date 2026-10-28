@@ -1,6 +1,6 @@
 ---
 title: "Kodak Invented Future, Missed It"
-description: "In 1975, Kodak's own engineer built the world's first digital camera — and the film giant kept it hidden. How the king of photography missed its future."
+description: "In 1975, a Kodak engineer invented the first digital camera, and the film giant kept it hidden. How the king of photography missed its future."
 pubDate: 2026-10-18T21:10:00+05:00
 category: "Business"
 image: "/images/kodak-invented-future-missed-it.webp"

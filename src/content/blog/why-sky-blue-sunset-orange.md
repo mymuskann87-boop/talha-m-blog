@@ -1,6 +1,6 @@
 ---
 title: "Why Sky Blue Sunset Orange"
-description: "Sunlight looks white, yet the sky is blue all day and orange at sunset. The simple science of scattered light, explained for everyone."
+description: "Why is the sky blue all day and orange at sunset? Sunlight looks white, yet scattered light paints the sky. The simple science, explained for everyone."
 pubDate: 2026-10-17T13:50:00+05:00
 category: "Nature"
 image: "/images/why-sky-blue-sunset-orange.webp"
@@ -95,10 +95,13 @@ It is the scattering of sunlight by tiny air molecules, in which short blue wave
 Dust and other small particles in the air scatter even more blue light away, leaving purer red and yellow light. Evenings with more dust in the air often produce deeper red skies.
 
 **Why is the sky near the horizon almost white at midday?**
-Light from that direction crosses much more air, and the blue light is scattered and re-scattered so many times that the colours mix back together towards white.
+Light from that direction crosses much more air, and the blue light is scattered and re-scattered so many times that the colours mix back together towards white. Light from the horizon has travelled through much more air than light from overhead. Along that longer path, blue light is scattered and re-scattered many times, and Earth's surface reflects and scatters light too. All this extra scattering mixes the colours back together, so near the horizon we see more white and less blue.
 
 **Is the sky blue on other planets?**
 Not necessarily — it depends on what is in the atmosphere. NASA points out that Mars has a very thin, dusty atmosphere, so its daytime sky looks orange or reddish, while at sunset the sky around the Sun there takes on a blue-grey tone — almost the opposite of Earth.
+
+**Why is the sky blue?**
+Sunlight looks white, but it is really made up of all the colours of the rainbow, travelling in waves of different sizes: blue light travels in short, small waves, while red light travels in long waves. When sunlight enters the atmosphere, it collides with tiny gas molecules, mainly nitrogen and oxygen, and the light gets scattered, thrown off in different directions, in a process called Rayleigh scattering. The scattering does not treat all colours equally: the air molecules scatter the shorter blue waves much more strongly than the longer red waves, so blue light is thrown in every direction and reaches your eyes wherever you look. That is why we see a blue sky most of the time, even far from any sea.
 
 ## Sources
 

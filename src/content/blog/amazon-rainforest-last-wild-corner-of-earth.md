@@ -1,6 +1,6 @@
 ---
 title: "Amazon Rainforest Is Slowly Vanishing"
-description: "A journey into the Amazon rainforest — the giant river with no bridges, pink dolphins, tribes that have never met the outside world, flying rivers"
+description: "The Amazon, the biggest rainforest in the world: a journey into its giant river with no bridges, pink dolphins, tribes, and flying rivers."
 pubDate: 2026-10-15T01:42:00+05:00
 category: "Nature"
 image: "/images/amazon-rainforest-last-wild-corner-of-earth.webp"
@@ -143,6 +143,9 @@ Yes. More than one hundred groups are estimated to live in voluntary isolation i
 
 **Why is the Amazon in danger?**
 About 17 percent has already been cut or burned, mainly for cattle, farms, mining and roads. Scientists warn that at around 20–25 percent loss, the forest may fail to make its own rain and begin turning into dry savanna, releasing its vast stored carbon — which is why protecting it matters to the whole planet.
+
+**Is the Amazon forest bigger than Pakistan?**
+Yes, far bigger. The Amazon rainforest covers about 6.7 million square kilometres, around 40 percent of the South American continent, spread across nine countries with about 60 percent in Brazil. If the Amazon rainforest were a country, it would be the seventh largest country on Earth, and you could fit the whole of Pakistan inside it more than eight times over, and the United Kingdom inside it more than twenty-five times.
 
 *Sources: Encyclopaedia and scientific references on the Amazon basin, NASA research on Saharan dust fertilisation, and WWF and research-institute figures on Amazon biodiversity and deforestation, summarised October 2026.*
 

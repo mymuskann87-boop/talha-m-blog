@@ -83,7 +83,10 @@ Mainly migratory birds that stop on the island during their seasonal journeys. W
 There is no solid record of it. Keepers did live on the island after the lighthouse was built in 1909, and they left once the light was automated. The story of the family killed by snakes is told as a legend.
 
 **Is the golden lancehead the snake behind the medicine captopril?**
-Not exactly. Captopril was designed from compounds in the venom of its mainland cousin, the Brazilian pit viper *Bothrops jararaca*. The golden lancehead belongs to the same lancehead family.
+Not exactly. Captopril was designed from compounds in the venom of its mainland cousin, the Brazilian pit viper *Bothrops jararaca*. The golden lancehead belongs to the same lancehead family. One of the world's most widely used blood-pressure medicines, captopril, was designed from bradykinin-potentiating peptides found in the venom of the Brazilian pit viper Bothrops jararaca. Be precise here, because writers often blur the point: the jararaca is a mainland cousin of the golden lancehead, not the island snake itself, and credit belongs to the wider lancehead family.
+
+**What snake lives on Snake Island?**
+The golden lancehead pit viper, scientific name Bothrops insularis, a species that exists nowhere else on the planet. The island covers just 43 hectares, roughly 60 football fields of rock, grass and rainforest, off the coast of Brazil, and nearly every snake you would meet there belongs to this one species. It is a slim snake, usually around 70 centimetres long, coloured in pale gold and yellow-brown tones that melt into dead leaves and sunlit branches, and it climbs and waits in low trees and shrubs, feeding mostly on migratory birds that stop on the island during their long seasonal flights.
 
 ## Sources
 

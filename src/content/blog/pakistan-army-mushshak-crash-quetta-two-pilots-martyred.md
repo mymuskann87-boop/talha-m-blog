@@ -93,11 +93,11 @@ On Monday, October 12, 2026, at around midday, a Pakistan Army Aviation Mushshak
 
 **Who were the two pilots who lost their lives?**
 
-The instructor pilot was Major Husnain Shehzad Humayun, and the student pilot was Captain Abdul Samad. The experienced instructor was training the younger officer when the aircraft crashed.
+The instructor pilot was Major Husnain Shehzad Humayun, and the student pilot was Captain Abdul Samad, two men at very different points of the same journey. Instructors are among the most experienced and trusted pilots in any flying unit: their job is not only to fly the aircraft but to teach, sitting beside a student, correcting mistakes, building confidence, and making split-second decisions that keep both of them safe. Captain Abdul Samad was an officer at the start of his flying career, still learning the craft and trusting his instructor with his life on every flight, and on Monday, teacher and student flew together and did not return.
 
 **What caused the crash?**
 
-According to the Pakistan Army's statement, issued through the ISPR, the aircraft crashed due to a technical fault. No other cause has been officially confirmed.
+According to the Pakistan Army's statement, issued through the Inter-Services Public Relations, the aircraft crashed due to a technical fault. There was no enemy and no battle, just a routine training flight on an ordinary Monday that ended in tragedy. The army did not release further details about what exactly failed, and the full picture usually emerges only after an investigation examines the wreckage and the record of the flight. Various claims also circulated on social media, but no official has confirmed any other claim, and until an investigation reports, the ISPR statement remains the only verified account.
 
 **What is a Mushshak aircraft?**
 

@@ -1,6 +1,6 @@
 ---
 title: "Actor Who Refused His Oscar"
-description: "The Best Actor winner was not in the room. A 26-year-old woman walked on stage instead, refused the Oscar, and shook Hollywood in 60 seconds."
+description: "Marlon Brando declined his Oscar for Best Actor in 1973. A 26-year-old woman walked on stage instead, refused it for him, and shook Hollywood in 60 seconds."
 pubDate: 2026-10-19T21:00:00+05:00
 category: "Awards"
 image: "/images/actor-who-refused-his-oscar.webp"
@@ -108,13 +108,13 @@ Readers will judge that dispute for themselves. What no one disputes is what hap
 
 ## Frequently Asked Questions
 
-**Who was Sacheen Littlefeather?**
-
-Sacheen Littlefeather (born Maria Louise Cruz, 14 November 1946) was an American actress and activist. She became famous worldwide on 27 March 1973, when she appeared at the 45th Academy Awards on behalf of Marlon Brando and declined his Best Actor Oscar for *The Godfather*.
-
 **Why did Marlon Brando refuse the Oscar for The Godfather?**
 
 Brando boycotted the 1973 ceremony to protest Hollywood's treatment and portrayal of Native Americans in films and television, and to draw attention to the American Indian Movement's ongoing standoff with federal agents at Wounded Knee, South Dakota.
+
+**Who was Sacheen Littlefeather?**
+
+Sacheen Littlefeather (born Maria Louise Cruz, 14 November 1946) was an American actress and activist. She became famous worldwide on 27 March 1973, when she appeared at the 45th Academy Awards on behalf of Marlon Brando and declined his Best Actor Oscar for *The Godfather*.
 
 **What did Sacheen Littlefeather actually say on stage?**
 

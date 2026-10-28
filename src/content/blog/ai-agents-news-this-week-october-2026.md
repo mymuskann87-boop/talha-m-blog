@@ -51,6 +51,24 @@ The open-source **Kimi K2.6** from Moonshot AI is being talked about because it 
 
 - [Best AI Coding Agents 2026](https://talhablog.com/blog/best-ai-coding-agents-october-2026/)
 
+## Frequently Asked Questions
+
+**What AI agent news came out in October 2026?**
+
+The first ten days of October 2026 brought a wave of AI agent launches. On October 7, Anthropic released Claude Haiku 5.5, a small, fast, low-cost model with a 1 million token context window, and Meta brought its Muse personal agent to a dedicated iPad app. At DevDay 2026, OpenAI introduced Dots, an always-on personal agent, and Google announced the Gemini agent at Gemini at Work 2026, a single universal agent for work inside Gmail, Docs, Sheets and other Workspace apps. On October 5, HackerRank made Chakra, an AI agent that runs whole coding interviews, generally available, and on October 1, IBM launched a self-hosted version of its IBM Bob coding agent for banks and governments.
+
+**What is Claude Haiku 5.5 and why does it matter?**
+
+Claude Haiku 5.5 is a small, fast and low-cost model released by Anthropic on October 7, 2026. It is meant for high-volume work such as sorting information, pulling out details from text, routing requests, and acting as a helper, or subagent, inside bigger agent systems. It has a context window of 1 million tokens, so it can read a very large amount of text at one time. It matters because when many agents run together, the cost adds up quickly, and a cheaper small model helps businesses use agents at a large scale without the bill growing out of control.
+
+**How is OpenAI's Dots agent different from ChatGPT?**
+
+Dots is described by OpenAI as an always-on personal AI agent, introduced at DevDay 2026, while ChatGPT is a chatbot that mainly answers questions when asked. An AI agent does not only answer questions but also takes actions for you, like writing code, booking things, or finishing a task, and Dots is meant to work continuously in the background rather than waiting for a prompt. Reports from the same time also said OpenAI was in talks about a new funding round, but those are reports and not a confirmed deal, so this post treats the funding as unconfirmed.
+
+**Is it safe to give an AI agent access to my money and files?**
+
+Be careful before you give any agent access to your money, files or accounts. The post advises checking what the agent is allowed to do and keeping a human in control, because agents act on their own once given a goal. Cost and trust are the big topics of this wave of launches: cheaper models like Haiku 5.5 reduce cost, while self-hosted tools like IBM Bob, which banks and governments can run in a fully isolated network, try to solve trust. The safe approach is to start with limited permissions, review what the agent does, and keep a person in charge of important actions.
+
 ## Sources
 
 - [AI Agents Store: AI Agents News, Week of October 10, 2026](https://aiagentstore.ai/ai-agent-news/this-week)

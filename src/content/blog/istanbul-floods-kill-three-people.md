@@ -56,20 +56,25 @@ More heavy rain has been forecast for Istanbul and the surrounding region over t
 ## Frequently Asked Questions
 
 **How many people died in the Istanbul floods?**
-Three people have been confirmed dead: a 14-year-old boy who was electrocuted in the Balat area, a 34-year-old who fell on a flooded sidewalk in Sarıyer, and a man whose body was found near Sadabad Park in Kağıthane.
+Three people have been confirmed dead: a 14-year-old boy who was electrocuted in the Balat area after he stepped into a puddle, a 34-year-old who fell on a flooded sidewalk in the Sariyer district and struck their head, and a man whose body was found near Sadabad Park in the Kagithane district, close to a stream that had overflowed. The boy was taken to hospital, but doctors could not save him, and work to identify the man found near Sadabad Park was still going on. By Thursday, the city was counting its dead, with several people still missing and thousands forced out of flooded homes and workplaces.
 
-**How many people are still missing?**
-At least four. The Istanbul Governor's Office reported four people missing in the city on Thursday, while later agency reports put the number at five.
+**How many people are still missing after the Istanbul floods?**
+At least four. The Istanbul Governor's Office reported four people missing in the city on Thursday, while later agency reports put the number at five. Search work continued on Thursday, and more heavy rain was forecast for the weekend, which meant the cleanup, and the search for the missing, was not over yet. The difference between the two figures reflects how quickly information changes during a flood emergency, with different agencies reporting at different times as search teams work across the city.
 
-**Why is this rainfall being called historic?**
-Governor Davut Gül said it was the highest level of rainfall Istanbul has recorded since records began in 1942. Beykoz alone received 269.5 millimetres between Tuesday midnight and Thursday morning.
+**Why is this rainfall being called historic for Istanbul?**
+Governor Davut Gul said it was the highest level of rainfall Istanbul has recorded since records began in 1942, making it the city's heaviest rainfall in at least 80 years. In Beykoz, on the Asian side of the city, 269.5 millimetres of rain were recorded between midnight on Tuesday and 7:30 on Thursday morning, according to the Istanbul Metropolitan Municipality's disaster coordination centre. The rain began on Tuesday and grew stronger through Wednesday, 14 October, filling roads and underpasses, pouring into homes, shops and basements, and leaving vehicles stranded across many districts, including Esenyurt and Sultangazi.
 
-**Are schools and flights affected?**
-Yes. Schools in Istanbul were closed on Thursday and Friday, dozens of flights were diverted on Wednesday, and Sabiha Gökçen Airport temporarily suspended take-offs.
+**What did the flood do across Istanbul in numbers?**
+By Wednesday nightfall, Turkiye's AFAD disaster agency had recorded 1,277 flooding incidents, 15 landslides, 47 people stranded and two roofs blown off, and it set up a crisis desk to manage the emergency. Flood water also reached two hospitals and poured through the ceiling of a metro station, and some workers trapped at flooded workplaces had to be carried out with boats and heavy machinery during overnight rescue operations. Interior Minister Mustafa Ciftci said 2,727 people had been evacuated across the city, and around 8,000 personnel, along with about 2,000 vehicles and machines, were sent out to deal with the flooding.
 
-**Is more rain coming?**
-Yes. Forecasters expect heavy rain to continue over the weekend, and officials have warned residents to stay away from flooded roads and riverbanks.
+**Are schools and flights affected by the Istanbul floods?**
+Yes. Schools in Istanbul were closed on Thursday and Friday, and authorities urged people to stay at home unless travel was absolutely necessary, while residents of basement apartments were advised to spend the night on higher floors. Forty-three flights bound for Istanbul Airport had to be diverted on Wednesday, as did three flights heading for Sabiha Gokcen Airport on the Asian side, which temporarily suspended take-offs because of strong winds, the transport ministry said. Parts of the city, notably Sariyer, also lost power and water supplies, and municipal teams and firefighters worked across the city pumping water out of schools, garages and sports grounds.
 
+**Did the flooding spread beyond Istanbul?**
+Yes. Heavy rain also flooded parts of the nearby provinces. In Sakarya, a two-storey house built on the banks of a stream collapsed in the Sapanca area, though the house had been evacuated earlier, so no one was killed or injured. In the neighbouring Kocaeli province, a stream overflowed in the Gebze district and swept away a driver, who was later rescued by emergency workers using ropes. More heavy rain was forecast for Istanbul and the surrounding region over the weekend, which meant the danger, and the search for the missing, continued beyond the city itself.
+
+**Is more rain coming to Istanbul?**
+Yes. Forecasters expect heavy rain to continue over the weekend, and officials have warned residents to stay away from flooded roads and riverbanks. The forecast matters because the ground is already saturated, streets are already covered in mud, and the cleanup, pumping water out of schools, garages and sports grounds and clearing streets, is still under way. Residents were urged to stay at home unless travel was absolutely necessary, and to follow official updates, because flood conditions can change quickly when more rain falls on ground that cannot absorb it.
 ## Sources
 
 - [Daily Sabah — Istanbul flood death toll rises to 3, while 4 remain missing](https://www.dailysabah.com/turkiye/istanbul/istanbul-flood-death-toll-rises-to-3-while-4-remain-missing)

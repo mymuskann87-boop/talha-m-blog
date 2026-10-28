@@ -101,7 +101,7 @@ And there is a quieter reason. The secret ballot makes the voting booth the one 
 A candidate is one person asking for the job. A party is the team that person belongs to — a group sharing broad ideas and one common plan, the manifesto. Voters often choose based on both the person and the team.
 
 **Why is the ballot secret?**
-So nobody can buy your vote or punish you for it. If your choice cannot be checked, it cannot be controlled. Secrecy is what makes the vote truly yours.
+So nobody can buy your vote or punish you for it. If your choice cannot be checked, it cannot be controlled, and secrecy is what makes the vote truly yours. The machinery of that secrecy is deliberate: voters mark uniform ballot papers printed and distributed by the government, ballot boxes are examined before voting begins and cannot be opened until the counting starts, and nobody, not your employer, not a party worker, not the officials at the station, can find out how you voted. A vote that can be checked can be bought or forced, but when nobody can prove how you voted, bribery loses its power and fear loses its grip.
 
 **What happens if no party wins a majority?**
 Parties may join together in a coalition and share power, or the largest party may govern as a minority, persuading others law by law. Either way, the government still comes from the election result.

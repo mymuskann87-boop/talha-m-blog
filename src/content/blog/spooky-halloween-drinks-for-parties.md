@@ -49,3 +49,21 @@ Set out the bowl, dim the lights a little, and let the fog do the talking. A par
 - [Whispers From The Empty House](https://talhablog.com/blog/whispers-from-the-empty-house/)
 - [Save Money While Eating Out](https://talhablog.com/blog/save-money-while-eating-out/)
 - [Scary Halloween Stories For Night](https://talhablog.com/blog/scary-halloween-stories-for-night/)
+
+## Frequently Asked Questions
+
+**What are the best spooky Halloween drinks for a party?**
+
+Spooky drinks work because they play a trick on the eyes while tasting completely normal, and the fog, the colour, and the floating jelly shapes are all theatre, and the theatre is cheap. The post gives four drinks that look magical, taste sweet and fresh, and suit guests of every age: witch's green punch, ghostly white lemonade, pumpkin fizz, and berry night punch. Nobody remembers the playlist from a party, but everyone remembers the drink that looked like it came from a witch's kitchen.
+
+**How do you make witch's green punch?**
+
+Mix apple juice, lemonade, and a splash of lime cordial in a big bowl. The green colour comes from the apple juice and lime, not from food colouring. Drop in slices of green apple and a handful of frozen grapes instead of ice cubes: frozen grapes keep the punch cold without watering it down, and they look like little eyeballs bobbing in a potion.
+
+**How do you make ghostly white lemonade?**
+
+Blend plain lemonade with a little coconut milk until it turns pale and cloudy, pour it into clear glasses, and add a white jelly ghost on top, cut from a flat sheet of jelly with a small ghost-shaped cutter or a knife. Kids love fishing their ghost out with a spoon, adults love that it took five minutes, and the cloudy white drink looks like a ghost in a glass.
+
+**Is dry ice safe for Halloween punch?**
+
+Dry ice is what makes a punch bowl smoke like a cauldron, and it deserves respect. Only adults should handle it, and never touch dry ice with bare hands: use thick gloves or tongs, because it is cold enough to burn skin on contact. With those rules followed, the smoking bowl becomes the centrepiece guests keep drifting over to stare at.

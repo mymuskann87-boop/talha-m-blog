@@ -58,6 +58,20 @@ She did not take it. She ran. She ran out of the flat, down the stairs, out into
 
 A shadow that follows you is frightening. A shadow that learns your routine is worse. But the worst thing of all is this: when Maya boarded that train and looked down at the platform, there was only one shadow beneath her feet. And it was not hers. Hers had stayed behind in the flat, standing in the dark, waiting for the next person who would walk home too fast through the fog, and it was waving, slowly, the way you wave at someone you have missed for a very long time.
 
+## Frequently Asked Questions
+
+**What followed Maya home from work at night?**
+A second shadow followed Maya, a dark shape on the pavement shaped roughly like a person standing, with no person attached to it, first noticed halfway down Willow Street on a warm October night in thin fog. Her own shadow stretched out in front of her in the lamplight, exactly as it should have been, but beside it lay the second shadow, which shifted the way a person moves when adjusting weight from one foot to the other, and leaned very slightly toward her. The next night, at the bus stop, the second shadow walked beside her in perfect step, as if it had practised, and raised an arm and waved at her, slowly, the way you wave at someone you have missed for a long time.
+
+**Why did Maya think the shadow was learning her routine?**
+Maya loved the walk home, forty minutes from the office through old streets where lamps were spaced far apart, and she took the long way on purpose, through Willow Street, where she knew every gate and every patch of light. After the first night, she took the bus home instead, but the feeling was waiting for her at the bus stop the moment her feet touched the pavement, and the shadow was there again, walking in perfect step. She understood that the shadow was not following her home, but following her, and home was simply where she stopped moving, and where it could finally catch up, learning her route, her timing, and her habits night by night.
+
+**What happened when the power went out in Maya's flat?**
+On the third night, Maya stayed in her flat with every light on and the curtains drawn, telling herself shadows cannot come inside, until at midnight the power went out, with no storm and no wind, and the whole building went dark at once. In the blackness she heard something moving across her living room floor, a faint brushing like cloth dragged slowly across wood, until it stopped directly in front of her, and a voice that sounded exactly like her own, but colder, slower and infinitely more patient, said: You walk too fast. I only wanted to walk with you. When she turned on her phone torch, there were two shadows on the floor, hers trembling, and the other one holding out a hand that was not quite a hand, waiting for her to take it.
+
+**Why did Maya leave town on the first train?**
+Maya ran out of her flat, down the stairs and into the street, and sat in the all-night cafe until morning, then went home, packed a bag, and left town on the first train, because she had understood the worst part of it. When she boarded the train and looked down at the platform, there was only one shadow beneath her feet, and it was not hers. Hers had stayed behind in the flat, standing in the dark, waiting for the next person who would walk home too fast through the fog, and it was waving, slowly, the way you wave at someone you have missed for a very long time, because the shadow had taken her place.
+
 ## More stories to read
 
 - [Whispers From The Empty House](https://talhablog.com/blog/whispers-from-the-empty-house/)

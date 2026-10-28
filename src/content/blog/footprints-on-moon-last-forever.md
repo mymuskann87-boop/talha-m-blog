@@ -68,7 +68,7 @@ Until then, the Moon keeps our first steps the way a museum keeps its treasures 
 ## Frequently Asked Questions
 
 **Are the Apollo footprints really still on the Moon?**
-Yes. NASA's Lunar Reconnaissance Orbiter has photographed the Apollo landing sites and found the landers, instruments, rover tracks and astronaut trails still in place, decades after the missions.
+Yes. NASA's Lunar Reconnaissance Orbiter has photographed the Apollo landing sites and found the landers, instruments, rover tracks and astronaut trails still in place, decades after the missions. The footprints pressed into the Moon by Apollo astronauts in 1969 are still there today, every single one of them, sharp and clear more than fifty years later. Apollo 17 left the last human foot trails on the Moon in December 1972, and scientists believe the marks may stay readable for millions of years, because no storm has touched them and no rain has washed them away.
 
 **Why does the Moon have no wind or rain?**
 Because it has almost no atmosphere. Wind is moving air, and rain needs air and water cycles. The Moon has neither, and no liquid water on its surface, so nothing blows or washes footprints away.

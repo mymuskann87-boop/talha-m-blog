@@ -45,3 +45,21 @@ When the party is over, take the makeup off gently. Warm water, a soft cloth, an
 - [The Mirror Showed Someone Else](https://talhablog.com/blog/the-mirror-showed-someone-else/)
 - [Save Money On Monthly Groceries](https://talhablog.com/blog/save-money-on-monthly-groceries/)
 - [Halloween Nail Art Designs Easy](https://talhablog.com/blog/halloween-nail-art-designs-easy/)
+
+## Frequently Asked Questions
+
+**What is the fastest Halloween makeup look?**
+
+The five-minute cat is the fastest Halloween look in the world, and it always works. Start with your normal foundation or a light powder, draw a small black triangle on the tip of your nose with eyeliner, add three whisker lines on each cheek curving slightly upward, and finish with a flick of eyeliner at the corners of your eyes, like a cat's eyes. With two extra minutes, cut two cardboard triangles, colour them black, clip them into your hair as ears, and wear a black top.
+
+**How do I do ghost face makeup for Halloween?**
+
+Cover your face with a light foundation or white face paint, a shade or two lighter than your skin, and blend it well at the edges so it does not look like a mask. Then darken around your eyes with grey or black eyeshadow, blending outward like shadows. Add a pale lip colour, mess up your hair a little, and wear a white or grey top. Ghosts are supposed to look a little messy, so do not worry about perfect lines, and you will look like you floated in from a very old house in about ten minutes.
+
+**How do I do a pumpkin grin for Halloween?**
+
+Start with an orange base, using orange face paint or a warm orange blush blended all over the face, kept light so you get a glow and not a mask. Then draw a wide grin with black eyeliner, curving up at the corners like a carved pumpkin, and add a few short vertical lines above and below the grin, like the cuts in a jack-o-lantern. Finish with a green touch, a small green leaf shape on your forehead or a green hairband, and a green or brown top.
+
+**How can I do Halloween makeup safely?**
+
+Use only products made for skin, and test a small dab on your wrist first if you have sensitive skin. Keep everything away from your eyes unless the product is meant for eyes, wash it all off before bed with warm water and soap, and never share makeup with friends, because shared makeup can spread skin problems. Safe and simple first, then fun, is the rule the post sets before any of its four looks.

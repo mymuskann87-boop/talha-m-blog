@@ -68,10 +68,10 @@ For the rest of us, this race is quiet good news. More competition usually means
 ## Frequently Asked Questions
 
 **What is the Maia 300?**
-The Maia 300 is Microsoft's newest custom AI chip, announced on October 12, 2026. It is the third generation of AI chips Microsoft has designed itself.
+The Maia 300 is Microsoft's newest custom AI chip, announced on Monday, October 12, 2026. It is the third generation of AI chips Microsoft has designed itself, built after learning lessons from the first two, and Microsoft has been quietly working on its own chips for years. Every time you ask an AI chatbot a question, a special chip in a huge data centre does the thinking, and for years most of that thinking has happened on Nvidia chips. The Maia 300 is Microsoft's own answer, and it is not a small experiment.
 
 **How many Maia 300 chips will Microsoft deploy?**
-Microsoft says it plans to deploy potentially more than one million of them next year, to power its internal AI services.
+Microsoft says it plans to deploy potentially more than one million Maia 300 chips next year, to power its internal AI services, the AI features and tools Microsoft itself runs for customers around the world. Each chip is a powerful computer brain, and a million of them working together is like building a small city of brains, all thinking at once. The chips will go into racks holding 96 chips each and using about 167 kilowatts of power, and at that scale even small savings in electricity per chip add up to enormous savings overall.
 
 **What are chiplets?**
 Chiplets are smaller, specialised chips bonded together to make one bigger processor. In the Maia 300, the main computing parts use advanced 2-nanometre technology, while simpler parts use cheaper 3-nanometre technology.
@@ -80,7 +80,7 @@ Chiplets are smaller, specialised chips bonded together to make one bigger proce
 That is Microsoft's own claim — the company says the chip does about 40% more useful computing per megawatt than leading GPU-based systems, but it did not name the systems it compared against.
 
 **Why is Microsoft making its own chips?**
-Like its rivals, including OpenAI, Microsoft wants to depend less on Nvidia, which currently holds a powerful position in the AI chip market.
+Like its rivals, including OpenAI, Microsoft wants to depend less on Nvidia, which currently holds a powerful position in the AI chip market, because most of the mountains of chips in data centres today are built with Nvidia's chips and everyone else has been standing in its queue. The previous generation of Microsoft's custom chips is already working today, running Microsoft's in-house AI models and models from OpenAI delivered through Azure, so the Maia 300 is the next step of a machine that is already running, not a dream on paper.
 
 ## Sources
 

@@ -74,6 +74,17 @@ The beach was still there. Smaller than they remembered, as childhood places alw
 
 On the train home that evening, as the fields rolled dark past the windows, Amara leaned her head on Noah's shoulder and thought about how strange and generous life could be. It had taken her heart away from someone at twelve, kept the memory safe for nineteen years, and then, on an ordinary Tuesday, in an ordinary station café, handed it back to her, smiling over a cup of coffee. She had chosen him once as a child, without knowing what choosing meant. Now she was choosing him again, with her whole grown-up heart, and that, she decided, was the most romantic thing that had ever happened to her.
 
+## Frequently Asked Questions
+
+**Why did Amara's heart stop when she saw Noah?**
+Amara, thirty-one, a schoolteacher, was in a station cafe on a Tuesday morning when the man ahead of her in line turned, smiled an apologetic stranger's smile, and said he thought he had taken her sugar. Her heart stopped in a real, frightening, breath-catching way, as if her body had recognised something her mind had forgotten, and his laugh sounded like home, like a song she had not heard in years but could still hum. She had never met him, yet everything about him, his dark untidy hair, his worn coat, the way he drummed his fingers on the train window, felt like a word on the tip of her tongue, because she had known him once before, as a child.
+
+**How did Amara and Noah know each other as children?**
+Amara and Noah had met as twelve-year-olds at Seabrook, where they built a sandcastle on the beach, and Noah kept a small pink-and-white shell Amara gave him on their last day, carrying it in every coat he ever owned, while Amara kept a flat white stone with two names and one word painted on it in childish letters: Amara. Noah. Forever. Their families parted them, and Amara's memory of him faded, kept safe for nineteen years, until her heart recognised him again in the station cafe. When they met again, Noah reached into his coat pocket and held out the shell, and Amara pulled the stone from her bag, and both burst into tears in front of the sugar bowls and the sleepy commuters.
+
+**What happened after Amara and Noah met again?**
+They met for coffee the next day, and the day after that, until the station cafe staff began setting aside their usual table, talking like old friends and new sweethearts at once, finishing each other's sentences and discovering the adults the two children had become. Noah was a railway engineer who loved timetables and bridges, and Amara told him about her students and the small flat she had painted yellow. One Saturday, Noah took her back to Seabrook, where they walked the shoreline holding hands, rebuilt the sandcastle together, and let a wave take it, with Noah saying: Let it fall. We'll build it again. We have time now. Amara decided she had chosen him once as a child, and was now choosing him again, with her whole grown-up heart.
+
 ## More stories to read
 
 - [Love Found Her After Midnight](https://talhablog.com/blog/love-found-her-after-midnight/)

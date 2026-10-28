@@ -95,7 +95,7 @@ So here is the question his refusal leaves sitting on the table. If the greatest
 A rule he kept for his whole life: he declined every official honour, the Legion of Honour in 1945 included. He believed taking the Nobel would bind him to an institution, and he said a writer should not allow himself to be turned into one. He also refused to let his acceptance be read as picking a side in the Cold War.
 
 **Did he ever receive the medal or the money?**
-No. The presentation ceremony never happened, and he never held the medal or touched the prize money.
+No. The Swedish Academy replied that his refusal did not modify the validity of the award, but the presentation ceremony could not take place. Sartre never travelled to Stockholm, never held the gold medal, and never touched a single coin of the money. Yet his name sits on the official roll of Nobel laureates for 1964 to this day, with a note recording that he declined, so he became a Nobel winner by refusing to become one.
 
 **Does his name still appear on the winners' list?**
 Yes. The Academy declared that his refusal did not touch the validity of the award, so official records still list Jean-Paul Sartre as the 1964 laureate in Literature, noted as having declined.

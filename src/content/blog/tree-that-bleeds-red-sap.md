@@ -1,6 +1,6 @@
 ---
 title: "Tree That Bleeds Red Sap"
-description: "Fly to a remote island, stand under an umbrella-shaped tree, and watch dark red drops bead from its cut bark. It looks like blood. It is not."
+description: "Fly to a remote island, stand under an umbrella-shaped tree, and watch red sap bead from its cut bark. It looks like blood. It is not."
 pubDate: 2026-10-19T19:40:00+05:00
 category: "Nature"
 image: "/images/tree-that-bleeds-red-sap.webp"
@@ -105,6 +105,9 @@ The wide, dense canopy is an adaptation to dry land. It catches fog and mist and
 **Is the dragon blood tree endangered?**
 
 It is listed as Vulnerable on the IUCN Red List. Goats eat its seedlings, stronger cyclones uproot old trees, and the island's climate is growing drier, so very few young trees survive to replace the ancient ones.
+
+**What tree has red sap?**
+The dragon blood tree, known to science as Dracaena cinnabari, which grows on Socotra, an island belonging to Yemen between Arabia and the Horn of Africa, roughly 380 kilometres off the Yemeni coast. When its bark is cut, dark red drops bead from the wound, and local people call the substance dragon's blood. It is not blood at all: it is resin, a sticky, protective juice the tree produces when its bark is damaged, which seals the cut, guards the wound against drying out, and hardens in the air, like the tree's own bandage.
 
 ## Sources
 

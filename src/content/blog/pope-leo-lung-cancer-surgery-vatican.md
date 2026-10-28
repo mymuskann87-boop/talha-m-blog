@@ -89,7 +89,7 @@ That is not known yet. Further tests, including tests on the lymph nodes removed
 
 **How long will Pope Leo stay in hospital?**
 
-He is expected to stay for about a week. His audiences are cancelled until October 20 while he recovers.
+He is expected to stay for about a week. His audiences are cancelled until October 20 while he recovers. He had the operation at Rome's Gemelli Hospital on Tuesday, 13 October 2026, when the 71-year-old Pope walked into the hospital on his own feet, waving and smiling at the people who had gathered to wish him well. A few hours later he was waking up from surgery and asking for some dinner, and the Vatican said the operation was successful and had no complications.
 
 **Why are doctors hopeful?**
 

@@ -100,6 +100,9 @@ Lesser flamingos are specially adapted: tough, scaly skin on their legs resists 
 **Can a person swim in Lake Natron?**
 No. The water can burn skin and eyes, and in the shallow areas it can also be extremely hot. A brief accidental dip would not turn anyone to stone, but it could cause serious burns. It is a lake for looking at, from a safe distance.
 
+**What animals live at Lake Natron?**
+Flamingos call this deadly lake home, and other tough lives survive at the water's edge too. Lake Natron is a shallow red lake in a wild corner of Tanzania, whose water is soda water stronger than soap, fed by the volcano that keeps feeding the lake. The lake is famous for turning animals to stone, but the flamingos have learned to live with water that other animals cannot survive, which is why this red, alkaline lake is both a killer and a home.
+
 ## Sources
 
 - Discover Wildlife (BBC Wildlife Magazine), "Deadly African lake appears to turn animals to stone — but the truth is even stranger": https://www.discoverwildlife.com/animal-facts/lake-turns-animals-to-stone

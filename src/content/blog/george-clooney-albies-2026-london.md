@@ -1,6 +1,6 @@
 ---
 title: "The Albies 2026 Honorees List"
-description: "The Albies 2026 took place on October 9, 2026, in London. See the honorees list, the red carpet, and George Clooney's words."
+description: "The Albies 2026: date, honorees list, and the London night hosted by George and Amal Clooney. The red carpet, the guests, and Clooney's words."
 pubDate: 2026-10-11T13:40:00+05:00
 updatedDate: 2026-10-14
 category: "Celebrity"
@@ -99,6 +99,14 @@ Amal Clooney wore a gold Gucci gown covered in sequins and beaded fringe, with a
 **Who hosted and performed at the Albies 2026 in London?**
 
 Graham Norton hosted the evening, and Jackson Browne and Vic Mensa performed. Brad Pitt attended with Ines de Ramon, alongside guests including Emma Thompson and Laura Dern.
+
+**Who was Bianca Jagger, and why did her arrival matter?**
+
+Bianca Jagger, 81, made a rare public outing for the Albies, wearing a black Gucci jacket over a white shirt, with her bamboo walking cane. She is a human rights campaigner as well as a fashion icon, so her presence fitted the purpose of the night.
+
+**Which fashion house partnered the Albies 2026?**
+
+Gucci was the event's exclusive fashion partner. Amal Clooney wore a gold Gucci gown covered in sequins and beaded fringe, with a crystal clutch and gold heels, while George Clooney wore a classic black tuxedo.
 
 ## Sources
 

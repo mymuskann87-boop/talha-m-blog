@@ -105,6 +105,9 @@ It can. Caffeine is made to keep you alert, and its effect can still be present 
 **When should I see a doctor about being tired?**
 If you have felt tired for a few weeks without knowing why, if it disturbs daily life, or if you have other symptoms like unexplained weight loss or gasping noises in your sleep. Simple tests can check common causes.
 
+**Why am I tired after a good night's sleep?**
+A full night in bed is not the same thing as a full night of good sleep. Sleep travels through different levels in rounds called sleep cycles, lasting about 90 minutes each, and if something keeps disturbing that journey, noise, light, a restless mind, a blocked airway or a late-night phone, you can spend eight hours in bed and still miss the deep, repairing part of the night. When you wake up matters almost as much as how long you slept: waking from deep sleep can leave you foggy for up to 30 minutes or even an hour. Most adults need at least 7 hours of sleep a night, many need 7 to 9, and sleeping less than your body needs builds a quiet debt that one long weekend lie-in cannot fully repay.
+
 ## Sources
 
 - NHS — Tiredness and fatigue: https://www.nhs.uk/symptoms/tiredness-and-fatigue/

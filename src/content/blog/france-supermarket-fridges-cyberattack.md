@@ -97,6 +97,9 @@ The Paris prosecutor's cybercrime unit is investigating, the Paris prosecutor's 
 
 There is a lesson in this story that goes far beyond France. The world quietly connected almost everything to the internet because it was easy and useful — and most of the time, it truly is. But every connection is also a door, and doors need locks. On one October night, someone opened the fridge doors of 700 supermarkets without ever touching them. The food is gone, the fires are out, and the investigators are at work. The real question now is whether everyone else — every shop, every company, every maker of smart machines — will lock their doors before the next knock comes.
 
+**How did hackers hack 700 supermarket fridges in France?**
+On the night of 11 October 2026, hackers took control of the fridges in hundreds of supermarkets by getting into refrigeration controllers made by companies called Danfoss and Copeland, according to France's national cybersecurity alert agency, CERT-FR. These little devices are the brains of the cooling system, and once inside, the hackers gave the fridges a cruel order: keep defrosting, and do not stop. A defrost cycle normally lasts about an hour, but the hackers changed it from one hour to eight hours, so the alarms did not sound quickly because the system thought everything was normal. The fridges heated food to 50 degrees, spoiling stock and sparking fires, and about 700 of France's 10,000 supermarkets were affected on the same night, by the same attack.
+
 ## Sources
 
 **Source links:**

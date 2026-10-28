@@ -84,6 +84,24 @@ This is a developing story, and details may change. We will keep you updated.
 
 - [Protests Erupt Over Petrol Levy](https://talhablog.com/blog/protests-erupt-over-petrol-levy/)
 
+## Frequently Asked Questions
+
+**Where is the PTI long march now?**
+
+As of October 11, 2026, the march had completed one week inside Khyber Pakhtunkhwa and supporters from all over Pakistan had been asked to gather at the Swabi Interchange. The march began on Sunday, October 4, at Gandi Chowk in Lakki Marwat, travelled through Karak, Kohat, Khyber district, Peshawar and Charsadda, and was expected to move on to Mardan and then Swabi. Afridi said he would announce the next plan at the Swabi Interchange, with the latest reports saying October 13, and that the march would move beyond Swabi on October 14. The final destination still looked undecided, according to Dawn, and the route and dates had changed several times, so this answer reflects the position on October 11 as reported in the post.
+
+**Why is PTI marching and what does it want?**
+
+According to PTI leaders, the main demand is the release of Imran Khan, the founder of PTI, who used to be Prime Minister and is now in jail. Senior leader Asad Qaiser also said the federal government is not giving KP its fair share of money from the NFC Award, the rule that decides how the country's tax money is divided between the federal government and the provinces, and that promises made to the tribal areas when FATA was merged into KP have not been fulfilled. Chief Minister Afridi also said, speaking in Khyber district, that he will not allow another military operation in the province and that past policies did not stop terrorism. These are the reasons given by PTI leaders, and the federal government sees things differently.
+
+**Who is leading the PTI long march?**
+
+The march is led by Muhammad Sohail Afridi, who became the Chief Minister of Khyber Pakhtunkhwa in October 2025, and it is organised by Pakistan Tehreek-e-Insaf, the party that runs the government in KP. A Chief Minister is the head of a province's government, and because PTI runs the provincial government, the march could travel through the province freely, with the people in charge of the province also leading the march. The march travels in a long convoy of cars, buses and trucks, gathering more people in each town, with the leader making a speech at each stop.
+
+**What does the federal government say about the PTI march?**
+
+The federal government has not agreed with the march. Federal minister Amir Muqam said on October 5 that the march would not be allowed to enter Punjab or Islamabad. Prime Minister Shehbaz Sharif asked PTI to end the march and solve the problems through talks, and offered to sit down and talk. Before the march began, a PTI team went to Islamabad to talk with the government, but the talks did not solve the problem and the march went ahead. There was also talk of governor's rule in KP, which means the central government taking over the running of a province for some time, and Afridi said he was not scared of it and that his movement was about more than power.
+
 ## Sources
 
 - [Dawn: Afridi maintains his stance on counterterrorism policy as PTI long march marks a week](https://www.dawn.com/news/2036185/afridi-maintains-his-stance-on-counterterrorism-policy-as-pti-long-march-marks-a-week)

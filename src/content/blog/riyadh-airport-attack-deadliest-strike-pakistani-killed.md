@@ -63,26 +63,26 @@ What is clear is the human cost of one weekend: at least 12 people killed on Sat
 
 ## Frequently Asked Questions
 
-**What happened at Riyadh airport on Sunday, October 11?**
+**What happened at Riyadh airport on Sunday 11 October?**
+On Sunday, October 11, Riyadh's King Khalid International Airport was attacked again, a day after the deadliest strike on Saudi soil in more than a decade. A projectile struck Terminal 4 and a fire broke out, killing one person, a Pakistani national, and injuring 11 others, according to Saudi Arabia's General Authority of Civil Aviation (GACA), as reported by Arab News. The coalition said Saudi air defences intercepted a cruise missile near the airport, and Dammam's airport was also attacked on Sunday evening, while Riyadh's airport remained closed.
 
-A projectile struck Terminal 4 and a fire broke out. According to GACA, as reported by Arab News, one person was killed — a Pakistani national — and 11 people were injured. A cruise missile near the airport was also intercepted.
-
-**How many people were killed in the Saturday, October 10 attack?**
-
-Saudi authorities said at least 12 people were killed and 309 wounded. The death toll was later reported as 13, with more than 300 wounded in total. Officials described it as the deadliest strike on Saudi soil in more than a decade.
+**How many people were killed in the Saturday 10 October attack?**
+Saudi authorities said at least 12 people were killed and 309 wounded on Saturday, October 10, when a Houthi missile struck the airport complex around terminals 3 and 4. The death toll was later reported as 13, with more than 300 people wounded in total, and officials described it as the deadliest strike on Saudi soil in more than a decade. The victims were Saudi citizens and foreign nationals, including people from Bangladesh, Palestine, the United States, Egypt, Jordan, Syria and Sudan, and footage released from the terminal showed pilgrims inside the building.
 
 **Who carried out the attacks on Riyadh airport?**
+The Houthis, an Iran-aligned group in Yemen, were held responsible in the reporting. Houthi military spokesperson Yahya Saree claimed responsibility for Saturday's attack, and Sunday's attack was also attributed to the Houthi militia in GACA's statements reported by Arab News. The Houthis are an Iran-aligned group in Yemen, where Yemen has been at war for years and a Saudi-led coalition backs Yemen's government against them. Missiles from that war reaching a civilian airport in the Saudi capital is the kind of widening of the conflict that governments in the region say they fear.
 
-The Houthis, an Iran-aligned group in Yemen. Houthi military spokesperson Yahya Saree claimed responsibility for Saturday's attack, and Sunday's attack was also attributed to the Houthi militia. A Saudi-led coalition backs Yemen's government against the Houthis.
+**How many times was Riyadh airport attacked in five days?**
+Sunday's strike was the fourth attack on Riyadh's airport in five days, and the danger did not stay in one city. One attack on a civilian airport is a tragedy, but four attacks in five days on the same airport is a pattern, and that is what officials mean by escalation. GACA also reported an attack on King Fahd International Airport in Dammam, in the Eastern Province, on Sunday evening. Because Riyadh is a major travel hub, the disruption from repeated attacks is felt by passengers far beyond one country.
 
 **What do we know about the Pakistani national killed on Sunday?**
+GACA's statement, as reported by Arab News, identified the person killed in Sunday's attack as a Pakistani national and said 11 other people were injured. The official statements reported so far give no further personal details about him. For readers in Pakistan, this part of the story hits close to home, because large numbers of Pakistanis live and work in Saudi Arabia, and many more pass through its airports for work and for Umrah. This post shares the fact respectfully, with thoughts for his family, and adds no details beyond those given by officials.
 
-GACA's statement, as reported by Arab News, identified the person killed in Sunday's attack as a Pakistani national and said 11 other people were injured. The official statements reported so far give no further personal details.
+**Is Riyadh airport open and were other airports attacked?**
+No, Riyadh's King Khalid International Airport remained closed after Saturday's attack, while damage and safety assessments were carried out, and flights were cancelled or diverted. Dammam's King Fahd International Airport was also attacked on Sunday evening, according to GACA. Travellers with plans through Riyadh or Dammam were advised to follow official airline and airport updates rather than rumours on social media, because schedules can change quickly in a situation like this, and official updates on the wounded, the damage, and the return to normal operations were still to come.
 
-**Is Riyadh airport open, and were other airports attacked?**
-
-No — Riyadh's King Khalid International Airport remained closed after Saturday's attack while damage and safety assessments continued. Dammam's King Fahd International Airport was also attacked on Sunday evening, according to GACA. Travellers should follow official airline and airport updates.
-
+**What is still unclear about the Riyadh airport attacks?**
+Some things are not yet known. The full extent of the damage to Terminal 4 has not been published in detail, and as of the latest reports the airport remained closed while assessments continued. Official updates on the wounded, the damage, and when normal operations can safely resume are still to come. What is clear is the human cost of one weekend: at least 12 people killed on Saturday, with the toll later reported as 13, and more than 300 wounded, then on Sunday one more person killed, a Pakistani national, and 11 injured, all travellers, workers and pilgrims at an airport.
 ## Sources
 
 - Reuters — reporting carried by The Jerusalem Post and Haaretz

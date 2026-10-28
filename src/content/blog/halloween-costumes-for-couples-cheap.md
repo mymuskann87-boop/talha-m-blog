@@ -53,3 +53,21 @@ So pick a pair, raid the wardrobe, and spend the evening being a team. The cheap
 - [Dead Man Called Me Twice](https://talhablog.com/blog/dead-man-called-me-twice/)
 - [Smart Gift Giving Saves Money](https://talhablog.com/blog/smart-gift-giving-saves-money/)
 - [Cheap Halloween Costumes That Impress](https://talhablog.com/blog/cheap-halloween-costumes-that-impress/)
+
+## Frequently Asked Questions
+
+**What are cheap couples Halloween costumes that actually work?**
+
+Pick one idea, split it in two, and let the pair do the talking. The post's six pairs that work every time are vampire and witch, two ghosts with a twist, pumpkin and farmer, skeleton and mad scientist, cat and mouse, and chef and burnt dinner. You do not need a shop-bought set. You need a theme, two old outfits, and a little paint or paper, and the moment two people walk in and everyone instantly gets the joke is what makes the costume fun.
+
+**How do you make a vampire and witch couples costume cheap?**
+
+One black cape and one pointed hat do most of the work. A white shirt, dark trousers, and a long black skirt from the back of the wardrobe finish the job, with red lipstick as the vampire's bite mark and a green scarf as the witch's shawl. One person alone in a vampire cape is fine, but two people, one as the vampire and one as the witch who clearly bosses him around, is a story, and the story costs almost nothing to build.
+
+**What is the 30-minute rule for couples costumes?**
+
+If a costume takes more than 30 minutes to put together, simplify it. Cut the extra props and keep the one detail that tells the story: a witch needs the hat, and a vampire needs the cape. Everything else is decoration, and decoration is where money quietly disappears. Old clothes are your best friend, and a charity shop or a borrowed shirt beats a brand-new costume every time.
+
+**What makes a couples costume fun?**
+
+It is not the price tag. It is the moment two people walk in and everyone instantly gets the joke, like two ghosts where one wears sunglasses and the other carries a tiny pumpkin bucket, or a cat and mouse pair where the chase writes itself and guests play along without being asked. The best couples costumes are the ones you laugh about while making them, because that laughter shows on the night itself.

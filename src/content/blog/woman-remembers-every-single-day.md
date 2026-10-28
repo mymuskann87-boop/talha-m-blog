@@ -94,6 +94,9 @@ Very few. After Price's case became public, hundreds of people contacted the res
 
 Yes. A 2013 study led by Lawrence Patihis found that people with HSAM were just as vulnerable to planted misinformation as people with ordinary memories — and sometimes more so.
 
+**What is HSAM in simple words?**
+HSAM stands for highly superior autobiographical memory, also called hyperthymesia. It is the rare condition Jill Price has: give her any date since 1980 and she can name the day, the weather and what she did, and scientists checked her against her own diaries in tests that amazed them. Her memory never switches off, which is the heavy side of the gift: she remembers every single day, including the painful ones, and cannot simply forget and move on the way most people do.
+
 ## Sources
 
 - Wikipedia — "Jill Price": https://en.wikipedia.org/wiki/Jill_Price

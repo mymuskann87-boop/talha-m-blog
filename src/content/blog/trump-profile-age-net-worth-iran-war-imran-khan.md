@@ -74,6 +74,20 @@ This is a developing story, and details may change. We will keep you updated.
 
 - [Oregon School Shooting Kills Four](https://talhablog.com/blog/oregon-school-shooting-kills-four/)
 
+## Frequently Asked Questions
+
+**Who is Donald Trump and how old is he?**
+Donald John Trump was born on June 14, 1946, in Queens, New York, and is listed in this post as 80 years old. He is the 47th President of the United States, serving his second term, and he is also the 45th president, because his two terms are not back to back. His father, Fred Trump, was a real estate developer, and Trump joined the family business after studying at the Wharton School of the University of Pennsylvania, later becoming famous for building towers, hotels and golf courses, and for his TV show The Apprentice.
+
+**How did Donald Trump become president twice?**
+He won the 2016 election and served his first term from 2017 to 2021. After losing in 2020, he came back and won again in 2024, defeating Kamala Harris, which made him both the 45th and the 47th president, since his two terms are separated by another presidency. He was also convicted in a New York case in 2024 over falsified business records, which he strongly denies and is fighting. The next big date in this post is November 3, the midterm elections, when his party, the Republicans, wants to keep its narrow majority in Congress.
+
+**How much is Donald Trump worth?**
+Forbes estimated his wealth at around 6.5 billion dollars in early 2026, with about 8.4 billion dollars in assets and 1.1 billion dollars in debts, while a June 2026 report put it near 6.1 billion dollars, so this post gives the range as about 6.1 to 6.5 billion dollars. His best-known properties include Trump Tower in New York, the Mar-a-Lago resort in Florida and Trump National Doral in Miami, plus golf courses and resorts, a large stake in Trump Media, the company behind Truth Social, and a 7 billion dollar real estate project in Saudi Arabia announced in January 2026. Forbes reported that much of his recent jump in wealth came from crypto, including a memecoin that earned him roughly 710 million dollars, though nobody knows his exact net worth, because these are only estimates.
+
+**What did Donald Trump really say about Imran Khan?**
+During his first term, Trump often spoke warmly about Imran Khan, and fact checkers found that he called him a great leader, my friend and a good man, and in 2019 said he trusted Imran Khan. But there is a lot of fake news on this topic: a viral video from the 2024 election day showed Trump promising to free Imran Khan from jail, and that video was fake, while a fact-check also found that Trump never said he had learnt a lot from Imran Khan or called him my leader. Imran Khan is still in jail, and according to a report by Zeteo, supporters who hoped Trump would help him have not seen any real support from the Trump administration, with no new public statement by Trump about Imran Khan found this month.
+
 ## Sources
 
 - [Al Jazeera: Iran war live, Trump hints US could strike Iran](https://www.aljazeera.com/news/liveblog/2026/10/1/iran-war-live-trump-hints-us-could-strike-iran-warns-time-coming)

@@ -74,23 +74,23 @@ Matches like this are why fans stay until the last ball, why crowds refuse to le
 
 **What was the final score of the match?**
 
-England scored 429 for 4 batting first. Sri Lanka replied with 430 for 8 in 49.5 overs and won the match by two wickets.
+England batted first in this ODI tri-series match and finished on 429 for 4, a total so large that it usually ends a contest before the second innings begins. Sri Lanka replied with 430 for 8 in 49.5 overs and won the match by two wickets. The scorecard tells the cruel story in two lines: England 429 for 4, Sri Lanka 430 for 8, one run of difference in the totals and a world of difference in the mood at the end of the night, after England had batted like the ground belonged to them.
 
 **Where was this record chase played?**
 
-The match was an ODI tri-series game played in Rawalpindi, Pakistan.
+The match was an ODI tri-series game played in Rawalpindi, Pakistan, on a good batting surface where the crowd could feel something unusual happening as the chase grew. Rawalpindi was the stage for a chase of 430 that demanded courage from the very first ball, with no room for a slow start and every quiet over feeling like a small defeat as the asking rate kept growing. The ground erupted when Janith Liyanage hit the winning six, and the match will be remembered there for years.
 
 **Who were Sri Lanka's top scorers in the chase?**
 
-Pavan Rathnayake led the way with 130, while Avishka Fernando and Dasun Shanaka both made 97. Janith Liyanage hit the winning six.
+Three heroes carried the chase, each in a different style. Pavan Rathnayake scored 130, the rock of the chase, a century that gave the team a spine and bought time and belief for everyone else. Avishka Fernando made 97, just three runs short of a hundred, with aggression at the top that kept the pressure on England. Dasun Shanaka smashed 97 of his own, with raw power in the closing phase that turned a doubtful equation into a likely win. And Janith Liyanage finished it, sealing the victory with a six off nearly the very last ball of the match.
 
 **Why is this chase called a record?**
 
-Because 430 is the second-highest total ever successfully chased in one-day international cricket. Only one bigger chase exists in the history of the format.
+Because 430 is the second-highest total ever successfully chased in one-day international cricket. Only one team, in the entire history of the format, has ever chased down more, and generations of great batsmen and famous teams have tried to hunt down totals like this and failed. Records in cricket are not broken every week, and this one carries real weight, achieved in Rawalpindi against England with the pressure of a tri-series match on Sri Lanka's shoulders.
 
 **How close did the match finish?**
 
-Incredibly close. Sri Lanka won with only one ball of the match remaining, and with just two wickets left, after England's huge total of 429.
+Incredibly close. Sri Lanka reached 430 for 8 in 49.5 overs, out of fifty, with eight wickets down, so the winning runs arrived with exactly one ball left in the entire match. If that final scoring shot had been a dot ball instead, the scores would have been level and the match would have ended in the most painful way imaginable for a team that had climbed so far. The margin between a famous victory and a heartbreaking near-miss was a single delivery, hit for six by Janith Liyanage at the moment of maximum pressure.
 
 ## Sources
 

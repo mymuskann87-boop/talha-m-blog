@@ -111,20 +111,24 @@ Historians of technology point to it as one of the earliest experiments in ideas
 ## Frequently Asked Questions
 
 **Was it really the world's first webcam?**
+
 Yes. Cameras had been attached to computers before, but the Trojan Room pot was the first one broadcast on the World Wide Web, which is what makes it the first true webcam.
 
 **Was the picture a live video?**
+
 Not in the modern sense. It was a small still image, 128 by 128 pixels and greyscale, which refreshed a few times a minute — more like a very slow slideshow than a video stream.
 
 **Why did they not simply make a bigger pot?**
+
 Because the problem was never the size of the pot. It was the not knowing. The camera answered the question *before* the walk, which is all anyone wanted.
 
 **How long did the webcam run?**
+
 The camera started on the lab network in 1991, reached the web in November 1993, and was switched off on 22 August 2001 — almost a decade of coffee-watching in total.
 
 **Where is the coffee pot now?**
-On display at the Heinz Nixdorf MuseumsForum in Paderborn, Germany, on permanent loan since 2016.
 
+On display at the Heinz Nixdorf MuseumsForum in Paderborn, Germany, on permanent loan since 2016. The camera itself started on the lab network in 1991, reached the web in November 1993, and was switched off on 22 August 2001, after almost a decade of coffee-watching. The first thing the web ever watched was not a celebrity or a concert, but a pot of coffee deciding slowly whether to be full or empty.
 ## Then and now
 
 **Then:** one camera, in one room in Cambridge, sending one tiny grey picture of one coffee pot to a handful of researchers.

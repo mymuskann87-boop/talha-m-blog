@@ -84,23 +84,23 @@ That is why cricket fans will remember this match long after ordinary wins and l
 
 **Who scored the fastest double century in ODI cricket?**
 
-England's Harry Brook, whose double century in Rawalpindi was reported as the fastest in one-day international history.
+England batter Harry Brook, who played the innings of his life in a one-day international tri-series match in Rawalpindi. He scored two hundred runs in a single innings, quicker than every great name who had ever tried it in the format, according to reports of the match. In a fifty-over innings of only 300 balls, reaching 200 requires scoring at a frightening speed from almost the very start, and Brook attacked again and again without falling, walking the tightrope between caution and attack at full sprint.
 
 **What was the final result of the match?**
 
-Sri Lanka won. England scored 429 for 4, and Sri Lanka chased it down with 430 for 8 in 49.5 overs, winning by two wickets.
+Sri Lanka won one of the most extraordinary matches in one-day history. England closed on 429 for 4, a mountain of a total that almost always wins before the other team picks up a bat. Sri Lanka refused to follow the script, stayed alive wicket by wicket and over by over, and reached 430 for 8 with five balls to spare, at 49.5 overs, winning by two wickets. England scored 429, Sri Lanka scored 430, and one run of difference in the totals meant a world of difference in the mood at the end of the night.
 
 **Where was the match played?**
 
-The ODI tri-series match was played in Rawalpindi, Pakistan.
+The ODI tri-series match was played in Rawalpindi, Pakistan, on a Wednesday when the crowd rose again and again as ball after ball disappeared to the boundary. Rawalpindi was the stage for both records made that day: Brook's fastest double century in the first innings, and Sri Lanka's record chase in the second. The ground, the crowd and the occasion all belonged to a match that fans will remember long after ordinary wins and losses fade.
 
 **Who was Sri Lanka's top scorer in the chase?**
 
-Pavan Rathnayake, who scored 130 runs during the record chase.
+Pavan Rathnayake, who scored a magnificent 130 under the heaviest pressure a batter can face, with the towering target of 430 over every single ball. His century was the foundation of Sri Lanka's innings, built while the scoreboard pressure was brutal and the required rate left no room for a slow start or a careful rebuild. Rathnayake's innings was a second masterpiece painted on the same canvas as Brook's, and without it Sri Lanka's impossible chase would have died long before the end.
 
 **Why is Sri Lanka's chase also a record?**
 
-Because reaching 430 made it the second-highest successful run chase in the history of one-day international cricket.
+Because reaching a target of 430 made it the second-highest successful run chase in the history of one-day international cricket, a record carved out of the same extraordinary match as Brook's fastest double century. Chasing 430 means averaging well over eight runs in every single over from the first ball to the last, with no quiet period, no collapse, and no bad ten overs, and Sri Lanka lost eight wickets on the way, showing how close to the edge they lived all night. Almost every team, on almost every night, would have fallen thirty or forty runs short.
 
 ## Sources
 

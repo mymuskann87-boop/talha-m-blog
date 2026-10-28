@@ -106,7 +106,7 @@ Arafat Minhas is a young all-rounder from Multan, Pakistan. He first made his na
 
 **Who did Arafat Minhas make his ODI debut against?**
 
-He made his one-day international debut against Australia, and his first appearance was a match-winning performance that a sports profile published this week described as a record debut.
+He made his one-day international debut against Australia, and his first appearance was a match-winning performance that a sports profile published this week described as a record debut. The post notes that Minhas first made his name on the junior stage, playing for Pakistan's junior side at the Under-19 World Cup, the tournament where tomorrow's stars give the world its first real look at them. From that shop window to the senior team, his journey began with a growing murmur among those who watch the young game closely: keep an eye on this one, the boy from Multan can play.
 
 **What kind of player is Arafat Minhas?**
 
@@ -114,7 +114,7 @@ He is an all-rounder, which means he contributes to his team with both the bat a
 
 **Where is Arafat Minhas from?**
 
-He is from Multan, the historic city in southern Punjab known for its Sufi shrines, its summer heat, and its deep love of cricket.
+He is from Multan, the historic city in southern Punjab, close to the Chenab River, known as the city of saints and shrines, of blue pottery and blazing summer heat, of sweet mangoes and streets that have watched history pass for thousands of years. Multan is one of the oldest continuously lived-in cities in South Asia, and cricket there is not just a game but a language, spoken in every mohalla, every schoolyard and every empty plot. When a boy from Multan does well, the whole street feels it, and when he pulls on the green shirt of Pakistan, he carries a whole city's hopes onto the field.
 
 **How was his debut described?**
 

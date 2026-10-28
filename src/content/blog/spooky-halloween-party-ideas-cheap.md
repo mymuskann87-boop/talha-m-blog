@@ -43,3 +43,21 @@ When the night ends, send guests home with a small treat bag: a few sweets, a pa
 - [Dead Man Called Me Twice](https://talhablog.com/blog/dead-man-called-me-twice/)
 - [Save Money While Eating Out](https://talhablog.com/blog/save-money-while-eating-out/)
 - [Haunted House Ideas On Budget](https://talhablog.com/blog/haunted-house-ideas-on-budget/)
+
+## Frequently Asked Questions
+
+**How can I throw a cheap Halloween party everyone loves?**
+
+Guests remember the feeling, not the spending. A dark room, a few clever decorations, and food with silly names will do more than any expensive display, and the whole evening in the post cost less than one takeaway dinner. The lights are low, orange string lights glow along the wall, a bowl of punch sits in the middle of the table with dry ice fog curling over the edge, and a playlist of creaky doors and distant thunder plays while friends laugh at paper ghosts and reach for a cookie shaped like a bat.
+
+**How can I light a Halloween party cheaply?**
+
+Lighting changes everything, and it costs almost nothing. Switch off the bright ceiling lights and use lamps, candles in jars, or string lights instead, and if you have real candles, use them safely in sturdy holders, far from paper decorations and curtains. Battery candles are even better: they flicker like real ones, they are safe around children, and you can reuse them year after year. Cut paper shapes and tape them over a lamp or a jar for instant shadows, and hang black bin bags cut into strips over a doorway as a spooky curtain.
+
+**What Halloween party food looks scary but tastes great?**
+
+Give ordinary snacks spooky names and watch guests smile: sausages become witch fingers with a little almond stuck on the end as a nail, orange juice becomes pumpkin potion, and sandwiches cut into triangles become bat wings. Keep it simple and cheap with a big pot of soup, a tray of sandwiches, and a bowl of popcorn to feed a crowd without fuss, then add one showpiece, like a cake with orange icing or a punch bowl, because children love the names and adults love them just as much.
+
+**What makes a Halloween party memorable?**
+
+The best parties are the ones where the host had fun making things, not the ones where the host spent the most money. A dark room, a few clever decorations, and food with silly names do more than any expensive display, because guests remember the feeling of the evening: low lights, paper ghosts, a smoking punch bowl, and friends laughing together. That feeling, not the spending, is what people carry home.

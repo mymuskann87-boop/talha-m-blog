@@ -1,6 +1,6 @@
 ---
 title: "First Computer Virus Ever Created"
-description: "In 1971 a playful program called Creeper began hopping between computers on the early ARPANET, printing a cheeky taunt wherever it landed. It harmed"
+description: "What was the first computer virus? Creeper, a playful 1971 program that hopped between ARPANET computers, printing a taunt wherever it landed."
 pubDate: 2026-10-23T10:40:00+05:00
 image: "/images/first-computer-virus-ever-created.webp"
 imageAlt: "An illustration of an old 1970s computer with a playful program hopping from machine to machine along glowing cables."
@@ -84,6 +84,14 @@ The next famous milestones were Elk Cloner in 1982, written by 15-year-old Rich 
 
 **Could Creeper spread on today's internet?**
 Not as it was. Creeper only worked on DEC PDP-10 machines running the TENEX system, and only about 28 such machines existed on ARPANET. Its importance is not the program itself but the idea it proved: that software could travel between computers on its own.
+
+**Was Creeper the first computer virus or the first worm?**
+
+Creeper travelled by itself across a network and did not infect files, which matches the modern definition of a worm. Its self-copying version is generally accepted as the first computer worm, and it was the first program known to spread itself between computers.
+
+**How many computers could Creeper reach?**
+
+Only around 28 machines on ARPANET ran the TENEX system Creeper needed, so that was the largest world it could ever have roamed. Creeper deleted no files and damaged no data.
 
 ## Sources
 

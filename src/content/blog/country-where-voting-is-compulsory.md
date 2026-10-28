@@ -1,6 +1,6 @@
 ---
 title: "Country Where Voting Is Compulsory"
-description: "In Australia, voting is not just a right — it is a legal duty, with a penalty for staying home. The story of compulsory voting."
+description: "What countries have compulsory voting? About 21 do, including Australia, Belgium, Brazil and Argentina. How the duty works and what happens if you stay home."
 pubDate: 2026-10-18T22:20:00+05:00
 category: "Politics"
 image: "/images/country-where-voting-is-compulsory.webp"
@@ -89,7 +89,7 @@ On balance, though, I would rather live with a small, soft-edged push that pulls
 Failing to vote at a federal election without a valid and sufficient reason is an offence for citizens aged 18 and over. Most cases end simply: the person explains, or pays the A$20 administrative penalty, and the file closes.
 
 **Can the government find out who someone voted for?**
-No. The ballot is secret. Officials record only that you attended and were given ballot papers — never what you marked on them.
+No. The ballot is secret, and that is the part of the system that settles the argument for the post's author. Officials find your name on the roll and mark it off, which proves you attended, and you take your ballot papers into a compartment alone and mark them in complete privacy. The law can make you attend, make you be marked off, and make you accept the papers, but nobody can check what you wrote, or whether you wrote anything at all. Inside that booth, every Australian is entirely free, and the state is forbidden from following you inside.
 
 **Which excuses does the law accept?**
 Serious illness, an emergency, or being unable to reach a polling place can all count as a valid and sufficient reason, and a religious duty to abstain from voting is expressly accepted. Early and postal voting cover people who know in advance that they cannot attend.
@@ -98,10 +98,10 @@ Serious illness, an emergency, or being unable to reach a polling place can all 
 Enrolment became compulsory in 1912, Queensland made voting compulsory in its state elections in 1915, and federal voting became compulsory in 1924. Turnout jumped from about 59 per cent in 1922 to about 91 per cent in 1925.
 
 **Why do Australians vote on Saturdays?**
-Federal law requires elections to be held on a Saturday, when most people are free from work, so that taking part costs as little disruption as possible.
+Federal law requires elections to be held on a Saturday, on the simple logic that most people are not at work, so taking part costs as little disruption as possible. Polling places open in schools and halls across the country, and the day has grown a beloved tradition of its own: community groups sell sausages outside the polling places, a snack so woven into the ritual that the democracy sausage was named Australia's word of the year in 2016. The Saturday queue, the barbecue and the cakes are part of what makes the legal duty feel like a village fete rather than a chore.
 
 **Which other countries make voting compulsory?**
-About 21 countries have such laws, including Belgium — the oldest, from 1893 — Brazil, Argentina, Singapore and Uruguay. Only around ten of them enforce the law in practice.
+About 21 countries have compulsory voting in some form, including Belgium, which runs the oldest such system, dating back to 1893, and Brazil, Argentina, Singapore, Uruguay and Greece. Enforcement varies enormously, from real fines in one country to a law that sleeps untouched in the books in another, and only around ten of these countries truly enforce the duty. Some nations tried the experiment and walked away: the Netherlands dropped compulsory voting around 1970 and turnout fell noticeably, and Venezuela removed it in 1993.
 
 ## Sources
 

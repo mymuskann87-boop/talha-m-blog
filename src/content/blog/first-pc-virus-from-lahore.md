@@ -1,6 +1,6 @@
 ---
 title: "First PC Virus From Lahore"
-description: "In 1986 two brothers in a small Lahore computer shop created Brain, the first IBM PC virus — and signed their real names and phone numbers inside it."
+description: "Brain, the first personal computer virus, came from Lahore in 1986. Two brothers, a small computer shop, and their names and phone number in the code."
 pubDate: 2026-10-23T21:50:00+05:00
 image: "/images/first-pc-virus-from-lahore.webp"
 imageAlt: "An illustration of a cozy 1986 computer room in Lahore with mosque domes on the skyline at dusk seen through the window, and one glowing floppy disk rising like a small star."
@@ -91,6 +91,14 @@ In their own later explanation, they said Brain was an experiment to track illeg
 **Can Brain infect a computer today?**
 
 Realistically, no. Brain lived in the boot sector of floppy disks, and modern computers do not start up from floppies. But its method — arriving on borrowed media that people trust — survives in today's infected USB sticks and pirated software, which is why the protection steps in this post still matter.
+
+**Did the Brain virus delete people's files?**
+
+No. Brain did not erase data. It slowed down access to floppy disks and sometimes changed a disk's label to (c) Brain, which alarmed universities and users around the world.
+
+**Why did the brothers put their phone numbers inside Brain?**
+
+Basit and Amjad Alvi placed their real names, business address in Lahore and phone numbers inside the virus, inviting users to contact them for a vaccination against it.
 
 ## Sources
 

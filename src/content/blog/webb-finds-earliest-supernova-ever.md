@@ -76,7 +76,7 @@ The flash was first picked up in mid-March 2025 by the Space Variable Objects Mo
 
 **When did Webb examine the event?**
 
-Webb carried out its follow-up near-infrared imaging on 1 July 2025. Those observations provided the confirmation that the burst came from a supernova in the early universe.
+Webb carried out its follow-up near-infrared imaging on 1 July 2025. Those observations provided the confirmation that the burst came from a supernova in the early universe. The flash was first picked up in mid-March 2025 and was flagged as unusually distant within days, which is why Webb was called in to investigate. Webb's follow-up near-infrared imaging provided the confirmation that the burst, catalogued as GRB 250314A, came from a supernova in the early universe, from a star that exploded when the universe was only 730 million years old.
 
 **How big was the new record?**
 
@@ -88,7 +88,7 @@ The spectrum of the ancient supernova looked remarkably similar to modern, nearb
 
 **Who led the research team?**
 
-The team was led by Andrew Levan of Radboud University and the University of Warwick. Their analysis was published in Astronomy & Astrophysics Letters in October 2026.
+The team was led by Andrew Levan of Radboud University and the University of Warwick. Their analysis was published in Astronomy & Astrophysics Letters in October 2026. The team behind the work was led by Andrew Levan of Radboud University and the University of Warwick, and their analysis was published in Astronomy and Astrophysics Letters in October 2026. Like any good detective report, the paper lays out the chain of evidence: the burst, the early suspicion of great distance, and the infrared observations that confirmed it.
 
 ## Sources
 

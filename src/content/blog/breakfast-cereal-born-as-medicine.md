@@ -1,6 +1,6 @@
 ---
 title: "Breakfast Cereal Born As Medicine"
-description: "A batch of boiled wheat left too long at the Battle Creek Sanitarium became flakes, then corn flakes, then a painful family fight over sugar, a famous name"
+description: "Boiled wheat left too long at a sanitarium became flakes, then corn flakes: a health food born as medicine, then a painful family fight over sugar."
 pubDate: 2026-10-23T09:40:00+05:00
 image: "/images/breakfast-cereal-born-as-medicine.webp"
 imageAlt: "An illustration of two brothers in old-fashioned dress in a Victorian kitchen laboratory, pouring grains into a bowl of early breakfast cereal."

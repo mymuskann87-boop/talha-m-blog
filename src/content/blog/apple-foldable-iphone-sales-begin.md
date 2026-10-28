@@ -82,12 +82,11 @@ The phone is powered by Apple's A20 Pro chip. It also uses a custom vapour chamb
 
 **What colours does the iPhone Duo come in?**
 
-It comes in two colours: Star White and Night Sky.
+It comes in two colours: Star White and Night Sky. On launch day, in shops across India and the other first markets, the first wave of owners carried their folding phones out into the city, onto trains, into cafes, and onto sofas, where family members all asked the same question: show me the fold again.
 
 **Is a touchscreen MacBook Pro also launching this month?**
 
 That is only an unconfirmed report. Reports suggest a touchscreen MacBook Pro, an OLED iPad mini, and an M6 iMac refresh could arrive this month, but Apple has not confirmed any of them.
-
 ## As the Sun Went Down on Day One
 
 By evening, the queue was gone, the demo tables were quieter, and the first wave of owners had carried their folding phones out into the city — onto trains, into cafés, and onto sofas where family members would all ask the same question: "Show me the fold again."

@@ -67,3 +67,17 @@ This Halloween, pick one movie from each mood, or just pick your favourite and w
 - [Whispers From The Empty House](https://talhablog.com/blog/whispers-from-the-empty-house/)
 - [Free Fun Ideas For Families](https://talhablog.com/blog/free-fun-ideas-for-families/)
 - [Halloween Decorations On Low Budget](https://talhablog.com/blog/halloween-decorations-on-low-budget/)
+
+## Frequently Asked Questions
+
+**What are the best horror movies to watch this Halloween?**
+
+Start with the mood of your group, not with the scariest title you can find. For laughs with scares, begin with light and funny films like Hocus Pocus, Ghostbusters, Casper, The Addams Family and Beetlejuice. When the younger ones have gone to bed, classic chills like The Nightmare Before Christmas, Coraline and Gremlins bring the mood. The best horror movie, in the post's view, is the one that still makes you smile the next morning, not the one that keeps you awake all night.
+
+**What Halloween movies are good for kids?**
+
+The light and funny films are the safe start when children are in the room. Hocus Pocus is funny, colourful, and easy to watch with the whole family, with three witches, a black cat, and a town full of trick-or-treaters. Ghostbusters mixes ghosts with comedy, Casper is a gentle, sweet friendly ghost for younger viewers, The Addams Family is strange and funny with quick jokes and warmth, and Beetlejuice is wild, colourful, and wonderfully strange.
+
+**What should older viewers watch after the kids go to bed?**
+
+The Nightmare Before Christmas is a beautiful mix of Halloween and Christmas, with songs, strange creatures, and a hero who means well, and it is more magical than frightening. Coraline is a clever, slightly creepy story about a girl who finds a secret door in her new home, tense and mysterious, and it works best for older children and adults. Gremlins starts cute and turns chaotic, as small furry creatures cause big trouble in a small town, balancing comedy and chaos in a way that still feels fresh.

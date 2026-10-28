@@ -73,15 +73,15 @@ He scored 117 runs from 108 balls, with 11 fours, against Happy Palace Grammar S
 
 **Why is he named Adam Gilchrist?**
 
-According to reports, his mother chose the name Adam, and his father — a big cricket fan — added "Gilchrist" after the Australian star.
+According to the reports, his mother chose the name Adam, and his father, who is a big cricket fan and used to watch a lot of cricket, added Gilchrist to it. So the boy grew up with the name of one of the most famous wicketkeeper-batters in history, and, almost like a story written in advance, he also became a wicketkeeper-batter himself, and a left-handed one, just like the original. In a video shared widely online, he introduces himself in simple words: My name is Adam Gilchrist, and I play for Kamran Public School.
 
 **Who is his favourite cricketer?**
 
-Kumar Sangakkara, the former Sri Lanka captain. In a video shared online, the youngster said he wants to be like Sangakkara because Sangakkara is his favourite player.
+Kumar Sangakkara, the former Sri Lanka captain and one of the most elegant batters the game has seen. When asked which cricketer he admires most, the youngster named Sangakkara, and as reported from the same video, he said he wants to be like Sangakkara because he is his favourite player. Fans online loved the twist: a Pakistani boy, named after an Australian legend, who dreams of playing like a Sri Lankan great, cricket bringing three countries together in one small story.
 
 **Is he related to the Australian Adam Gilchrist?**
 
-No. The two are not related. They only share the same name — and the same job on a cricket field.
+No. The two are not related. They only share the same name, and the same job on a cricket field. The Karachi teenager got his name at home: his mother chose Adam, and his father, a big cricket fan, added Gilchrist after the Australian star. The original Adam Gilchrist is the Australian great who changed the wicketkeeper's role and won three ODI World Cups in a row, in 1999, 2003 and 2007, while the Karachi boy is a 17-year-old student at Kamran Public School who has just scored 117 in a school tournament. Same name, same left-handed wicketkeeper-batter role, different people, different countries, and different generations.
 
 *Sources: The Economic Times, Times Now News and CricToday reported this story on October 12, 2026. The quotes are from a video of the youngster that was shared on social media, as reported by these outlets.*
 

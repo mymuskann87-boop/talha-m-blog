@@ -1,6 +1,6 @@
 ---
 title: "Why No Nobel For Mathematics"
-description: "Why is there no Nobel Prize for mathematics? The honest answer, the famous love-rival legend, and the two great prizes maths created instead."
+description: "Why is there no Nobel Prize for mathematics? The honest answer, the famous love-rival legend, and the Fields Medal, the maths prize created instead."
 pubDate: 2026-10-18T09:00:00+05:00
 category: "Awards"
 image: "/images/why-no-nobel-for-mathematics.webp"

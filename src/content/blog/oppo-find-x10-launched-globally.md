@@ -86,11 +86,11 @@ That is not a phone playing safe. That is a phone picking a fight with the very 
 
 **When and where was the Oppo Find X10 series launched?**
 
-The series made its global debut on 21 October in Mallorca, Spain.
+The series made its global debut on 21 October in Mallorca, Spain. The launch put the cameras first: the series features up to three 200-megapixel cameras, along with Hasselblad camera technology. The Pro Max uses MediaTek's Dimensity 9600 Pro, a 2nm chipset, making it among the first phones in the world to use it.
 
 **How many 200-megapixel cameras does the Find X10 series have?**
 
-The series features up to three 200-megapixel cameras, along with Hasselblad camera technology.
+The series features up to three 200-megapixel cameras, along with Hasselblad camera technology. That camera system was the headline of the launch coverage ahead of the global debut on 21 October in Mallorca, Spain. The standard X10 comes in Glacier Blue, Glow Coral and Mist Grey, while the Pro Max comes in Titanium Grey and Luna White.
 
 **What colours does the Find X10 come in?**
 
@@ -107,7 +107,6 @@ The Pro Max uses MediaTek's Dimensity 9600 Pro, a 2nm chipset, making it among t
 **What is AI Mind Pilot?**
 
 It is one of the AI features in ColorOS 17, the software on the Find X10 series. It includes an Agent Mode and connects with files and photos to work across them.
-
 ## Sources
 
 - India TV News — Oppo Find X10 series to launch globally on October 21 with up to three 200MP cameras: https://www.indiatvnews.com/technology/news/oppo-find-x10-series-to-launch-globally-on-october-21-with-up-to-three-200mp-cameras-2026-10-09-1056505

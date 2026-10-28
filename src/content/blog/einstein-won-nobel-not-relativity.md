@@ -1,6 +1,6 @@
 ---
 title: "Einstein Won Nobel Not Relativity"
-description: "Einstein's Nobel Prize was not for relativity. The true story of the 1921 prize, the photoelectric effect, and the lecture he gave on relativity."
+description: "Why did Albert Einstein get a Nobel Prize? Not for relativity. The true story of the 1921 prize, the photoelectric effect, and his relativity lecture."
 pubDate: 2026-10-18T11:00:00+05:00
 category: "Awards"
 image: "/images/einstein-won-nobel-not-relativity.webp"

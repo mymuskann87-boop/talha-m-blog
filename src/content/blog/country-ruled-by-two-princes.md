@@ -90,7 +90,7 @@ Not in daily life. The French president is co-prince and formal head of state, s
 
 **What language do people speak in Andorra?**
 
-Catalan is the official language, and Andorra is the only country in the world where Catalan is the sole official language. Spanish, Portuguese and French are also widely spoken.
+Catalan is the official language, and Andorra is the only country in the world where Catalan is the sole official language. Spanish, Portuguese and French are also widely spoken by its roughly 80,000 people. Catalan is the language of the parliament, the schools and daily life in the valleys, while the neighbouring languages reflect Andorra's position between France and Spain and the many visitors who pour in for skiing and duty-free shopping.
 
 **Is Andorra part of the European Union?**
 

@@ -55,3 +55,21 @@ Halloween is a night for friends, sweets, and silly fun. A harmless prank adds a
 - [Voices Beneath The Old Floor](https://talhablog.com/blog/voices-beneath-the-old-floor/)
 - [Beat Impulse Buying With Ease](https://talhablog.com/blog/beat-impulse-buying-with-ease/)
 - [Last Minute Halloween Costume Ideas](https://talhablog.com/blog/last-minute-halloween-costume-ideas/)
+
+## Frequently Asked Questions
+
+**What are harmless Halloween pranks for friends?**
+
+A good Halloween prank means nobody is hurt, nothing is broken, and the person who gets tricked ends up laughing louder than everyone else. The post's example is the candy bowl spider: a friend reached into a bowl of sweets, pulled out a small plastic spider, shrieked, then laughed so hard she had to sit down, and three more people fell for it before the night ended. The line between a fun prank and a bad one is simple but matters a lot: cross it, and a fun night turns into an upset friend.
+
+**How do I know if a Halloween prank is safe?**
+
+Before you plan any prank, ask one question: will the other person laugh within ten seconds? If the answer is yes, it is probably a good prank, and if the answer is maybe or probably not, skip it. There are also firm limits: never prank small children who might truly get frightened, never damage anyone's clothes, phone, food, or home, never lock someone in a room, hide something they need, or trick someone near stairs, roads, or water, and never use a prank to embarrass someone in front of a crowd.
+
+**What is the candy bowl spider prank?**
+
+Place a plastic spider on top of the sweets in a bowl. People spot it, jump a little, and then laugh. Use a clearly fake spider, and never hide it inside food. At the party in the post, the spider went back into the bowl after the first shriek, and three more people fell for it before the night ended, because the trick is simple, safe, and easy to clean up.
+
+**What makes a prank funny instead of mean?**
+
+A prank only counts as funny if the other person laughs too. If only the prankster is laughing, that is not a joke: it is just being unkind with extra steps. A prank is a gift of laughter, not a test of someone's patience, and in the writer's opinion, the best pranks are the ones where the person who gets tricked tells everyone about it for the rest of the night.

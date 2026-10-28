@@ -69,7 +69,7 @@ He scored in the 23rd minute against Diriyah, putting in a rebound after Kingsle
 
 **Who else scored in Al-Nassr's 3-0 win over Diriyah?**
 
-Samu Costa scored in the 35th minute, and Kingsley Coman scored in the 77th minute, after Ronaldo had opened the scoring in the 23rd minute.
+Samu Costa scored in the 35th minute to make it 2-0, giving Al-Nassr a stronger hold on the match before half-time and leaving Diriyah with an even harder job in the second half. Kingsley Coman then finished the scoring in the 77th minute, a neat full circle for him, since his saved shot had led to Ronaldo's opening goal in the 23rd minute, and later he got a goal of his own to make it 3-0. The win put Al-Nassr level on points behind leaders Al-Qadsiah on goal difference, and Al-Nassr's coach is Ange Postecoglou.
 
 **Why did Cristiano Ronaldo walk out of the Portugal camp?**
 

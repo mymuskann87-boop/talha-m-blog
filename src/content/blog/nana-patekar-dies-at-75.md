@@ -1,6 +1,6 @@
 ---
 title: "Nana Patekar Dies At 75"
-description: "Indian actor and filmmaker Nana Patekar died at his home in Goa at the age of 75. Here is what happened, and a simple look back at his life and his"
+description: "Nana Patekar, 75, died at his home in Goa. His age, life, best-known films, and why people loved him — a simple look back at the actor's work."
 pubDate: 2026-10-10T21:10:00+05:00
 category: "Celebrity"
 image: "/images/nana-patekar-dies-at-75.webp"
@@ -56,6 +56,16 @@ May his soul rest in peace.
 ## You may also like
 
 - [Breaking Bad's RJ Mitte Dies](https://talhablog.com/blog/rj-mitte-breaking-bad-actor-dies-at-34/)
+
+## Frequently Asked Questions
+
+**When and where did Nana Patekar die?**
+
+Nana Patekar died on Thursday, October 8, 2026, at his home in the state of Goa in western India. Press Trust of India reported that the cause was a suspected cardiac arrest, and a doctor at the hospital confirmed that he had passed away.
+
+**Which roles do people remember Nana Patekar for most?**
+
+Krantiveer (1994), which won him Best Actor honours including a National Film Award and a Filmfare Award; Uday Shetty, the kind-hearted gangster in Welcome (2007) and Welcome Back (2015); and Mustafa, the hired killer in Ghulam-E-Mustafa.
 
 ## Sources
 

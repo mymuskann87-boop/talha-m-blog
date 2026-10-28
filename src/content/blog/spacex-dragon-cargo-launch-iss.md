@@ -54,11 +54,11 @@ That is why missions like CRS-35 matter so much. Each Dragon is a care package a
 
 **What is the SpaceX CRS-35 mission?**
 
-CRS-35 is SpaceX's 35th cargo delivery flight to the International Space Station under NASA's Commercial Resupply Services program. It launched on October 13, 2026, from Cape Canaveral, Florida.
+CRS-35 is SpaceX's 35th cargo delivery flight to the International Space Station under NASA's Commercial Resupply Services program. It launched on October 13, 2026, from Cape Canaveral, Florida. The launch took place from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida, right on schedule at 6:33 a.m. local time on Tuesday, 13 October 2026, when a SpaceX Falcon 9 roared away carrying a Dragon spacecraft. Its destination was the International Space Station, a football-field-sized laboratory orbiting about 400 kilometres above Earth, where astronauts were waiting for their delivery.
 
 **How much cargo is Dragon carrying?**
 
-More than 6,300 pounds of supplies, science hardware and experiments, including the final pair of iROSA Roll-Out Solar Arrays for the station's power system.
+More than 6,300 pounds of supplies, science hardware and experiments, including the final pair of iROSA Roll-Out Solar Arrays for the station's power system. The Dragon was packed with food, science and hardware, including the final pair of iROSA Roll-Out Solar Arrays for the station's power system. Those solar wings complete a years-long upgrade of the station's power system, which is why this particular delivery was special.
 
 **When will Dragon reach the space station?**
 
@@ -66,7 +66,10 @@ Docking is planned for Thursday, October 15, 2026, at around 11 a.m. Eastern Tim
 
 **Are there astronauts on this flight?**
 
-No. This is a cargo-only mission using the Cargo Dragon spacecraft C211, which is flying its fourth mission. The station's Crew-13 astronauts will receive and unload the delivery.
+No. This is a cargo-only mission using the Cargo Dragon spacecraft C211, which is flying its fourth mission. The station's Crew-13 astronauts will receive and unload the delivery. The station's Crew-13 astronauts were to receive and unload the delivery. Docking was planned for Thursday, 15 October 2026, at around 11 a.m. Eastern Time, after a journey of just over 52 hours, and Dragon was to dock autonomously at the Harmony module.
+
+**What does a Dragon spacecraft carry to the space station?**
+Dragon is a cargo ship, a flying delivery truck for the most remote address humans have ever lived at. This flight carried more than 6,300 pounds of food, science and hardware, including the final pair of new solar wings that complete a years-long upgrade of the station's power system, plus science hardware, medical experiments and even tiny shrimp passengers. There were no astronauts on board this flight: the station's Crew-13 astronauts were to receive and unload the delivery.
 
 ## The Delivery Truck of the Space Age
 

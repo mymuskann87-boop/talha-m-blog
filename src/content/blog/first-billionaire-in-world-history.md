@@ -78,13 +78,13 @@ Yet the shape of the story still feels familiar. One man saw that the real power
 On 29 September 1916, newspapers reported that the rising value of his oil-company shares had pushed his fortune past one billion dollars. There was no exact official count, so the title rests on careful estimates, but no earlier fortune is known to have reached that figure.
 
 **How much of America's oil did Standard Oil control?**
-By the early 1880s, Standard was refining about 90 to 95 percent of all oil produced in the United States, and it also dominated pipelines, transport and marketing.
+By the early 1880s, Standard was refining about 90 to 95 percent of all oil produced in the United States, and it also dominated pipelines, transport and marketing. Within two years of incorporating in Ohio in 1870, Standard controlled nearly all of Cleveland's refineries. From there it bought competing refineries in other cities and built its own pipelines, so oil no longer depended only on railways, and it used its enormous size to dominate transport and marketing as well as refining.
 
 **What did Standard Oil become after the breakup?**
-It was divided into 34 companies in 1911. Several of today's biggest energy firms descend from them, including ExxonMobil, Chevron and BP.
+It was divided into 34 companies in 1911. Several of today's biggest energy firms descend from them, including ExxonMobil, Chevron and BP. Rockefeller and his associates had incorporated the Standard Oil Company in Ohio in 1870. After the 1911 division into 34 companies, several of today's biggest energy firms descend from them, including ExxonMobil, Chevron and BP.
 
 **How much money did Rockefeller give away?**
-More than 500 million dollars during his lifetime, commonly counted at around 540 million, funding the University of Chicago, medical research and the Rockefeller Foundation, among many other causes.
+More than 500 million dollars during his lifetime, commonly counted at around 540 million, funding the University of Chicago, medical research and the Rockefeller Foundation, among many other causes. Giving had never waited for retirement. As a teenage clerk earning very little, he recorded small gifts to charity in the notebook he called Ledger A, and he kept the habit for life. He helped found the University of Chicago, giving it some 35 million dollars by 1910, funded the Rockefeller Institute for Medical Research in 1901, and in 1913 established the Rockefeller Foundation.
 
 **Would Rockefeller still be the richest person today?**
 Measured against the size of the whole economy, quite possibly. His fortune at death was about 1.5 percent of U.S. GDP; the same share of today's economy would be worth hundreds of billions of dollars, more than any modern fortune.

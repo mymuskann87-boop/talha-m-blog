@@ -125,41 +125,51 @@ A middle-class Delhi boy who lost his father at 15, his mother at 25, and arrive
 
 - [Salman Khan Koffee Final Season](https://talhablog.com/blog/salman-khan-koffee-with-karan-season-9/)
 
-## Frequently Asked Questions About Shah Rukh Khan
-
-**When was Shah Rukh Khan born?**
-Shah Rukh Khan was born on 2 November 1965.
-
-**Where was Shah Rukh Khan born?**
-He was born in New Delhi, India.
-
-**How old is Shah Rukh Khan?**
-He is 60 years old in October 2026. He will turn 61 on 2 November 2026.
+## Frequently Asked Questions
 
 **What is Shah Rukh Khan famous for?**
+
 Shah Rukh Khan is famous as Bollywood's "King Khan" — the romantic hero of *Dilwale Dulhania Le Jayenge*, and the star of hits like *Baazigar*, *Kuch Kuch Hota Hai*, *Devdas*, *Chak De! India*, *My Name Is Khan*, *Pathaan* and *Jawan*.
 
+**When was Shah Rukh Khan born?**
+
+Shah Rukh Khan was born on 2 November 1965 in New Delhi, India. He is 60 years old in October 2026, and he will turn 61 on 2 November 2026. He is famous as Bollywood's King Khan, the romantic hero of Dilwale Dulhania Le Jayenge and the star of hits like Baazigar, Kuch Kuch Hota Hai, Devdas, Chak De! India, My Name Is Khan, Pathaan and Jawan.
+
+**Where was Shah Rukh Khan born?**
+
+He was born in New Delhi, India, on 2 November 1965. His father was Meer Taj Mohammed Khan, an independence activist from Peshawar who died in 1981, and his mother was Lateef Fatima Khan, a magistrate who died in 1991. He has one older sister, Shehnaz Lalarukh, and he now lives in Mumbai.
+
+**How old is Shah Rukh Khan?**
+
+He is 60 years old in October 2026. He will turn 61 on 2 November 2026, having been born on 2 November 1965 in New Delhi, India. He is alive, living in Mumbai, and active in films and business in 2026, with his next film, King, scheduled for release on 24 December 2026.
+
 **Who are Shah Rukh Khan's parents?**
+
 His father was Meer Taj Mohammed Khan, an independence activist from Peshawar who died in 1981, and his mother was Lateef Fatima Khan, a magistrate who died in 1991. He has one older sister, Shehnaz Lalarukh.
 
 **Who is Shah Rukh Khan's wife?**
+
 His wife is Gauri Khan, a producer and interior designer. They first met in 1984 in Delhi and married on 25 October 1991.
 
 **How many children does Shah Rukh Khan have?**
+
 He has three children with Gauri Khan: son Aryan Khan (born 1997), daughter Suhana Khan (born 2000) and son AbRam Khan (born 2013).
 
 **What is Shah Rukh Khan's net worth?**
+
 The Hurun India Rich List 2025 estimated Shah Rukh Khan and his family at Rs 12,490 crore (about $1.4 billion), and the 2026 list placed him at Rs 10,000 crore, still the richest actor in India. These are reported estimates, not exact figures.
 
 **What was Shah Rukh Khan's first film?**
-His first film was *Deewana*, released in 1992. Before films, he acted in the TV serials *Fauji* and *Circus*.
+
+His first film was Deewana, released in 1992. Before films, he acted in the TV serials Fauji and Circus. He went on to become Bollywood's King Khan, the romantic hero of Dilwale Dulhania Le Jayenge, and the star of hits like Baazigar, Kuch Kuch Hota Hai, Devdas, Chak De! India, My Name Is Khan, Pathaan and Jawan.
 
 **What is Shah Rukh Khan's next film?**
+
 His next film is *King*, directed by Siddharth Anand and co-starring his daughter Suhana Khan, scheduled for release on 24 December 2026.
 
 **Is Shah Rukh Khan still alive?**
-Yes. Shah Rukh Khan is alive, living in Mumbai, and active in films and business in 2026.
 
+Yes. Shah Rukh Khan is alive, living in Mumbai, and active in films and business in 2026. He was born on 2 November 1965 in New Delhi, and he is 60 years old in October 2026. His next film is King, directed by Siddharth Anand and co-starring his daughter Suhana Khan, scheduled for release on 24 December 2026.
 ## Sources
 
 - Britannica — Shah Rukh Khan biography, films, comeback, son Aryan's case, awards and Red Chillies / Kolkata Knight Riders: http://www.britannica.com/biography/Shah-Rukh-Khan

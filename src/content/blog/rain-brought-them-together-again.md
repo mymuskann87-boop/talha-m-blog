@@ -96,6 +96,20 @@ When they finally stood up to leave, Kabir walked her to the door, and paused, a
 
 "Then let's choose it," Zara said, and took his hand, and felt the whole bright, rain-washed morning open up in front of them like a road after a storm.
 
+## Frequently Asked Questions
+
+**Why did Zara and Kabir part five years ago?**
+Zara and Kabir were both twenty-three when they parted, after sitting in the same street, in another rain, and saying the words that ended everything. Kabir had been offered a job in another city, Zara had been offered a place at a university in this city, and they were both proud and certain that love should never ask anyone to choose, so they chose their futures instead of each other, called it being grown up, and both cried all the way home. They had been together for years, sharing one umbrella on walks, and Kabir used to tell everyone her paintings would one day be in a gallery, but pride and big decisions and all-or-nothing thinking ended what neither of them had stopped feeling.
+
+**What happened when Zara and Kabir met again in the rain?**
+The rain started at 6:14 in the evening, all at once, and Zara stood under the narrow awning of the closed bookshop on Market Street with no umbrella, because the forecast had promised a clear evening and lied. Kabir stood three steps away, holding a large black umbrella, rain dripping from his shoulders, staring as if she were someone he had dreamed about and found in real life, and said he lived two streets away now. She stepped under his umbrella, shoulder to shoulder, the way they used to walk, and they walked slowly down Market Street while the rain drummed above them and the city blurred into gold and silver around them, with her heart beating like a drum in a parade.
+
+**Why did Kabir never write to Zara after he left?**
+Kabir did write, three long letters, and tore them all up, because every letter ended the same way, with him asking her to come to him, or asking to come back to her, and he thought that if he loved her properly, he should not ask her to give up her dreams. He told Zara, standing in the rain with the umbrella dripping: I thought silence was the kind thing. It wasn't. It was just the cowardly thing. Zara had waited every day for months, telling herself she would not, and had thought he did not care and had forgotten her in a week, while he had never forgotten her for a single day, and had come back to the city two years earlier, walking down Market Street sometimes, hoping for rain, and her, and one umbrella.
+
+**Did Zara and Kabir get back together in the rain?**
+They agreed to try again, slowly, not the old way, with pride and big decisions and all-or-nothing, but with coffee first, then a walk, then whatever comes after, when it comes. Kabir asked if they could try, Zara said: Coffee first. Tomorrow. Same street. And Kabir? Bring the umbrella. Just in case. He laughed, took her hand under the umbrella, and held it the whole way home, and at her door he did not kiss her, but pressed her hand to his heart for a moment, looking at her the way you look at something precious you thought you had lost forever and have just, miraculously, found again, because they had learned that choosing their dreams did not have to mean losing each other.
+
 ## More stories to read
 
 - [One Promise Changed Everything Forever](https://talhablog.com/blog/one-promise-changed-everything-forever/)

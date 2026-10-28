@@ -165,10 +165,10 @@ But imagination costs nothing, so picture it one last time: a world turning slow
 Yes, if "day" means one full spin. Venus needs about 243 Earth days to turn once, yet only about 225 Earth days to travel around the Sun once, so the spin outlasts the year.
 
 **How much time passes between one sunrise and the next on Venus?**
-About 117 Earth days. The backwards spin brings the Sun back sooner than a full turn would, so a Venus year holds roughly two sunrises.
+About 117 Earth days. The backwards spin brings the Sun back sooner than a full turn would, so a Venus year holds roughly two sunrises. The word day hides two different meanings. The spin day is one complete turn of the planet, 243 Earth days on Venus. The sunrise day is the time from one sunrise to the next, the day a person standing there would actually feel, and on Earth the two meanings are almost the same, about 24 hours each, so we never notice any difference.
 
 **Why does the Sun come up in the west on Venus?**
-Because Venus rotates backwards compared with Earth and most other planets. A backwards spin flips the sunrise: up in the west, down in the east.
+Because Venus rotates backwards compared with Earth and most other planets. A backwards spin flips the sunrise: up in the west, down in the east. Imagine a morning there, only in imagination. Light grows in the west. The Sun climbs, slowly, so slowly. Weeks pass, and it is still climbing. That is a Venus morning, exactly the wrong way round from the mornings we know on Earth.
 
 **What made Venus turn backwards?**
 Science does not have a settled answer. The most talked-about idea is a giant collision in the planet's early days that tipped it over and slowed or reversed its spin — but that is still a theory, not a proven fact.

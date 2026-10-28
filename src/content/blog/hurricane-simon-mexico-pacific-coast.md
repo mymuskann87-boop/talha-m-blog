@@ -1,6 +1,6 @@
 ---
 title: "Hurricane Simon Slams Mexico Coast"
-description: "Hurricane Simon and the remnants of Tropical Storm Rachel swept across Mexico's Pacific coast, killing at least 5 people. What really happened on the coast."
+description: "Mexico hurricane Simon, a Pacific hurricane, swept Mexico's Pacific coast with Tropical Storm Rachel, killing at least 5 people. What happened on the coast."
 pubDate: 2026-10-13T21:45:00+05:00
 category: "Disasters"
 image: "/images/hurricane-simon-mexico-pacific-coast.webp"
@@ -51,21 +51,22 @@ Ordinary residents, meanwhile, have learned to live in two minds. In Puerto Vall
 ## Frequently Asked Questions
 
 **How many people died in Hurricane Simon and Tropical Storm Rachel?**
-
-At least five people have died in total, according to Mexican authorities and news agency reports — one man killed by Hurricane Simon in Guerrero, and four members of a family, including two children, killed by Tropical Storm Rachel's flooding in Baja California.
+At least five people have died in total, according to Mexican authorities and news agency reports. Hurricane Simon claimed the life of a 71-year-old man in Chilpancingo, the capital of Guerrero, who died when a wall collapsed on him, Governor Evelyn Salgado confirmed. Tropical Storm Rachel brought its own tragedy further north: in Baja California, four members of one family, including two children, were found dead on the outskirts of Ensenada, the state prosecutor's office reported. Baja California's governor said a minor had also been found dead after Rachel's flooding, and that around ten people were unaccounted for at one point, though prosecutors later said five people remained missing.
 
 **Did Hurricane Simon make landfall in Mexico?**
+Not directly at its strongest. Simon stayed mostly offshore as it moved along the coast, weakening from its Category 4 peak, and forecasters at the US National Hurricane Center had feared a direct, devastating strike that did not happen in the end. The storm changed course, stayed mostly offshore, and began to weaken as it rubbed against Mexico's mountains, dropping to Category 2 strength. However, forecasters expected it to come ashore near Mazatlan, Sinaloa, around Wednesday night as a weaker Category 1 hurricane, still dangerous, with rainfall of 5 to 10 inches that could trigger life-threatening floods and mudslides.
 
-Not directly at its strongest. Simon stayed mostly offshore as it moved along the coast, weakening from its Category 4 peak. However, forecasters expected it to come ashore near Mazatlán, Sinaloa, around Wednesday night as a weaker Category 1 hurricane.
+**Which areas of Mexico were damaged by the storms?**
+Authorities reported damage across five states: Guerrero, Michoacan, Colima, Jalisco and Nayarit, including flooded homes in Acapulco, fallen trees and power poles, blocked roads and landslides, with heavy rain causing landslides and power cuts around Acapulco and Chilpancingo. Puerto Vallarta, the tourist city expected to take the storm's full force, woke on Monday to clear skies and even a rainbow, while navy personnel patrolled the boardwalk, though its airport suspended operations until Tuesday morning as a precaution. In Baja California, where Rachel's floods hit hardest, helicopters lifted 32 people to safety, and more than 50 people were being looked after in temporary shelters.
 
-**Which areas were damaged?**
+**Why was the 2026 Pacific hurricane season so strong?**
+The El Nino phenomenon has warmed Pacific waters, giving storms extra energy, and the AFP news agency reported that this warming is fuelling a more intense hurricane season in the region. Hurricane Simon was the twenty-first named storm of an extremely active 2026 season, an extraordinary number that tells its own story. Mexico's Pacific coast sits in one of the world's great hurricane nurseries, where warm ocean water feeds tropical storms that spin northward along the shoreline, and steep mountains behind the coast squeeze days of rain against the slopes, turning streams into torrents and hillsides into landslides.
 
-Authorities reported damage across Guerrero, Michoacán, Colima, Jalisco and Nayarit, including flooded homes in Acapulco, fallen trees and power poles, blocked roads and landslides. Puerto Vallarta was largely spared the worst but closed its airport as a precaution.
+**How strong was Hurricane Simon at its peak?**
+Simon formed on October 7 from an area of low pressure south of Mexico and grew into a major hurricane, at its peak a Category 4 storm with sustained winds reaching about 250 kilometres per hour, one of the strongest systems of an extremely active 2026 Pacific hurricane season. As it moved slowly along the coast over the weekend and into Monday, October 12, its outer bands lashed coastal communities with severe wind and heavy rain. Even after weakening to Category 2, and later expected to fall to Category 1 near Mazatlan, Simon was strong enough to cause serious damage, uproot trees and electricity poles, block roads and flood homes.
 
-**Why is the Pacific hurricane season so strong this year?**
-
-The El Niño phenomenon has warmed Pacific waters, giving storms extra energy. Hurricane Simon was the twenty-first named storm of an extremely active 2026 season.
-
+**What happened in Baja California during Tropical Storm Rachel?**
+In Baja California, four members of one family, including two children, were found dead on the outskirts of Ensenada after Rachel's flooding, and the state's governor said a minor had also been found dead, with around ten people unaccounted for at one point. Prosecutors later said five people remained missing, while security forces used helicopters to rescue 32 people from the floods, and more than 50 people were being looked after in temporary shelters. Search teams continued working as waters slowly went down, and officials warned that final numbers could still change, because saturated hillsides can give way hours or even days after the rain stops.
 ## Picking Up the Pieces
 
 In the coming days, Mexico's coast will move from emergency to recovery — clearing roads, restoring power, reopening airports and counting the cost of flooded homes and ruined businesses. But with Simon still threatening one more landfall and the ground soaked from days of rain, the people of the Pacific coast know better than to relax. Their week of storms is not finished yet, and neither is the season.

@@ -1,6 +1,6 @@
 ---
 title: "Man Hiccupped For 68 Years"
-description: "An Iowa farmer started hiccupping after one small fall in 1922 and did not stop for 68 years. Yet he married, raised eight children and kept working."
+description: "Charles Osborne, an Iowa farmer, hiccupped for 68 years after a small fall in 1922. He married, raised eight children, kept working, and died in 1991."
 pubDate: 2026-10-19T19:30:00+05:00
 category: "Health"
 image: "/images/man-hiccupped-for-68-years.webp"
@@ -64,7 +64,7 @@ They began after he fell while hanging a 350-pound hog for butchering in June 19
 
 **How many hiccups did Charles Osborne have in his life?**
 
-He hiccupped roughly twenty to forty times a minute for most of sixty-eight years, which adds up to an estimated 430 million hiccups in his lifetime.
+He hiccupped roughly twenty to forty times a minute for most of sixty-eight years, which adds up to an estimated 430 million hiccups in his lifetime. The longest rest he ever reported from the hiccups was about fifty hours. The constant jerking left his body sore, ruined his sleep, and as the years passed made solid food hard to swallow, so in his later years he blended most of his meals, with a favourite lunch of blended chicken, dressing, broth and milk.
 
 **Did Charles Osborne ever find a cure?**
 
@@ -73,6 +73,9 @@ No. Doctors at the Mayo Clinic once stopped the hiccups with carbon monoxide and
 **When did the hiccups stop, and when did he die?**
 
 The hiccups stopped suddenly in February 1990, without any explanation. Charles Osborne died on 1 May 1991, aged ninety-seven, after enjoying roughly a year of quiet at the end of his life.
+
+**How did Charles Osborne die?**
+Charles Osborne died on 1 May 1991, at the age of ninety-seven, in Sioux City, Iowa, finally free of the hiccups that had walked beside him through almost his entire adult life. The hiccups had stopped one morning in February 1990, when he was about ninety-six years old, just like that, with no new medicine, no operation and no explanation, after sixty-eight years. He lived about one more year in that new, strange silence, after not knowing a single quiet day since he was twenty-nine years old.
 
 ## Sources
 

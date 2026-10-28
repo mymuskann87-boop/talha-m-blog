@@ -81,6 +81,9 @@ Lake Monoun, also in Cameroon, is the only other lake known to have erupted in t
 **Why did the lake turn red?**
 The deep water of Lake Nyos contains dissolved iron. When the eruption dragged that water to the surface, the iron met the air and rusted, in the same way that iron rusts on land. For a while, the lake wore the colour of that terrible night, before slowly returning to blue.
 
+**What happened at Lake Nyos in 1986?**
+On the evening of 21 August 1986, Lake Nyos in Cameroon released a vast invisible cloud of carbon dioxide that took 1,746 lives. The lake rests in the crater of an old volcano along the Cameroon Volcanic Line, and deep beneath it volcanic gases had been slowly rising from the earth, with carbon dioxide building up in the deep water for longer than anyone alive could remember. On that quiet Thursday evening, the secret the deep water was keeping escaped at about nine o'clock, and families in the villages of Nyos, Kam, Cha and Subum below the lake went to sleep and never woke up.
+
 ## Sources
 
 - [Lake Nyos disaster — Wikipedia](https://en.wikipedia.org/wiki/Lake_Nyos_disaster)

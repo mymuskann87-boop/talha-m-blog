@@ -1,6 +1,6 @@
 ---
 title: "Nepal Flood Sweeps Away Houses"
-description: "A flash flood on the Budhi Gandaki river in Nepal's Gorkha district on October 11 swept away around 45 houses and four bridges. Five people are missing"
+description: "Budhi Gandaki river flood in Gorkha, Nepal swept away around 45 houses and four bridges on October 11. Five people are missing and 82 were rescued."
 pubDate: 2026-10-12T23:49:00+05:00
 category: "Disasters"
 image: "/images/nepal-flash-flood-budhi-gandaki-gorkha-houses-swept-away.webp"
@@ -64,25 +64,25 @@ For the families of Salleri Bazaar, Jagat Bazaar and the small settlements along
 ## Frequently Asked Questions
 
 **When and where did the Nepal flash flood happen?**
+The flood struck on Sunday, October 11, 2026, along the Budhi Gandaki river in Gorkha district, north-central Nepal, in steep valleys passing small bazaars, terraced fields and trailheads leading toward the Manaslu mountains. The worst-hit areas included Salleri Bazaar, Jagat Bazaar and parts of Chumnubri Rural Municipality, in the remote upper reaches of the district. On a normal Sunday morning the river flows quietly through the valley, but on October 11, without any heavy rain falling on the valley, it suddenly turned black and grey, filled with mud, rocks and broken trees, and rose with frightening speed.
 
-The flood struck on Sunday, October 11, 2026, along the Budhi Gandaki river in Gorkha district, north-central Nepal. The worst-hit areas included Salleri Bazaar, Jagat Bazaar and parts of Chumnubri Rural Municipality.
+**What caused the Budhi Gandaki river flood?**
+Officials' preliminary view is that a dry landslide between Lokpa and Chumling blocked the river and formed a natural dam, which then burst and sent a sudden surge downstream. According to Nepal's disaster agency, the NDRRMA, a dry landslide slid down between the two settlements and blocked the river's path, water built up behind the wall of earth and rock, and then the barrier gave way. Disaster agency chief Dharam Raj Uprety explained that a dry landslide had blocked the river and then it burst to cause the flood, the agency says the flood was not caused by rain, and a detailed technical analysis of the exact cause is still ongoing.
 
-**What caused the Budhi Gandaki flood?**
+**How fast did the Budhi Gandaki river rise?**
+Extremely fast. At 6:30 AM, the river was measured at 3.66 metres, high but not yet alarming, and by 8:40 AM, barely two hours later, it had reached 8.43 metres, far above the official danger mark of 5 metres. The most terrifying detail is in the final stretch: between 8:30 and 8:40 AM, the water rose by more than 2 metres in just ten minutes. There was almost no time to react, yet warnings did go out: at about 6:40 AM, Nepal's flood forecasting section issued an alert telling people to stay away from the river and move to high places, and those warnings almost certainly saved lives, before the flood washed away the river measurement centre itself.
 
-Officials' preliminary view is that a dry landslide between Lokpa and Chumling blocked the river and formed a natural dam, which then burst and sent a sudden surge downstream. The disaster agency says the flood was not caused by rain, and a detailed technical analysis is ongoing.
+**How many people are missing or were rescued in Gorkha?**
+Five people, two women and three men staying at a sheep shed in the Ujjilud area of Chumnubri-6, are missing, and search efforts have continued in fast, debris-filled water. At least 82 people, including nine foreigners, were rescued, many of them airlifted by Nepal Army helicopters, and no deaths have been confirmed so far. About 437 security personnel from the Nepal Army, Nepal Police and the Armed Police Force were mobilised, four helicopters were deployed, and the Nepal Army airlifted dozens of stranded people, around 48 to 49 by Sunday afternoon alone, working in difficult conditions with broken bridges, no power and damaged communications.
 
-**How many people are missing or were rescued?**
+**How much damage did the Gorkha flood cause?**
+Around 45 houses were swept away entirely, according to the disaster agency figure reported by AFP, taking with them documents, savings, winter stores and livestock shelters, and leaving families with nothing. Four bridges were destroyed or damaged, which in Himalayan terrain means entire villages cut off from the road network, and three hydropower projects, a vital source of income and electricity, were damaged. Electric poles and telephone towers were brought down, leaving affected areas without power and making communication with rescue teams far harder, while the flood also destroyed the river measurement centre and a bridge, so officials lost their eyes on the water.
 
-Five people — two women and three men staying at a sheep shed in the Ujjilud area — are missing. At least 82 people, including nine foreigners, were rescued, and no deaths have been confirmed so far.
+**Is the Manaslu trekking region affected by the flood?**
+Yes. Gorkha is the gateway to the Manaslu trek, and the flood came at the start of the autumn trekking season, the most important months of the year for Nepal's mountain tourism, just three days after the Trekking Agencies' Association of Nepal had declared most major trekking routes safe, including in the Manaslu region. Nine foreigners were among those rescued on Sunday, a reminder of how closely local safety and visitor safety are tied together in these valleys. Travellers should check the latest official updates before heading to the area, and officials downstream have reason to stay alert, since the Budhi Gandaki is part of the wider Trishuli and Gandaki river system.
 
-**How much damage did the flood cause?**
-
-Around 45 houses were swept away, four bridges were destroyed or damaged, three hydropower projects were damaged, and electric poles and telephone towers were brought down, cutting power and communications in the area.
-
-**Is the Manaslu trekking region affected?**
-
-Yes. Gorkha is the gateway to the Manaslu trek, and the flood came at the start of the autumn trekking season, just days after trekking routes in the region had been declared safe. Travellers should check the latest official updates before heading to the area.
-
+**Was Nepal already recovering from another disaster?**
+Yes. The country is still recovering from devastating floods on August 26, 2026, triggered by a mountain glacial collapse, which killed more than 1,400 people and left over 5,000 missing, with thousands of families still rebuilding homes, roads and lives. Against that background, another river disaster, even a smaller one, lands heavily on a nation's heart, and the timing adds concern, because the October flood struck at the very start of the trekking season. The one mercy in the Gorkha disaster is that, despite the speed of the water and the scale of the destruction, no deaths have been confirmed so far, a fact that owes much to an early warning sent at dawn and to rescuers who reached the valley in time.
 *Sources: AFP reports carried by The Hindu and Borneo Bulletin, NDTV, PTI and Nepal's National Disaster Risk Reduction and Management Authority (NDRRMA), October 11–12, 2026.*
 
 **Source links:**

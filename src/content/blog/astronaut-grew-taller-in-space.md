@@ -81,7 +81,7 @@ The honest limits matter too. NASA itself points out that a study with a single 
 That is the figure most reports used, and it is close — but Scott said his own measurement was about an inch and a half, and joked that someone had rounded it up. The safe answer is that he gained somewhere around four to five centimetres, briefly.
 
 **Is the extra height permanent?**
-No. It fades within days of coming home, because gravity compresses the discs in the spine again and pushes the extra fluid out.
+No. It fades within days of coming home, because gravity compresses the discs in the spine again and pushes the extra fluid out. Scott's own measurement was about an inch and a half, roughly four to five centimetres, gained briefly in orbit. The gain comes from the spine stretching without gravity and extra fluid in the body, and once gravity returns, the discs compress again and the fluid is pushed out.
 
 **Did space change Scott Kelly's DNA?**
 No. His DNA code did not change. What changed was gene expression — how actively certain genes were being used. Most of that returned to normal within six months, and NASA has corrected stories that claimed otherwise.
@@ -90,7 +90,7 @@ No. His DNA code did not change. What changed was gene expression — how active
 No. The lengthening surprised researchers, but after he landed his telomeres shortened quickly, and he ended up with more very short telomeres than before the mission, which scientists see as a reason for more research, not celebration.
 
 **Was Mark Kelly an astronaut too?**
-Yes. Both brothers flew with NASA before retiring, which is part of what made this comparison possible at all.
+Yes. Both brothers flew with NASA before retiring, which is part of what made this comparison possible at all. The brothers are identical twins who stood exactly the same height for their whole lives. Scott spent 340 days aboard the International Space Station and came back in March 2016 taller than his brother for a short while, which broke a match that had lasted a lifetime.
 
 ## Two brothers, one measuring tape
 

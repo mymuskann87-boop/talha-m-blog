@@ -1,6 +1,6 @@
 ---
 title: "Bubble Wrap Was Wallpaper First"
-description: "Two engineers sealed shower curtains together to make fancy wallpaper. It failed twice — then it wrapped a computer and changed the world."
+description: "Bubble wrap was originally invented as wallpaper. Two engineers sealed shower curtains together; it failed twice, then wrapped a computer."
 pubDate: 2026-10-19T21:10:00+05:00
 category: "Business"
 image: "/images/bubble-wrap-was-wallpaper-first.webp"

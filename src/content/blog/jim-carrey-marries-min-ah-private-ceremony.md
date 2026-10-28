@@ -1,6 +1,6 @@
 ---
 title: "Jim Carrey Marries Min Ah"
-description: "Jim Carrey, 64, has married his longtime partner Min Ah in a small private ceremony in Los Angeles. Here is their story and how the news was confirmed."
+description: "Is Jim Carrey married? Jim Carrey, 64, married longtime partner Min Ah in a small private ceremony in Los Angeles. Their story, and how it was confirmed."
 pubDate: 2026-10-11T10:15:00+05:00
 category: "Celebrity"
 image: "/images/jim-carrey-marries-min-ah-private-ceremony.webp"
@@ -67,6 +67,14 @@ They were first photographed together in February 2022, leaving a charity comedy
 **How many times was Jim Carrey married before Min Ah?**
 
 He was married twice before. He was married to Melissa Womer from 1987 to 1995, and to Lauren Holly from 1996 to 1997.
+
+**What did Jim Carrey say about marriage in 2014?**
+
+In a 2014 interview with Howard Stern, he said that he did not see marriage as necessary at that point in his life. People can change their minds over time, and that comment was how he felt at that point.
+
+**Does Jim Carrey have a daughter from an earlier marriage?**
+
+Yes. He was married to Melissa Womer from 1987 to 1995, and they have a daughter, Jane. He was later married to Lauren Holly from 1996 to 1997.
 
 ## Sources
 

@@ -118,12 +118,11 @@ Nearly 100 corporate partners have integrated their platforms to work directly w
 
 **How much does the STEPX Neo cost?**
 
-The starting price is 3,999 yuan, roughly $560. Pre-orders opened ahead of the phone’s first sales event.
+The starting price is 3,999 yuan, roughly 560 dollars. Pre-orders opened ahead of the phone's first sales event. The STEPX Neo is a smartphone launched in China by StepFun, a Chinese AI startup backed by Tencent, and it is built around an autonomous AI agent named Amoo rather than a traditional grid of apps.
 
 **What is StepFun’s main argument against older phone systems?**
 
 StepFun argues that legacy smartphone systems were never designed for autonomous task execution. The company previewed the phone in Shanghai earlier this year and presented its agent-first system as a different foundation for smartphones.
-
 ## Sources
 
 - Iboro Finance (StepFun AI-first smartphone report): https://iborowilliam.com/blog/article/tencent-backed-startup-stepfun-debuts-ai-first-smartphone

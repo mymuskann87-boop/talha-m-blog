@@ -80,13 +80,13 @@ For ordinary users, nothing changes tonight: ChatGPT is still online, still answ
 ## Frequently Asked Questions
 
 **Which states sued OpenAI?**
-Arizona, Arkansas, Idaho, Iowa, Kansas, Montana, Nebraska and West Virginia. Each filed its own case in its own state court on 14 October 2026.
+The eight states are Arizona, Arkansas, Idaho, Iowa, Kansas, Montana, Nebraska and West Virginia, and Reuters described the group as bipartisan, including officials from both main American political parties. Each state filed its own case, in its own court, under its own laws, on Wednesday 14 October 2026, which is why OpenAI now has to fight the same basic argument on eight fronts at the same time. Florida had already gone first, with its attorney general filing a similar state case back in June, so this week's wave is an expansion of a fight that was already growing.
 
 **What is the main claim against ChatGPT?**
 The states allege the chatbot is designed to be so agreeable and engaging that it keeps young users hooked, reinforces false beliefs, and can encourage dangerous behaviour. OpenAI says it has age-based protections in place, and the claims have not been proven in court.
 
 **What law does Arizona say OpenAI broke?**
-Arizona Attorney General Kris Mayes alleges violations of the Arizona Consumer Fraud Act, in a case filed in Maricopa County Superior Court.
+Arizona Attorney General Kris Mayes filed in Maricopa County Superior Court and accused OpenAI of breaking the Arizona Consumer Fraud Act, alleging the company hid design features that make the chatbot unusually agreeable and eager to please, presented it as a safe and youth-appropriate tool, and did not properly warn families about the risks. The harms her complaint lists include weaker critical thinking, encouragement of paranoid or delusional thinking, unlicensed medical advice, and unhealthy behaviours and relationships, and her office also alleges the service can be reached without proper age verification even though its app-store listing carries a 13-and-over rating.
 
 **What do the states want?**
 Court orders forcing changes to how ChatGPT works, civil penalties and damages. One demand reported by Reuters is a bar on self-improving AI models unless they can be shown to stay aligned with human values.

@@ -85,3 +85,25 @@ What is already certain is this: the world's leading AI company found a listenin
 ## You may also like
 
 - [Eight States Sue OpenAI ChatGPT](https://talhablog.com/blog/eight-us-states-sue-openai-chatgpt-harms-young-users/)
+
+## Frequently Asked Questions
+
+**Who was arrested for planting a listening device at OpenAI?**
+
+The engineer charged is Abdulrahman Alfozan, a 35-year-old Saudi national who worked at OpenAI in San Francisco. He joined the company in July 2025 as part of the product team, his LinkedIn profile listed his role as Engineering Lead, and before OpenAI he had worked at Meta as a senior systems engineer and at a company called Nash as a founding engineer. He has been charged, not convicted, and everything in the criminal complaint is an allegation by prosecutors that has not yet been proven in court. OpenAI has dismissed him from the company.
+
+**How was the hidden recording device at OpenAI found?**
+
+On September 30, during a check of an executive conference room at OpenAI's offices in San Francisco, company personnel discovered a hidden audio recording device plugged into a USB port on the back of a television, concealed in toilet paper. The contents of the device were encrypted. OpenAI later described the device as sophisticated, with advanced encryption and a way of transferring data designed to avoid detection, and determined it had been placed in the room around September 28, roughly two days before it was found. The room was regularly used for highly confidential discussions about proprietary research, product plans, technical capabilities, business relationships and government engagements.
+
+**What evidence did investigators use in the OpenAI bugging case?**
+
+According to the criminal complaint, investigators built the case piece by piece. Security camera footage allegedly showed Alfozan near the executive conference room on several occasions, even though he was not authorised to attend meetings there. A backpack belonging to him was found containing his wallet and identification along with a second recording device, similar to the one hidden behind the television, and OpenAI said there was evidence he intended to plant more devices. Prosecutors also allege he used a company productivity tool to look up building addresses, meeting rooms, room capacities, calendars, and the locations of leadership and external partner meetings, and that a chatbot account linked to his wife contained questions about how to build and hide recording devices.
+
+**What was the OpenAI engineer charged with?**
+
+Alfozan was arrested on October 9 and has been federally charged with using, or endeavouring to use, a device to intercept oral communications, which in simple words means secretly recording private conversations. He appeared in federal court on Tuesday, October 13, and he remains in custody. OpenAI says it referred the matter to the FBI when it discovered the device, and that it used its own AI models to help identify the employee who planted it. CNN reported that it reached out to Alfozan for comment, and no response was reported.
+
+**Did the OpenAI listening device steal company secrets?**
+
+According to OpenAI, no. The company said it had no indications of the individual inappropriately accessing or exfiltrating model weights, source code, or customer data. Model weights are the brain of an AI system, the product of enormous computing power and research, and if they had been stolen it would have been a much larger story. OpenAI's position is that the alleged crime was about listening to conversations, not breaking into the company's data. The case was still treated as a national security matter in Washington, with the Director of National Intelligence, Jay Clayton, saying winning the global super intelligence race is a national security prerogative.

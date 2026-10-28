@@ -58,7 +58,7 @@ The SF90 will never be a car for everyone. Prices vary by market, year, and opti
 
 **Is the Ferrari SF90 Stradale fully electric?**
 
-No. It is a plug-in hybrid. It has a petrol V8 engine and three electric motors that work together.
+No. It is a plug-in hybrid. It has a 4.0-litre twin-turbo V8 petrol engine and three electric motors that work together as a team, two driving the front wheels and one sitting between the engine and the gearbox at the back. Put them together and you get 1000 horsepower, while the battery can be charged from a plug, just like a phone.
 
 **How fast is the SF90 Stradale?**
 
@@ -66,12 +66,11 @@ It goes from 0 to 100 kilometres per hour in 2.5 seconds, and its top speed is 3
 
 **What does the name SF90 mean?**
 
-SF90 marks 90 years of Scuderia Ferrari, the racing team behind the Ferrari name.
+SF90 marks 90 years of Scuderia Ferrari, the racing team behind the Ferrari name. Ferrari showed this car to the world in 2019, from Maranello in Italy, after decades of building its name on loud, powerful petrol engines. The SF90 did not throw that history away. It kept its racing soul and added electric brains, so the car is both a birthday celebration and a look at the future.
 
 **Can the SF90 drive on electric power alone?**
 
-Yes, for short trips at low speed, the car can run on its electric motors without the petrol engine.
-
+Yes, for short trips at low speed, the car can run on its electric motors without the petrol engine. In electric-only driving it moves without engine noise, and you hear the tyres and the wind, and that is it. Then the V8 wakes up, and the change is dramatic: one moment you are gliding, and the next moment you are in a racing car.
 ## More cars to explore
 
 - [McLaren 720S Spider Technical Diagram](https://talhablog.com/blog/mclaren-720s-spider-technical-diagram/)

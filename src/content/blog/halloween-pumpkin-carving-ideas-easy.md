@@ -67,3 +67,21 @@ So grab a marker, pick a pumpkin, and start drawing. Your porch is waiting for i
 - [Shadows Followed Her Home Tonight](https://talhablog.com/blog/shadows-followed-her-home-tonight/)
 - [Cook At Home Save Money](https://talhablog.com/blog/cook-at-home-save-money/)
 - [Harmless Halloween Pranks For Friends](https://talhablog.com/blog/harmless-halloween-pranks-for-friends/)
+
+## Frequently Asked Questions
+
+**How do you carve a pumpkin for Halloween?**
+
+Pumpkin carving is really just drawing, scooping, and cutting along lines. Draw your design before you cut anything, because a marker lets you plan, change your mind, and fix mistakes, while a knife does not. An adult cuts a circle around the stem to make a lid, then everyone scoops out the seeds and stringy insides with a big spoon. Once the inside is clean, tape or draw your design on the front, and simple shapes work best for beginners: triangles, circles, and zigzags.
+
+**How do I pick a good pumpkin for carving?**
+
+Take your time choosing at the shop or the market. A good carving pumpkin feels firm, not soft, and sits flat without wobbling, because a flat bottom matters more than a perfect shape: a wobbly pumpkin tips over and its candle falls out. Pick one with a smooth front, because smooth skin is easier to draw on and cut through, and a stem on top, which works like a handle when you lift the lid. A medium pumpkin is easiest for a first try.
+
+**Is pumpkin carving safe for children?**
+
+Safety comes first, and it is simple. Adults handle sharp tools, always. Children draw the designs, choose the faces, and scoop out the inside with a spoon. That way everyone has a job, and nobody gets hurt. The post's rule is clear: draw first and cut second, so children lead the creative work while adults handle every cut.
+
+**What is the most important pumpkin carving rule?**
+
+Draw first, cut second. A marker lets you plan, change your mind, and fix mistakes, and a knife does not, so the design should be fully drawn before any cutting begins. Save the fancy details for your second or third pumpkin, and keep the first one to simple shapes like triangles, circles, and zigzags, which are the shapes beginners cut best.

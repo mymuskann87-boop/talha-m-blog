@@ -92,19 +92,19 @@ Dawn is coming up now over the water. The lake flattens into silver, the boats h
 ## Frequently Asked Questions
 
 **Where exactly are we standing for this storm?**
-On the shore of Lake Maracaibo in north-western Venezuela. The lightning builds mainly above the marshy ground where the Catatumbo River flows into the lake, at its southern end.
+On the shore of Lake Maracaibo in north-western Venezuela. The lightning builds mainly above the marshy ground where the Catatumbo River flows into the lake, at its southern end. We are in the north-west of Venezuela, in the state of Zulia. Lake Maracaibo sprawls across more than 13,000 square kilometres of hot, low country, and in the north it opens into the Caribbean Sea. Sail south across that wide water and the shores soften into marshland, where the Catatumbo River slides quietly into the lake, and that swampy meeting point is the grandstand for the storm.
 
 **How many nights a year can a visitor expect the show?**
-On roughly 140 to 160 nights a year, and on those nights the display commonly runs for nine to ten hours after dark.
+On roughly 140 to 160 nights a year, and on those nights the display commonly runs for nine to ten hours after dark. The flashes follow the calendar of winds and rains, and most researchers credit the meeting of the winds, the warm lake and the ring of mountains for the storm. On the nights when the display happens, it commonly runs for nine to ten hours after dark.
 
 **Why is there so little thunder to go with the flashes?**
 Most of the lightning jumps between parts of the clouds themselves, high above the ground, instead of striking the earth. The light reaches watchers easily; the sound usually fades before it does.
 
 **What does the word Catatumbo mean?**
-In the language of the Barí people it means "House of Thunder". The phenomenon is also called the Everlasting Storm and the Lighthouse of Maracaibo.
+In the language of the Barí people it means "House of Thunder". The phenomenon is also called the Everlasting Storm and the Lighthouse of Maracaibo. The lightning builds mainly above the marshy ground where the Catatumbo River flows into the lake, at its southern end, so the name belongs to the place as well as to the storm. For people who steered boats by that light all their lives, the flashes were a landmark they could trust night after night.
 
 **Did the storm really stop once?**
-Yes. During a severe drought, from January to March 2010, the flashes ceased completely, and many feared the phenomenon had ended. The lightning returned when the rains did.
+Yes. During a severe drought, from January to March 2010, the flashes ceased completely, and many feared the phenomenon had ended. The lightning returned when the rains did. In early 2010, a severe drought gripped Venezuela, and from January to March the famous flashes over Lake Maracaibo simply ceased. Night after night, the sky above the river mouth stayed dark, the way skies do in ordinary places, and for people who had steered boats by that light all their lives, the darkness itself felt like a bad sign.
 
 **Is any place on Earth more electric than this one?**
 No. Satellite measurements give Lake Maracaibo the highest lightning density in the world — more than 233 flashes per square kilometre per year in NASA's analysis — and it holds the Guinness World Record for the highest concentration of lightning.

@@ -96,7 +96,7 @@ Phosphate rock — formed over centuries from seabird droppings — was mined an
 
 **What currency does Nauru use?**
 
-The Australian dollar. Nauru does not issue its own currency, and most necessities are imported, mainly from Australia.
+Nauru uses the Australian dollar, as shown in the post's fact table, and it does not issue its own currency. Most necessities are imported, mainly from Australia, which also administered Nauru under a United Nations trusteeship after the Second World War before independence in 1968. Using the Australian dollar suits a country of about 10,000 people spread over 21 square kilometres, where a separate currency would be impractical to run.
 
 ## Sources
 

@@ -1,6 +1,6 @@
 ---
 title: "Rehman Baba Express Derails Multan"
-description: "The rescue operation after the Rehman Baba Express derailment near Multan is over. Officials confirm 5 dead and 49 injured, some sources report 7 dead"
+description: "Rehman Baba Express train accident near Multan: the rescue is over. Officials confirm 5 dead and 49 injured, some sources report 7 dead. What happened."
 pubDate: 2026-10-13T21:45:00+05:00
 updatedDate: 2026-10-14T09:55:00+05:00
 category: "Pakistan News"

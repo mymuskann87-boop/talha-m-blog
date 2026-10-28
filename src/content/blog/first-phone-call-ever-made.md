@@ -1,6 +1,6 @@
 ---
 title: "First Phone Call Ever Made"
-description: "On 10 March 1876 in Boston, Alexander Graham Bell spoke the first clear sentence through a wire. The true story of the call that changed the world."
+description: "The first phone call and the first words over the telephone came on 10 March 1876, when Alexander Graham Bell spoke to Thomas Watson in Boston."
 pubDate: 2026-10-18T22:40:00+05:00
 category: "Technology"
 image: "/images/first-phone-call-ever-made.webp"
@@ -106,6 +106,14 @@ No. Several inventors were closing in on the same goal, and Elisha Gray filed hi
 
 **When did telephones reach ordinary homes and shops?**
 Commercial sets were sold in pairs starting in 1877, the Bell Telephone Company was formed the same year, and the first exchange opened in New Haven in January 1878 with 21 subscribers. Within three years, nearly 50,000 lines were working.
+
+**Who was the Watson in the first telephone call?**
+
+Thomas A. Watson, Bell's young assistant, a skilled mechanic who built the experimental instruments by hand. He was at the receiving end that night and heard the first telephone sentence ever sent.
+
+**Where is Bell's notebook from that night now?**
+
+Bell recorded the words in his laboratory notebook on the night itself, 10 March 1876, and that notebook is now kept by the Library of Congress.
 
 ## Sources
 

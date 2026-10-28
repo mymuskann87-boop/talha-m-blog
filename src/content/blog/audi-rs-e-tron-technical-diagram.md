@@ -56,7 +56,7 @@ Prices vary by market, year, and options, and the RS badge puts this car in rare
 
 **Is the Audi RS e-tron GT fully electric?**
 
-Yes. It runs on two electric motors and a battery, with no petrol engine at all.
+Yes. It runs on two electric motors, one for the front wheels and one for the back wheels, with no petrol engine at all. Together they can give 646 horsepower in boost mode, a short burst of extra power for quick acceleration. RS stands for RennSport, German for racing sport, and marks the strongest car in the e-tron GT family, which Audi showed to the world in 2021.
 
 **How fast is the RS e-tron GT?**
 
@@ -64,12 +64,11 @@ It goes from 0 to 100 kilometres per hour in 3.3 seconds, and its top speed is 2
 
 **How big is the battery?**
 
-It has a 93 kWh battery, which sits low in the floor of the car.
+It has a 93 kWh battery, which sits low in the floor of the car. You can think of kWh as the size of the fuel tank: a bigger number means more energy stored. That low position gives the car a low centre of gravity, so it stays flat in corners instead of leaning, and it leaves room for a proper four-door cabin with real seats and real space.
 
 **What does quattro mean?**
 
-Quattro is Audi's name for all-wheel drive, where all four wheels share the power.
-
+Quattro is Audi's name for all-wheel drive, where all four wheels share the power. It has been around for decades and gives the car a steady, planted feeling, and on wet roads that grip matters even more. In the RS e-tron GT, one electric motor drives the front wheels and one drives the back wheels, so the work is shared from the very first moment.
 ## More cars to explore
 
 - [Porsche Taycan Turbo S Diagram](https://talhablog.com/blog/porsche-taycan-turbo-s-diagram/)

@@ -1,6 +1,6 @@
 ---
 title: "Wang Yibo Loves Malaysian Food"
-description: "Wang Yibo ate bak kut teh and durian in Kuala Lumpur before his Sepang race. The photos, the places, and the full story."
+description: "Wang Yibo's favourite food in Kuala Lumpur: bak kut teh in Pudu and durian at Jalan Alor, eaten before his Sepang race. The photos and the places."
 pubDate: 2026-10-16T16:14:00+05:00
 updatedDate: 2026-10-17
 category: "Celebrity"
@@ -93,6 +93,14 @@ He debuted in 2014 with the boy band Uniq, then became a huge star through the 2
 
 **When did Wang Yibo start racing?**
 He made his professional motorcycle racing debut in Beijing in 2019 and switched to GT car racing in 2024 with UNO Racing.
+
+**Who will Wang Yibo race with at Sepang?**
+
+He is set to race with partner Mao Junhao in UNO Racing's No. 85 Mercedes-AMG GT3 EVO, according to Asia Daily as reported in this post, at the 2026 China GT Championship season finale.
+
+**When did Wang Yibo arrive in Kuala Lumpur?**
+
+He arrived in Kuala Lumpur on October 11, and on October 13 he shared training photographs on Weibo, showing himself in the garage and behind the wheel in full racing gear, getting used to Sepang's two long straights.
 
 ## Sources
 

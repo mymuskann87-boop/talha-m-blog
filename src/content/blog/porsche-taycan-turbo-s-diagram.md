@@ -50,7 +50,7 @@ Prices vary by market, year, and options, and the Turbo S sits near the top of t
 
 **Is the Porsche Taycan Turbo S fully electric?**
 
-Yes. It has two electric motors and a battery, and no petrol engine.
+Yes. It has two electric motors, one at the front and one at the back, and a battery, with no petrol engine. The Taycan was Porsche's first series-production electric car, shown to the world in 2019. The name comes from a word that means a lively young horse, which fits a car that feels young and full of energy even when it is standing still.
 
 **How fast is the Taycan Turbo S?**
 
@@ -58,12 +58,11 @@ It goes from 0 to 100 kilometres per hour in 2.8 seconds, and its top speed is 2
 
 **How big is the battery?**
 
-It has a 93 kWh battery that sits low in the floor of the car.
+It has a 93 kWh battery that sits low in the floor of the car. That low weight keeps the car flat when it turns, so it does not lean like a tall car and stays level through a bend, like a cat crouching before it runs. Charging at home overnight is the secret habit of electric car life: most days the car starts each morning full, and the driver never thinks about fuel stations at all.
 
 **What does launch control do?**
 
-Launch control is a mode that gives the car its maximum power, 761 horsepower, for a standing start.
-
+Launch control is a mode that gives the car its maximum power, 761 horsepower, for a standing start. The car goes from 0 to 100 kilometres per hour in 2.8 seconds, and its top speed is 260 kilometres per hour. All-wheel drive sends power to all four wheels, so the car grips the road even when the driver asks for everything at once, and the push feels strong but smooth, like being pressed by a giant, gentle hand.
 ## More cars to explore
 
 - [Audi RS e-tron Technical Diagram](https://talhablog.com/blog/audi-rs-e-tron-technical-diagram/)

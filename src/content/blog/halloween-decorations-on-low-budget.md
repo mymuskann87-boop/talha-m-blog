@@ -57,3 +57,17 @@ So this year, before you head to the shops, look around your home. A sheet, a ja
 - [Voices Beneath The Old Floor](https://talhablog.com/blog/voices-beneath-the-old-floor/)
 - [Save Money On Home Repairs](https://talhablog.com/blog/save-money-on-home-repairs/)
 - [Halloween Snacks Kids Will Love](https://talhablog.com/blog/halloween-snacks-kids-will-love/)
+
+## Frequently Asked Questions
+
+**How can I decorate for Halloween on a low budget?**
+
+Halloween decorations are not about buying the biggest skeleton in the shop. They are about creating a feeling of mystery, a little spookiness, and a lot of fun, and that feeling costs far less than most people think. The glowing house on the street did not always spend more money. Sometimes the owner just used a little imagination and a few things from around the house, and children stopped to stare at paper ghosts on the porch.
+
+**What Halloween decorations can I make from things at home?**
+
+An old white bedsheet can become a ghost on the porch: drape it over a chair or a ball on a stick, draw two dark eyes with a marker, and you have a friendly ghost guarding your door. Glass jars are another secret weapon: put a small battery candle inside, wrap a little orange paper around it, and you have a glowing lantern. Old cardboard boxes can turn into tombstones, cut into a rounded shape, painted grey, and given funny names like Mr. Bones or Sleepy Sam.
+
+**How do I make paper Halloween decorations?**
+
+Paper is the cheapest decoration material in the world, and it works wonders at Halloween. Cut bat shapes from black paper and stick them on the wall or the window, and cut a spider web shape from white paper and hang it in a corner. Children love helping with this part, and their slightly wonky bats look more charming than anything from a shop. Orange and black balloons cost very little too, and five or six of them, with pumpkin faces drawn on the orange ones, change a room at once.

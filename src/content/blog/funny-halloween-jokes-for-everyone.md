@@ -79,3 +79,21 @@ So pick your favourites from this list, practise them once in front of a mirror,
 - [Shadows Followed Her Home Tonight](https://talhablog.com/blog/shadows-followed-her-home-tonight/)
 - [Free Fun Ideas For Families](https://talhablog.com/blog/free-fun-ideas-for-families/)
 - [Halloween Party Games Everyone Enjoys](https://talhablog.com/blog/halloween-party-games-everyone-enjoys/)
+
+## Frequently Asked Questions
+
+**What are the funniest Halloween jokes for everyone?**
+
+A good Halloween joke costs nothing, needs no setup, and works for a five-year-old and a grandmother at the same table. The post opens with one that brought a quiet party alive: why did the ghost bring a ladder to the party, because he wanted to reach the high spirits. A joke breaks the tension for younger children in seconds, tells them the spooky stuff is play and not danger, and gives shy guests something easy to say, because a joke is short and everyone knows when to laugh.
+
+**What are good pumpkin jokes for kids?**
+
+Pumpkins are the friendliest stars of Halloween, so they make the easiest jokes. Why did the pumpkin sit in the sun all afternoon? It wanted to get a little plumper. What is a pumpkin's favourite sport? Squash, of course. Why did the pumpkin feel so proud? It had finally made the big patch. These work best when you say them slowly and let people guess the answer first, because children love shouting out their own guesses, and half the fun is hearing a wrong answer that is funnier than the real one.
+
+**What are good ghost jokes for a Halloween party?**
+
+Ghosts are supposed to be scary, but in jokes they are mostly polite and a little clumsy. Why do ghosts make terrible liars? Because you can see right through them. What does a ghost eat for lunch? A boo-rito. Why did the ghost fail its driving test? It kept going through red lights. What is a ghost's favourite room in the house? The living room, naturally. The trick is the voice: say the ghost's lines in a soft, wobbly voice, and even an old joke feels brand new.
+
+**What are good witch and skeleton jokes?**
+
+Witches and skeletons have been Halloween favourites for years, and they carry some of the best wordplay in the post, in the same short, silly style as the pumpkin and ghost jokes. They work the same way as every joke here: say the line slowly, let people guess the answer first, and enjoy the wrong guesses, because half the fun is hearing a guess that is funnier than the real answer. Like all the jokes in the post, they need no costume, no stage, and no spooky prop, only one silly line and a straight face.

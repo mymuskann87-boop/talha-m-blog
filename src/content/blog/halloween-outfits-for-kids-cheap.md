@@ -60,3 +60,17 @@ So start with the wardrobe, add one fun detail, check the safety bits, and let y
 - [The Mirror Showed Someone Else](https://talhablog.com/blog/the-mirror-showed-someone-else/)
 - [Buy Clothes Smart Spend Less](https://talhablog.com/blog/buy-clothes-smart-spend-less/)
 - [Halloween Costumes For Couples Cheap](https://talhablog.com/blog/halloween-costumes-for-couples-cheap/)
+
+## Frequently Asked Questions
+
+**How can I make a cheap Halloween outfit for kids?**
+
+Some of the best children's costumes cost almost nothing, because they are built from clothes already hanging in a wardrobe, plus one or two small touches that turn ordinary into magical. A black dress becomes a witch with a homemade paper hat, a striped shirt and a paper eye patch make a pirate, and an old white sheet is still the fastest ghost in the world. Ask your child to pick three favourite colours and one favourite animal or character, then build around that, because a child who helps choose wears the result with pride instead of complaints.
+
+**What is the cheapest kids Halloween costume?**
+
+The friendly ghost: a white sheet, cut to the right length by an adult so nobody trips, with eye holes that are big enough to see through clearly, plus a ribbon belt for shape. The clever cat is nearly as cheap: black clothes, paper ears on a headband, and a little face paint for whiskers. The little witch needs only dark clothes, a tall hat made from black card, a broom from the kitchen, and a green hair ribbon as the finishing touch.
+
+**How do I keep a kids Halloween costume comfortable all evening?**
+
+The best kids' costumes are the ones a child actually wants to wear all evening, not the expensive ones that itch, slip, and fall apart by the second house. A shop costume can cost more than a week of groceries and be worn for exactly one evening, then sit forgotten in a cupboard. Build from the wardrobe, cut sheets to the right length so nobody trips, and make eye holes big enough to see through clearly, so comfort lasts from the first house to the last.

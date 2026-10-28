@@ -164,7 +164,7 @@ Frederic Tudor (1783–1864), the Boston businessman who founded the internation
 Sawdust insulation — a waste product he could get almost free — packed around blocks stacked tightly together, plus insulated ice houses waiting at the destination. Of the 180 tons loaded in Boston in 1833, about 100 tons reached Calcutta still frozen.
 
 **Did he seriously end up in prison?**
-Yes — debtors' prison, three separate times between 1809 and 1813, after his early ventures lost money. He recovered, cleared his debts, and died rich.
+Yes — debtors' prison, three separate times between 1809 and 1813, after his early ventures lost money. He recovered, cleared his debts, and died rich. Debts piled up faster than sales after a dishonest agent kept most of the money from his early ventures. In 1815 he borrowed fresh money anyway, raised a new ice house in Havana, Cuba, and kept going. He died in Boston on 6 February 1864, wealthy again, with his debts settled and his nickname secure.
 
 **How did he sell ice to people who had never seen it?**
 By giving it away first. Free chilled drinks, bar owners persuaded to price cold drinks the same as warm ones, lessons in making ice cream, and demonstrations for hospitals on cooling fever patients. A single taste did the selling.
@@ -173,7 +173,7 @@ By giving it away first. Free chilled drinks, bar owners persuaded to price cold
 Enormous. In 1847 alone nearly 52,000 tons moved to 28 American cities, mostly through Tudor's trade, and at its peak the American ice business employed an estimated 90,000 people, shipping as far as India, China, Australia, South America and England.
 
 **What killed the ice trade in the end?**
-Machines did. Factory-made ice and mechanical refrigeration could produce cold anywhere, all year round — no ponds, no sawdust, no four-month voyages required.
+Machines did. Factory-made ice and mechanical refrigeration could produce cold anywhere, all year round — no ponds, no sawdust, no four-month voyages required. At its peak, near the end of the nineteenth century, the American ice trade employed an estimated 90,000 people, and ice preserved meat, fruit, vegetables and fish across long distances while brewers could brew all year. Machines ended it: factory-made ice and mechanical refrigeration made cold that could be manufactured anywhere, in any season, without waiting for a pond to freeze or a ship to survive the tropics.
 
 ## Sources
 

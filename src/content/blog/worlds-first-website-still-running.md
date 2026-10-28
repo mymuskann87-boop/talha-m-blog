@@ -1,6 +1,6 @@
 ---
 title: "World's First Website Still Running"
-description: "The world's first website was a plain text page at info.cern.ch in 1991. It vanished — then CERN restored it. You can still open it today."
+description: "The first website is still running at info.cern.ch. How Tim Berners-Lee's plain 1991 page vanished, was restored by CERN, and can still be opened today."
 pubDate: 2026-10-18T22:10:00+05:00
 category: "Technology"
 image: "/images/worlds-first-website-still-running.webp"
@@ -82,6 +82,14 @@ It is a restoration. The original page had been changed over the years and was n
 
 **Can I still see the first web server?**
 Yes. Berners-Lee's NeXT computer — still wearing its handwritten red label warning people not to power it down — is preserved at CERN as a permanent exhibit in the Microcosm exhibition.
+
+**When did CERN make the web free for everyone?**
+
+On 30 April 1993, CERN put the web's software into the public domain, so anyone could run a server, publish pages and build tools without paying fees or asking permission.
+
+**What happened to the first website after 1991?**
+
+The original page was changed over the years and was no longer at its address, so in 2013 CERN brought back the earliest surviving version of the first website as a restoration.
 
 ## Sources
 

@@ -56,20 +56,25 @@ This week, from a prison cell in Texas, Elizabeth Holmes is famous again. She wi
 ## Frequently Asked Questions
 
 **Why is Elizabeth Holmes trending now?**
-A scene from a new documentary about her, "You Can See Everything", went viral. The film, by Nathan Fielder and Lance Oppenheim, opens on 16 October 2026 and follows Holmes and her husband during her final 34 days of freedom and the years that followed.
+A scene from a new documentary about her, You Can See Everything, went viral this week, which is how a prisoner with no phone and no social media ended up trending across the internet. The film, by Nathan Fielder and Lance Oppenheim, opens on 16 October 2026, runs nearly three hours, and follows Holmes and her husband during her final 34 days of freedom and the years that followed. It surprised audiences when shown at the Telluride Film Festival on 6 September, and festivals abroad are now lining up to show it too, putting a woman in a Texas prison back in front of the world's cameras.
 
 **Who is Elizabeth Holmes?**
-The founder of Theranos, a company that claimed its machine could run hundreds of blood tests from a few drops of blood. The technology never worked. Born 3 February 1984 in Washington, D.C., she dropped out of Stanford at 19 and built Theranos into a $9 billion company before it collapsed.
+Elizabeth Anne Holmes, born on 3 February 1984 in Washington, D.C., is the founder of Theranos, a company that claimed its machine could run hundreds of blood tests from a few drops of blood taken from a finger prick. She went to Stanford University to study chemical engineering, dropped out at 19 to start the company, and built it into a business valued at about 9 billion dollars, with Forbes celebrating her as the youngest self-made female billionaire in America. The technology never truly worked, the machines could not do what was claimed, test results were unreliable, and the company shut down in 2018, with Forbes revising her net worth to zero.
+
+**What was the 9 billion dollar Theranos lie?**
+The idea behind Theranos was beautiful: hundreds of medical tests from just a few drops of blood, on one small machine, born from Holmes's fear of needles. The problem was that it never truly worked. Holmes copied Steve Jobs's style, black turtleneck, deep voice and absolute certainty, and famous investors poured in hundreds of millions of dollars while powerful men joined her board. Then, in 2015, a Wall Street Journal investigation began pulling at the thread, showing the machines could not do what was claimed, and that the company had misled investors, partners and patients, until Theranos shut down in 2018.
 
 **What was Elizabeth Holmes convicted of?**
-In 2022, a jury convicted her of defrauding investors of more than $450 million. She and Sunny Balwani were ordered to pay $452 million in restitution.
+In 2022, a jury convicted Holmes of defrauding investors out of more than 450 million dollars. She was ordered to pay 452 million dollars in restitution together with her former business and romantic partner, Ramesh Sunny Balwani. Her original sentence was 11 years and three months, and in March this year, a judge shortened it by twelve months, to about 10 years and three months. The conviction ended a rise that had made her one of the most famous founders in Silicon Valley, and turned her story into the most famous fraud story the industry has ever produced.
 
-**Where is Elizabeth Holmes now, and when will she be released?**
-She is serving her sentence at Federal Prison Camp Bryan in Texas. Her sentence was reduced in March 2026 to about 10 years and three months. A halfway-house move is targeted for August 2027, and her full release is projected for March or April 2032.
+**Where is Elizabeth Holmes now and when will she be released?**
+She is serving her sentence at Federal Prison Camp Bryan, a minimum-security women's prison in Texas, about three hours from Dallas, where she reported on 30 May 2023. Officials have approved a move to a halfway house near Austin in August 2027, and her full release is projected for March or April 2032. She is sitting in a Texas prison, years into her sentence, with no company, no fortune and no freedom, and yet this week she is suddenly everywhere again, trending on social media and back in the headlines, because of a film she will mostly not see.
 
-**Who is Elizabeth Holmes' husband and does she have children?**
-She married Billy Evans, a hotel-business heir, in 2019. They have two children: William, born in 2021, and Invicta, born in 2023.
+**Who is Elizabeth Holmes married to and does she have children?**
+She married Billy Evans, an heir to a hotel business, in 2019. They have two children: a son, William, born in 2021, and a daughter, Invicta, born in 2023, meaning both of her children were born while her legal world was collapsing around her. It is this family, in its final days of ordinary life, that the new documentary films, with Holmes and Evans allowing a camera crew into their home during the final 34 days before she reported to prison, and the crew keeping following the couple for about three years.
 
+**Why does the world keep returning to the Holmes story?**
+Holmes's story has already produced a bestselling book, an award-winning TV drama called The Dropout, podcasts and countless articles, yet a new film still stops the internet, partly because of its access. No Theranos film before this one was allowed inside her home, with her husband and babies, in the last free days, the long goodbye before the prison gates. Partly, too, it is the question her story never stops asking: how did so many rich, powerful, experienced people believe a machine that did not work? And partly it is her, the black turtleneck, the voice, the stare, a whole era of fake it till you make it packed into one person.
 *Sources: Fox 4 News and published biographical records, October 2026.*
 
 **Source links:**

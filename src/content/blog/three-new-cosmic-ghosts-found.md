@@ -104,7 +104,7 @@ These two well-known nebulas have drifting, wispy shapes that remind people of g
 
 **How far away is the ghost nebula IC 63?**
 
-IC 63 lies roughly 550 light-years from Earth, which means the light from it that reaches our cameras began its journey centuries ago.
+IC 63 lies roughly 550 light-years from Earth, which means the light from it that reaches our cameras began its journey centuries ago. A light-year is the distance light travels in a whole year, and light is the fastest thing there is, so 550 of them is a distance almost too large to imagine. The light entering those cameras left its home centuries before anyone alive today was born.
 
 **Why do the nebulas glow red and blue?**
 

@@ -78,6 +78,20 @@ Aisha leaned her head against his shoulder and looked up at the leaves, at the c
 
 And that is what they did.
 
+## Frequently Asked Questions
+
+**What promise did Aisha and Daniel make as children?**
+When Aisha was ten, she pressed her palm against the rough bark of the old oak tree at the edge of Willowfield Park, looked at Daniel, a boy with scraped knees, a missing front tooth and the kindest eyes in the fourth grade, and said: If we are both still alone when we turn thirty, we will meet right here, under this tree, on the first day of spring. Promise? Daniel pressed his palm beside hers and said: Promise. No matter what. Even if I live far away. Even if it rains. They carved their initials into the bark, small and crooked, A + D, then ran off to the swings, and the promise settled into the backs of their minds like a seed in soil, small, quiet, and alive.
+
+**Did Daniel keep the childhood promise for twenty years?**
+Yes. Daniel never forgot, keeping the promise the way some people keep a photograph in a drawer, not looked at every day, but never thrown away. He became an engineer, travelled for work, lived in three different cities, and every year, on the first day of spring, he thought of the oak tree and wondered where Aisha was. When Aisha finally came, at thirty, he told her: I never forgot. Not for one spring. I came here every year on the first day of spring, just in case. Twenty years, Aisha. I stood under this tree twenty times, hoping. This is the first time you came too. He was holding a small bunch of wildflowers, taller now, the missing tooth long replaced, but his eyes exactly the same.
+
+**How did Aisha remember the promise after twenty years?**
+Aisha turned thirty on a cold, grey Tuesday in March, sat alone in her little flat feeling quietly unfinished, and that night dreamed of the oak tree, of rough bark under her palm and a boy saying: Promise. No matter what. She woke with tears on her face and the memory standing in front of her, clear as daylight, for the first time in years, realising the first day of spring was four days away and Willowfield was three hours away by train. She laughed at herself, then packed a bag, travelled on a long grey train past fields waking from winter, and found the oak tree unchanged, with the weathered initials A + D still readable in its bark, and Daniel already on the path, holding wildflowers.
+
+**What happened in the spring after Aisha and Daniel met again?**
+The spring that followed was the happiest Aisha could remember, unfolding in small, ordinary miracles rather than grand gestures. Daniel visited the city two weekends later carrying wildflowers, and Aisha showed him her flat, her school, her favourite bakery and the park bench where she read on Sundays, then visited Willowfield, where he showed her his workshop, his mother's garden, and the oak tree thick with new green leaves. One evening in late spring, sitting under the oak with the sun going gold through the branches, Daniel said he had waited twenty springs and would wait twenty more, but would much rather spend them with her, and Aisha leaned her head on his shoulder and said: Then let's not wait anymore. Let's just live. Together, one spring at a time.
+
 ## More stories to read
 
 - [Rain Brought Them Together Again](https://talhablog.com/blog/rain-brought-them-together-again/)

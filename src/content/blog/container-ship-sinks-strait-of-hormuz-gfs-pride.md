@@ -1,6 +1,6 @@
 ---
 title: "Container Ship Sinks Hormuz Strait"
-description: "A Singapore-registered container ship, GFS Pride, has sunk in the Strait of Hormuz after being hit by an unknown projectile and catching fire. A second"
+description: "Container ship GFS Pride sank in the Strait of Hormuz after an unknown projectile strike caused a fire. A second Singapore-registered ship was hit next day."
 pubDate: 2026-10-15T06:10:00+05:00
 category: "Conflict"
 image: "/images/container-ship-sinks-strait-of-hormuz-gfs-pride.webp"
@@ -58,21 +58,26 @@ For the sailors themselves, the human side of this story is simple. Forty-three 
 
 ## Frequently Asked Questions
 
-**Which ship sank in the Strait of Hormuz?**
-The Singapore-registered container ship GFS Pride. It was struck by an unknown projectile on 13 October 2026, caught fire and sank, the Maritime and Port Authority of Singapore said.
+**What happened to the GFS Pride in the Strait of Hormuz?**
+The Singapore-registered container ship GFS Pride was struck by an unknown projectile on 13 October 2026, caught fire and sank in the Strait of Hormuz, the Maritime and Port Authority of Singapore said. All 21 crew members were safely evacuated, and no injuries were reported on board. A second Singapore-registered ship, GFS Giselle, was struck a day later, on 14 October, and its hull was damaged, but it kept moving under its own power and reached a safe anchorage with all 22 crew members safe.
 
-**Were any sailors killed or injured?**
-No. All 21 crew members of GFS Pride were safely evacuated, and all 22 crew members of the second ship, GFS Giselle, were also safe, with no injuries reported on either vessel.
+**Were any sailors killed or injured when the ships were hit?**
+No. All 21 crew members of GFS Pride were safely evacuated after the ship caught fire and sank, and all 22 crew members of GFS Giselle were also safe, with no injuries reported on either vessel, according to Singapore's Maritime and Port Authority. The authority also said there were no Singaporeans among the crew of either vessel, and that it was in contact with the ships' management company while watching the situation closely. In a wider wave of attacks in the area, two seafarers were reported missing, but none of the 43 sailors on these two ships was killed or hurt.
 
 **What happened to the second ship, GFS Giselle?**
-It was struck on 14 October and its hull was damaged, but it continued under its own power and reached a safe anchorage.
+GFS Giselle was struck by an unknown projectile on Wednesday 14 October, a day after GFS Pride was hit. Its hull was damaged, but unlike GFS Pride it did not sink. The ship was able to keep moving under its own power and reached a safe anchorage, and all 22 crew members on board were safe, with no injuries reported. The two ships were both Singapore-registered container vessels, and their strikes were reported together by Singapore's Maritime and Port Authority on 14 October.
 
-**Who attacked the ships?**
-No one has been officially named. Agencies describe the weapons as unknown projectiles. Iran's IRGC claimed GFS Pride hit a naval mine, but that claim conflicts with the projectile account and is not independently confirmed.
+**Who attacked the ships in the Strait of Hormuz?**
+No one has been officially named. Agencies describe the weapons as unknown projectiles, and no government or group has been officially blamed in the reporting used for this post. Iran's IRGC claimed that GFS Pride hit a naval mine, but that claim conflicts with the projectile account and is not independently confirmed. The frightening part of the story, as this post puts it, is that nobody has officially said who fired the weapon that sank the ship, even though the attacks were part of a wider wave in the strait.
 
-**Why is the Strait of Hormuz so important?**
-Before the war, about a fifth of the world's oil and liquefied natural gas trade passed through the strait, so attacks there can affect fuel supplies and prices around the world.
+**Why is the Strait of Hormuz so important for world trade?**
+Before the war, about a fifth of the world's oil and liquefied natural gas (LNG) trade passed through the Strait of Hormuz, according to Reuters, and there is no easy alternative route for most of that energy. When ships are hit there, insurance costs rise, shipping companies grow nervous, and oil markets feel the effects at once. A sunken container ship in this strait is therefore not only a story about one vessel, but a warning light for the whole global economy, because so much of the world's fuel must pass through the same narrow waterway.
 
+**How big was GFS Pride and what happened after it sank?**
+GFS Pride was a small container ship with a capacity of 2,824 TEU, the standard measure for containers based on a 20-foot box. After the sinking, Reuters reported that ships in the area were warned about floating containers in the water, a hazard left behind when a container ship goes down. The loss of the ship, together with the damage to GFS Giselle, also left the shipping industry and insurers watching the strait closely, since a sunken vessel and drifting containers make an already dangerous stretch of water harder to navigate.
+
+**Was the GFS Pride sinking part of a wider pattern of attacks?**
+Yes. According to data from the International Maritime Organization, the loss of GFS Pride made it the second vessel to sink since the US-Iran war began on 28 February. The Straits Times reported that at least ten vessels had been attacked in or near the Strait of Hormuz since 11 October, the highest level since the war started, based on data from the security firm Vanguard, the IMO and the British maritime agency UKMTO. Two seafarers were reported missing in that wider wave of attacks, which is why Singapore's Maritime and Port Authority said it was deeply concerned about continued attacks on commercial shipping in the strait.
 *Sources: Reuters, 14 October 2026; Channel NewsAsia, 14 October 2026; Malay Mail (Bernama), 15 October 2026; The Straits Times, 15 October 2026.*
 
 **Source links:**

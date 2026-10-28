@@ -96,29 +96,29 @@ Two days. Two decisions. One company at the center of a race that is only gettin
 
 ## Frequently Asked Questions
 
-**What is DeepSeek?**
-
-DeepSeek is an artificial intelligence lab based in Hangzhou, China. It builds AI technology and models, and it has become one of the most talked-about names in the global AI race.
-
 **How much money did DeepSeek raise?**
 
 According to a Bloomberg report, the company raised about $15 billion, which is roughly 100 billion yuan. The round was described as one of the biggest funding rounds in China's history.
 
+**What is DeepSeek?**
+
+DeepSeek is an artificial intelligence lab based in Hangzhou, China. It builds AI technology and models, and it has become one of the most talked-about names in the global AI race.
+
 **Who are the potential investors?**
 
-The report named potential investors including CATL, the Chinese battery maker, and Tencent, the company behind the WeChat app.
+According to the Bloomberg report, potential investors in the round include CATL, the giant Chinese battery maker, and Tencent, the company behind WeChat, the app that much of China uses every single day for chatting, paying, and almost everything else. Think about what those names mean: a battery giant and a social media giant, both looking at the same young AI lab and seeing a prize. Batteries power the physical world, WeChat connects the digital one, and DeepSeek builds the brains, so when companies from such different corners of technology all move toward the same table, the table is worth sitting at.
 
 **Why did the United States order its removal?**
 
-United States federal civilian agencies were ordered to remove DeepSeek's AI technology from their systems over security concerns. The order came just two days before the funding news broke.
+United States federal civilian agencies were ordered to remove DeepSeek's AI technology from their systems over security concerns, because modern AI tools can sit inside systems, touch documents, and move information around, and officials asked where the data goes, who could see it, and whether the tool could be watched or used in ways the user never agreed to. The order came roughly two days before the funding news broke, so the ban and the cheque arrived almost together, like two boxers entering the ring at the same time, one side seeing a security risk and the other seeing a future worth paying for.
 
 **What will DeepSeek spend the money on?**
 
-The startup is ramping up spending on AI infrastructure and on open models, aimed at both domestic and international markets.
+The startup is ramping up its spending on AI infrastructure, the heavy, expensive machinery behind artificial intelligence: the computing power, the systems, and the foundations that let AI models train, learn, and answer millions of questions. DeepSeek is also putting weight behind open models, for both domestic and international markets, which are AI systems whose designs are shared more freely, so other builders can use them, study them, and create new things on top of them, a very different road from keeping everything locked behind a wall.
 
 **Will this affect other Chinese AI companies?**
 
-Very likely, yes. The report notes that DeepSeek's expansion could further intensify competition among its domestic rivals, which may push the whole Chinese AI field to move faster.
+Very likely, yes. The report notes that DeepSeek's expansion could further intensify competition among its domestic rivals, which may push the whole Chinese AI field to move faster. Inside China, DeepSeek is seen as a homegrown champion in the most important technology race of this generation, one expected to reshape medicine, transport, education, factories, and entertainment, and every major country wants strong players in this race rather than depending completely on rivals for the brains of its future machines.
 
 ## Sources
 

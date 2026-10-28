@@ -52,7 +52,7 @@ It goes from 0 to 100 kilometres per hour in 4.3 seconds, and its top speed is 2
 
 **What engine does the Emira have?**
 
-It has a 3.5-litre supercharged V6 engine, with rear-wheel drive.
+It has a 3.5-litre supercharged V6 engine, with rear-wheel drive. A supercharger is a small pump, driven by the engine itself, that pushes extra air in so the engine can make more power. There are no electric motors helping here and no turbos waiting to wake up. The Emira makes 400 horsepower, and it can be had with a proper manual gearbox, so the driver changes gears by hand.
 
 **Is the Emira a supercar?**
 
@@ -60,8 +60,7 @@ It is a sports car rather than a supercar. It focuses on light weight and drivin
 
 **Can the Emira be used every day?**
 
-Yes, more easily than most sports cars. It has reasonable comfort, visibility, and space for daily driving.
-
+Yes, more easily than most sports cars. It has reasonable ground clearance for a sports car, room for two adults and their weekend bags, seats comfortable enough for a long drive, and visibility good enough to park and join a busy road without trouble. It is a car you could drive to work on Monday and take to a winding mountain road on Sunday, because its lightness and balance are always there, working for you.
 ## More cars to explore
 
 - [Toyota Supra GR Technical Diagram](https://talhablog.com/blog/toyota-supra-gr-technical-diagram/)
