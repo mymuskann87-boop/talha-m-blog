@@ -177,11 +177,25 @@ const faqLd = faq
   )}
   {(prevPost || nextPost) && (
     <nav class="prev-next" aria-label="Previous and next posts">
-      {prevPost ? <a class="pn pn-prev pager-card" rel="prev" href={`/blog/${prevPost.id}/`}><span class="pc-blob pc-b1"></span><span class="pc-blob pc-b2"></span><span class="pc-text">← Previous</span></a> : <span />}
-      {nextPost ? <a class="pn pn-next pager-card" rel="next" href={`/blog/${nextPost.id}/`}><span class="pc-blob pc-b1"></span><span class="pc-blob pc-b2"></span><span class="pc-text">Next →</span></a> : <span />}
+      {prevPost ? <a class="pn pn-prev pager-card" href={`/category/${slugify(d.category)}/`}><span class="pc-blob pc-b1"></span><span class="pc-blob pc-b2"></span><span class="pc-text">Previous</span>
+</a> : <span />}
+      {nextPost ? <a class="pn pn-next pager-card" rel="next" href={`/blog/${nextPost.id}/`}><span class="pc-blob pc-b1"></span><span class="pc-blob pc-b2"></span><span class="pc-text">Next</span></a> : <span />}
     </nav>
   )}
   <a class="back" href="/">Back to all posts</a>
+  <script is:inline>
+    (function () {
+      var back = document.querySelector('.pn-prev');
+      if (!back) return;
+      back.addEventListener('click', function (e) {
+        if (e.button !== 0 || e.ctrlKey || e.metaKey || e.shiftKey || e.altKey) return;
+        if (document.referrer && document.referrer.indexOf(window.location.origin) === 0 && window.history.length > 1) {
+          e.preventDefault();
+          window.history.back();
+        }
+      });
+    })();
+  </script>
 </Base>
 
 <style>
@@ -224,7 +238,7 @@ const faqLd = faq
   @keyframes pcGlow { from { box-shadow: 0 0 5px rgba(45, 68, 214, 0.35), inset 0 0 5px rgba(45, 68, 214, 0.12); } to { box-shadow: 0 0 13px rgba(45, 68, 214, 0.60), inset 0 0 8px rgba(45, 68, 214, 0.20); } }
   @keyframes pcBlob1 { from { transform: translate(-30%, -10%); } to { transform: translate(210%, 12%); } }
   @keyframes pcBlob2 { from { transform: translate(210%, 14%); } to { transform: translate(-40%, -8%); } }
-  .prev-next .pager-card { flex: 1; }
+  .prev-next .pager-card { flex: 0 0 auto; min-width: 7.5rem; padding: 0.25rem 0.8rem; border-radius: 4px; text-align: center; }
   .related { margin: 2rem 0 1rem; }
   .related h2 { font-size: 1.35rem; margin: 0 0 0.9rem; }
   .related-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 0.9rem; }

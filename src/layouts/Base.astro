@@ -171,7 +171,7 @@
 
       <footer class="site-footer7">
         <div class="sf7-brand">{SITE_NAME}</div>
-        <div class="sf7-tag">News &middot; AI Tools &middot; Entertainment</div>
+        <div class="sf7-tag">Read More, Save More, Know More</div>
         <nav class="sf7-links">
           <a href="/about/">About</a>
           <a href="/contact/">Contact</a>
@@ -210,5 +210,21 @@
       <script is:inline>
       if ('serviceWorker' in navigator) { window.addEventListener('load', () => { navigator.serviceWorker.register('/sw.js'); }); }
     </script>
-  </body>
+  <script is:inline>
+  function fitCardTitles() {
+    var links = document.querySelectorAll('.row h2 a');
+    for (var i = 0; i < links.length; i++) {
+      var a = links[i];
+      var size = 20;
+      a.style.fontSize = size + 'px';
+      while (a.scrollWidth > a.clientWidth && size > 14) {
+        size -= 0.5;
+        a.style.fontSize = size + 'px';
+      }
+    }
+  }
+  fitCardTitles();
+  window.addEventListener('resize', fitCardTitles);
+</script>
+</body>
   </html>
