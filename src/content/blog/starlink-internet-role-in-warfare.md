@@ -2,6 +2,7 @@
 title: "Starlink Internet Role In Warfare"
 description: "Starlink internet became the backbone of Ukraine's battlefield communications. How satellite dishes, drones and command posts work as one network."
 pubDate: 2026-10-28T16:55:00+05:00
+updatedDate: 2026-10-29
 category: "Conflict"
 image: "/images/starlink-internet-role-in-warfare.webp"
 imageAlt: "A satellite dish on a rooftop at night receiving signals from satellites passing overhead"
@@ -76,6 +77,14 @@ For readers, the key point is simple. A small dish pointing at the sky now does 
 
 - [Zelenskyy Accuses Musk Over Starlink](https://talhablog.com/blog/zelenskyy-accuses-musk-over-starlink/)
 - [How Drones Changed Modern Warfare](https://talhablog.com/blog/how-drones-changed-modern-warfare/)
+
+## My Take: Starlink Dependence Is the Real Battlefield Weakness
+
+The post explains Starlink as a satellite internet service run by SpaceX, founded by Elon Musk, using thousands of satellites in low orbit to send connections to small dish terminals. In Ukraine, the post says, Starlink became the backbone of military communications across naval, land, and air forces, according to George Barros, linking drones, artillery, and command posts into a single real-time network, so the time between sensing a target and shooting at it is minimised. Hospitals, officials, journalists, and ordinary families also depended on it when normal networks went dark. In October 2026, President Volodymyr Zelenskyy accused Elon Musk of disrupting the network, the United States denied ordering any slowdown, and Barros noted that with no ready replacement, any restriction or loss of connectivity has major implications for Ukraine's defences.
+
+My judgement is that dependence, not disruption, is the problem the post names, and readers should hold that distinction firmly. A slower connection is not a small inconvenience in war. If a drone's video freezes, its operator cannot see the target. If a commander's message arrives late, artillery may fire at the wrong place or not at all. If air defence units cannot share warnings quickly, incoming drones may get through, including fast Shahed drones flying above 198 miles per hour. Compare the two risks. Yet those are physical limits an army can plan around. Dependence on a private company is different, because speed limits, service changes, or interruptions decided in an office far from the battlefield can affect soldiers in a trench within hours, and a soldier cannot repair a decision taken on another continent. The person who gains from Starlink is anyone whose towers and cables have been destroyed, since a dish needs only power and sky, and a destroyed dish can simply be replaced. The person who loses, in my view, is a country that treats a civilian network built for homes and businesses as if it were its own military system, because the same dish that serves a family can serve a command post, and the line between civilian and military use is thin.
+
+What the reader should understand differently is that ownership is now part of warfare, not only technology. Starlink in Ukraine may be a preview of future wars, in which a private satellite network becomes the backbone of a country's defence, and other countries will ask who owns their connections and what happens if the owner changes the rules. Watch for that question rather than only for outages. A network with thousands of satellites is harder to silence than a single tower, but no system is untouchable, and war is also a contest over signals. The lesson, as I read it, is not that satellite internet is magic. It is that a small dish pointing at the sky now does a job once needing towers, cables, and state-run networks, and whoever controls that dish controls the speed at which drones, guns, and commanders can act as one.
 
 ## Frequently Asked Questions
 

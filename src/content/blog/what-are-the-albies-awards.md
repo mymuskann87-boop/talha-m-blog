@@ -2,6 +2,7 @@
 title: "What Are The Albies Awards"
 description: "What are the Albies? The Albie Awards honour human rights defenders, named after Albie Sachs and run by the Clooney Foundation for Justice."
 pubDate: 2026-10-28T16:48:00+05:00
+updatedDate: 2026-10-29
 image: "/images/what-are-the-albies-awards.webp"
 imageAlt: "A golden award statue on a stage at a formal human rights awards ceremony"
 category: "Celebrity"
@@ -67,6 +68,16 @@ The Albies launched in New York in 2022, and the inaugural ceremony set the patt
 ## What to watch for at future ceremonies
 
 Future Albies ceremonies will follow the same shape: a host, performers, a famous guest list, and a small group of honourees whose names most of the audience will not know. The honourees are the part worth watching. Their stories, told on the night and reported afterwards, are the reason the event exists, and they are the names to remember when the fashion coverage fades. A reader who wants to follow the Albies should look past the red carpet photographs to the citations: who was honoured, what they risked, and what their work needs next. The gowns will change every year. The courage will not, and it is the courage the awards were built to honour.
+
+## My Take: The Albies Gown Is The Megaphone, Not The Message
+
+The post explains what the Albies are, and the answer is more serious than the photographs suggest. The Albies, formally the Albie Awards, are an annual fundraiser organised by the Clooney Foundation for Justice, co-founded in 2016 by George and Amal Clooney. They honour human rights defenders, journalists, and activists who have worked for justice, often at great personal risk. They are named after Justice Albie Sachs, a South African anti-apartheid figure and former Constitutional Court judge. He defended people persecuted under apartheid, was placed in solitary confinement without trial, and survived a car bombing in exile in 1988 that cost him an arm and the sight in one eye. The fifth annual ceremony took place in London in October 2026, at the Natural History Museum.
+
+In my view, the Albies work only if glamour is treated as a tool, and they fail if glamour becomes the story. The post makes the same distinction: glamour draws cameras, and cameras draw attention to people the world might otherwise ignore, but glamour is a vehicle, not the point. Amal Clooney's gold Gucci gown dominated the fashion coverage, and that coverage carried the event's name into newspapers and feeds that never cover human rights. A reader who remembers only the gown has learned nothing about the honourees. My call is that the test is not how elegant the room looked, but whether defenders honoured there are safer, better funded, and better known afterwards than before.
+
+The range of the 2026 honourees, in my view, is where the Albies earn their claim to seriousness. They included Kyrgyz journalists Bolot Temirov and Makhabat Tazhibek Kyzy, Malawian girls' rights advocate Vanessa Mwangala, Pulitzer Prize-winning photojournalist Lynsey Addario, Justice Plus, a Congolese human rights organisation, and Brad Smith, Microsoft's Vice Chair and President. A journalist, an advocate, a photographer, an organisation, and a technology executive are five very different kinds of defender, and I think that breadth is the point. Human rights work is not one job. It is reporting, photographing, organising, litigating, and building systems that make justice possible. The post also notes a quieter gain: honourees meet each other, and that network can sustain lonely, frightening work.
+
+What should the reader do differently? First, when the next Albies photographs appear, look past the red carpet to the citations: who was honoured, what they risked, and what their work needs next. The gowns will change every year, and the courage, as the post says, will not. Second, treat attention as practical help. A journalist whose name is known internationally is harder to imprison quietly, and an honoured organisation gains donors, lawyers, and allies it could never reach alone. Third, keep the criticism in view. Critics ask whether glamour trivialises suffering, and that is a fair question. My answer is practical: judge the megaphone by the message it carries. If you can name the honourees a week later, the Albies did their job. If you can only name the dress, they did not.
 
 ## Frequently Asked Questions
 

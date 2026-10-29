@@ -2,6 +2,7 @@
 title: "Teenager's Sasser Worm Grounded Flights"
 description: "In 2004, an 18-year-old's worm forced computers to restart in an endless loop, and delayed flights, blinded a coastguard and froze banks around the world."
 pubDate: 2026-10-23T18:50:00+05:00
+updatedDate: 2026-10-29
 image: "/images/teenagers-sasser-worm-grounded-flights.webp"
 imageAlt: "An illustration of a big airport at night with frozen blank departure boards and parked planes, and far away the small silhouette of a teenager from behind at one glowing computer."
 category: "Technology"
@@ -63,6 +64,14 @@ The good news is that Sasser's whole trick depends on one thing: a computer that
 ## You may also like
 
 - [Virus That Struck Friday 13th](https://talhablog.com/blog/virus-that-struck-friday-13th/)
+
+## My Take: Sasser Proved Careful Users Could Still Fall
+
+The post describes Sasser, a computer worm that began spreading on 30 April 2004, attacking computers running Windows XP and Windows 2000. Its target was a flaw in a Windows component called LSASS, a guard checking who is allowed in. Once inside, the worm took control, and the owner saw a shutdown warning, a countdown of sixty seconds, and a restart, then the same cycle again and again, leaving the machine almost impossible to use. Microsoft had published a patch about two weeks before Sasser appeared, and the worm fed only on machines whose owners had not yet installed that update. Sven Jaschan, an 18-year-old German student, confessed to writing Sasser and the Netsky worms, was tried under juvenile law in 2005, and received a suspended sentence of one year and nine months plus community service, with no prison time.
+
+My judgement is that Sasser's most frightening quality is that being careful did not save its victims, and that fact should change how readers think about blame. Most famous viruses of that era travelled by email and waited for a curious click, but Sasser required only that a computer be connected with an out-of-date system. A person could ignore every strange email, never download a single file, and still wake up to a computer stuck in a restart loop, because the only mistake required was being connected. It is widely credited with pushing Microsoft to make its Windows XP Service Pack 2 update turn the built-in firewall on by default for everyone, so protection was switched on automatically instead of being left as a setting most people never found. Compare the two defences. A patch closes the flaw itself, while a firewall locks the front door through which the worm arrived. The person who gains is the user who lets both work automatically. The person who loses is the user who leaves an old, unsupported computer plugged into the internet and forgotten, since an unlocked house is exactly what such a machine becomes.
+
+What should change is the treatment of updates as urgent rather than convenient. First, install updates as soon as they appear and turn on automatic updates, since Sasser punished the habit of leaving updates for later and proved that later is a hole big enough to ground an airline. Second, keep the firewall switched on and do not turn it off just because a program asks, since Sasser reached victims through open doors from the internet. Third, treat a restart loop as a warning sign rather than bad luck: disconnect the machine from the internet so it cannot spread or be reached, and get it checked rather than fighting the countdown. Skip the idea that a worm needs a careless victim. Sasser never defeated the world's best security experts. It walked through a door that had been fixed but not yet closed, on millions of computers, and a fix that never reaches a machine protects nobody.
 
 ## Frequently Asked Questions
 

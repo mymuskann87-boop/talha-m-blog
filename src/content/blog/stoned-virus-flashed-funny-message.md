@@ -2,6 +2,7 @@
 title: "Stoned Virus Flashed Funny Message"
 description: "A cheeky one-line joke hidden in floppy disks by an unknown prankster became one of the most common sights on computer screens of its era."
 pubDate: 2026-10-23T22:30:00+05:00
+updatedDate: 2026-10-29
 image: "/images/stoned-virus-flashed-funny-message.webp"
 imageAlt: "An illustration of a chunky 1988 home computer at boot with a glowing speech bubble of cheerful static above it, floppy disks scattered on the desk."
 category: "Technology"
@@ -77,6 +78,14 @@ Stoned's accidental overwrites taught an early generation of users that data can
 ## You may also like
 
 - [Michelangelo Virus That Scared World](https://talhablog.com/blog/michelangelo-virus-that-scared-world/)
+
+## My Take: A Joke Virus Still Taught a Serious Lesson
+
+The post describes the Stoned virus, which appeared in 1987 and was first reported in New Zealand. It was a boot sector virus, hiding in the tiny area of a floppy disk that a computer reads first when it starts up. When an infected disk started a machine, the virus copied itself into memory, and every new floppy disk placed in that machine picked up a hidden copy. It made no noise, deleted nothing on purpose, and asked for nothing. Roughly one time in eight, when an infected machine was switched on, the screen showed the line, "Your PC is now stoned!" Some versions carried a longer slogan demanding that marijuana be legalised. The virus spread because software, games, and documents moved hand to hand on floppy disks, and starting a computer from a floppy disk was completely normal. By the early 1990s, it was commonly described as one of the most common computer viruses anywhere in the world. Its author was never identified.
+
+My judgement is that calling Stoned harmless is the mistake the post warns against, and the reason is not the joke but the chain it started. The virus was not built to delete files, yet on some systems the place where it stored itself overlapped with space used for real information, and the stored copy could overwrite and damage the data underneath, so real harm was reported even though destruction was never the design. The strangest chapter, in my view, is the family legacy. Other programmers studied Stoned, copied its methods, and built on it, and its most famous descendant was the Michelangelo virus, which grew out of the Stoned family and became a global scare in its own right. The person who gains from this story is the reader who learns that "not built to harm" is not the same as "harmed no one." 
+
+What should change is the treatment of borrowed storage, then and now. First, never start a computer from media not trusted, and today never restart with an unknown USB stick attached, since a found drive, a free drive handed out at an event, or a borrowed drive from an unknown source should never be a computer's first greeting of the day. Second, scan borrowed storage with updated antivirus software before opening files, and let security software scan strange media first. Third, keep real-time protection switched on and updated, and keep backups as a calm habit, since data can be damaged by something never even aiming at it. Skip the idea that a funny message proves a program is safe. Stoned travelled the world on borrowed plastic and friendly exchanges, and its modern costume is a USB stick, a portable drive, or a memory card. The joke, in my view, is the least interesting part of the story. The lesson is that trust between people was the highway, and checking is the toll that keeps the highway safe.
 
 ## Frequently Asked Questions
 

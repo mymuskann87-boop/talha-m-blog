@@ -2,6 +2,7 @@
 title: "Virus That Struck Friday 13th"
 description: "The Jerusalem virus hid inside ordinary programs for months and waited for one date on the calendar before deleting every program its victims tried to run."
 pubDate: 2026-10-23T22:20:00+05:00
+updatedDate: 2026-10-29
 image: "/images/virus-that-struck-friday-13th.webp"
 imageAlt: "An illustration of a huge calendar page with FRIDAY 13 circled in glowing red, program files dissolving into pixels beneath it."
 category: "Technology"
@@ -67,6 +68,14 @@ For me, the creepiest part of this story was never the deleted programs — it i
 ## You may also like
 
 - [Virus Gangs Fought Online War](https://talhablog.com/blog/virus-gangs-fought-online-war/)
+
+## My Take: Jerusalem Virus Frightened by Waiting, Not Striking
+
+The post describes the Jerusalem virus, first detected in late 1987 in the city it is named after, when staff at the Hebrew University noticed computers slowing down and behaving strangely. Each time a person ran an infected program, the virus settled into memory and waited for the next healthy program to copy itself into. On ordinary days it behaved almost politely, slowing machines and sometimes showing a small black rectangle, while files sat where they belonged. Then, whenever the date became a Friday the 13th, it deleted every program the victim tried to run, not damaged or hidden, but deleted, so a person typing the command for a daily program found the machine erasing it instead of opening it. Through 1988 and after, offices grew nervous about switching machines on as each Friday the 13th approached, until cleaning tools became widely available and the fear faded.
+
+My judgement is that patience was the whole personality of this virus, and that is why it taught a frightened young computer world a lesson no louder virus could teach. Most early viruses spread, showed off, and made a mess straight away. Jerusalem settled in, behaved politely for weeks or months, and kept one eye on the computer's internal clock, counting ordinary days and letting the owner relax completely. The waiting made it far more frightening than a virus that simply broke things at once, because a computer could be riddled with infected programs and show nothing worse than slowness for months, and then one unlucky morning would arrive and every program launched that day would be wiped out by the simple, trusting act of opening it. The damage was cold precisely because there was no ransom note and no demand. Jerusalem did not want money. It simply waited for its date and broke things. The person who gains, in my view, is the reader who treats every borrowed program as unknown, no matter whose hands it passed through, since the person handing it over is usually innocent while the file may not be. The person who loses is the reader who trusts a friendly hand and runs a file without scanning it first.
+
+What should change is the habit around shared files, in the same order the post advises. First, scan files and removable media before opening them, since modern security tools can check a file or USB stick in seconds before anything inside gets a chance to run.  Skip the idea that Jerusalem belongs only to history. It was built for DOS and cannot run as it once did, yet its pattern, malicious code hiding inside useful programs, spreading through sharing, and waiting for a trigger, is still set every day. The creepiest part, as the post says, is the patience: code sitting silently for months, watching ordinary days go by, waiting for one date like it could read a calendar and hold a grudge.
 
 ## Frequently Asked Questions
 

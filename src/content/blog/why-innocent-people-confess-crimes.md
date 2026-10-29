@@ -2,6 +2,7 @@
 title: "Why Innocent People Confess Crimes"
 description: "Why do innocent people confess to crimes they did not commit? Pressure, exhaustion, false evidence, and the wish to escape the interrogation room."
 pubDate: 2026-10-28T16:44:00+05:00
+updatedDate: 2026-10-29
 category: "Crime"
 image: "/images/why-innocent-people-confess-crimes.webp"
 imageAlt: "An illustration of a bare interrogation room with a single table, two chairs, and a bright lamp, with a tired person sitting alone."
@@ -80,6 +81,16 @@ Richard Lapointe served 23 years in prison for a crime he did not commit, after 
 ## You may also like
 
 - [Man Robbed Bank With Lemon](https://talhablog.com/blog/man-robbed-bank-with-lemon/)
+
+## My Take: A Confession Needs Its Room Checked, Not Just Its Words
+
+The post tells the story of Richard Lapointe, who falsely confessed to a rape and murder and served 23 years in prison as a result, before a court ruled he must receive a new trial. The interrogation continued for about nine hours, far longer than average. The police lied to Lapointe about falsified scientific evidence. Lies about forensic testing make prison seem inescapable, forcing the suspect to tell the police what they want to hear in order to stop the pressure. 
+
+In my view, the lie about science is the most dangerous tactic in the post, and it deserves to be singled out. An interrogator may bluff about what a witness said, and the suspect can weigh that against their own memory. A lie about a DNA test or a fingerprint feels final, because it claims the authority of science, and a person who believes the science has already decided the case may see confession as the only way to reduce the damage. The post makes that distinction clearly, and I think it should change how readers judge any confession that follows such a claim. 
+
+The scale of the problem only became clear when DNA testing allowed old convictions to be checked against new science. About a quarter of post-conviction DNA-based exonerations on record featured a false confession, or a false statement of guilt of some kind. That response assumes confessing is a single, free decision, made calmly, by a rested person, with full knowledge of the consequences. Interrogation, as the post describes it, is designed to remove every one of those conditions: time, rest, food, a sense of time, and a clear view of the way out. Professor Harris proposes simple reforms that answer the flaws in Lapointe's case directly: record all interrogations, front to back, and apply the other steps set out in the post. 
+
+What should the reader do differently? First, when reading about a confession in the news, ask the post's questions: was the interrogation recorded, how long did it last, was the suspect vulnerable, young, ill, disabled, or without a lawyer, and were they told about scientific evidence, and was that evidence real? Second, do not treat a confession as proof on its own. Ask what else supports it, and whether the conditions in the room could have produced the words without the guilt. Third, support the simple reform the case points to: a recording of the whole interrogation, from start to finish, protects the innocent suspect and the honest officer alike, because it leaves no argument about what was said. In my view, a confession should be read like a document with a history. Check the room, check the hours, check the science claim, and only then judge the words. The reader who does that will not be fooled by the most dangerous sentence in a courtroom: he confessed, so he must be guilty.
 
 ## Frequently Asked Questions
 

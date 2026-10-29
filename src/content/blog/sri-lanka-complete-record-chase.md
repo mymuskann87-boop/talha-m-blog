@@ -2,6 +2,7 @@
 title: "Sri Lanka Complete Record Chase"
 description: "England scored 429 and still lost. Sri Lanka hunted down 430 in Rawalpindi with one ball left, in the second-highest successful chase ODI cricket has ever"
 pubDate: 2026-10-23T15:10:00+05:00
+updatedDate: 2026-10-29
 image: "/images/sri-lanka-complete-record-chase.webp"
 imageAlt: "An illustration of a Sri Lankan batsman in blue hitting a huge six under floodlights, with a giant scoreboard showing 430 behind him."
 category: "Sports"
@@ -69,6 +70,14 @@ Matches like this are why fans stay until the last ball, why crowds refuse to le
 ## You may also like
 
 - [Rabada Breaks Record Against Australia](https://talhablog.com/blog/rabada-breaks-record-against-australia/)
+
+## My Take: Sri Lanka Won the Chase Before the Final Ball
+
+The post describes an ODI tri-series match in Rawalpindi, Pakistan, in which England batted first and scored 429 for 4, a total so large it usually ends a contest before the second innings begins. Sri Lanka replied with 430 for 8 in 49.5 overs and won by two wickets, with one ball left. Three batsmen carried the chase in different styles: Pavan Rathnayake scored 130, the rock of the chase, giving the team a set batsman and keeping the required rate honest; Avishka Fernando made 97, aggression at the top that kept pressure on England; and Dasun Shanaka smashed 97 of his own, raw power in the closing phase that turned a doubtful equation into a likely win. Janith Liyanage finished it with a six, the boldest shot in cricket, at the moment of maximum pressure. The chase is the second-highest successful run chase in one-day international history, with only one team ever having chased down more. England did almost everything right with the bat and still walked off as losers.
+
+My judgement is that the chase was won in its middle, not in its final over, and treating the last six as the whole story flatters the ending and hides the craft. The final ball mattered, since a dot ball would have left the scores level, and the margin between a famous victory and a heartbreaking near-miss was a single delivery. Rathnayake's century bought time and belief for everyone else. Fernando's fast 97, just three runs short of a hundred, was in my view worth more than a slow century would have been, because it kept the pressure exactly where Sri Lanka needed it, on England. Shanaka's hitting then turned a chase that still looked doubtful into one that felt possible, then likely, then almost inevitable. The person who gains most from this reading is a young cricketer learning that attack without panic is the hardest balance in a big chase. 
+
+What the reader should understand differently is that no scoreboard total is safe while wickets and belief remain, and that England's 429 proves the point from the other side. England scored at well over eight runs an over for the entire innings, punished almost every bowler, and still lost, which is the strange beauty of limited-overs cricket: the game is never finished until the final run is scored or the final wicket falls. Skip the lesson that a huge total guarantees safety, and skip the lesson that courage alone wins chases. What wins, in this match, is a complete recipe, one patient anchor, one aggressive stroke-maker, and one finisher with brute force, held together by the discipline of never letting a quiet over become a slow patch. That is why fans stay until the last ball, and why a chase done properly, with courage and calm heads, can be even more thrilling than the biggest innings ever played.
 
 ## Frequently Asked Questions
 

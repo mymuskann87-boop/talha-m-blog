@@ -2,6 +2,7 @@
 title: "Why Companies Change Their Logos"
 description: "Why do companies change their logo? New audiences, new markets, old images, and damaged trust: the real reasons behind a rebrand, and what it costs."
 pubDate: 2026-10-28T16:44:00+05:00
+updatedDate: 2026-10-29
 category: "Business"
 image: "/images/why-companies-change-their-logos.webp"
 imageAlt: "An illustration of a company sign being repainted: workers replacing an old logo on a shop front with a fresh, simpler design."
@@ -90,6 +91,16 @@ Rebranding is an important part of most companies' journeys at some point, and s
 ## You may also like
 
 - [Why New Coke Failed Fast](https://talhablog.com/blog/why-new-coke-failed-fast/)
+
+## My Take: A New Logo Cannot Fix A Broken Promise
+
+A logo is a mark, the picture and letters that identify a company at a glance. A brand is much bigger: the company's name, colours, way of speaking, products, reputation, and the feeling customers get when they deal with it. The post sets out four main reasons companies change their logos. The old identity looks outdated, especially on a phone screen, where a logo must be read at the size of a fingernail. The company moved to a new market, selling subscriptions instead of individual products, or selling around the world instead of locally. Trust was damaged and must be rebuilt, after a crisis or persistent negative coverage. Or two companies became one, through a merger or acquisition, and the question of whose name and colours survive must be answered. 
+
+In my view, the third reason, damaged trust, is the test that separates a good rebrand from a dishonest one. When reputation is at stake, a complete rebrand can be a necessary act of corporate renewal, signalling a decisive break from the past and a commitment to change. That signal only works, in my judgement, if the change behind the picture is real. A new logo that accompanies the same confusing products, poor service, and broken promises only teaches customers to distrust the next picture too. The post states that judgement plainly: a logo change is a mistake when it solves a problem the company does not have, or hides a problem it refuses to fix. I think readers should apply that test first, before judging the design at all. Ask what changed besides the picture, and if the answer is nothing, the rebrand has already failed, however clean the new mark looks.
+
+Customers often hate a new logo at first, and that reaction, in my view, should not be mistaken for proof that the rebrand is wrong. A new logo breaks recognition: for a moment, the customer must think, instead of simply recognising, and that moment of effort feels like a loss.  The job of a logo is recognition, not applause.
+
+What should the reader do differently? First, judge a new logo after a week of use, not in the first hour of headlines, and ask whether recognition has returned. Second, separate the picture from the promise: check whether products, service, and prices changed with the logo, or whether only the picture changed. Third, skip the idea that a logo change is a quick job. With six phases and an average of seven months, and almost one in ten rebrands lasting between one and two years, a new logo is the end of a long road, not a sudden idea. In my view, the reader who asks what the company fixed, and whether the new mark can be recognised at a glance, will judge rebrands fairly. The reader who only asks whether the new picture looks nice will be fooled by the easiest rebrand of all: a new face on an unchanged company.
 
 ## Frequently Asked Questions
 

@@ -2,6 +2,7 @@
 title: "Volcano That Burns Bright Blue"
 description: "At Indonesia's Kawah Ijen, fire burns electric blue in the dark, and miners climb into the crater each night to haul out its yellow sulfur."
 pubDate: 2026-10-19T21:40:00+05:00
+updatedDate: 2026-10-29
 category: "Nature"
 image: "/images/volcano-that-burns-bright-blue.webp"
 imageAlt: "Electric blue flames burning in the dark crater of Kawah Ijen volcano in Indonesia, beside its turquoise acid lake."
@@ -75,6 +76,14 @@ The tourists walk down the mountain, sleepy and thrilled, already looking at the
 ## You may also like
 
 - [Why Sky Blue Sunset Orange](https://talhablog.com/blog/why-sky-blue-sunset-orange/)
+
+## My Take: Kawah Ijen Fire Hides the Miners' Real Cost
+
+The post follows the night shift at Kawah Ijen in East Java, Indonesia, beginning at two in the morning at Paltuding base camp. Miners climb about three kilometres up a steep path to a crater rim at 2,386 metres, then descend inside the volcano toward a turquoise lake, through sulfur gas that catches the throat and waters the eyes.  Miners guide sulfur gas into pipes, where it cools into molten sulfur and hardens into yellow slabs, nicknamed devil's gold, attack them with iron rods, and carry loads of 70 to 90 kilograms in two baskets on a pole over one shoulder, up the crater wall and three kilometres down to the weighing station, two or three trips in a shift. For this work many earn roughly 10 to 15 United States dollars a day.
+
+My judgement is that the blue fire is only half of the story, as the post itself says, and the other half is a bent back, a scarred shoulder, and a man who keeps walking because his family is waiting at the bottom of the mountain. Tourists come in growing numbers, sometimes more than a thousand visitors in a single day, rent gas masks, photograph the flames and the miners, and leave before breakfast. The miners stay, with very few owning a proper gas mask, most working with a wet rag that does almost nothing against sulfur dioxide gas, eyes streaming, skin burning and breaking, coughing that never fully stops, baskets digging into the same shoulder day after day, leaving deep scars and slowly crushing a man's back, some having done this labour for more than 25 years. The person who gains, in my view, is the visitor who leaves with a photograph and a story. 
+
+What the reader should take differently is the price behind a beautiful photograph. Standing on the path at night, watching a miner pass with a load heavier than his own body, changes the way the famous pictures should be seen. The fire fades at dawn, flame by flame, until the crater looks ordinary again, just rocks, smoke, and a shining turquoise lake, yet the fire still burns down there, and tonight at two o'clock the line of little lights will climb again. The volcano will light its blue fire for the men who work inside it, and the reader who remembers the shoulder under the pole, rather than only the blue rivers, will have understood the fuller story. That, in my view, is the point of telling the miners' half alongside the fire's half, and it should stay with anyone who looks at a photograph of Kawah Ijen and calls it only beautiful. The fire is free to watch; the labour was never free.
 
 ## Frequently Asked Questions
 

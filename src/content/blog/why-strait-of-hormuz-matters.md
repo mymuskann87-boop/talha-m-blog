@@ -2,6 +2,7 @@
 title: "Why Strait Of Hormuz Matters"
 description: "GFS Pride sank in the Strait of Hormuz after an unknown projectile hit the Singapore-registered container ship and fire broke out. A second ship was hit."
 pubDate: 2026-10-28T16:45:00+05:00
+updatedDate: 2026-10-29
 category: "Conflict"
 image: "/images/why-strait-of-hormuz-matters.webp"
 imageAlt: "A narrow sea strait between rocky shores with oil tankers and container ships passing through at dusk"
@@ -80,6 +81,16 @@ That is why every incident there becomes world news, and why governments, energy
 
 - [Container Ship Sinks Hormuz Strait](https://talhablog.com/blog/container-ship-sinks-strait-of-hormuz-gfs-pride/)
 - [Drones Hit Tankers Near Romania](https://talhablog.com/blog/drones-hit-tankers-near-romania/)
+
+## My Take: The Strait Of Hormuz Turns A Local Incident Global
+
+The Strait of Hormuz connects the Persian Gulf to the Gulf of Oman and the Indian Ocean, and it is the main way out to sea for oil producers around the Gulf. At its narrowest, it is just 21 nautical miles wide, about 38 kilometres, which is narrow for the size of the ships that use it. Under normal circumstances, about 21 million barrels of oil pass through the strait each day, roughly one-fifth of the world's daily oil consumption, and nearly 80 percent of the energy flows through the strait go to Asia.
+
+In my view, the chokepoint idea is the judgement that turns a map into an economic fact. A fifth of the world's oil, passing through 38 kilometres of water, means the world has built a global habit on a local bottleneck, and habits of that kind are fragile in a specific way. They do not fail slowly, with time to adjust. They fail suddenly, when one incident, one threat, or one closure forces every ship, insurer, and market to react at once. Ships cannot simply go elsewhere, because there is no good alternative route. Some oil can be moved by pipeline, for example through Saudi Arabia's East-West pipeline, but that carries only a portion of the volume normally moved by sea, and it cannot replace the strait. Until then, the strait will keep its power to turn a local event into a global price.
+
+The recent warning in the post, in my view, should be read with the same care the post itself uses. In October 2026, two Singapore-registered container vessels were struck by unknown projectiles while passing through the strait. One of them, GFS Pride, caught fire and sank, and the other, GFS Giselle, was also hit, according to the post's account. The projectiles were unknown, and the post does not attribute them, and I will not attribute them either, because the facts as given do not name who fired them or why. What is known is the effect: when attacks or threats reach the strait, shipping companies grow cautious, some ships wait, some take longer routes, insurance costs rise, and oil markets react to fear before any real shortage appears, so prices often rise first and questions follow later. 
+
+What should the reader do differently? First, remember the three facts the post gives for ordinary readers: about a fifth of the world's oil passes through a strip only 38 kilometres wide, most of that energy goes to Asia, and there is no good alternative route. Second, when news from the strait moves oil prices, ask whether supply has actually stopped, or whether fear, insurance, and caution have moved the price before supply changed. Third, do not accept a single incident as proof of a wider plan. In my view, the unknown projectiles in October 2026 are a warning, not a verdict, and the warning is about dependence, not only about danger. 
 
 ## Frequently Asked Questions
 

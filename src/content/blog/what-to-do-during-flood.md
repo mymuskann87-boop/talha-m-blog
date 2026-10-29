@@ -2,6 +2,7 @@
 title: "What To Do During Flood"
 description: "During a flood, get to higher ground, never walk or drive through flood water, and obey evacuation orders. The steps that keep you safe."
 pubDate: 2026-10-28T18:20:00+05:00
+updatedDate: 2026-10-29
 category: "Disasters"
 image: "/images/what-to-do-during-flood.webp"
 imageAlt: "A flooded street with murky water reaching car doors, and people walking to higher ground in the distance"
@@ -76,6 +77,16 @@ If you live near a river, a coast, or low ground, plan as if a flood will come, 
 
 - [What Causes Floods Explained Simply](https://talhablog.com/blog/what-causes-floods-explained-simply/)
 - [Nepal Flood Sweeps Away Houses](https://talhablog.com/blog/nepal-flash-flood-budhi-gandaki-gorkha-houses-swept-away/)
+
+## My Take: Flood Water Looks Shallow And Acts Like A Trap
+
+The first rule in the post is higher ground, and the warning is urgent: water levels and the rate of flow can quickly change, so evacuate immediately when water starts to rise, and do not wait until it is too late. The most important safety rule is the simplest: avoid flood waters at all costs. It only takes 6 inches of moving water to knock a person off their feet. The rule for drivers has a name worth remembering: Turn Around, Don't Drown.
+
+In my view, the 6-inch fact is the judgement that should change behaviour, because it breaks the picture most people carry in their heads. Flood water does not look dangerous at ankle depth. It looks like a puddle, a shallow stream, or a road with a little water on it. The post's number says otherwise, and the driver's rule says the same in a different form: water may be deeper than it appears, and it can hide hazards that destroy a car in seconds. Do not drive into flooded roadways, and do not drive around a barricade. I think the common mistake is to judge water by depth alone, when the post asks readers to judge it by depth, speed, and what it hides. The safe choice is to turn around, even when the water looks passable and other drivers are going through.
+
+The trapped and electrical guidance, in my view, completes the same lesson: flood water is not only water, but water carrying other dangers. If trapped by moving water, move to the highest possible point, call emergency services if possible, climb to a roof, a high floor, or a sturdy raised structure, and stay there. Water and electricity are a deadly combination: do not go into a basement or any room if water covers electrical outlets or cords are submerged, and if you see sparks or hear buzzing, crackling, or popping, get out. The danger, in other words, does not end when the water looks calm.
+
+What should the reader do differently? First, prepare before the rain: know whether the home is in a flood-prone area, know the evacuation route and nearest high ground, keep an emergency kit with water, food, medicines, torches, batteries, documents, and chargers, and sign up for local alerts. Second, when water rises, act on official orders at once, and do not stay to protect belongings, because belongings can be replaced and a person caught in moving water may not be saved in time. Third, return home only when advised it is safe, and treat the return as a second danger, with a mask, rubber boots, and care around mud and damaged structures. In my view, the reader who respects shallow-looking water as a trap will evacuate early, turn around on a flooded road, and wait for the official word to return. The reader who trusts their eyes over the guidance will learn, too late, that flood water hides its strength until it is already moving.
 
 ## Frequently Asked Questions
 

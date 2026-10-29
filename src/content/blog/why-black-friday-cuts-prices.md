@@ -2,6 +2,7 @@
 title: "Why Black Friday Cuts Prices"
 description: "Why is it called Black Friday, and why do shops cut prices? The Friday after Thanksgiving, 27 November 2026, the name mystery, and how the sales work."
 pubDate: 2026-10-28T16:44:00+05:00
+updatedDate: 2026-10-29
 category: "Business"
 image: "/images/why-black-friday-cuts-prices.webp"
 imageAlt: "An illustration of a busy shop front on a sale day, with large price-cut signs in the window and crowds of shoppers with bags."
@@ -82,6 +83,16 @@ Finally, remember that Black Friday is a shopping event, not an emergency. The s
 ## You may also like
 
 - [Why Prices Always End 99](https://talhablog.com/blog/why-prices-always-end-99/)
+
+## My Take: Black Friday Rewards A List, Not An Impulse
+
+Black Friday always takes place on the Friday after Thanksgiving. In 2026, it falls on Friday, 27 November, the day after Thanksgiving on Thursday, 26 November. The event spread from America outward, carrying its calendar with it, even to countries that do not celebrate Thanksgiving. At first glance, price cuts look like madness, because a shop's job is to sell things for more than they cost. The post sets out why retailers cut prices anyway: to clear stock, to win customers before rivals, and to gain attention. A dramatic price cut earns news coverage, social media posts, and word of mouth that no ordinary advert can buy, and even shoppers who buy nothing learn which shops are competing hardest.
+
+In my view, the attention reason is the most important, and the most dangerous for shoppers. The event has mainly moved online, with Amazon, Walmart, Best Buy, and Target competing for the best deals, and that shift changed who can take part and how the rush is managed. The sales now last a whole month, which solves three problems for retailers: it spreads the rush, eases pressure on websites, warehouses, and delivery networks, and keeps attention alive for weeks. I think that month-long form should warn shoppers most. A single day of deals can be planned for and walked away from. 
+
+The kinds of deals, in my view, decide whether a saving is real, and shoppers should learn them before the sales begin. The simplest is a straight discount: a product that cost 500 last week costs 400 today, and the saving is real and easy to compare. The fourth kind, in the post's order, is the subscription or service deal: a streaming service, software plan, or membership at a reduced price for a limited period. Those deals look small, a few pounds or dollars a month, but they commit the buyer to months of payments. I think subscription deals are the most underrated trap in the whole event, because the monthly cost feels tiny, the commitment feels temporary, and the total, over months, is rarely added up at the moment of buying.
+
+What should the reader do differently? First, make a list before the sales begin, as the post advises: write down what is actually needed, what would be paid at full price, and the maximum to pay in the sale. Second, compare the sale price with that list, not with excitement, a headline, or a countdown. Third, treat bundles and subscriptions with extra care: ask whether the extras are wanted, and add up the subscription over its full term before accepting a small monthly price. In my view, the reader with a list will use Black Friday as a tool, buying what was already wanted at a lower price. The reader without a list will be used by it, buying attention, bundles, and subscriptions that were never needed. The difference is not willpower. It is preparation, done before the first deal appears.
 
 ## Frequently Asked Questions
 

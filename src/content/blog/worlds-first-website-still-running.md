@@ -2,6 +2,7 @@
 title: "World's First Website Still Running"
 description: "The first website is still running at info.cern.ch. How Tim Berners-Lee's plain 1991 page vanished, was restored by CERN, and can still be opened today."
 pubDate: 2026-10-18T22:10:00+05:00
+updatedDate: 2026-10-29
 category: "Technology"
 image: "/images/worlds-first-website-still-running.webp"
 imageAlt: "An original illustration of a chunky 1990s computer in a dark room, its screen glowing with a simple early web page and a giant pointer arrow."
@@ -62,6 +63,16 @@ And the best part? The beginning is still there. The first website is still runn
 ## You may also like
 
 - [WannaCry Virus Froze World's Hospitals](https://talhablog.com/blog/wannacry-virus-froze-worlds-hospitals/)
+
+## My Take: The First Website Survived Because CERN Gave It Away
+
+The story begins at CERN, the European physics laboratory near Geneva, where thousands of scientists from universities and institutes all over the world worked together, and information was scattered everywhere. In 1991, the world's first website went live for people beyond CERN, at the address info.cern.ch. The website did not live in a giant data centre. It lived on Tim Berners-Lee's own desk, on his NeXT computer, one single machine that was the world's first web server, with a handwritten label in red ink warning people not to switch it off, because everything depended on that one computer.
+
+In my view, the gift is the decision that made the rest of the story possible, and it should be judged as a choice, not as an accident. Other information systems of the time were built around control and charging: if you wanted to publish or read, somebody expected to be paid. The web could easily have gone the same way, owned, licensed, and charged for. I think that gift is the reason a single page on a desk computer could become the web the whole world uses. A free web grew because anyone could join it, build on it, and link to it, without asking permission or paying a toll. The first website's plainness is part of the same point. It was not a product to be sold. It was an invitation to build.
+
+The page that vanished, and came back, in my view, is a warning about how easily a beginning can be lost, even when the thing it began becomes enormous. As the web grew into billions of pages, the files at info.cern.ch were changed and updated, and the original first website, exactly as it had been, was no longer there at its own address. The birthplace of the web had quietly disappeared, while the web itself was everywhere. I think that restoration matters more than nostalgia. 
+
+What should the reader do differently? First, visit the first website, in the post's spirit, and notice how little it needed: no pictures, no design, no shop, only words, links, and an idea that anyone could use. Second, judge new technologies by the same test CERN passed: who owns it, who can join it, and who must pay to use it? A technology that can only grow behind a gate will grow differently, and more narrowly, than one given away. Third, keep beginnings. In my view, the lesson of the vanished page is practical for every reader with a website, a document, or a project: save the first version, keep it readable, and do not let updates erase the record of where it started. The web survived because it was given away, and its first page survived because someone, in the end, decided to bring it back. Both decisions, the gift and the restoration, were choices, and the web we use today is the result of those choices, not only of the technology.
 
 ## Frequently Asked Questions
 

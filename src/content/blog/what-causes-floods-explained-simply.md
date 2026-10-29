@@ -2,6 +2,7 @@
 title: "What Causes Floods Explained Simply"
 description: "Floods are caused by too much water in the wrong place: heavy rain, overflowing rivers, storm surge, and land that cannot absorb it."
 pubDate: 2026-10-28T18:25:00+05:00
+updatedDate: 2026-10-29
 category: "Disasters"
 image: "/images/what-causes-floods-explained-simply.webp"
 imageAlt: "A river overflowing its banks across fields and a road under grey rainy skies"
@@ -82,6 +83,16 @@ For readers, the lesson is practical. If you live near a river, a coast, or low 
 
 - [What To Do During Flood](https://talhablog.com/blog/what-to-do-during-flood/)
 - [Istanbul Floods Kill Three People](https://talhablog.com/blog/istanbul-floods-kill-three-people/)
+
+## My Take: Flood Safety Starts With The Map You Distrust
+
+The post gives a plain definition, then shows how many different events fit it. A flood is water over normally dry land, caused by rivers overflowing, heavy or prolonged rain, storm surges, or sudden snowmelt. It covers four main types: river flooding, when a river leaves its banks; coastal flooding, when storm winds push sea water onto land, or high tides wash over low areas; flash floods, quick-rising floods most often caused by heavy rain over six hours or less, which cause the greatest number of flood deaths; and urban flooding, when rainfall overwhelms drainage where roads, pavements, car parks, and roofs cannot absorb water. 
+
+In my view, the most dangerous idea here is that a label on a map is a promise. The Federal Emergency Management Agency produces flood maps, and high-risk areas have a 1 percent, or 1 in 100, chance of flooding in any given year. The term 100-year flood refers to that chance, not to a flood expected once every 100 years. That chance means about a 1 in 5 chance that a home will flood over a 30-year mortgage. Properties in moderate- to low-risk areas still account for more than 20 percent of flood insurance claims. Nearly 60 percent of the maps are out of date, some by decades, and they typically do not account for sea level rise or climate change. My judgement is blunt: a reader who hears low risk and thinks safe has misunderstood the post completely.
+
+The second judgement concerns where blame should fall. Floods are natural events, but their damage is shaped by people. Increased urbanisation adds impermeable surfaces that alter natural drainage. Homes are built on floodplains, the flat lands beside rivers that flood naturally. Levees and dams can protect a community for a time, but make flooding worse when overtopped or failed. Hurricane Ida in 2021 makes the point sharply: the deluge turned New York City streets and subway stations into rivers, and eleven people in basement-level apartments drowned as flood water overwhelmed below-ground spaces. In my view, that is not only a story about rain. It is a story about a city whose hard surfaces and crowded basements turned rain into a trap.
+
+What should the reader do differently? First, find out your flood risk, and do not rely only on an old map, as the post advises. Treat the map as a guide, not a promise, and ask whether it reflects today's rain and sea levels. Second, remember speed. Flash floods rise in minutes, city streets can flood without a river nearby, and the plan must be made before heavy rain is forecast, not during it. Third, judge preparation by fairness as well as engineering. The post notes that lower-income people, people experiencing homelessness, older people, and communities of colour suffer the greatest harm, because they are least likely to have flood insurance, transport, cash, or the ability to relocate. A plan that only protects people who can afford to move, in my view, is incomplete.
 
 ## Frequently Asked Questions
 

@@ -2,6 +2,7 @@
 title: "Study Free Without Costly Books"
 description: "How to study free without costly books: libraries, legal free editions, swaps, and second-hand books that protect your budget."
 pubDate: 2026-10-26T10:10:00+05:00
+updatedDate: 2026-10-29
 image: "/images/study-free-without-costly-books.webp"
 imageAlt: "A glowing open book with a graduation cap on library shelves"
 category: "Saving Money"
@@ -60,6 +61,14 @@ A final caution: never pay for a pirated copy or a "cheap" download from an unkn
 
 - [Save Money On Exam Preparation](https://talhablog.com/blog/save-money-on-exam-preparation/)
 - [Cut Kids School Costs Smartly](https://talhablog.com/blog/cut-kids-school-costs-smartly/)
+
+## My Take: Free Studying Works When Planning Comes First
+
+The post argues that studying well does not require owning every book on a list, since much of what a student needs is available free or cheaply through libraries, legal free editions, sharing, and second-hand copies. Classic books whose copyright has expired and open textbooks written by teachers and universities are legally free from established digital libraries, while shady sites offering new textbooks free are usually pirated and can carry viruses, missing pages, or wrong content. Sharing works on a rota among classmates, swapping at the end of term passes books to junior students, and second-hand copies cost a fraction of the new price, with a previous owner's notes sometimes making a book better. Planning the list before term starts, marking books essential, useful, or optional, and working through free options first, removes the panic of buying whatever the nearest shop has at whatever price it asks.
+
+My judgement is that timing beats thrift, and the post's advice to visit early is more valuable than any single free source. At the start of term, the most wanted books are still on the shelves, while students who wait until the week before exams find empty shelves and long waiting lists. A free book borrowed early beats an expensive book bought late. Compare the two ways of handling a reading list. The panicked buyer, list in hand the week before exams, buys whatever the nearest shop has and learns nothing from the price. The planner, list in hand when it arrives, marks each book, checks the library catalogue online first, notes the shelf number, and works through free options before spending anything. The person who gains is the student who treats the library as a first stop rather than a last resort, gaining quiet study space, free internet in many places, and help from staff who know how to find things. 
+
+What should change is a small routine at the start of every term. First, go through the reading list with a pen, mark each book essential, useful, or optional, and check the library catalogue from home before visiting, so library time is spent reading rather than wandering between shelves. Second, agree a fair sharing rota, who has the book which week and when it passes on, return books on time, and keep a note of what was borrowed, from whom, and when it is due back, since a lost borrowed book costs more than a bought one in trust as well as money. Third, sell or swap finished books so the money funds the next term's list, and budget honestly for materials that cannot be borrowed, such as lab manuals, workbooks, or licensed software. Skip the idea that free studying means no costs at all. It means cutting the costs that can be cut, not pretending all costs can disappear, and the saving comes from planning, sharing, and returning, repeated term after term.
 
 ## Frequently Asked Questions
 

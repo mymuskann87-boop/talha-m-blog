@@ -2,6 +2,7 @@
 title: "Woman Who Never Feels Pain"
 description: "Jo Cameron of Scotland has lived almost entirely without pain. The rare genes behind her gift, the dangers they bring, and the hope for medicine."
 pubDate: 2026-10-18T22:00:00+05:00
+updatedDate: 2026-10-29
 category: "Health"
 image: "/images/woman-who-never-feels-pain.webp"
 imageAlt: "An original illustration of a smiling elderly woman calmly holding a spiky green cactus in her bare hands while two doctors look on in shock."
@@ -74,6 +75,16 @@ And perhaps that is already a great deal. A stretch of DNA the world had labelle
 ## You may also like
 
 - [Woman Who Feels No Fear](https://talhablog.com/blog/woman-who-feels-no-fear/)
+
+## My Take: Pain Is A Warning, And Silence Is Dangerous
+
+ For most of her life she believed she was simply tough, and privately assumed everyone else was making rather a fuss. In 2013, aged 65, Cameron had a hip replacement. Others had noticed she walked in a lopsided way, but she herself reported no pain whatsoever. The surgery went well, and the doctor who noticed the mismatch, between severe damage and no pain, refused to shrug it off. That refusal, in the post's account, started the scientific search that explained her life. 
+
+In my view, the gene explanation is best understood through the post's simple picture: the body runs a natural calming system, called the endocannabinoid system, which helps govern pain, mood, and memory. One of its messenger chemicals is anandamide, which quietens pain, but anandamide does not linger, because an enzyme called FAAH breaks it down. Cameron carries two small genetic changes, including a change called FAAH-OUT, which turns down the FAAH gene, so anandamide lingers longer, and pain is quietened more strongly. I think that picture matters because it shows pain is not a single switch. It is a balance between a calming chemical and the enzyme that clears it, and a small change in that balance can silence a warning that most people cannot ignore.
+
+The danger, in my view, is the part of the story that speaks most directly to the rest of us, and it should not be lost in wonder at the gift. Cameron's hip had worn itself into a severe state in complete silence. No warning ever arrived. The problem was addressed only when damage was far advanced and her walk had become visibly lopsided. The same silence that let her give birth with little pain, and break bones without grasping their seriousness, also let a joint grind itself away without complaint. I think readers should treat that silence as the real cost of the gift. Pain is unpleasant, and nobody wishes for more of it, but pain is also information, and information that arrives late is often information that arrives too late to prevent the worst damage.
+
+What should medicine hope to borrow from her, and what should the reader take from it? In my view, that goal is the right one: borrow the calming, not the silence. A treatment that quiets pain for a time, while leaving the warning system able to return, is very different from a life in which the warning never sounds. The reader, in the meantime, should value pain differently. Pain is not only suffering. It is a bell, and a bell that rings early, even when it is unwelcome, gives a person time to act. Cameron's story, in my view, is a gift to medicine precisely because it shows what happens when the bell stays silent: a life that looks tough, and a body that pays, quietly, for the silence.
 
 ## Frequently Asked Questions
 

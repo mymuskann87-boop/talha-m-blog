@@ -2,6 +2,7 @@
 title: "Tree That Bleeds Red Sap"
 description: "Fly to a remote island, stand under an umbrella-shaped tree, and watch red sap bead from its cut bark. It looks like blood. It is not."
 pubDate: 2026-10-19T19:40:00+05:00
+updatedDate: 2026-10-29
 category: "Nature"
 image: "/images/tree-that-bleeds-red-sap.webp"
 imageAlt: "Umbrella-shaped dragon blood trees with mushroom-like canopies growing on the rocky highlands of Socotra island."
@@ -83,6 +84,14 @@ You came to see a tree that bleeds. You leave thinking about a tree that waits.
 ## You may also like
 
 - [Tree Older Than Egyptian Pyramids](https://talhablog.com/blog/tree-older-than-egyptian-pyramids/)
+
+## My Take: The Dragon Blood Tree Carries Its Own Roof
+
+The post visits Socotra, an island belonging to Yemen, roughly 380 kilometres off the Yemeni coast, between Arabia and the Horn of Africa, called the "Galápagos of the Indian Ocean." There the dragon blood tree, Dracaena cinnabari, grows in umbrella shapes on rocky highlands. When bark is cut, deep red resin beads out, shining like fresh blood, yet it is not blood at all. It is a sticky, protective juice sealing the wound, guarding against drying out, and hardening in the air, like the tree's own bandage. The wide crown catches fog and mist, channels water down branches and trunk into soil at the tree's feet, shades its own roots, and shelters smaller plants. 
+
+My judgement is that the umbrella is the tree's real genius, and the red resin, however striking, is only its most photographed feature. Stand under one at midday and the shade is deep and cool while ground a few steps away bakes, and that shape works like a clever machine in dry, rocky land where rain is scarce and water is life. A tree that carries its own roof, catches its own rain, and shares shade with everything growing under it has solved the island's hardest problem without any engineer handing it a plan. Compare the two threats the post names. Goats eat seedlings before they can grow, since trees grow only 2 to 3 centimetres a year and spend many helpless years within a goat's reach, leaving forests described as over-mature, old trees with almost no youngsters behind them. Storms are the second threat, with two powerful cyclones in 2015 and another in 2018 tearing out thousands of trees, some centuries old. The person who gains, in my view, is the seedling inside a fenced nursery, where island families grow young trees safe from goats, slow, patient, hopeful work matching a tree that measures life in centuries. 
+
+What the reader should take differently is the timescale of rescue. Researchers estimate the average tree is around 300 years old, some more than 500 years, and hardly any young trees survive outside steep cliffs and fenced nurseries. Conservation here cannot be measured in seasons. It must be measured in the tree's own pace, with nurseries, fences, and patience, and with respect for a species listed as Vulnerable on the IUCN Red List. Skip the idea that seeing the red sap is the whole visit. You came to see a tree that bleeds, as the post says, and you leave thinking about a tree that waits. If the young trees in those little fenced nurseries are given their chance, their grandchildren may stand on the high plateau watching sunsets five hundred years from now. That, in my view, is the proper measure of a tree that has watched storms, droughts, and empires roll past, and it asks the reader to think in centuries rather than in holidays.
 
 ## Frequently Asked Questions
 

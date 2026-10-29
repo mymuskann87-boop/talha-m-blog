@@ -2,6 +2,7 @@
 title: "Why Mars Looks So Red"
 description: "Why is Mars red? Rust, ancient water, and planet-wide dust: how iron minerals in Martian soil turned the Red Planet red over billions of years."
 pubDate: 2026-10-28T16:44:00+05:00
+updatedDate: 2026-10-29
 category: "Space"
 image: "/images/why-mars-looks-so-red.webp"
 imageAlt: "An illustration of Mars as a rusty red planet against black space, with a bright polar ice cap and thin clouds around its curved edge."
@@ -80,6 +81,16 @@ The research also shows how science changes. A tidy story, dry rust on a dry pla
 ## You may also like
 
 - [Japan Launches Mars Moon Mission](https://talhablog.com/blog/japan-launches-mars-moon-mission/)
+
+## My Take: Mars Redness Is Evidence Of A Wetter Past
+
+Mars is red because it is rusty, like an old nail left outside in the rain. Rust is what happens when iron meets water and oxygen: the iron changes chemically, forming iron oxide. Mars has no oceans and no forests to break up its colour, so rust covers the whole planet. For many years, scientists told a tidy story: Mars today has almost no liquid water, so its rust was thought to come from dry iron oxides, such as hematite, rusting slowly in dry conditions.
+
+In my view, the new research published in February 2025 is the part that should change the reader's picture most. The research showed that the rusty dust has a much wetter history than previously thought. The dust contains ferrihydrite, a water-bearing iron oxide that forms quickly in cool water, and that finding changes the story from dry rust to wet rust. The old story was not wrong about the ingredients: iron oxide is the colouring agent, and hematite is present. But the wetter history means early Mars must have had liquid water at or near its surface, long enough and cool enough for water-bearing rust to form in large amounts. I think that shift matters more than the colour itself. Colour is the clue, and water is the conclusion. A planet that rusted in water was once a planet with a climate very different from the dry world we see today, and the redness is evidence of a lost climate, not only a pretty surface.
+
+The dust also explains why Mars looks red everywhere, and that spread, in my view, is the second half of the story. Mars is a windy planet, with a thin atmosphere that can still lift enormous quantities of fine dust. Over billions of years, rusty material has been eroded into dust and spread all around the planet by wind.  I think the comparison with Earth is the fairest way to judge Mars. The same iron, the same rust, and very different worlds, because water, life, and wind spread and hide the colour in different ways.
+
+What should the reader understand differently? First, do not treat Mars red as a fixed label, like paint. Treat it as a record: iron, water, and time, written across a whole planet. Second, when new research revises an old story, notice what it keeps and what it changes. Here it kept iron oxide and changed the water, from dry to wet, and that single change rewrites the early climate. Third, look at dust as the messenger. In my view, the wind did the work of painting Mars, carrying rust from where it formed to everywhere else, over billions of years. The red planet we see is not one red rock. It is a thin, wind-spread coat of rust, and beneath it, the rocks tell a wetter, older story that the dust, for once, helps us to read.
 
 ## Frequently Asked Questions
 

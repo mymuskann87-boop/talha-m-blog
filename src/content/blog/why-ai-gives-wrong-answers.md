@@ -2,6 +2,7 @@
 title: "Why AI Gives Wrong Answers"
 description: "AI does not know what is true. It predicts likely words, which is why it hallucinates, invents sources, and sounds confident when wrong. How to check it."
 pubDate: 2026-10-28T16:45:00+05:00
+updatedDate: 2026-10-29
 category: "AI"
 image: "/images/why-ai-gives-wrong-answers.webp"
 imageAlt: "A chat answer on a screen with a red warning mark beside a confident but incorrect statement, and a magnifying glass checking the facts."
@@ -57,6 +58,16 @@ The checklist is not fast, and that is the point. Checking takes time, and the t
 AI is trustworthy for drafting, brainstorming, explaining, translating, and summarising text you already have. It is useful for generating ideas, for rewording, for outlining, and for helping you think through a problem. It is not trustworthy, on its own, for facts that matter: names, dates, statistics, citations, medical advice, legal advice, or financial decisions. For those, it is a starting point, not an answer.
 
 The rule is simple. If the answer will be used by other people, or will affect a decision that matters, check it. If the answer is for your own thinking, and a mistake costs nothing, a quick answer is fine. The difference between those two situations is the difference between a tool and a trap. AI is a powerful tool. Used with checking, it makes work faster and thinking clearer. Used without checking, it makes mistakes faster, and with more confidence than any human would dare.
+
+## My Take: AI Sounds Confident Because It Predicts, Not Knows
+
+The core reason AI gives wrong answers is that it does not know what is true. A large language model predicts the next token, the next chunk of text, based on patterns in the enormous amount of text it was trained on. It has no internal sense of what is true and what is false. The word used for its wrong answers is hallucination, which IBM defines as an output that is plausible but factually wrong, irrelevant, or fabricated. 
+
+In my view, the famous case in the post should be the warning every reader remembers, because it shows what happens when confidence is mistaken for knowledge. In 2023, an American lawyer asked ChatGPT for cases supporting his argument, and ChatGPT returned a list of cases with names, courts, and summaries. The lawyer submitted those citations in court, and they turned out to be fake. The model had predicted plausible case names and summaries, not retrieved real ones, and the lawyer had trusted the prediction as if it were research. I think that case matters more than any abstract definition, because it shows the cost in a real place, with real consequences. 
+
+Hallucinations can be reduced, but not fully eliminated, according to IBM, and the methods that help are practical. Quality data, training and fine-tuning on accurate, well-checked text, reduces the errors the model learns. Retrieval-augmented generation, known as RAG, grounds the model in retrieved sources. In my view, the honest conclusion is the most useful one: reduction is possible, elimination is not. A reader who expects a future update to make AI always right will keep trusting it in the wrong places. A reader who accepts that wrong answers are built into prediction will build a check into every use that matters. The post's eight-point checklist, from the Everyday AI Guide, is built for that purpose: check facts against a reliable source, especially names, dates, and numbers, click links and check that sources exist, and apply the other checks before trusting an answer that matters.
+
+What should the reader do differently? First, use AI for what the post says it is trustworthy for: drafting, brainstorming, explaining, translating, and summarising text you already have. It is useful for ideas, rewording, outlining, and thinking through a problem. Second, do not trust it, on its own, for facts that matter: names, dates, numbers, citations, and claims that will be repeated to others. Check those against a reliable source, and treat a confident tone as no evidence at all. Third, when an answer matters, run the checklist, and if the sources cannot be found, treat the answer as unfinished. In my view, the reader who understands prediction will enjoy AI's speed without paying for its confidence. The reader who mistakes prediction for knowledge will keep finding fake citations, in court or in life, and will learn the difference only after the cost has already been paid.
 
 ## Frequently Asked Questions
 

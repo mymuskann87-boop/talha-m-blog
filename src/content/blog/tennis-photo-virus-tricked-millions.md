@@ -2,6 +2,7 @@
 title: "Tennis Photo Virus Tricked Millions"
 description: "The Anna Kournikova virus promised a photo of the tennis star, carried no photo at all, and still circled the planet in hours."
 pubDate: 2026-10-23T19:10:00+05:00
+updatedDate: 2026-10-29
 image: "/images/tennis-photo-virus-tricked-millions.webp"
 imageAlt: "An illustration of a glowing photo frame email attachment with a tennis racket and ball springing open like a trap, computer code bursting out, with computer cursors eagerly reaching toward it."
 category: "Technology"
@@ -61,6 +62,14 @@ The defence against this twenty-year-old worm is the same defence that works aga
 ## You may also like
 
 - [Ryuk Demanded Millions From Companies](https://talhablog.com/blog/ryuk-demanded-millions-from-companies/)
+
+## My Take: Curiosity, Not Code, Spread the Tennis Photo Worm
+
+The post describes the Anna Kournikova virus, which appeared on 11 February 2001, at a moment when Kournikova was one of the most searched-for names on the early internet. An email promised a photograph of the tennis star, but no picture ever opened and none ever existed. The attachment pretended to be an image file, while inside it was a small computer script written in Visual Basic. When a person opened it, the script woke up Microsoft Outlook, read the victim's address book, and sent a fresh copy of itself to every address it found. The messages arrived from genuine colleagues, relatives, and friends, so usual suspicion toward strangers never woke up, and within hours the worm had circled the planet and begun clogging email servers of companies and government offices.  The author was Jan de Wit, a 20-year-old Dutch computer student, who assembled the worm with a free downloadable virus-creation toolkit, turned himself in a few days later, and in September 2001 received 150 hours of community service, with no prison time.
+
+My judgement is that the real virus in this story was curiosity itself, as the post puts it, and the little script only built curiosity a road to travel on. The worm had no engine of its own and no list of targets. It could only move when a real person helped it, by opening the attachment, yet that weakness became its greatest strength, because the bait was almost impossible for many people to refuse. Compare the skill with the result. De Wit did not write the program line by line like a master craftsman. He assembled it with a toolkit, the way a child builds a model from a box kit, yet a weapon that shook the world's email had been built with very little skill. The person who gains is the reader who lets celebrity bait cool a click rather than heat it, treating excitement itself as a warning sign. The person who loses is the reader who trusts a message because it came from a friend, forgetting that the worm's messages came from real friends whose address books had been borrowed.
+
+What should change is the pause before a promised picture. First, treat every promised picture as a claim rather than a fact, and be suspicious of any picture that arrives as an attachment instead of showing itself inside the message, since an attachment calling itself a photo can be a script wearing a photo's coat. Second, check with the sender somewhere else, through a different app or a phone call, before opening an unexpected file, even from someone trusted, since ten seconds of doubt defeats the whole trick.  The photograph changes, sometimes a celebrity picture, sometimes a screenshot, sometimes a delivery photo, but the mechanism stays identical: an attachment or link pretending to be a picture and actually a trap waiting for a click. The door, in my view, is the click, and refusing the invitation is the entire defence.
 
 ## Frequently Asked Questions
 

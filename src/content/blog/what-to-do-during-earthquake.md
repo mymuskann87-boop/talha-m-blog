@@ -2,6 +2,7 @@
 title: "What To Do During Earthquake"
 description: "During an earthquake, drop, cover and hold on. What to do indoors, outdoors, in a car or near the shore, and what never to do."
 pubDate: 2026-10-28T18:10:00+05:00
+updatedDate: 2026-10-29
 category: "Disasters"
 image: "/images/what-to-do-during-earthquake.webp"
 imageAlt: "A person sheltering under a sturdy desk during an earthquake, covering head and neck with arms"
@@ -78,6 +79,16 @@ Check yourself and others for injuries. Check for gas leaks, damaged wiring, and
 
 - [Massive 7.6 Earthquake Hits Panama](https://talhablog.com/blog/panama-earthquake-7-6-what-happened/)
 - [What To Do During Flood](https://talhablog.com/blog/what-to-do-during-flood/)
+
+## My Take: Drop, Cover And Hold On Beats Running Outside
+
+The post gives three words that save lives, stated plainly by the CDC: drop, cover, and hold on. Drop down onto your hands and knees before the earthquake knocks you down. Cover your head and neck, and hold on to shelter until the shaking stops. If you are inside, stay inside. Many people were taught to stand in a doorway, but the CDC says plainly: do not stand in a doorway. 
+
+In my view, the doorway myth matters because it shows how an old lesson can become the most dangerous lesson in the room. A doorway feels like a strong frame, and it feels like a way out, so people trust it without checking whether the danger is really the frame collapsing. The post's danger is different: things falling, glass breaking, and furniture moving. I think the same judgement applies to running outside. Outside, the greatest danger is from falling debris, wires, and building parts, and running during shaking increases the chance of falling. The safest choice, in the post's account, is usually the least dramatic one: stay where you are, get low, get under something sturdy, and hold on. 
+
+Different places call for small adjustments to the same idea, and I think learning those adjustments before shaking starts is the point of the post. In the kitchen, quickly turn off the stove and take cover, because the kitchen is dangerous when things fall. In a high-rise building, stay in the building, move away from windows and outside walls, and do not use lifts, because electricity may go out and sprinklers may come on. If you are outside, move to an open area away from buildings, wires, trees, and poles, get down low, and stay there. Near the shore, if severe shaking lasts 20 seconds or more, evacuate to high ground at once, because a tsunami might follow. Each adjustment keeps the same core: protect the head, stay low, and do not move into a more dangerous place.
+
+What should the reader do differently? First, practise the three words at home, and know where the sturdy table or desk is before an earthquake, not during one. Second, unlearn the doorway and the rush outside, and teach the people around you the same correction, because a family that runs in different directions during shaking is harder to keep safe. Third, remember that danger does not end when shaking stops. Aftershocks can happen minutes, hours, or days later, and can topple weakened buildings and shelves, so stay alert and be ready to drop, cover, and hold on again. In my view, the reader who has already decided what to do, and has already rejected the old myths, will act in the first seconds. The reader who has to decide during shaking will lose those seconds to fear, and fear, in an earthquake, is the danger that preparation removes.
 
 ## Frequently Asked Questions
 

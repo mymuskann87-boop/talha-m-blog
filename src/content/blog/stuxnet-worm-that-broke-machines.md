@@ -2,6 +2,7 @@
 title: "Stuxnet Worm That Broke Machines"
 description: "Stuxnet, the first true cyber weapon, secretly wrecked about 1,000 of Iran's nuclear centrifuges while every screen said all was well."
 pubDate: 2026-10-23T15:00:00+05:00
+updatedDate: 2026-10-29
 image: "/images/stuxnet-worm-that-broke-machines.webp"
 imageAlt: "An illustration of a giant glowing green digital worm wrapping around industrial centrifuge machines inside a dark nuclear plant."
 category: "Technology"
@@ -59,6 +60,14 @@ You will probably never be the target of a state-built cyber weapon. But the tri
 ## You may also like
 
 - [Mirai Broke Internet Using Cameras](https://talhablog.com/blog/mirai-broke-internet-using-cameras/)
+
+## My Take: Stuxnet Lied First and Broke Machines Second
+
+The post describes Stuxnet as the first true cyber weapon, built to physically destroy equipment rather than steal or damage information on a screen. Its target was the Natanz plant in Iran, where centrifuges had to spin at an exact, steady speed, and the control systems were made by Siemens. Stuxnet slipped into the control layer, ordered centrifuges to spin far faster than they were built to spin, then slowed them down and sped them up again until the metal tore itself apart, while playing back calm, healthy readings to operators' screens. About 1,000 centrifuges were destroyed, roughly a fifth of the ones Iran had running at the time. The plant's key computers were not connected to the internet, separated by an air gap, yet Stuxnet travelled mainly on infected USB sticks carried in by people. The New York Times and many experts reported it was widely believed to be built jointly by the United States and Israel, though neither government officially confirmed this.
+
+My judgement is that the lying screens were the real weapon, and readers who focus only on broken machines miss why the sabotage ran so long. A machine that breaks openly gets fixed. A machine that breaks while every instrument says it is fine gets its parts replaced again and again, while engineers never understand why new parts keep dying. The post makes the point plainly: Stuxnet did not just break machines, it broke the plant's ability to know it was under attack, and because operators trusted their instruments, the sabotage ran far longer than any open attack could have. The four zero-days sound like the clever part, yet the small, ordinary door mattered more, since the same doors are open in every home: an unknown USB stick, an unpatched computer, a shared network. The person who gains is the reader who learns that trust in a screen is itself a vulnerability. 
+
+What should change is the treatment of the small doors, in order. First, keep software updated and turn on automatic updates, since once a zero-day flaw becomes known, the update is the lock that fixes the door. Second, treat unknown USB sticks as strangers, never plugging in a stick found, handed out at an event, or not fully trusted, and if a doubtful stick must be opened, use a spare computer with nothing important on it or ask a professional. Third, use security software and leave it on, and keep backups of what cannot be lost on a second drive unplugged afterwards or in a cloud account, since a backup turns a disaster into an inconvenience. Skip the idea that a state-built weapon has nothing to teach ordinary users. The tricks Stuxnet used, hidden flaws, infected USB sticks, and quiet spreading, are the same tricks everyday malware uses, and the lesson of Natanz is that the most guarded plant in the story was entered through something as small and ordinary as a USB stick.
 
 ## Frequently Asked Questions
 

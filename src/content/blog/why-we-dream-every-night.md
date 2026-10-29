@@ -2,6 +2,7 @@
 title: "Why We Dream Every Night"
 description: "Why do we dream? Dreams may tune the brain for waking life, process emotions, sort memories, and spark ideas, while science still debates the answer."
 pubDate: 2026-10-28T16:44:00+05:00
+updatedDate: 2026-10-29
 category: "Health"
 image: "/images/why-we-dream-every-night.webp"
 imageAlt: "An illustration of a person asleep in bed at night, with dreamy clouds, stars, and floating images rising above their head."
@@ -79,6 +80,16 @@ Why do we dream every night? Perhaps to rehearse consciousness, to process emoti
 ## You may also like
 
 - [Why Always Tired After Sleep](https://talhablog.com/blog/why-always-tired-after-sleep/)
+
+## My Take: Dreaming Is Rehearsal, And Science Still Argues Why
+
+Sleep is not a switching off. It is a change of state, in which the brain does different work from the work it does while awake. During REM sleep, the brain's activity resembles waking activity in many ways: regions involved in emotion, memory, and visual processing are highly active, while regions that check reality, plan logically, and monitor the self are relatively quiet. One influential idea comes from the psychiatrist J. Allan Hobson, who proposed that dreaming is a form of protoconsciousness, a primitive, early form of consciousness that prepares the brain for waking life. In this view, dreaming is the brain's virtual-reality model of the world, a rehearsal that tunes the brain for the day ahead. 
+
+In my view, the rehearsal idea is the most useful single picture in the post, but it should not be treated as the settled answer. Hobson's idea fits the neuroscience, because the brain regions active in dreaming are those involved in perception, emotion, and movement, while the checking and planning regions are quiet. Other theories propose that dreaming processes emotions, consolidates and integrates memories, sparks creativity, and practises responses to danger, and those theories are not mutually exclusive. Dreaming may serve several purposes at once, and different dreams may serve different purposes on different nights. I think the honest position is to hold the rehearsal picture as a strong candidate, not as a verdict, and to let the other theories share the stage.
+
+The memory and threat ideas, in my view, show why a single purpose is unlikely. Robert Stickgold has proposed that dreaming helps modify, consolidate, and integrate memories, connecting new experiences with old knowledge, and extracting general lessons from specific events. Threat rehearsal, another idea in the post, proposes that dreams practise responses to danger, simulating threatening situations safely, and dreams of being chased, attacked, or falling are among the most common. 
+
+What should the reader understand differently? First, treat the honest answer in the post as the answer: after a century of research, we do not fully know why we dream. Each theory has evidence, each has critics, and none has won outright. Second, use the theories as lenses, not as labels. A dream that processes an emotion, a dream that sorts a memory, and a dream that rehearses a threat may all happen in the same week, and forcing each dream into one box will miss what it did. Third, take nightmares seriously without fearing every bad dream. Nightmares are common, especially in childhood, and usually harmless, but frequent, severe nightmares can disrupt sleep, cause daytime distress, and signal underlying stress, trauma, or illness. In my view, the reader who accepts that dreaming is rehearsal, memory work, emotion work, and mystery at once will understand their nights better than the reader who demands one simple reason for all of them.
 
 ## Frequently Asked Questions
 

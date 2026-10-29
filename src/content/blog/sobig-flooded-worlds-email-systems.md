@@ -2,6 +2,7 @@
 title: "Sobig Flooded World's Email Systems"
 description: "In August 2003, the Sobig.F worm rose like a flood until roughly one in every seventeen emails on Earth was a copy of the worm itself."
 pubDate: 2026-10-23T18:20:00+05:00
+updatedDate: 2026-10-29
 image: "/images/sobig-flooded-worlds-email-systems.webp"
 imageAlt: "An illustration of planet Earth slowly drowning under a rising ocean made of billions of email envelopes, mail server towers sinking into the flood."
 category: "Technology"
@@ -55,6 +56,14 @@ The good news in this old story is that the sandbags work, and most of them are 
 ## You may also like
 
 - [Locky Ransomware Arrived By Email](https://talhablog.com/blog/locky-ransomware-arrived-by-email/)
+
+## My Take: Sobig Flooded Email Because Trust Was the Weapon
+
+The post describes Sobig as a family of email worms released through 2003, each version named with the next letter, with the final and biggest wave, Sobig.F, appearing in August 2003. Once inside a computer, Sobig searched files for email addresses, sent itself to those addresses, and put a stolen address on the sender line, so a poisoned email might appear to come from a brother, a boss, or a trusted company. It also turned infected computers into hidden relay stations for spam, drilling a secret back door through which spammers could route junk mail. Every variant carried a built-in expiry date, Sobig.F's was 10 September 2003, and on that date the flood stopped. Microsoft offered a $250,000 reward for information about the creator, the reward was never claimed, and the creator has never been identified.
+
+My judgement is that Sobig's real innovation was not speed or size, but the theft of trust, and that is why its pattern still works. A flood does not need to smash anything to ruin a day. It only needs to rise high enough that normal life becomes impossible, and Sobig did that by making every message look routine. Opening attachments from people you knew was simply what email was for in 2003, and the worm needed people to be normal rather than careless. Compare the two defences the post offers. A spam filter is a sandbag wall, useful but passive, while two seconds of doubt at the moment of the click is active and defeats the whole trick, because nearly every part of the flood depended on one person opening one message without a second thought. The person who gains is the reader who checks a strange message from a known person through a different channel before clicking. The person who loses is the reader who trusts the sender line blindly, forgetting that Sobig wrote a stolen name on the envelope. 
+
+What should change is the habit at the exact moment of opening. First, treat every unexpected attachment as deep water, even when the message looks routine, and do not open a file merely because the sender seems known. Second, keep software updated and let the spam filter work, believing its warnings rather than climbing over them out of curiosity. Third, slow down when a message from a known person feels slightly strange, an odd request, an unusual file, or a tone that is not theirs, and verify elsewhere. Skip the idea that modern defences have ended the recipe. Email defences are far stronger now, yet the basic recipe, ordinary-looking messages, trusted names on the envelope, and one quick click, still works on human beings. The flood in this story was powered not by an unstoppable machine, but by millions of perfectly ordinary clicks from people who were simply busy, and busy is a condition every reader should plan for.
 
 ## Frequently Asked Questions
 

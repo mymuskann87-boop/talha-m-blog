@@ -2,6 +2,7 @@
 title: "Triton Targeted Plant Safety Systems"
 description: "Triton was the first malware ever built to attack the safety systems of a factory — the very machines whose only job is to stop an explosion before it"
 pubDate: 2026-10-23T17:20:00+05:00
+updatedDate: 2026-10-29
 image: "/images/triton-targeted-plant-safety-systems.webp"
 imageAlt: "An illustration of a huge industrial chemical plant at night whose glowing green protective shield is cracking while snakes of red code slither toward the emergency shutdown panel."
 category: "Technology"
@@ -58,6 +59,14 @@ No single one of these steps makes you untouchable. Together, they mean an attac
 ## You may also like
 
 - [Sobig Flooded World's Email Systems](https://talhablog.com/blog/sobig-flooded-worlds-email-systems/)
+
+## My Take: Triton Attacked the Guardian, Not the Factory
+
+The post describes Triton, also known as Trisis and HatMan, which became public in December 2017 as the first malware built to attack the safety systems of an industrial plant. That second brain is a safety instrumented system, the last line of defence between a small problem and a disaster. Triton's target was Triconex safety controllers made by Schneider Electric, installed at a petrochemical plant reported to be in Saudi Arabia. In June and August 2017 the plant shut itself down safely twice, because an error in the attackers' own code tripped the safety system, and those shutdowns exposed the attack. Nobody was hurt, and there was no fire or explosion. FireEye assessed Triton was built to disable or sabotage safety systems, and assessed its development was linked to a Russian state-owned research institute in Moscow, sanctioned by the United States in 2020 over the attack.
+
+My judgement is that the key switch is the most important detail in the story, and readers who focus on state-level attribution will miss the ordinary failure that made the attack possible. A whole attack, built by experts over a long time, came down to one small switch left in the wrong position by an ordinary human being. Compare the two kinds of protection at stake. The first brain, running the plant, is powerful and complex, yet its failure alone need not cause disaster while the guardian still watches. The guardian, simple and single-minded, is the protection that matters most, and Triton aimed straight at it, because if the guardian had been silently switched off and then something physical went wrong, a pressure surge, a broken pipe, or a failed valve, nothing would have stepped in to stop a manageable problem growing into an explosion nobody could control. The person who gains, in my view, is the engineer who treats layers as the defence, since the plant survived because more than one line of protection stood behind the failure. The person who loses is the reader who believes one strong wall is enough, forgetting that one wall failed and the next wall held.
+
+What should change is the habit of layers at home, copied from the plant's survival. First, use a strong, different password for every account, so a stolen key opens one account rather than a whole life. Second, turn on two-factor sign-in, the second lock that mirrors the physical key switch, since changing important settings should need something physical in hand, not only something typed from far away. Third, keep backups somewhere separate, and keep work and personal things apart where possible, just as the plant tried to keep its office network away from its factory network.  The guardian, not the machinery it guards, was the true target, and that choice is what still frightens experts.
 
 ## Frequently Asked Questions
 

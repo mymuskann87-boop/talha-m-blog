@@ -2,6 +2,7 @@
 title: "Slammer Worm Doubled In Seconds"
 description: "In January 2003, the 376-byte SQL Slammer worm doubled every 8.5 seconds, infected around 75,000 servers in about ten minutes, and jammed networks"
 pubDate: 2026-10-23T16:20:00+05:00
+updatedDate: 2026-10-29
 image: "/images/slammer-worm-doubled-in-seconds.webp"
 imageAlt: "An illustration of one tiny glowing red worm on a dark world map splitting into thousands in an explosive chain reaction of light."
 category: "Technology"
@@ -51,6 +52,14 @@ Ten minutes was all it took for 376 bytes to circle the planet. The next Slammer
 ## You may also like
 
 - [Storm Worm Built Zombie Army](https://talhablog.com/blog/storm-worm-built-zombie-army/)
+
+## My Take: Slammer Punished Delay, Not Clever Hacking
+
+The post tells the story of SQL Slammer, also called Sapphire, a worm of only 376 bytes that appeared on 25 January 2003. It spread through a flaw in Microsoft SQL Server, including a smaller desktop version quietly bundled inside many other programs, so plenty of infected computers were running the vulnerable software without their owners knowing it was there. The worm carried no tools for stealing passwords and no instructions to delete files. It simply copied itself, doubling roughly every 8.5 seconds, and reached around 75,000 servers in about ten minutes. Every infected machine then fired out scans at full speed, and the flood of junk traffic choked networks. Bank of America's ATM network went down, Continental Airlines cancelled and delayed flights, Seattle's 911 service ran into problems, and South Korea suffered a near-total internet collapse for hours. Microsoft had released a patch for the flaw in July 2002, roughly six months earlier, and the machines that fell were almost without exception the machines that had never installed it.
+
+My judgement is that Slammer should be remembered as a failure of routine, not as a triumph of criminal genius, and that distinction decides what a reader should fear today. The victims were not beaten by cleverness. They were beaten by one skipped update, and the post is blunt that the cure sat there, free, for six months. I think the overlooked danger is the forgotten helper program, the database engine or other piece of software installed for one job, bundled inside another program, and then forgotten. Nobody updates what nobody remembers, and years later that forgotten corner is exactly where a worm walks in. The person who gains from this story is the reader who treats an update notice as a lock being offered before the crowd arrives. The person who loses is the reader who waits for a quiet week, because worms do not wait for quiet weeks.
+
+What should change is small, boring, and entirely within reach. First, turn on automatic updates everywhere, on phone, computer, and apps, so repairs land while you sleep. Second, install patches promptly and restart when asked, because many repairs only lock into place after a restart, and an update that has downloaded but never installed protects nothing. Third, look through the programs on a computer once in a while and remove ones no longer used, since every leftover program is one more door to keep locked. Skip the idea that a small home computer is too unimportant to matter. Slammer mostly struck businesses and service providers, yet ordinary people met it through dead cash machines and cancelled flights, through services they trusted. The next worm, in my view, will not need its victims to be important. It will only need them to be unpatched and reachable, and that is a condition anyone can fix today.
 
 ## Frequently Asked Questions
 

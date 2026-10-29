@@ -2,6 +2,7 @@
 title: "Will AI Take My Job"
 description: "AI will change tasks faster than whole jobs. What the World Economic Forum, IMF and Stanford research actually say about who is exposed, and what to do."
 pubDate: 2026-10-28T16:45:00+05:00
+updatedDate: 2026-10-29
 category: "AI"
 image: "/images/will-ai-take-my-job.webp"
 imageAlt: "A worker at a desk looking at a computer screen showing a robot icon, with a thoughtful expression, in a modern office."
@@ -61,6 +62,16 @@ The future of work is not a choice between humans and AI. It is a choice between
 Read together, the studies tell one consistent story. The World Economic Forum expects more jobs created than destroyed by 2030, the IMF finds about 40 percent of jobs exposed worldwide, Stanford finds young workers in exposed jobs falling behind, and Microsoft's overlap list shows language and information work most exposed and physical work least exposed. None of the four says whole professions will simply vanish.
 
 The pattern is about tasks, not job titles. Routine work changes first, junior work changes most, and the work that remains is the work that needs judgement, trust, and responsibility. Lawyers, accountants, and programmers all show the same shape: AI speeds the routine, humans keep the decisions. The workers who learn to use AI tools, and who build the judgement parts of their jobs, are the ones the research expects to do well.
+
+## My Take: AI Will Change Tasks First, And Young Workers First
+
+The most important distinction in all the research is between tasks and jobs. A job is a bundle of tasks. AI may be able to do one or two of those tasks, while the rest remain human, and the job changes rather than disappears. The International Monetary Fund estimates about 40 percent of global employment is exposed to AI, rising to about 60 percent in advanced economies, but exposure does not mean replacement. 
+
+In my view, the Stanford evidence is the part that should worry readers most, because it shows who pays first when tasks change. I think that pattern makes sense, and it should change the debate. Entry-level work is often the routine, repeatable part of a job, the searching, drafting, summarising, and processing that AI does fastest. When those tasks are automated, a young worker loses the chance to learn the job by doing its simplest parts, and the employer loses the habit of training a beginner. The overall numbers can still be positive, with more jobs created than destroyed, while a generation of starters finds the door harder to open. A net gain, in my view, is not a comfort to the person who cannot get in.
+
+Microsoft's list, in my view, shows the same pattern from the other side, and it should guide choices without causing panic. The most exposed occupations in Microsoft's 2025 research included interpreters and translators, historians, passenger attendants, sales representatives, writers and authors, and customer service representatives, while the least exposed were jobs needing hands, presence, and physical judgement. I think the lesson is not that those jobs are safe, but that their human core is the part to protect and strengthen. 
+
+What should the reader do differently? First, audit tasks, not job titles. List the tasks in your own job, and ask which ones AI can already do, which ones it helps with, and which ones need human judgement, presence, or trust. Second, build the skills the research points to, and the response the post recommends, which is skills, not panic. Third, if you are young, or hiring young people, protect the first rung. In my view, a young worker needs supervised, routine work to learn from, and an employer who removes all routine work removes the training ground with it. The reader who plans by tasks, builds human skills, and guards entry-level learning will be ready for the change the research describes. The reader who only asks whether AI will take my job, as a whole, will miss the change that is already happening, task by task. A job that changes task by task still needs a person who can be trusted with the result, and trust is built by judgement, not by speed alone. The reader who keeps that trust in view will not be replaced by a tool, but will use the tool and remain answerable for its work.
 
 ## Frequently Asked Questions
 

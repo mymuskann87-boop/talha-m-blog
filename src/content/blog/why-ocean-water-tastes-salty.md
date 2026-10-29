@@ -2,6 +2,7 @@
 title: "Why Ocean Water Tastes Salty"
 description: "Why is the ocean salty? Rain, rocks, rivers, and deep-sea vents have been adding salt to the sea for millions of years, and it has nowhere to go."
 pubDate: 2026-10-28T16:44:00+05:00
+updatedDate: 2026-10-29
 category: "Nature"
 image: "/images/why-ocean-water-tastes-salty.webp"
 imageAlt: "A wide view of blue ocean waves under a bright sky, with sea spray and white foam on the crests."
@@ -77,6 +78,16 @@ The sea tastes salty because the Earth has been salting it, slowly and steadily,
 ## You may also like
 
 - [Why Sky Blue Sunset Orange](https://talhablog.com/blog/why-sky-blue-sunset-orange/)
+
+## My Take: The Ocean Keeps Salt Because Nothing Washes It Out
+
+It starts with rain, and rain is not quite pure water. Rain contains dissolved carbon dioxide, which creates a very weak acid, carbonic acid, and slightly acidic rain falls on rocks, wearing them down and carrying dissolved minerals away. Rivers carry those minerals to the sea. This is the key difference between a river and an ocean. A river is a passage: water flows through it, and whatever it carries flows through too, onward to the sea. An ocean is a basin: water flows in, and the only way out is evaporation, upward, into the air. 
+
+In my view, the basin idea is the judgement that makes the whole subject clear, and it should be the first thing a reader remembers. An ocean becomes salty because it is a store with only one exit, and that exit takes water but not salt. The two sources together explain a puzzle rivers alone cannot: the sea is far saltier than rivers could make it in the time available, and the proportions of different salts in seawater do not exactly match the proportions in river water. The average salinity is about 35 parts per thousand, meaning in every thousand grams of seawater, about 35 grams are dissolved salts. 
+
+If salt keeps arriving, why does the sea not get saltier forever, until it is too salty for life? The answer, in my view, is the most reassuring part of the post, because it shows a balance, not a one-way build-up. Salt also leaves the sea, through slow processes that balance the inputs: burial in sediments, sea spray, uptake by organisms, and exchange with the ocean crust. The result is a dynamic balance, reflecting today's salinity of about 35 parts per thousand, not endless accumulation. I think readers should picture the ocean as a slow, living balance, not as a bucket filling without end. If the balance shifts, salinity shifts with it, and that shift is a signal about the climate and the water cycle around it.
+
+What should the reader understand differently? First, do not think of the ocean as salty water that was made salty once. Think of it as water that keeps receiving salt, keeps losing salt, and keeps its level through a balance that has lasted for millions of years. Second, remember why drinking seawater makes thirst worse. Kidneys can only produce urine less salty than seawater, so to excrete the salt in a litre of seawater, the body must use more water than the seawater itself provides. The thirsty person who drinks the sea loses water by trying to gain it. Third, skip the idea that salt in the sea is a waste product with no story. In my view, every gram of it is a record: rain on rock, a river's journey, a vent on the seafloor, and a long stay in a basin with no drain. The taste of the sea is the taste of that whole journey, kept because nothing washes it out.
 
 ## Frequently Asked Questions
 

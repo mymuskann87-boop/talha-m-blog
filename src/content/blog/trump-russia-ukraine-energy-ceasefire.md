@@ -2,6 +2,7 @@
 title: "Trump Announces Russia-Ukraine Energy Ceasefire"
 description: "Donald Trump declared an immediate energy ceasefire between Russia and Ukraine. Kyiv says it was never told, Moscow has not confirmed it, and strikes were"
 pubDate: 2026-10-14T13:00:00+05:00
+updatedDate: 2026-10-29
 category: "US News"
 image: "/images/trump-russia-ukraine-energy-ceasefire.webp"
 imageAlt: "A glowing phone screen between two power plants under a night sky, one side blue and calm and the other red with smoke"
@@ -80,6 +81,14 @@ That memory hangs over this week's announcement. A claim repeated is not the sam
 ## You may also like
 
 - [Trump's Wealth, Iran, Imran Khan](https://talhablog.com/blog/trump-profile-age-net-worth-iran-war-imran-khan/)
+
+## My Take: An Energy Ceasefire Exists Only When Strikes Stop
+
+The post describes how, on Sunday, 11 October 2026, United States President Donald Trump posted a short message on Truth Social declaring that an energy ceasefire between Russia and Ukraine was starting right away, with both sides having agreed, ending with the warning, "Do not break it!" The post gave no start time beyond "immediately," no end date, no list of places covered, and no explanation of who would check compliance. Ukrainian President Volodymyr Zelenskyy said the announcement "was news for me," having learned about it from the media, yet said Ukraine would accept an energy ceasefire if Russia did the same, asking Washington to say when it begins. Zelenskyy then accused Russia of striking Kyiv's electricity grid and energy facilities in Kharkiv after the post, causing power cuts. Trump had made a similar claim in September, the post notes, and afterwards both sides kept striking energy facilities.
+
+My judgement is that an announcement is not an agreement, and the post's honest summary says exactly that: a powerful announcement, made in a few lines on social media, that the two countries actually fighting have not jointly confirmed. I think readers should judge a ceasefire the way people in Ukrainian cities judge it, by whether the lights stay on, rather than by whether a post was published. Compare the two kinds of evidence on offer. A social media post is fast, short, and unverified, with almost all details missing, including monitoring, duration, and scope. Actions on the ground are slow, visible, and checkable: power cuts after the post, drones filling Ukrainian skies all day according to Zelenskyy, and silence from Moscow when asked directly whether a deal exists. The person who gains, in my view, is the reader who waits for a second voice, as traders did, since Bitcoin's rise came only after Zelenskyy's conditional support appeared, according to CoinDesk's market reporting, and one post was not enough even for markets. 
+
+What the reader should watch differently is the small, concrete step rather than the grand claim. Russia's state atomic energy company, Rosatom, said it expected an agreement soon to repair parts of the Dniprovska power line and equipment at the Zaporizhzhia power station, according to Reuters, and Zaporizhzhia is Europe's largest nuclear power station. Repair work there would be practical and limited, not peace, but the kind of small, concrete arrangement from which bigger ones sometimes grow. Until Moscow confirms an agreement and attacks on energy systems actually stop, the energy ceasefire exists mainly as words. The world, in my view, is wise to wait, watch, and hope the words eventually become real, and the test will be unglamorous: lights on, grids holding, and no new strikes on power stations. Watch the lights, not the posts, and let actions settle what announcements cannot.
 
 ## Frequently Asked Questions
 

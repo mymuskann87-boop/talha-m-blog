@@ -2,6 +2,7 @@
 title: "Trump's Wealth, Iran, Imran Khan"
 description: "A simple profile of US President Donald Trump: his birth and age, family, net worth, the Iran war, the criticism against him, and what he has said"
 pubDate: 2026-10-11T16:30:00+05:00
+updatedDate: 2026-10-29
 category: "US News"
 image: "/images/trump-profile-age-net-worth-iran-war-imran-khan.webp"
 imageAlt: "Illustration of the White House with an American flag under a dramatic sky."
@@ -73,6 +74,14 @@ This is a developing story, and details may change. We will keep you updated.
 ## You may also like
 
 - [Oregon School Shooting Kills Four](https://talhablog.com/blog/oregon-school-shooting-kills-four/)
+
+## My Take: A Trump Profile Must Separate Estimates From Claims
+
+The post presents a profile of Donald John Trump, born 14 June 1946 in Queens, New York, listed as 80 years old, 47th President of the United States in a second term, and also the 45th president, since his two terms are not back to back.  Forbes estimated his wealth at around $6.5 billion in early 2026, with about $8.4 billion in assets and $1.1 billion in debts, while a June 2026 report put it near $6.1 billion, and the post gives the range as about $6.1 to $6.5 billion, noting nobody knows his exact net worth because these are only estimates. Critics' claims listed include media lawsuits, military strikes on alleged drug boats, travel bans, and conflict of interest, with the White House and Trump rejecting many of them. On Imran Khan, the post says fact checkers found Trump called him a great leader, my friend, and a good man during his first term, and that a viral video promising to free Imran Khan was fake.
+
+My judgement is that a profile mixing wealth, war, and criticism must keep three kinds of statement apart, and this post's value lies in how carefully it tries to do so, even where the material is disputed. Estimates are not facts, and the post is right to repeat that nobody knows the exact net worth, since Forbes figures move with the value of companies and investments, and much of the recent jump is reported to have come from crypto, including a memecoin reported to have earned roughly $710 million. Statements about war are the hardest of all, since the post reports both a promise of talks and an end after the election and threats to hit Iran very hard, alongside a Defence Secretary's claim that American forces destroyed Iran's navy and air force and Iran's denial that it is beaten. I think the reader should treat those as reported positions in a developing story, not as settled outcomes, and the post itself warns that details may change. The person who gains, in my view, is the reader who checks which sentence is an estimate, which is a claim, and which is a reported statement. The person who loses is the reader who takes a range, a lawsuit figure, or a wartime claim as a proven fact.
+
+What the reader should do differently is read for attribution before reacting.  Wait for the next big date the post names, 3 November, the midterm elections, and judge the war claims by what happens rather than by what is promised. A profile of a sitting president in wartime, in my view, earns trust by showing its seams, estimates labelled, criticism labelled, and denials included, and this post's seams are exactly what a careful reader should look for.
 
 ## Frequently Asked Questions
 

@@ -2,6 +2,7 @@
 title: "Why Prices Always End 99"
 description: "A one-cent gap should not fool anyone, yet 9.99 outsells 10.00. The brain trick, the cash-register story, and why luxury brands stay round."
 pubDate: 2026-10-18T09:10:00+05:00
+updatedDate: 2026-10-29
 category: "Business"
 image: "/images/why-prices-always-end-99.webp"
 imageAlt: "An original illustration of a cheerful shop window crowded with hanging price tags that all end in 99, while surprised shoppers look at the bargains."
@@ -60,6 +61,16 @@ So the next time a price ends in 99, read it the slow way: round it up in your h
 ## You may also like
 
 - [Oil Prices Jump Past $114](https://talhablog.com/blog/oil-prices-jump-past-114/)
+
+## My Take: A 99 Price Works Because Reading Stops Early
+
+The biggest reason prices end in 99 is hidden in the way we read. In most languages we read from left to right, and the brain starts judging a number before it has finished reading it. The first digit lands with full force, and the digits after it get far less attention. Avner Strulov-Shlain studied price records for 1,710 popular products in 248 stores of one American retailer, and found that a one-cent gap can feel like much more. The post reports that the effect can feel like about 25 cents, which is why a price of 9.99 can outsell a price of 10.00, even when shoppers know, in theory, that the difference is tiny.
+
+In my view, the left-digit effect is powerful precisely because it is not a trick shoppers can simply decide to ignore. Reading is fast and automatic, and the first digit is judged before the rest of the number is fully processed. Shoppers scroll fast, compare quickly, and judge by the first impression, and the first impression is the left digit. Online, the effect may bite even harder, because shoppers scroll faster and compare more prices in less time. 
+
+The old story of the honest cash register, in my view, should be treated as a story, not as a proven origin, and the post is honest about that. Shopify's guide calls it the story goes: a widely repeated explanation from the early days of retail, in which 99 endings forced clerks to open the till and give change, making theft harder. The more useful distinction in the post is why some prices stay proudly round. The 99 trick carries the smell of a bargain, saying deal, discount, and good value, which is wonderful for soap and shirts, but poison for a perfume or a luxury watch, where a round 100, 500, or 1,000 signals quality and calm. I think that contrast is the real lesson for sellers. A 99 ending does not make a price cheaper. It makes a price feel cheaper, and feeling cheaper is the wrong signal when the product is meant to feel precious.
+
+What should the reader do differently? First, read the whole price, not the first digit, and pause for one second before judging a 9.99 against a 10.00. Second, compare like with like: the same product, the same size, and the same total cost, including delivery and extras, because a 99 ending on a smaller pack can cost more per unit than a round price on a larger one. Third, notice the signal the seller is sending. In my view, a shop full of 99s is telling you it wants to be seen as a bargain, and a shop with round prices is telling you it wants to be seen as premium. The reader who stops at the 9 will keep paying for a feeling, and the feeling, as the research shows, is worth far more than a cent to the seller.
 
 ## Frequently Asked Questions
 

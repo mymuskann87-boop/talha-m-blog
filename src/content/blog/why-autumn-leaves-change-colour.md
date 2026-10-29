@@ -2,6 +2,7 @@
 title: "Why Autumn Leaves Change Colour"
 description: "Why do leaves change colour in autumn? As green chlorophyll fades, hidden yellows appear, reds are made fresh, and trees reclaim nutrients for winter."
 pubDate: 2026-10-28T16:44:00+05:00
+updatedDate: 2026-10-29
 category: "Nature"
 image: "/images/why-autumn-leaves-change-colour.webp"
 imageAlt: "A forest path in autumn covered with fallen leaves in red, orange, and gold, with trees showing bright autumn colour."
@@ -77,6 +78,16 @@ Autumn leaves change colour because the green chlorophyll that hides all other p
 ## You may also like
 
 - [Tree That Bleeds Red Sap](https://talhablog.com/blog/tree-that-bleeds-red-sap/)
+
+## My Take: Autumn Colour Is Preparation, Not Decoration
+
+Leaves are green because of chlorophyll, the pigment that makes photosynthesis possible. Chlorophyll captures sunlight and uses its energy to build sugars from water and carbon dioxide, feeding the tree. As days shorten and nights cool, the tree prepares for winter. It reduces chlorophyll production, and existing chlorophyll breaks down faster than it is replaced. The green fades, gradually, and other colours appear. The yellow and orange pigments, called carotenoids, are present in leaves throughout the growing season, where they play a supporting role in photosynthesis. When green fades, yellows and oranges are revealed, which is why yellow often comes first and is the most reliable autumn colour.
+
+In my view, the reds are the part that most changes how autumn should be understood, because they are not revealed, they are made. Reds and purples come from anthocyanins, which are not present in most leaves all summer. They are manufactured in autumn, in the leaf itself, from sugars that become trapped there as the tree prepares for winter. Oaks, dogwoods, maples, and sumacs are famous for red colour, because they are efficient anthocyanin producers, while birches, aspens, and many other species turn yellow, because they rely on carotenoids alone. I think that difference is a useful reminder that autumn colour is not one process, but two: one colour is uncovered, and another is built fresh, at cost, in the final weeks. 
+
+Colour change is only half the story, and the other half, in my view, is what makes the colour meaningful. As autumn progresses, the tree forms a protective seal at the base of each leaf stem, a layer of cells called the abscission layer, which gradually cuts the leaf off from the tree. The tree reclaims nutrients from the leaf before it falls, and the seal protects the scar where the leaf was attached from disease, frost, and insects. The best displays, the post says, come after a warm, well-watered summer, followed by a dry, sunny, cool autumn, with bright days and cool nights. I think readers should see the whole sequence as preparation, not decoration: fade the green, reveal or make the colour, reclaim what can be saved, seal the wound, and let the leaf go.
+
+What should the reader understand differently? First, do not treat autumn colour as paint applied to a tree. Yellows were there all along, hidden by green, and reds were made in the final weeks from trapped sugars. Second, judge a display by its conditions, not only by its trees. Third, notice the letting go. In my view, the abscission layer is the quiet hero of the story: a clean seal, a reclaimed store of nutrients, and a leaf that detaches neatly, often with a slight breeze. The tree does not lose its leaves by accident. It prepares to lose them, and the colour is the visible sign of that preparation, not the purpose of it.
 
 ## Frequently Asked Questions
 

@@ -2,6 +2,7 @@
 title: "Why Yawning Spreads So Fast"
 description: "One person yawns and suddenly the whole room is yawning. What a yawn really is, why it may cool the brain, and why we catch yawns from loved ones."
 pubDate: 2026-10-18T09:30:00+05:00
+updatedDate: 2026-10-29
 category: "Health"
 image: "/images/why-yawning-spreads-so-fast.webp"
 imageAlt: "An original illustration of people sitting in a row in a waiting room, yawning one after another like a wave passing along the seats."
@@ -76,6 +77,16 @@ Normal yawning — when you are tired, bored, waking up, or surrounded by yawnin
 ## You may also like
 
 - [Why Always Tired After Sleep](https://talhablog.com/blog/why-always-tired-after-sleep/)
+
+## My Take: A Caught Yawn Is Closeness, Not Just Tiredness
+
+A yawn is a deep, slow breath you do not fully control. The mouth opens wide, the jaw stretches, air flows deep into the lungs, and then you breathe out again. For many years, the popular explanation sounded sensible: we yawn to pull in extra oxygen and push out extra carbon dioxide, a big breath for a tired brain. That explanation, the post says, probably failed its tests. The leading idea now is different. The Gallups proposed in 2007 what is called the thermoregulatory, or brain-cooling, theory: the brain burns up to about a third of the calories eaten, produces heat as it runs, and a yawn may help cool it, through the deep breath and the stretching of muscles around the head.
+
+In my view, the brain-cooling theory is useful, but it is the spreading of yawns that tells the more human story. In 2017, a team at the University of Nottingham, led by Professor Stephen Jackson, published a study in Current Biology that got closer to the machinery than ever before. A person does not choose to catch a yawn, and telling them not to may strengthen the urge. The yawn spreads because the brain mirrors what it sees, and the mirror fires whether the watcher wants it to or not.
+
+The closeness finding, in my view, is the part that should change how readers see a room full of yawning people. A study from the University of Pisa spent a year observing 109 adults in everyday life, at work, at dinner tables, and on trains, and recorded over 1,300 yawns. It found that the closer the person, the stronger the yawn: yawns from family and close friends were caught more often, and faster, than yawns from strangers. I think that pattern, across age, closeness, and species, points to one judgement: a caught yawn is a social signal, not only a cooling signal, and it marks who the watcher is bonded to.
+
+What should the reader do differently? First, stop treating a yawn as proof of boredom or rudeness. A yawn may signal tiredness, waking, or a warm brain, and a caught yawn may signal closeness, not disinterest. Second, notice the experiment hidden in the science: yawn in front of a baby, and almost certainly nothing happens, because the catching reflex has not yet grown, while the same yawn in front of a close friend is likely to spread in seconds. Third, take excessive yawning seriously without alarming over normal yawning. In my view, the reader who sees yawning as both cooling and connection will understand a yawning room better: the brain is cooling itself, and the people in the room are, without knowing it, showing how close they are.
 
 ## Frequently Asked Questions
 

@@ -2,6 +2,7 @@
 title: "Smart Gift Giving Saves Money"
 description: "How to give gifts people truly love without letting birthdays, weddings and festivals wreck your budget."
 pubDate: 2026-10-25T19:40:00+05:00
+updatedDate: 2026-10-29
 image: "/images/smart-gift-giving-saves-money.webp"
 imageAlt: "Beautifully wrapped gifts with ribbons in a warm glowing row"
 category: "Saving Money"
@@ -55,6 +56,14 @@ There is also the other side of the table: receiving. A person who receives a mo
 ## More ways to save
 
 - [Save Money On Dinner Parties](https://talhablog.com/blog/save-money-on-dinner-parties/)
+
+## My Take: Gift Giving Fails on Guessing, Not on Spending Less
+
+The post defines a gift as something given willingly, without payment, usually to show care or to celebrate, and argues that the care is the gift while the price tag is only the wrapping. It advises a limit for each occasion before shopping, adding the occasions up once a year, and setting a small amount aside every month, so a birthday gift feels paid for calmly months ago. It praises handmade gifts, a proper letter, a framed photo, a cooked meal, or a skill offered as help, and argues that one good group gift beats five small ones, because five friends buying separately spend more in total and leave the receiver with clutter. It advises buying early in sales, keeping a list of names, dates, and ideas through the year, storing bought-ahead gifts in one place with a tag, and respecting customs while honouring generosity without debt. 
+
+My judgement is that guessing is the real waste in gift giving, not generosity and not thrift, and the post's best advice is the advice to ask. Asking kindly, in my view, turns a guess into a gift, and most people, asked kindly, will name something simpler than the giver feared. Compare the two ways of spending the same money. Five small, forgettable items bought separately cost more together and leave clutter, while one shared gift, chosen after asking what the person needs, feels considered, lasts longer, and costs each giver less. The same comparison applies inside families, where one shared gift for an elder's birthday beats a pile of scented sets nobody wanted. The person who gains is the receiver who gets something actually wanted, and the giver who gives it cleanly, inside a planned limit, with no hidden bill attached to the feeling. The person who loses is the giver who overspends in a rush, then quietly resents the sacrifice the receiver never asked for. A budget protects friendships precisely because it stops that resentment before it starts.
+
+What should change is the order of the year, not the size of any one gift. First, write the limits before the shop lights and music get a vote, and add the year's occasions up once, because a total that shocks you is useful information rather than a scolding. Second, keep the list all year, noting an idea the moment it occurs, such as a tea mentioned in April for a birthday in October, and buy calmly in sales for occasions already known. Third, give handmade and group gifts first consideration, wrap them with care, and hand them over warmly, without apology for size or visible counting of cost. Skip the December panic buy and skip the pile of small items that nobody chose together. A gift inside a planned limit, asked for rather than guessed, and given warmly, is in my view the only kind that carries no regret behind the smile.
 
 ## Frequently Asked Questions
 

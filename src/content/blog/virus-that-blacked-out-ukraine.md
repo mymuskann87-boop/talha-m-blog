@@ -2,6 +2,7 @@
 title: "Virus That Blacked Out Ukraine"
 description: "How the BlackEnergy virus got inside Ukraine's power companies and switched off electricity for around 230,000 people on a winter night."
 pubDate: 2026-10-23T17:30:00+05:00
+updatedDate: 2026-10-29
 image: "/images/virus-that-blacked-out-ukraine.webp"
 imageAlt: "An illustration of an entire city skyline at night going completely dark as one sweeping wave of blackness swallows street after street."
 category: "Technology"
@@ -71,6 +72,14 @@ You may never work at a power station, but the tricks that opened the door in Uk
 ## You may also like
 
 - [Tennis Photo Virus Tricked Millions](https://talhablog.com/blog/tennis-photo-virus-tricked-millions/)
+
+## My Take: Ukraine Blackout Began With Patience, Not Power
+
+The post describes the 2015 Ukraine power grid attack, the first publicly known cyberattack to knock out a nation's electricity. On 23 December 2015, two days before Christmas, attackers remotely opened circuit breakers at three regional electricity distribution companies, and around 230,000 customers lost electricity for roughly one to six hours. Months earlier, staff received spear-phishing emails carrying infected Microsoft Office documents, and switching on macros let BlackEnergy 3 slip onto machines. The attackers studied networks for months, stole login details including VPN passwords, and found VPN connections had no second check, so whoever held a password could walk straight in. Operators travelled to substations and worked equipment by hand, bringing power back within hours rather than days. Investigators, and later the United States government, attributed the operation to a Russian state hacking group known as Sandworm, and about a year later, in December 2016, Kyiv suffered a second, smaller outage using Industroyer, able to speak the grid's own control languages.
+
+My judgement is that patience was the weapon, and readers who picture a sudden superweapon will miss the months of quiet learning that made one evening possible. BlackEnergy 3 did not smash a window and grab what it could. It copied keys, hid for months, learned routines, and waited for the perfect evening, like a burglar who knows a home better than its owners. Compare the two kinds of damage. The blackout itself lasted hours, yet the firmware damage and the call-centre flood were designed to slow repair and spread confusion, buying attackers more time while operators faced computers they could not trust. The person who gains is the reader who learns that the tricks opening a power grid are aimed at ordinary workers every day, through office emails, a clicked warning, and stolen passwords. The person who loses is the reader who believes a grid attack needs a movie-style weapon, forgetting that the whole attack began with nothing more dramatic than an email.
+
+What should change is the order of small defences, since no ordinary user can stop a state hacking group alone, but anyone can block the tricks that start almost every attack like this. First, treat unexpected attachments as strangers, and never enable macros in a document not asked for, since a genuine invoice does not need that button pressed. Second, turn on two-factor sign-in everywhere possible, especially email, banking, and work accounts, since the attackers walked in using stolen passwords alone. Third, use a different password for every account, keep backups somewhere separate, and keep programs updated, since infected documents and stolen passwords do most damage on unpatched systems. Skip the idea that a power station's problem is someone else's problem. The same habits that would have blocked this attack protect a home user too, and the lesson of a winter evening in Ukraine, in my view, is that a quiet doorway, left open for months, can switch off a nation's lights in a moment.
 
 ## Frequently Asked Questions
 

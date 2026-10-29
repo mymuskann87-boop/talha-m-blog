@@ -2,6 +2,7 @@
 title: "Three New Cosmic Ghosts Found"
 description: "Four photographers stared at one patch of sky for a hundred hours, and three ghostly shapes nobody had ever seen slowly stepped out of the dark."
 pubDate: 2026-10-23T14:40:00+05:00
+updatedDate: 2026-10-29
 image: "/images/three-new-cosmic-ghosts-found.webp"
 imageAlt: "An illustration of three glowing blue ghost-shaped nebulas floating among red space clouds and bright stars in the Cassiopeia constellation."
 category: "Space"
@@ -91,6 +92,14 @@ Somewhere above us tonight, in the constellation Cassiopeia, three quiet ghosts 
 ## You may also like
 
 - [SpaceX Dragon Carries 6,300 Pounds](https://talhablog.com/blog/spacex-dragon-cargo-launch-iss/)
+
+## My Take: Patience, Not Power, Found the Cosmic Ghosts
+
+The post describes four astrophotographers at Starfront Observatories, Louis Leroux-Gérès, Thibault Ruyé, Vincent Martin, and Cedric de Decker, who pointed their equipment at one corner of the constellation Cassiopeia for about one hundred hours. In the gathered light, three soft blue shapes appeared where no shapes had been recorded before, provisionally called Object 1, Object 2, and Object 3. NASA featured the image in its Astronomy Picture of the Day on 21 October 2026. The neighbourhood already held two famous nebulas, IC 59 and IC 63, the Ghosts of Cassiopeia, near the bright star Gamma Cassiopeiae, whose energy output may exceed the Sun's by about 34,000 times. The origins of the three new objects remain unsolved. A leading idea is that Object 3 may be gas compressed and heated like the bow wave of a speeding boat, as the star system ploughs through interstellar material, while Object 1 might be a planetary nebula, the cast-off shell of a dying star, but only if a central white dwarf is identified inside it.
+
+My judgement is that the method matters more than the mystery, and readers who focus only on what the objects are will miss why they were found at all. There was no single dramatic moment and no lucky snapshot. There was a decision to spend about a hundred hours on one target, using the right filter, trusting that something invisible was worth the effort. Most discoveries announce themselves loudly. This one had to be waited out, like a shy animal that only approaches people who stay perfectly still. A hundred hours of gathered light, photon by photon, with a filter that lets only oxygen's glow through, shows three strangers standing beside the famous ghosts the whole time. The person who gains, in my view, is the patient watcher who accepts that the sky is not finished, and that familiar constellations photographed for generations can still keep secrets. The person who loses is the watcher who wants an instant answer, since the origins remain a mystery and more observing, analysis, and debate will be needed before the objects graduate into proper names with proper explanations.
+
+What the reader should take differently is the value of a clever way of looking over a bigger telescope alone. The filter did not add light. It removed noise, muting every instrument except one flute in a full orchestra, so a melody never known could be heard. Skip the frustration that the story has no ending yet. The honest ending is that there is no ending, and that is hopeful rather than disappointing. Somewhere above us tonight, three quiet ghosts are glowing too faintly for any eye to catch, there long before us and there long after us, and now, thanks to four patient watchers and one clever filter, we finally know to wave back.
 
 ## Frequently Asked Questions
 

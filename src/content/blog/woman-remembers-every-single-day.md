@@ -2,6 +2,7 @@
 title: "Woman Remembers Every Single Day"
 description: "Give Jill Price any date since 1980 and she can name the day, the weather and what she did. Inside the memory test that amazed scientists."
 pubDate: 2026-10-19T21:30:00+05:00
+updatedDate: 2026-10-29
 category: "Health"
 image: "/images/woman-remembers-every-single-day.webp"
 imageAlt: "A woman sitting calmly in a research room while a wall of calendar pages from many different years stretches out behind her."
@@ -71,6 +72,16 @@ A short, honest note: this article explains a rare condition described in scient
 ## You may also like
 
 - [Woman Who Never Feels Pain](https://talhablog.com/blog/woman-who-never-feels-pain/)
+
+## My Take: A Memory That Never Forgets Is A Heavy Gift
+
+ The writer was a 34-year-old woman named Jill Price, who explained that she had an unbelievable ability to recall her past, and that she was, in truth, troubled by it. The basic test was simple to describe and very hard to fake. A sceptical scientist does not just accept amazing claims, so the team checked her answers against diaries Price had kept over the years, and her recall held up with astonishing accuracy. 
+
+In my view, the name of the condition is the first judgement readers should learn, because every word of it limits the gift. The condition is called hyperthymesia, also described as hyperthymestic syndrome, and scientists now more often use HSAM, highly superior autobiographical memory. It is autobiographical memory, memory of her own life, of days, dates, and personal events, not a general super-memory for everything. Price does not have a photographic memory. I think that sharp edge matters, because it stops the story from becoming a fantasy about a perfect brain. Her memory is extraordinary for her own life, and ordinary, even weak, for material that is not her own. A reader who envies the gift without learning its limits will misunderstand both the science and the person, and will imagine a power that Price herself does not have.
+
+ I think that finding is the most human part of the story. A memory that never switches off is not a recording. It is still a human memory, built by a brain, and it can still be led, even when it is far stronger than most. The heavy side follows from the same system. The researchers who know Price best would tell you not to envy her. The same system that keeps every birthday also keeps every bad day. A painful argument, a humiliation, or a loss, which time slowly files down for most people, stays sharp for her, because her memory does not let the edges fade.
+
+What should the reader take from this case? First, do not envy a gift without asking what it costs. Price's memory keeps the good days, and it keeps the bad days with the same clarity, and that is a burden, not only a talent. Second, do not treat HSAM as a model to copy. It is a rare condition, studied in a small number of people, and its lessons are about how autobiographical memory works, not about how to memorise a textbook. Third, notice what the testing teaches about all memory. In my view, even a memory that can name any date since 1980 can be tricked, can be selective, and can be heavy to carry. That should make every reader kinder to their own forgetting, and more careful with their own remembering. 
 
 ## Frequently Asked Questions
 

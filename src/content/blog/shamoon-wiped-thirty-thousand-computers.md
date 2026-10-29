@@ -2,6 +2,7 @@
 title: "Shamoon Wiped Thirty Thousand Computers"
 description: "In August 2012, the Shamoon wiper erased about 30,000 computers at Saudi Aramco, the world's richest oil company, in a single working day."
 pubDate: 2026-10-23T17:00:00+05:00
+updatedDate: 2026-10-29
 image: "/images/shamoon-wiped-thirty-thousand-computers.webp"
 imageAlt: "An illustration of an endless office floor with thousands of computer screens switching to black one by one under a giant sweeping wave of red eraser light."
 category: "Technology"
@@ -77,6 +78,14 @@ Software updates close the doors that malware walks through. And if several mach
 ## You may also like
 
 - [REvil Hit Thousand Businesses Overnight](https://talhablog.com/blog/revil-hit-thousand-businesses-overnight/)
+
+## My Take: Shamoon Proves Separation Matters More Than Strength
+
+The post describes Shamoon, also called Disttrack, a wiper that struck Saudi Aramco on 15 August 2012 and erased around 30,000 computers in roughly one working day. A wiper does not steal or demand money. It overwrites files with junk data and destroys the master boot record, the tiny starter program a computer reads when it is switched on, so machines cannot even begin. Many dying screens showed a burning American flag. The malware spread using stolen administrator credentials, a master key that opened computer after computer along the company's own network. Aramco rebuilt its office network over months and bought enormous quantities of hard drives, yet the oil never stopped, because the computers running oil production sat on a separate network from the office computers. A group calling itself the Cutting Sword of Justice claimed responsibility, United States officials were reported to believe Iran stood behind it, and no government officially took responsibility. New versions returned in 2016 and 2017.
+
+My judgement is that the separation decision matters more than the size of the attack, and most retellings get the emphasis backwards. The dramatic figure is 30,000 dead computers, but the decisive fact is the gap between two networks, made quietly by engineers long before the attack. Without that gap, the same eraser could have reached the machines controlling the oil, and a terrible office disaster could have become a world energy crisis. Strong walls around one big network are less valuable than smaller networks that cannot all fall together. The common mistake is to buy one impressive defence and trust it everywhere. Shamoon travelled on a stolen master key, so one password ruling a whole network turned a single theft into a total loss. A second mistake is to treat backups that stay connected as safe. A backup sitting on the same machine, or plugged in all day, gets erased along with everything else, and the habit that saves a household or a company is a copy that lives apart.
+
+What should change in practice is the order of work. First, separate what matters most from what is merely convenient, as Aramco's engineers separated production from office systems, and in a home keep banking apart from everyday browsing where possible. Second, guard the master keys: change default router passwords, never reuse an email password elsewhere, and make administrator passwords strong and different. Third, keep a disconnected backup and test that it can actually be read back, because a backup nobody has tried to restore is only a hope. Watch for the warning the post gives about several machines failing in the same strange way at once, and disconnect fast, since every connected minute costs more computers. The reader who does these three things in that order will not stop a nation from building an eraser, but will have copied the one decision in this story that actually held.
 
 ## Frequently Asked Questions
 

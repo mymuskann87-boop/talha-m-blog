@@ -2,6 +2,7 @@
 title: "SpaceX Dragon Carries 6,300 Pounds"
 description: "SpaceX launched its CRS-35 Dragon cargo mission carrying 6,300 pounds of supplies, new solar arrays and medical experiments to the ISS. The full story."
 pubDate: 2026-10-13T21:45:00+05:00
+updatedDate: 2026-10-29
 category: "Space"
 image: "/images/spacex-dragon-cargo-launch-iss.webp"
 imageAlt: "A white rocket launches at night from a launch tower, flames and thick smoke clouds lit up against a starry sky"
@@ -49,6 +50,14 @@ That is why missions like CRS-35 matter so much. Each Dragon is a care package a
 ## You may also like
 
 - [Three New Cosmic Ghosts Found](https://talhablog.com/blog/three-new-cosmic-ghosts-found/)
+
+## My Take: A Routine Dragon Flight Is the Real Space Achievement
+
+The post describes SpaceX's CRS-35 cargo mission, launched at 6:33 in the morning on Tuesday, 13 October 2026, from Space Launch Complex 40 at Cape Canaveral, Florida. A Falcon 9 carried a Cargo Dragon, spacecraft C211, packed with more than 6,300 pounds of food, science, and hardware to the International Space Station, orbiting about 400 kilometres above Earth. There were no astronauts on board. The first-stage booster, B1096, flying for the eighth time, returned to Landing Zone 40 with a sonic boom, and Dragon separated less than ten minutes after liftoff. The star cargo was the final pair of Roll-Out Solar Arrays, known as iROSAs, built by Redwire Space, each more than 18 metres long when unrolled and able to produce more than 20 kilowatts of power for more than ten years, completing a multi-year upgrade of the station's ageing power system. 
+
+My judgement is that the routine is the achievement, and readers who wait for drama will miss what this flight actually proves. A generation ago, a supply run to a space station was front-page drama. Today it is a Tuesday morning launch most of the world slept through, and that ordinariness is precisely the point, because CRS-35 is the 35th such delivery under NASA's Commercial Resupply Services program, in which NASA hires private companies to carry supplies instead of building every vehicle itself. Compare the two kinds of cargo. The shrimp and student experiments are the quieter proof, since living samples must arrive fresh to be studied alive, and a station that cannot grow enough food, manufacture every spare part, or store years of supplies depends on deliveries arriving on time. The person who gains most is the crew waiting above, Crew-13, who arrived on 1 October. The person who loses, in my view, is anyone who judges spaceflight only by firsts and records, because the work that keeps humans alive in orbit is repetition done well.
+
+What the reader should understand differently is that a cargo flight is also a return ticket, and that return matters as much as the delivery. Dragon later brings experiment results, worn equipment, and scientific samples safely back through an ocean splashdown, something no other cargo vehicle currently flying to the station can do in the same way. The final solar wings matter because they complete the power upgrade the station needs for its final years, yet the flight matters more broadly because it shows a system working: a reused booster, a spacecraft on its fourth mission, an autonomous docking, and a month-long stay, all treated as normal. Watch for that normality rather than for spectacle. When a delivery truck in space becomes boring, humans living above Earth have gained something rare, a promise kept quietly, launch after launch, that someone on the ground will keep sending what they need to survive.
 
 ## Frequently Asked Questions
 

@@ -2,6 +2,7 @@
 title: "What Does US President Do"
 description: "The US president commands the armed forces, executes the laws, appoints judges and officials, and speaks for America. The job, explained simply."
 pubDate: 2026-10-28T17:40:00+05:00
+updatedDate: 2026-10-29
 category: "US News"
 image: "/images/what-does-us-president-do.webp"
 imageAlt: "The White House in Washington DC with the American flag flying above the entrance"
@@ -76,6 +77,16 @@ The president also cannot stay in office by personal choice alone. Presidents ar
 
 - [How Electoral College Elects Presidents](https://talhablog.com/blog/how-electoral-college-elects-presidents/)
 - [How US Supreme Court Works](https://talhablog.com/blog/how-us-supreme-court-works/)
+
+## My Take: The US President Is Powerful And Checked At Once
+
+The post sets out a job that is both very large and tightly limited. The president must be a natural-born citizen of the United States, at least 35 years old, and resident for a period set by the Constitution. In the United States, the president is both head of state and head of government, representing America at home and abroad and welcoming foreign ambassadors. As commander in chief, the president is the top civilian authority over the armed forces, and generals and admirals answer to the president. The central daily job is to take care that laws passed by Congress are faithfully executed, through executive departments. 
+
+In my view, the most misunderstood part of the job is that the largest powers are shared, and the shared powers are where the real arguments happen. The president makes treaties, but treaties need the Senate's agreement. The president appoints ambassadors, Cabinet members, and Supreme Court justices, but those appointments also need Senate confirmation. The president signs bills into law, or refuses to sign and uses the veto, but Congress can override a veto with a large majority in both houses. I think that sharing is deliberate, and it should change how readers judge a president. A president who cannot get a treaty through the Senate has not necessarily failed; the system was built to require agreement. A president who gets an appointment confirmed has won a negotiation with another branch, not exercised a solo power. 
+
+The limits, in my view, are just as important as the powers, and they are often forgotten in the noise. The president cannot make laws alone, cannot spend money Congress has not approved, cannot appoint senior officials without Senate agreement, and cannot ignore court rulings. The Constitution divides power on purpose, so the president, Congress, and the courts each check the others. The pardon power is one of the few a president can use alone, forgiving a federal crime or delaying a punishment, except in cases of impeachment. I think readers should treat pardons as the exception that proves the rule: most presidential action needs another branch, another vote, or another institution. It is the design, and it means a single election never hands one person the whole government.
+
+What should the reader do differently? First, ask, for any presidential promise, which other body must agree before it can happen. If the answer is the Senate, Congress, or the courts, judge the promise as a negotiation, not a command. Second, watch appointments as closely as speeches, because a Supreme Court justice serves for life or until retirement, while a Cabinet secretary may serve only a few years. Third, skip the idea that the president is either all-powerful or powerless. In my view, the truth in the post is both at once: the president commands the armed forces and speaks for America, and yet cannot pass a law, spend unapproved money, or appoint without agreement. Understanding that tension is the start of judging the job fairly.
 
 ## Frequently Asked Questions
 

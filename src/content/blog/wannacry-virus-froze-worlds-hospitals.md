@@ -2,6 +2,7 @@
 title: "WannaCry Virus Froze World's Hospitals"
 description: "WannaCry ransomware froze more than 200,000 computers in about 150 countries in May 2017, shutting hospital operations and cancelling around 19,000"
 pubDate: 2026-10-23T15:20:00+05:00
+updatedDate: 2026-10-29
 image: "/images/wannacry-virus-froze-worlds-hospitals.webp"
 imageAlt: "An illustration of a dark hospital ward at night where every computer screen is frozen behind one giant glowing red padlock."
 category: "Technology"
@@ -81,6 +82,14 @@ Security agencies give this advice consistently: do not pay. Payment does not gu
 ## You may also like
 
 - [Virus That Blacked Out Ukraine](https://talhablog.com/blog/virus-that-blacked-out-ukraine/)
+
+## My Take: WannaCry Punished Neglected Updates, Not Careless Clicks
+
+The post describes WannaCry, which struck on Friday, 12 May 2017, as both ransomware, software locking files and demanding money to unlock them, and a worm, software spreading by itself from computer to computer without human help.  Microsoft had released a security update in March 2017, two full months before the attack, repairing the flaw, yet millions of computers had never been updated, because updates were switched off, machines were old, or keeping huge networks updated is slow, difficult work. Europol later said more than 200,000 computers in about 150 countries had been infected within days, and the National Audit Office reported around 19,000 appointments cancelled in England. The outbreak was slowed when researcher Marcus Hutchins registered a nonsense web address hidden in the code, which acted as a kill switch, stopping the worm from locking files on new machines.
+
+My judgement is that WannaCry's most uncomfortable lesson is that nobody in those hospitals had clicked a strange link or opened a suspicious email, and the danger had not come through the front door at all. It slipped in through the machines themselves, moving like an invisible fire, and the biggest danger was not careless people but neglected updates. An ordinary person's unpatched Windows computer, sitting on a home network or connected at work, could be infected without its owner doing anything at all, no click, no download, no warning. The person who gains, in my view, is the user who turns on automatic updates and restarts when asked, since the flaw had been fixed two months before the attack and only unpatched computers fell. The person who loses is the user who treats an update nag as an interruption, postponing a restart for someday, forgetting that an update that has downloaded but never installed protects nothing, and that a skipped update is something anyone can fix today.
+
+What should change is the order of protection, with updates first and everything else second. First, turn on automatic updates for Windows or macOS, phone, and apps, and restart soon rather than someday when a program asks, since an update is a lock fitted to a door criminals already know about. Second, back up files offline, on an external drive plugged in, copied, and then unplugged, or through a trusted cloud backup, since ransomware locks everything it can reach, including an attached backup drive, and a clean backup turns locked files from a disaster into an inconvenience. Skip the idea that a worm hunting hospital networks has nothing to do with a laptop at home. The recipe of the disaster, a known flaw plus millions of machines that never installed the fix, can repeat whenever people delay updates, and the defence has improved since 2017, yet the basic lesson stands: the fix already existed, the door was already closed for those who installed it, and the fire raced through every door left wide open.
 
 ## Frequently Asked Questions
 

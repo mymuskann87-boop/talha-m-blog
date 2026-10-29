@@ -2,6 +2,7 @@
 title: "Smartphone Sales Hit 14-Year Low"
 description: "Global smartphone sales just had their worst quarter in 14 years, and the reason is surprising: AI data centers are buying up the memory chips your phone"
 pubDate: 2026-10-12T20:45:00+05:00
+updatedDate: 2026-10-29
 category: "Technology"
 image: "/images/smartphone-sales-fall-14-year-low-ai-chip-shortage.webp"
 imageAlt: "Illustration of smartphones standing next to a giant glowing memory chip with a rising price tag"
@@ -58,6 +59,14 @@ That is why this story matters even if you never follow business news: it change
 ## You may also like
 
 - [Apple Foldable iPhone Sales Begin](https://talhablog.com/blog/apple-foldable-iphone-sales-begin/)
+
+## My Take: The Phone Squeeze Punishes Budget Buyers First
+
+The post reports, from early estimates by Counterpoint Research reported by Reuters on 12 October 2026, that global smartphone shipments fell 20 percent compared with last year in the July-to-September quarter, the weakest third quarter since 2012. The cause it names is memory chips: every phone needs them, and AI data centers building enormous systems for chatbots and assistants are buying huge amounts of the same chips, so factories face more buyers fighting over the same supply and prices have risen sharply. Phone makers responded by paying more, raising shop prices, and shipping fewer phones to protect profit. Samsung stayed number one with about 23 percent of the market, its shipments falling only about 3 percent, helped by demand for its Galaxy Z Fold8 series. Apple reached 22 percent, the first time it crossed 20 percent in a third quarter, despite a smaller launch with no basic iPhone 18 model. Xiaomi was hit hardest, shipments falling more than 30 percent and share dropping to about 10 percent, after pulling back from cheap phones and some markets, while OPPO and vivo also fell more than 20 percent.
+
+My judgement is that this is not a story about phones becoming better or worse. It is a story about who can absorb a cost rise, and budget buyers lose first. Cheap phones have thin profits, so when chip prices rise, cheap phones are the first to suffer, and the companies famous for budget phones suffered most. The winners are the firms with strong demand for higher-value models and a stable supply of parts, who can protect profit by shipping fewer phones rather than chasing big sales numbers. Buyers, as analyst Shilpi Jain noted, are responding by keeping phones longer than expected, looking at refurbished phones, and choosing higher-value models less often instead of replacing cheap phones again and again. People want phones. They are waiting, repairing, and buying second-hand, because the shop is offering less for the same money, and fewer cheap models, sometimes with smaller storage for the same price.
+
+What a reader should do differently depends on where they stand. If a current phone works fine, waiting is the smart move, and the whole world is doing exactly that right now, so there is no need to rush a purchase to keep up. If a purchase cannot wait, compare refurbished models and last year's flagships first, since they often give the best value while memory prices stay high. Do not expect prices to fall soon while AI companies keep buying memory at this speed, and do not assume cheap phones will return in force until memory prices cool down. Skip the cheapest new model bought in a hurry without checking storage and repair costs, and skip replacing a working phone merely because a new launch arrived. The phone in a pocket, kept a year longer or bought refurbished, is in my view the most sensible answer to a shortage that began far from any phone shop, inside a data center.
 
 ## Frequently Asked Questions
 

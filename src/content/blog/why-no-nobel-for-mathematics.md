@@ -2,6 +2,7 @@
 title: "Why No Nobel For Mathematics"
 description: "Why is there no Nobel Prize for mathematics? The honest answer, the famous love-rival legend, and the Fields Medal, the maths prize created instead."
 pubDate: 2026-10-18T09:00:00+05:00
+updatedDate: 2026-10-29
 category: "Awards"
 image: "/images/why-no-nobel-for-mathematics.webp"
 imageAlt: "An original illustration of a golden Nobel-style medal resting beside an open mathematics book full of numbers and shapes, with one empty chair among the prize categories."
@@ -74,6 +75,16 @@ So mathematics never got its Nobel. Instead, it got something arguably better su
 ## You may also like
 
 - [Youngest Nobel Winner In History](https://talhablog.com/blog/youngest-nobel-prize-winner-ever/)
+
+## My Take: No Nobel For Mathematics Needs No Love Story
+
+The whole story starts with a single document. Alfred Nobel was a Swedish inventor, entrepreneur, scientist, and businessman. In 1895, he signed his last will and left most of his fortune to create a set of prizes. Here is the part most articles will not tell plainly: the real reason is not known. NobelPrize.org answers the public's most common questions, and this question is among them, why is there no Nobel Prize in mathematics, engineering, biology, or environmental science, and the honest answer is that nobody knows the real reason. That honesty, in the post, is the starting point, and everything else is explanation, legend, or guesswork.
+
+In my view, the famous legend should be enjoyed as a story and rejected as history, because it fails the simplest test: evidence. The most repeated tale claims Nobel loved a woman who rejected or betrayed him for a brilliant Swedish mathematician named Gosta Mittag-Leffler, and that Nobel, heartbroken and vengeful, left mathematics out of his will to punish the man. The post sets out why historians reject that tale, and I think the rejection is convincing. A story that changes its central person in each retelling is not history. It is gossip that has been repeated until it sounds like fact. The legend survives, in my view, because it is a better story than the truth, which is that a practical inventor simply did not include a field that was not central to his life's work.
+
+What historians think probably happened, in my view, is calmer, more sensible, and more fitting for the man we actually know. Nobel was a practical inventor, not a theory man, and his will praised work of practical benefit to humanity. Mathematics, in his time, was seen as a pure, abstract pursuit, far from the explosives, industry, and applied science that had made his fortune.  I think readers should prefer the calmer explanation, not because it is more exciting, but because it is more consistent with the evidence we have.
+
+What should the reader do differently? First, treat the love-rival legend as a legend, and stop repeating it as the reason, however often it appears. Second, notice what mathematicians did instead of waiting for Stockholm to change its mind. They created their own highest honours. The Fields Medal, described by Encyclopaedia Britannica as often considered the mathematical equivalent of the Nobel Prize, carries a time limit, and the Abel Prize, named after Niels Henrik Abel, was designed in Norway to look much more like a Nobel, with a memorial fund established on 1 January 2002. In my view, those prizes are the real answer to the gap in Nobel's will. Mathematics did not need a revenge story to explain its absence, and it did not need Stockholm's permission to honour its own. The reader who knows the honest answer, nobody knows, and the real prizes, the Fields Medal and the Abel Prize, understands the subject better than the reader who knows only a good story.
 
 ## Frequently Asked Questions
 

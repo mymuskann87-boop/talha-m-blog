@@ -2,6 +2,7 @@
 title: "Virus Gangs Fought Online War"
 description: "In 2004 the Netsky and Bagle worm gangs battled for control of ordinary home computers, hiding insults for each other inside their own code."
 pubDate: 2026-10-23T19:30:00+05:00
+updatedDate: 2026-10-29
 image: "/images/virus-gangs-fought-online-war.webp"
 imageAlt: "An illustration of two playful cartoon robot mascots, one blue and one red, facing off like rival chess players across a giant circuit-board chessboard, flags raised."
 category: "Technology"
@@ -65,6 +66,14 @@ Finally, remember that strange behaviour is a clue worth acting on. A computer t
 ## You may also like
 
 - [Conti Gang Declared War Online](https://talhablog.com/blog/conti-gang-declared-war-online/)
+
+## My Take: Worm Gangs Fought Over Your Computer, Not With It
+
+The post describes 2004, when two rival families of email worms, Bagle, spotted in January 2004, and Netsky, following in February 2004, fought a street war across the internet. Both arrived as email attachments, tricked someone into opening them, collected email addresses, and sent themselves onward, turning machines into spam senders.  Then Netsky did something stranger: some versions, after taking over a computer, searched for Bagle or MyDoom infections and removed them, not out of kindness, but to throw a rival gang's furniture out of a house it wanted for itself. The computer stayed infected, stayed owned, and stayed useful for spam. It simply changed flags. Sven Jaschan, a German student who also wrote the Sasser worm, confessed to writing the Netsky family. The people behind Bagle were never identified, although widely believed to be connected to spam businesses. The war damaged victims whose computers slowed, whose inboxes filled, and whose addresses were used to spread the mess, and it damaged the gangs themselves by attracting police and security attention.
+
+My judgement is that the prize was the quiet family computer, and that fact should change how readers picture cybercrime. The battlefield was not a secret military network. It was the family PC in the corner of the living room, the small office machine, and the laptop a student used for homework, and neither army had asked owners for permission. A computer cleaned of Bagle and filled with Netsky had not been rescued. It had been captured, and territory meant machines, since ten thousand machines obeying the same distant owner become a valuable army for flooding the world with spam. Criminals who shout in public, even in code, leave the lights on for the people hunting them. The person who gains, in my view, is the reader who treats strange behaviour, mail sent by itself, a machine running hot and slow, or replies to messages never written, as a clue worth a full antivirus scan rather than a shrug. The person who loses is the reader who believes a computer running normally cannot be enlisted, forgetting that a bot still shows the desktop, opens files, and plays music while doing secret work underneath.
+
+What should change is the defence against the basic trick, which has not changed. First, keep an antivirus program running and let it update itself, since new variants appeared every few days and a tool a week behind was nearly blind. Second, install system and app updates promptly, since many infections succeed through flaws already fixed, in machines whose owners kept postponing the restart. Third, be suspicious of attachments even from friends, checking through another channel before opening an unexpected file, since worms travelled between people who trusted each other, which is exactly why they travelled so far. The saddest part, as the post says, is that the prize was never money in a vault, but the quiet family computer sitting in someone's living room.
 
 ## Frequently Asked Questions
 

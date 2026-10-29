@@ -2,6 +2,7 @@
 title: "Was Ronaldo 982nd Goal His"
 description: "The Saudi Pro League credited Ronaldo with his 982nd goal. Opta called it an own goal by Girotto. Both credits, the minute, and the precedent."
 pubDate: 2026-10-28T16:45:00+05:00
+updatedDate: 2026-10-29
 category: "Sports"
 image: "/images/was-ronaldo-982nd-goal-his.webp"
 imageAlt: "A free kick in a football match, with the ball in the air near a defender's head and Ronaldo watching, the moment of the disputed goal."
@@ -57,6 +58,16 @@ For Ronaldo, the practical effect is small. He needs 18 goals on one count and 1
 The match itself is not in dispute. Al Nassr beat Al Faisaly 3-1 on 23 October 2026, with goals from Al-Hamdan, the disputed 49th-minute goal, and Ângelo Gabriel, against Bongonda's reply for the visitors. What is in dispute is only the credit for one of those three goals, and the dispute exists because two respected sources apply different rules to the same deflection.
 
 Until a revision is announced by either the league or Opta, both counts remain in use, and any report giving only one number without naming its source is incomplete. The practical difference is one goal: 18 to go on the league's count, 19 on Opta's. The road to 1,000, including the scoring rate and the age question, is covered in this site's post on Ronaldo's road to 1,000 goals, and the milestone, when it comes, will need to be counted clearly from one of these two starting points.
+
+## My Take: Ronaldo's 982nd Goal Needs Its Source Named
+
+The post reports two answers from named sources. The Saudi Pro League credited the goal to Cristiano Ronaldo, putting his total at 982. Opta recorded the same goal as an own goal by Andrei Girotto, leaving the total at 981. The goal came in the 49th minute of Al Nassr's 3-1 win over Al Faisaly, after a free kick by Joao Felix. It was unclear whether Ronaldo got a clear touch before the ball struck Girotto and went in. The post takes no side, and reports both credits exactly as beIN Sports and ESPN reported them. A single number, given without its source, would hide that care.
+
+In my view, the league and Opta answer different questions. The league runs the competition, so it decides the official record for its own matches. It followed the common practice of crediting the attacker when a shot is heading towards goal and a defender deflects it. Opta supplies statistics to broadcasters, so it uses a stricter rule for consistency across thousands of matches. A decisive deflection by a defender, with no clear touch by the attacker, becomes an own goal. Neither approach, in my judgement, is a trick. My call is clear: use the league number for this competition, and Opta's number when comparing Ronaldo with players in other leagues and years.
+
+The precedent from 2010 supports that judgement. Playing for Real Madrid against Real Sociedad, Ronaldo took a free kick that deflected off his teammate Pepe and went in. The referee awarded the goal to Pepe, while the newspaper MARCA credited it to Ronaldo. The pattern is the same: a set piece, a deflection, and more than one honest credit. The post also notes a gap in the rules. The Laws of the Game do not define a detailed rule for statistical credit, so each body makes its own rules. I think that gap is the real problem. Until football has one public rule, every close goal near a defender will carry the same doubt.
+
+What should the reader do differently? First, never quote 981 or 982 on its own. Name the source in the same sentence, every time. Second, keep the distance to 1,000 in the same form: 18 goals to go on the league count, and 19 on Opta's count. Third, skip treating a celebration as proof. Ronaldo ran off celebrating, but that does not decide a statistical rule. Check the source before repeating a career total, and if the source is missing, treat the number as unfinished. That habit will stop a disputed deflection from turning into false certainty, and for a record people will quote for years, that matters more than picking a side today. That care is the right starting point for a reader who wants a number they can trust.
 
 ## Frequently Asked Questions
 

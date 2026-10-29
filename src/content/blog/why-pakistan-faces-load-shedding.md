@@ -2,6 +2,7 @@
 title: "Why Pakistan Faces Load Shedding"
 description: "Load shedding comes from a gap between electricity supply and demand, made worse by debt, theft, weak wires and fuel shortages. The ten causes."
 pubDate: 2026-10-28T16:45:00+05:00
+updatedDate: 2026-10-29
 category: "Pakistan News"
 image: "/images/why-pakistan-faces-load-shedding.webp"
 imageAlt: "A dark street in a Pakistani city at night during load shedding, with one house lit by a small lamp and the rest in darkness."
@@ -59,6 +60,16 @@ Solar growth is itself a sign of the problem and part of the answer. More and mo
 Load shedding will not end with one decision, because it has ten causes, and fixing one does not fix the other nine. Building a new power plant does not help if the wires cannot carry the power. Clearing the debt does not help if fuel shipments are delayed. Cracking down on theft does not help if the plants cannot run. The problem needs all of the fixes together, over years, and it needs them to be sustained through changes of government.
 
 For the people living with it, the honest answer is that load shedding is a symptom of a system that generates too little, loses too much, and charges too little to cover its costs, all at the same time. Understanding that does not bring the lights back on. But it does explain why the lights go out, and what would have to change for them to stay on.
+
+## My Take: Load Shedding Is Ten Failures, Not One Shortage
+
+Load shedding is the deliberate, planned cutting of electricity supply to some areas, for a period of time, to protect the whole power system. When demand is higher than supply, the grid, the network of wires carrying electricity across the country, must shed load, or the whole system risks a larger failure. The Solar Technology Institute lists ten causes that combine to create the crisis, starting with poor management and planning, as plants, transmission lines, and distribution networks have not kept pace with growing cities.
+
+In my view, the ten-cause list is the most important judgement in the post, because it stops the reader from picking one villain and missing the rest. Each cause, on its own, sounds like a complete explanation, and each, on its own, is incomplete. The fuel problem was visible in October 2026, when Dawn reported on 12 October that re-gasified liquefied natural gas plants were non-operational because war in the Middle East had delayed LNG cargoes, and the Lahore Electric Supply Company carried extra cuts as a result. I think the reader who understands load shedding as a chain, not a single break, will ask better questions, and will not be satisfied by a promise that fixes only one link.
+
+Circular debt, in my view, is the cause that most needs slow explanation, because it is the bill that never gets paid. The government owes money to power companies, power companies owe money to fuel suppliers, and fuel suppliers owe money to their own suppliers, because each link waits to be paid by the one before it. Theft makes the unfairness worse. When people connect illegally to wires, or bills go unpaid, the power company loses revenue and loses electricity it has paid to generate, and its response, in the post's account, is often to cut supply more heavily in areas with high losses. 
+
+What should the reader do differently? First, judge any promise to end load shedding by whether it names more than one cause. A promise that only builds a plant, only clears debt, or only catches thieves is a promise that leaves nine causes untouched. Second, watch the reforms the post lists together: better planning and investment in transmission and distribution, clearing circular debt, cracking down on theft, and securing fuel supply. Those reforms must move together, or the chain will break at its weakest link again. Third, remember that load shedding will not end overnight, because it has ten causes, and fixing one does not fix the other nine. In my view, the fair test is not whether the lights stay on for one week, but whether supply, wires, fuel, debt, and fairness improve together, over time. The reader who holds leaders to that whole list, rather than to one headline, understands why the lights go out, and what it will really take to keep them on.
 
 ## Frequently Asked Questions
 

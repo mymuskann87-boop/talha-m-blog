@@ -2,6 +2,7 @@
 title: "What Coalition Government Means Simply"
 description: "A coalition forms when no party wins a majority and parties must govern together. How it forms, what it can do, and why voters still matter."
 pubDate: 2026-10-28T16:45:00+05:00
+updatedDate: 2026-10-29
 category: "Politics"
 image: "/images/what-coalition-government-means-simply.webp"
 imageAlt: "A council chamber with empty seats in different colours, showing several parties sharing power, no single party holding a majority."
@@ -63,6 +64,16 @@ But the voter's role does not end on election day. Once a coalition government i
 Coalitions are not a new invention. In South Africa, there have been coalitions since 1994. The first democratic national government after the 1994 elections was a broad-based coalition, a Government of National Unity. There have also been coalitions at provincial level and in municipalities ever since the first democratic local government elections in 2000. They became a major issue after the 2016 and 2021 local elections, when more municipalities, including the biggest cities, had hung councils. After the 2021 elections, about 70 councils had no single-party majority and needed coalitions, a number that keeps changing as by-elections alter council compositions.
 
 The lesson of that history is simple. A coalition is not a failure of democracy. It is what democracy looks like when voters refuse to give any one party all the power. Whether it works depends less on the arithmetic and more on whether the partners can compromise, keep their agreements, and keep the services running while they argue about the rest.
+
+## My Take: A Coalition Is Judged By Services, Not By Seats
+
+The post starts with a council of ten seats, and the arithmetic is the starting point. Party A wins four seats, Party B wins three, Party C wins two, and Party D wins one. Nobody has the five seats needed for a majority, so two or more parties must combine their votes to elect a government and support its decisions. That is the South African Government's definition of a coalition government, needed when no single party has a majority. In South Africa, elections use proportional representation, so parties win seats roughly in proportion to votes received. 
+
+In my view, the arithmetic is the least interesting part of a coalition, and it gets far too much attention. The interesting part is what partners do with the numbers once they have them. A coalition can represent different political ideas and cultures, adopt compromise-based policies that may last longer than policies from one majority party, and, when well managed, make government more stable in the long run. The other case is set out just as clearly: a weak partnership falls into conflict, decisions are postponed, and the council becomes preoccupied with politics instead of service delivery. Municipalities handle water, sanitation, electricity, refuse removal, planning, and finances, so a council that cannot approve budgets hurts residents daily. My judgement: judge a coalition by services, not by seat numbers.
+
+A second judgement follows, concerning the deal itself. There is no fixed formula for forming a coalition, and talks cover who becomes mayor, premier, or president, which parties get which jobs, and what partners agree on in the budget and policy. Residents can reasonably ask whether there is a clear coalition agreement and whether parties explained what they agreed to do. I think that question should be a demand, not a polite request. A coalition without a clear, written agreement is built on handshakes, and handshakes are easily forgotten, as the post puts it. My call is to give no coalition the benefit of the doubt until its agreement is public and its partners can be held to it. That matters because a large party can be left out while a very small party gets in, and only a public agreement shows what was traded.
+
+What should the reader do differently? First, stop asking only who won, and start asking who agreed to what, in writing, before the first council meeting. Second, use the practical test the post gives: ask who is accountable, whether the council is functioning and approving budgets, whether basic services are delivered, whether finances are managed responsibly, and whether residents can raise concerns through ward meetings and public participation. Third, remember the voter's role does not end on election day, because a coalition in place is fully accountable to voters for all its decisions. A coalition is not a failure of democracy, as the post concludes, but what democracy looks like when voters refuse to give one party all the power. Power shared must be watched more closely, not less.
 
 ## Frequently Asked Questions
 

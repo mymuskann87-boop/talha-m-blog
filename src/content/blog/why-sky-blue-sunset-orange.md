@@ -2,6 +2,7 @@
 title: "Why Sky Blue Sunset Orange"
 description: "Why is the sky blue all day and orange at sunset? Sunlight looks white, yet scattered light paints the sky. The simple science, explained for everyone."
 pubDate: 2026-10-17T13:50:00+05:00
+updatedDate: 2026-10-29
 category: "Nature"
 image: "/images/why-sky-blue-sunset-orange.webp"
 imageAlt: "Illustration of green hills under a blue daytime sky on one side and an orange sunset over the sea on the other"
@@ -82,6 +83,16 @@ Blue sky and red sunset are not two different tricks; they are one trick seen at
 ## You may also like
 
 - [Volcano That Burns Bright Blue](https://talhablog.com/blog/volcano-that-burns-bright-blue/)
+
+## My Take: The Sky Is Blue Because Short Light Scatters Most
+
+ NASA explains that light from the Sun looks white, but it is really made up of all the colours of the rainbow, and a prism can prove it, by splitting white sunlight into its colours. When sunlight enters the atmosphere, it collides with these molecules, and the light gets scattered, thrown in different directions. Short waves scatter most, and blue light has short waves. At midday, the Sun is high, its light pours down through the air above us, and the blue part is scattered in every direction, up, down, left, and right. 
+
+In my view, the violet question is the best test of whether the explanation has really been understood, because it asks why the sky is not violet, when violet has even shorter waves than blue. NASA answers neatly: violet light is scattered even more than blue, but our eyes are more sensitive to blue, and there is less violet in sunlight to begin with, and some violet is absorbed higher in the atmosphere. The sky we see is therefore blue, not violet, because of a combination of physics and eyesight, not physics alone. The same combination explains why the sky looks pale near the horizon, even at midday. Light from the horizon has travelled through much more air than light from overhead, and along that longer path, blue is scattered away and other light mixes in, leaving a paler, almost white sky low down.
+
+ When the Sun sinks low, close to the horizon, its light must travel through a much longer path through the atmosphere than at midday. On that long road, the blue is scattered away, and the light that reaches us is the longer-wave light that survives the journey: orange and red. Clouds turn pink and red at sunset for the same reason. I think the sunset is the most useful proof of the daytime explanation, because it shows the same scattering, with the same air, producing a different colour only because the path is longer.
+
+What should the reader understand differently? First, do not think of the sky as a blue ceiling painted overhead. Think of it as air, lit from above, scattering short blue waves in every direction, so that blue reaches the eye from every part of the sky. Second, use the sunset as the check. If the sky is blue at noon and orange at sunset, with the same Sun and the same air, the difference must be the road the light travelled, and that road is the whole explanation. Third, answer a child's question with the one-breath version in the post: sunlight is many colours travelling together, the air throws short blue waves in every direction, and at sunset the light travels such a long road that only orange and red survive. In my view, a reader who can give that answer, and can explain why violet does not win, understands the sky better than a reader who only remembers the word scattering. 
 
 ## Frequently Asked Questions
 
