@@ -2,6 +2,7 @@
 title: "First Computer Bug Was Real"
 description: "What is a computer bug? In 1947 a real moth stopped a giant Harvard computer. The true story of the first real computer bug, and the word bug itself."
 pubDate: 2026-10-18T10:10:00+05:00
+updatedDate: 2026-10-29
 category: "Technology"
 image: "/images/first-computer-bug-was-real.webp"
 imageAlt: "An original illustration of a 1947 room-sized computer with engineers gathered around an open logbook holding a taped moth."
@@ -68,6 +69,14 @@ Every bug found since then — and there have been billions — carries a faint 
 ## You may also like
 
 - [First Computer Programmer Was Woman](https://talhablog.com/blog/first-computer-programmer-was-woman/)
+
+## My Take: The Real Computer Bug Teaches Doubt Over Neat Legends
+
+The post tells the story of the first real computer bug with unusual care. On 9 September 1947, at about 3:45 in the afternoon, operators of the Harvard Mark II, a machine weighing about 25 tons and spread across roughly 4,000 square feet, with about 13,000 relays, found a moth stuck in Relay number 70, on Panel F, stopping the current. The post is clear on two corrections most retellings get wrong. The logbook page is now held by the Smithsonian's National Museum of American History. Those facts, including the honest unknown about who pulled the moth out, are the only ground I will use.
+
+In my view, the moth matters less as an insect and more as a test of how easily a charming story replaces a true one. Readers love a single hero, a single moment, and a single origin, and the popular version supplies all three: Hopper finds the moth, the word is born, and computing gains its vocabulary in one afternoon. A story that needs a hero will invent one. That admission does not shrink Hopper. The person who carries a story can matter as much as the person who lived it, and confusing the two roles is the mistake that turns history into legend.
+
+My judgement on the word itself is that its age is the point readers should keep. The word bug was old long before any computer existed, used by engineers in the 1870s, given a place in a supplement of the Oxford English Dictionary, and understood instantly by the grandfathers' generation of engineers. The moth did not create the word. Two options face a reader who learns this: feel cheated, as if a beloved tale has been spoiled, and keep repeating the neat version because it is easier to tell; or prefer the true version precisely because it is messier, a giant machine with open windows, insects drawn by warmth, a team walking the floor checking parts one by one, and a joke that only works because the slang already existed. The second option wins, because it teaches the reader to check the next neat story before repeating it. The common mistake is to treat the museum object as proof of an origin it never claimed to prove. Historians value it as the most charming piece of evidence in the word's long life. What to do first when a famous story arrives is to ask what evidence it rests on: a logbook, a museum record, a letter from 1878, or merely a retelling that sounds good. What to do second is to separate the person who found something from the person who told the story well, and to credit each for the work they actually did. Doubt the neat legend, keep the charming evidence, and the moth keeps its place in the museum without having to carry a false origin on its wings.
 
 ## Frequently Asked Questions
 

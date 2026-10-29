@@ -2,6 +2,7 @@
 title: "First Worm That Slowed Internet"
 description: "In 1988, a curious student's experiment called the Morris worm escaped onto the early internet and slowed down one in every ten machines connected to it."
 pubDate: 2026-10-23T17:40:00+05:00
+updatedDate: 2026-10-29
 image: "/images/first-worm-that-slowed-internet.webp"
 imageAlt: "An illustration of a vintage 1988 university computer lab with chunky old monitors and one giant slow glowing worm crawling across all the screens."
 category: "Technology"
@@ -71,6 +72,14 @@ The deepest lesson of 1988 has not changed at all: weak passwords were the bigge
 ## You may also like
 
 - [Good Worm That Fixed Computers](https://talhablog.com/blog/good-worm-that-fixed-computers/)
+
+## My Take: The First Worm That Slowed The Internet Punished Trust
+
+The post tells the story of the Morris worm, released late at night on 2 November 1988 by Robert Tappan Morris, a 23-year-old graduate student at Cornell University, from a computer at MIT. Morris said his goal was simple curiosity: to measure the size of the internet, which then held only about 60,000 machines, mostly at universities, laboratories, and government sites. The incident led directly to the creation of the first CERT coordination centre. Those facts are the ground for my judgement.
+
+In my view, the Morris worm is remembered wrongly when it is remembered only as a student's prank that went too far, because the prank framing hides the system it exposed. The internet of 1988 was a friendly neighbourhood where computers trusted each other a great deal, and the worm did not break that trust by force alone. My judgement is that trust without limits is not kindness but carelessness, and the worm punished the internet for confusing the two. Morris supplied the flood, but the doors were already open, the passwords were already weak, and the trust was already unlimited. Blaming curiosity alone lets the owners of those doors off too lightly. The census was reckless. The system it measured was reckless first.
+
+My call on the punishment is that the court's gentleness was right in its reasoning and dangerous in its message, and both halves deserve to be kept. The court treated Morris far more gently than a true criminal, accepting that the act was reckless curiosity rather than an attack, since the worm stole and deleted no files, and the damage came from copies piling up, not from a plan to destroy anything. That distinction is fair, and a prison sentence for a measuring exercise that escaped would have punished curiosity itself, which the internet needed. Two options faced the world after 1988: treat the worm as a one-off accident, patch the two cracks, and keep the trusting neighbourhood intact; or treat it as a warning that trust must be earned, checked, and limited, with strong unique passwords, two-step verification, updates, and suspicion of shared logins. The second option wins, because the three tricks are still alive: hidden cracks in apps, guessing weak passwords, and misplaced trust in a hacked friend's account or a shared family login. What to do first is to keep everything updated, because updates seal the hidden cracks the worm lived inside. What to do second is to use a strong, unique password for every account, with a password manager, and to turn on two-step verification. What to do third is to be careful with shared and repeated logins, since one leak then opens everything, and the email password deserves the most care. Skip the habit of ignoring a machine that suddenly runs slowly. Curiosity built the census. Trust built the flood. Limits, chosen deliberately, keep the next census from becoming the next flood.
 
 ## Frequently Asked Questions
 

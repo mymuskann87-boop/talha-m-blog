@@ -2,6 +2,7 @@
 title: "How Electoral College Elects Presidents"
 description: "Americans vote for electors, not directly for president. How 538 electors, 270 votes, and a January count in Congress decide the White House."
 pubDate: 2026-10-28T17:30:00+05:00
+updatedDate: 2026-10-29
 category: "US News"
 image: "/images/how-electoral-college-elects-presidents.webp"
 imageAlt: "The United States Capitol building at dusk with an American flag and a ballot box in the foreground"
@@ -76,6 +77,14 @@ For readers outside America, the lesson is not to read election night totals as 
 
 - [What Does US President Do](https://talhablog.com/blog/what-does-us-president-do/)
 - [How US Supreme Court Works](https://talhablog.com/blog/how-us-supreme-court-works/)
+
+## My Take: How The Electoral College Elects Presidents Through States, Not Voters
+
+The post explains how the Electoral College elects the President of the United States, a system in which voters do not directly choose the president, but choose electors in each state, and the electors then cast the votes that decide the presidency. Each state has a number of electors equal to its seats in Congress, 538 in total, and a candidate needs 270 to win. That disagreement, defended and criticised in the same post, is the fact my judgement starts from.
+
+In my view, the Electoral College's most important effect is not who wins but where candidates campaign, and readers who argue only about fairness will miss the practical judgement the system forces. A candidate seeking the national popular vote would campaign where the people are, in the largest cities and the most populous states. A candidate seeking 270 electoral votes campaigns where the contest is close, in a handful of swing states, and largely ignores states already decided, however many people live there. I think that shift changes the presidency itself: the issues of swing states receive attention, promises, and visits, while the issues of safe states, whether large or small, receive silence. The system's defenders are right that small states keep a voice they might lose under a purely national vote. Its critics are right that a voter in a safe state has less influence than a voter in a swing state, because the outcome in the safe state is already known. Both claims can be true, and the system must be judged by which inequality a reader finds more acceptable: the inequality of population, or the inequality of attention.
+
+My call is that the winner-take-all rule, not the College itself, is the part that most distorts the result, and reformers who ignore it will argue about the wrong thing. Two options face a state deciding how to award its electors. The second option wins on fairness, because it wastes fewer votes, but it loses on simplicity, because a split system invites new arguments about districts and boundaries. The common mistake is to believe the College is either a sacred protection or a senseless relic. What to understand first is that the number 270, not the number of votes, is the target, and every campaign decision follows from that target. What to understand second is that the system can produce a president who lost the popular vote, and that outcome is not a flaw in the counting. It is the system working as designed, which is precisely why the argument about it never ends. Skip the belief that changing the system would settle the argument. Any system for choosing a president favours some voters over others, and the honest question is which favouring a country is willing to defend. The Electoral College elects presidents through states, not voters, and a voter who understands that will read every campaign map differently.
 
 ## Frequently Asked Questions
 

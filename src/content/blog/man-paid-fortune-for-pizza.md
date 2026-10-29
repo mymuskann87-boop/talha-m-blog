@@ -2,6 +2,7 @@
 title: "Man Paid Fortune For Pizza"
 description: "In 2010 a programmer paid 10,000 bitcoins for two pizzas worth about $41. Read that famous receipt line by line and see what the coins became."
 pubDate: 2026-10-19T22:10:00+05:00
+updatedDate: 2026-10-29
 category: "Technology"
 image: "/images/man-paid-fortune-for-pizza.webp"
 imageAlt: "A programmer opening two pizza boxes on a desk beside a glowing pile of golden bitcoin coins."
@@ -89,6 +90,14 @@ Laszlo Hanyecz did not lose a fortune on 22 May 2010. At the prices of that day,
 ## You may also like
 
 - [Teenager's Sasser Worm Grounded Flights](https://talhablog.com/blog/teenagers-sasser-worm-grounded-flights/)
+
+## My Take: The Bitcoin Pizza Proved Coins Were Real Money
+
+The post reads the Bitcoin pizza receipt line by line. On 22 May 2010, Laszlo Hanyecz, a software programmer from Jacksonville, Florida, paid 10,000 bitcoins for two large Papa John's pizzas, one cheese and one supreme, worth about 41 dollars, ordered by Jeremy Sturdivant, a 19-year-old forum user known as jercos, after Hanyecz posted the offer on 18 May and waited four days. Hanyecz was one of Bitcoin's earliest builders, had created the first Mac version of Bitcoin software in April 2010, and had discovered that graphics cards could mine coins far faster. His computers produced thousands of coins when almost nobody wanted them, and one bitcoin was worth about 0.004 dollars, so 10,000 coins were a fair price for the pizzas. Hanyecz kept buying pizza all summer, spending more than 79,000 bitcoins on pizza in 2010. In 2018 he bought pizza again with bitcoin through the Lightning Network, paying 0.00649 bitcoin.
+
+My judgement is that the receipt only looks mad when read with tomorrow's prices, and judging it that way is the common mistake the post warns against. At the prices of the day, Hanyecz paid a perfectly fair 41 dollars for dinner, and what he bought was proof, not pizza. Before 22 May 2010, nobody could be certain Bitcoin would ever work as money. It lived in code and theory, passed between hobbyists like a collectible token. The trade answered the question: a stranger would accept the digital coin, carry real food to a real door, and both sides would walk away satisfied. In my view, that is why 22 May is now Bitcoin Pizza Day, celebrated every year: it marks the first documented time anyone used bitcoin to buy a physical thing in the real world. Hanyecz himself said in 2019 that the transaction made Bitcoin real in his eyes, that it was not worth much at the time, and that if he had not done it, maybe Bitcoin would not have become so popular.
+
+What should the reader do differently? First, judge every early price by the knowledge available then, not by the peak that came later. Second, separate the experiment from the investment. Hanyecz was not a speculator or gambler, the post says, but a builder testing whether coins could buy dinner, and Sturdivant wanted an adventure and got one. Both got exactly what they paid for. Third, remember that prices swing sharply, and past peaks are not today's price, as the post stresses. What to skip is calling either man foolish, or treating the 1.1 billion dollar figure as money lost. It was never money in hand in 2010. It was a wallet full of a currency that could not buy anything, until one teenager agreed to accept it for pizza. That agreement, in my opinion, is the fortune in the story, and it cannot be priced at any later peak.
 
 ## Frequently Asked Questions
 

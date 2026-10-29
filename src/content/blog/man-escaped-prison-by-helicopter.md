@@ -2,6 +2,7 @@
 title: "Man Escaped Prison By Helicopter"
 description: "Pascal Payet escaped by helicopter twice, and sent one back for friends. His escapes and the crime behind them."
 pubDate: 2026-10-19T21:20:00+05:00
+updatedDate: 2026-10-29
 category: "Crime"
 image: "/images/man-escaped-prison-by-helicopter.webp"
 imageAlt: "A helicopter hovering above a high-security prison roof at dusk while searchlights sweep the yard below."
@@ -81,6 +82,14 @@ Payet remained in custody from September 2007 until April 2019, when he was rele
 ## You may also like
 
 - [Man Robbed Bank With Lemon](https://talhablog.com/blog/man-robbed-bank-with-lemon/)
+
+## My Take: Pascal Payet Escapes Prove Prisons Forgot The Sky
+
+The post counts down three helicopter escapes connected to Pascal Payet. In July 2007, four masked men hijacked a helicopter at Cannes-Mandelieu airport, took the pilot hostage, landed on the roof of Grasse prison, and freed Payet from solitary confinement in about five minutes. The pilot was released unharmed at Brignoles. Payet was captured on 21 September 2007 in Mataro, Spain, handed back on 4 October, and given further sentences, 15 more years in June 2008 for armed robberies and attacks on police while on the run, and five more years in April 2011 for the 2007 escape. Behind the escapes is a killing: on 20 November 1997, during an attack on a Banque de France armoured car in Salon-de-Provence, a security guard was killed, and Payet was sentenced in January 2005 to 30 years for murder. I think the post is right to keep that crime in view throughout, because daring without it becomes mere entertainment.
+
+My judgement, following the Crime angle, is about the pattern, not the drama: every escape exposed the same weakness, and every escape ended the same way. Prisons of that time were designed against attacks from the ground, walls, gates, towers and patrols, while a helicopter ignored all of it, arriving without warning, landing on a roof or yard, and leaving in minutes. France tried moving Payet constantly, watching him closely, keeping him in solitary confinement, and holding him under especially high surveillance, never in one prison more than about six months. In July 2007 he escaped anyway, because the weakness was not one prison. It was the open sky above all of them. In my view, the common mistake is to admire the planning and forget the arithmetic. Three helicopter operations, three captures, and a record for planning the most helicopter escapes of any prisoner, yet no lasting freedom. Skill spent running from a sentence for taking a life bought only weeks of freedom and years of extra punishment.
+
+What should the reader take from this? First, judge prison security by its weakest direction, not its strongest wall. The watchtower guards in Grasse could not shoot at the helicopter, the layout prevented it, and five minutes was enough. A system built only for the ground will always be surprised from the air. That gap is the real cost, and no cleverness cancels it. Second, resist the television version, in which an escape is an ending. In this case the ending was ordinary and on the ground: secret custody, further sentences, and parole in April 2019. What to skip is the idea that escape proves a system can be beaten for good. It proves only that a gap exists until it is closed, and that closing it, after Payet's case became a reference for prison security against attacks from the air, was the lasting lesson. The sky, in my opinion, was the pattern. The capture was the conclusion.
 
 ## Frequently Asked Questions
 

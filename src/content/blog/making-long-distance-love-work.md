@@ -2,6 +2,7 @@
 title: "Making Long Distance Love Work"
 description: "Long distance love works when both people share a plan, share small daily moments, and keep choosing each other. Practical advice that actually helps."
 pubDate: 2026-10-28T18:00:00+05:00
+updatedDate: 2026-10-29
 category: "Romance"
 image: "/images/making-long-distance-love-work.webp"
 imageAlt: "Two coffee cups on a table beside a phone showing a video call, with a window and evening light behind"
@@ -76,6 +77,14 @@ Ask for help when you need it. Talk to a trusted friend, a counsellor, or a coup
 
 - [How To Write Love Letter](https://talhablog.com/blog/how-to-write-love-letter/)
 - [Rain Brought Them Together Again](https://talhablog.com/blog/rain-brought-them-together-again/)
+
+## My Take: Long Distance Love Needs A Shared Endgame First
+
+The post, following Cupla's guide, sets out practical advice for long-distance love, starting with an honest admission: technology makes contact easier than ever, yet a screen cannot replace sitting on the same sofa, and couples miss small unplanned moments like cooking together or falling asleep in the same room. Cupla notes about three million Americans live apart from a spouse at some point, and 75 percent of college students have engaged in a long-distance relationship. The foundation is a shared endgame: both people should know why they are apart and share an expectation of when they will be back together, revisited honestly as plans change. I think the post's strength is that none of it is magic. All of it takes effort from both people, on purpose, again and again.
+
+My judgement is that the shared endgame is not one tip among many, but the test that decides whether the other tips are worth doing, and couples should settle it before they perfect their video-call routine. A shared endgame gives hard days a purpose, the post says, and without one, distance can feel endless, and endless distance wears love down. In my view, the common mistake is to treat contact as the solution, piling on messages and calls while the future stays unspoken. Contact without a shared expectation becomes noise, and silence without a shared expectation becomes worry. The post's advice on small moments is the right second step, because a relationship is built from hundreds of small moments, not a few grand gestures, and over distance those moments must be sent, since they cannot be witnessed. Honest discussions, even hard ones, are far more effective than assumptions and guessing about what a partner wants.
+
+What should the reader do differently? First, have the endgame conversation explicitly, and keep having it, including the hard questions about whether it is still working and what the next step is. Second, be deliberate in small ways: respond when a partner reaches out, keep scheduled chats and date nights, remember important days, follow up on what excited or worried them, and say where you are going and when you will be busy. Reliability in small things builds trust faster than words, and jealousy grows in silence, while constant checking only exhausts both people. What to skip is pretending distance does not matter, or staying together out of habit, guilt or fear when the endgame keeps moving away, calls feel like duty, trust cannot be rebuilt, or one person has stopped making time. Asking for help from a friend, counsellor or therapist carries no shame, and a relationship that ends with kindness and honesty is not a failure. Trying requires two people, fully, and no advice can replace the second one.
 
 ## Frequently Asked Questions
 

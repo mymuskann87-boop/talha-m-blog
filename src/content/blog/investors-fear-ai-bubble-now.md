@@ -2,6 +2,7 @@
 title: "Investors Fear AI Bubble Now"
 description: "One trading day on Wall Street turned into a slide, as tech shares fell hard and a giant pension fund quietly stepped back from the biggest AI names. Here"
 pubDate: 2026-10-23T14:00:00+05:00
+updatedDate: 2026-10-29
 image: "/images/investors-fear-ai-bubble-now.webp"
 imageAlt: "An illustration of a giant soap bubble shaped like a robot head floating over a worried stock exchange floor with red falling charts."
 category: "Business"
@@ -89,6 +90,14 @@ What this day proved is smaller, and more solid: the question can no longer be i
 ## You may also like
 
 - [Bubble Wrap Was Wallpaper First](https://talhablog.com/blog/bubble-wrap-was-wallpaper-first/)
+
+## My Take: The AI Bubble Question Is About Price, Not Technology
+
+The post describes one trading day on Wall Street when the Nasdaq fell 2.6 percent in a tech sell-off, Asian equities followed lower, Japanese government bonds rallied and the yen strengthened in a flight to safety, and CalPERS, California's giant pension fund, sharply cut its holdings in the Magnificent Seven, citing doubts over lofty valuations and soaring spending on artificial intelligence. The post explains a bubble in plain words: prices rise far above what something is truly worth, carried by excitement and belief, and then belief cracks. Tech companies are spending enormous amounts on data centres, chips, power and people, and the question is whether future profits will be real enough to justify today's prices. I think the post's key distinction is the one it returns to at the end: a technology can change everything and still be priced too high for a while. Both things can be true at once.
+
+My judgement is that the CalPERS move matters more than the 2.6 percent fall, and readers who only watch the daily number will miss the signal. A pension fund is different. When an allocator of that size trims its position in the very group that has driven the market's returns, people pay attention, because the guardians of ordinary people's savings are asking the hard questions first. I think the honest reading is narrow: one fund's move proves nothing about the trend on its own, a trim is not an escape, and CalPERS did not declare the giants worthless. What it proves is that doubt about AI prices can no longer be whispered. It is being asked in the open by some of the most careful pools of money in the world, and that changes the debate even if it does not decide it.
+
+What should the reader do differently? First, separate the technology from the price. Railways were real and railway shares still crashed in their early days, the internet was real and internet shares still crashed before the internet conquered the world, and the same can be true of artificial intelligence. The question is not whether AI will matter. It is whether today's prices already assume too much of the future, too soon. Second, remember how widely the risk spreads: retirement funds buy indexes, indexes are dominated by the giant tech stocks, so when the giants wobble, the savings of millions wobble quietly with them, in accounts most people check once a year. What to skip is the conclusion that one red day means the boom is over, or that one calm day means the doubt has gone. In my view, the day proved only something smaller and more solid: the doubt is now too loud to ignore, and that is how every big market story begins, not with an answer, but with a doubt too loud to whisper.
 
 ## Frequently Asked Questions
 

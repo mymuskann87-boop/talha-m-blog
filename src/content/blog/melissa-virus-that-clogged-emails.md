@@ -2,6 +2,7 @@
 title: "Melissa Virus That Clogged Emails"
 description: "The Melissa virus hid inside a Word document and emailed itself to fifty people at a time, flooding and shutting down email systems around the world."
 pubDate: 2026-10-23T17:50:00+05:00
+updatedDate: 2026-10-29
 image: "/images/melissa-virus-that-clogged-emails.webp"
 imageAlt: "An illustration of a giant office mail server bursting at the seams as millions of paper envelopes explode out of it in every direction."
 category: "Technology"
@@ -62,6 +63,14 @@ None of the defences here are complicated, and together they stop almost every a
 ## You may also like
 
 - [Klez Sent Emails As You](https://talhablog.com/blog/klez-sent-emails-as-you/)
+
+## My Take: Melissa Flooded Email Without Breaking A File
+
+The post describes Melissa, a macro virus that appeared on 26 March 1999, hidden inside Microsoft Word documents. A macro is a small set of automated instructions inside a document, and when the document was opened with macros switched on, Melissa used Microsoft Outlook to mail itself to the first 50 addresses in the victim's contact book, in a single silent moment. Melissa never tried to destroy a file. Its damage came from the flood: every opened document sent fifty copies, every copy could send fifty more, and email systems at major companies and government bodies, reported to include Microsoft, Intel and the US Marine Corps, buckled, with some organisations switching email off completely. Estimates put the total cost at around 80 million dollars. Modern software is far stricter about macros, but the same trick returns as invoices, delivery notes and contracts asking the reader to enable content.
+
+My judgement is that Melissa's power lay in borrowed trust and multiplication, not in destruction, and that is why it should be remembered differently from viruses that delete files. Nobody's information was stolen and nothing was broken, the post says, yet the worlds of large companies stopped simply because there was too much mail. In my view, the common mistake is to rank malware only by what it deletes or steals, and to call Melissa harmless because it left files alone. A flood that stops email stops work, and work stopped at some of the largest organisations on Earth, on a Friday afternoon, from one skilled person, one clever document, and one promise of secret passwords. Each opening lit fifty more fires, like a post office where every letter photocopies itself fifty times.
+
+What should the reader do differently? First, never switch on macros in an unexpected document. If a file you did not ask for tells you to enable content to view it, treat that as the loudest alarm bell, since a real invoice does not need a tiny robot inside it to show you the bill. Second, check with the sender through a different door: message or call them separately and ask if they really sent it, because one ten-second check breaks the chain of borrowed trust completely. Keep Word, email and system updated, and back up important files somewhere separate, so a modern macro virus that locks or damages documents turns a disaster into an inconvenience. What to skip is the belief that the original Melissa is gone, so the danger is gone. The original is a museum piece, but its children are everywhere, and the button labelled Enable Content is the modern version of switching macros on. The defence, in my opinion, has not changed since 1999: do not trust the familiar name, do not press the button, and ask the real sender first.
 
 ## Frequently Asked Questions
 

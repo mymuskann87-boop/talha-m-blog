@@ -2,6 +2,7 @@
 title: "How Nobel Prize Winners Chosen"
 description: "How are Nobel Prize winners chosen? You cannot apply for a Nobel Prize. The secret journey from nomination to the December ceremony, in simple words."
 pubDate: 2026-10-17T13:30:00+05:00
+updatedDate: 2026-10-29
 category: "Awards"
 image: "/images/how-nobel-prize-winners-chosen.webp"
 imageAlt: "A golden medal beside a sealed envelope, with thoughtful judges sitting behind it."
@@ -66,6 +67,16 @@ So the next time the October headlines appear, you will know the hidden story be
 ## You may also like
 
 - [Man Refused Nobel Prize Deliberately](https://talhablog.com/blog/man-refused-nobel-prize-deliberately/)
+
+## My Take: The Nobel Prize Rewards Quiet Work, Not Loud Campaigns
+
+The post describes a system built to resist noise. Nobody can apply, and nobody can put their own name forward. The people who may nominate are invited experts, professors, academy members, earlier winners and, for peace, lawmakers. Nominations close on 31 January, committees study the names from February to September, and many nominations do not force a win. Names stay secret for fifty years. Winners are announced in October and receive the medal, diploma and prize money on 10 December. I think the design is a choice about trust. The system would rather miss a deserving person than let the prize become a popularity contest, and it pays for that choice with silence.
+
+My call is that the fifty-year rule is the prize's real strength, and also its real weakness. The strength is plain: when committees know that no nominee will be embarrassed and no campaign can be run in public, they can judge the work itself. A name sent by only a few people can still rise if the work is judged truly great. The weakness is just as plain: the public cannot check the choice while it matters. When a newspaper claims someone was nominated in a given year, nobody outside the committees can truly know yet, so the honest reader must treat such claims as guesses. That trade-off is worth it, in my view, for science and literature, where work can be read and tested over time.
+
+The common mistake is to treat the October announcements as a final ranking of human worth. They are not. A prize can be shared by as many as three people, the peace prize can go to an organisation, and a prize can be held back when no candidate reaches the standard. The committees are answering a narrower question: did this work bring an outstanding benefit to humanity, judged by experts in that field, in that year? A person who never wins has not been judged unworthy in any general sense. They may never have been nominated, or another achievement may have been judged stronger that year. Bertrand Russell, nominated 47 times before winning in 1950, warns against reading too much into any single year.
+
+What should a reader do differently? First, stop asking who was robbed and start asking what the winning work actually changed. Read the committee's reason, if it is given, and ask whether the benefit is clear and lasting, or depends on reputation alone. Second, treat secrecy as a reason to be patient rather than suspicious, since the full story arrives in fifty years, as it did when the world learned in 2014 who had first nominated Martin Luther King Jr. in 1963. What I would skip is the annual guessing game about nominees. It rewards the loudest voice in exactly the way the system was built to ignore. The quiet rule is the point.
 
 ## Frequently Asked Questions
 

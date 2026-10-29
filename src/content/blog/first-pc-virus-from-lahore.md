@@ -2,6 +2,7 @@
 title: "First PC Virus From Lahore"
 description: "Brain, the first personal computer virus, came from Lahore in 1986. Two brothers, a small computer shop, and their names and phone number in the code."
 pubDate: 2026-10-23T21:50:00+05:00
+updatedDate: 2026-10-29
 image: "/images/first-pc-virus-from-lahore.webp"
 imageAlt: "An illustration of a cozy 1986 computer room in Lahore with mosque domes on the skyline at dusk seen through the window, and one glowing floppy disk rising like a small star."
 category: "Technology"
@@ -69,6 +70,14 @@ Nobody needs to fear Brain itself today — modern systems do not wake up from f
 ## You may also like
 
 - [First Virus On Floppy Disks](https://talhablog.com/blog/first-virus-on-floppy-disks/)
+
+## My Take: The First PC Virus Signed Its Crime With An Address
+
+The post tells the story of Brain, which appeared in January 1986 and is recognised as the first computer virus made for IBM PC-compatible computers. Its creators were two brothers from Lahore, Pakistan, Basit Farooq Alvi and Amjad Farooq Alvi, who ran a small business called Brain Computer Services. It spread person to person on borrowed disks, reached the United States, and alarmed universities. Calls from around the world became so many, the brothers recalled, that the phone line had to be cut. Those facts, with the motive kept as the brothers' account, are the ground for my judgement.
+
+In my view, the return address is the detail that changes everything, and readers who treat it as a funny footnote will miss the judgement the story demands. Almost every virus story that came after Brain was written by shadows, by people who hid their names, their places, and their reasons. Damage is easy to judge: Brain deleted nothing, stole no passwords, and by modern standards was more mischievous than destructive. Openness is harder to judge, because it mixes motives that do not sit comfortably together. The method was a trap. The signature was honest. A signed trap is still a trap, and a trap that announces its maker is not thereby made fair to the people caught in it.
+
+My call is that the brothers' explanation should be heard, weighed, and not accepted at face value, exactly as the post presents it. Their account is that Brain was meant to travel with illegal copies of their medical software, as a quiet tracking device, to see how far stolen software spread. Whether a reader fully believes that explanation or not, the shape of it is fascinating, and the fascination should not replace scrutiny. The winner in the brothers' version is the shopkeeper defending his work. Both versions can be true at once. Two options face a reader judging Brain today: treat it as a charming origin story, the first piece of Pakistani software the whole world ever ran; or treat it as the moment a private grievance learned to travel the world on borrowed trust. The second option wins, because the road was never really the floppy disk. The road was trust. What to do first is to refuse that road without a check: never start a computer from an unknown disk or USB stick, scan borrowed media before opening anything, and be careful with free copies of paid software. What to do second is to keep backups, because Brain deleted nothing but many descendants are far less polite. Skip the temptation to excuse a program because its makers signed it. A signature explains a motive. It does not grant consent, and consent was never asked of the people whose disks Brain entered. Remember the phone calls, remember the cut line, and remember the disks that never asked for the brothers' names, and the story stays honest.
 
 ## Frequently Asked Questions
 

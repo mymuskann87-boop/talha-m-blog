@@ -2,6 +2,7 @@
 title: "Man Stole Mona Lisa Painting"
 description: "In 1911 a quiet museum workman stole the Mona Lisa from the Louvre and walked out with it. The dated timeline of the theft that made a painting famous."
 pubDate: 2026-10-19T19:20:00+05:00
+updatedDate: 2026-10-29
 category: "Crime"
 image: "/images/man-stole-mona-lisa-painting.webp"
 imageAlt: "An empty space on a Louvre gallery wall with four bare iron pegs where the Mona Lisa once hung."
@@ -63,6 +64,14 @@ Honestly, yes — a very large part of her fame begins here. Before 1911 the *Mo
 ## You may also like
 
 - [Man Sold Eiffel Tower Twice](https://talhablog.com/blog/man-sold-eiffel-tower-twice/)
+
+## My Take: The Mona Lisa Theft Made Fame, Not Just Headlines
+
+The post gives a dated timeline. Vincenzo Peruggia, born 8 October 1881 in Dumenza, moved to Paris in 1908 and worked briefly in the Louvre, helping build the protective glass case for the Mona Lisa. On Monday 21 August 1911, the museum's closing day, he entered in a white work smock, lifted the painting off four iron pegs, removed case and frame on a service stairway, hid the 53 by 77 centimetre panel under his smock, and walked out through a service door unlocked by a plumber. Detectives visited Peruggia's apartment twice, with the painting hidden in a trunk, and left, without comparing a thumbprint he left on the glass with fingerprints already in police files. In November 1913 he wrote as Leonardo to dealer Alfredo Geri in Florence, offering the painting for a reward, was arrested on 12 December 1913, and the painting toured Florence, Milan and Rome before returning to the Louvre on 4 January 1914, when more than 100,000 people came in two days.
+
+My judgement, following the Crime angle, is about the pattern, not the romance: the theft succeeded through ordinariness, and the fame it created was an accident of absence. Peruggia was not beaten by genius, the post says, but police were beaten by their own assumptions. A quiet workman in a white smock, a painting often taken down for photographs, a thumbprint never compared, a trunk never opened: each step worked because nobody expected the thief to be the man standing in plain sight. In my view, the common mistake is to treat Peruggia as a master criminal. He was a man who knew one case, one wall, and one door, and who used that narrow knowledge patiently. Both motives, pride and profit, probably lived in the same man. The light sentence, helped by the court's view of patriotic motives, shows how the story was read at the time, as a national gesture rather than a simple theft.
+
+What should the reader take from this? First, judge security by its assumptions, not only its locks. The Louvre had alarms in no useful sense that morning, no chase, no broken windows, only a door, a smock, and a plumber's kindness. A system that trusts familiar clothing and familiar routines will be surprised by a familiar face. Second, understand why the painting became famous: before 1911 it was admired by artists and scholars but not widely known outside the art world, and the two-year disappearance, headlines, wanted posters, postcards and songs turned it into a household name. The crowds who queued to see an empty wall were the first of the millions who queue today. What to skip is the legend that a single daring morning made a masterpiece. The masterpiece was already painted. The theft made the audience, and the audience has never left.
 
 ## Frequently Asked Questions
 

@@ -2,6 +2,7 @@
 title: "How US Supreme Court Works"
 description: "The Supreme Court hears fewer than 1 percent of cases sent to it, yet its rulings bind the whole country. How cases arrive, and how decisions are made."
 pubDate: 2026-10-28T17:45:00+05:00
+updatedDate: 2026-10-29
 category: "US News"
 image: "/images/how-us-supreme-court-works.webp"
 imageAlt: "The United States Supreme Court building in Washington DC with its marble columns and steps"
@@ -82,6 +83,14 @@ If you can answer those three questions, you can understand most Supreme Court n
 
 - [How Electoral College Elects Presidents](https://talhablog.com/blog/how-electoral-college-elects-presidents/)
 - [What Does US President Do](https://talhablog.com/blog/what-does-us-president-do/)
+
+## My Take: The Supreme Court Chooses Few Cases For Lasting Reasons
+
+The post describes a court of nine justices, appointed by the president and confirmed by the Senate, serving for life, whose rulings bind more than 330 million Americans and set precedent that lower courts must follow. Each year it receives around 10,000 petitions and agrees to hear only about 70 to 80 cases, fewer than 1 percent. Cases usually start in one of 94 district courts, move to a Court of Appeals, and reach the Supreme Court through a writ of certiorari, a formal request for review. The rule of four means that if at least four of the nine justices agree a case is significant, it will be heard, even if five would prefer not to. Decisions can be overturned only by a constitutional amendment or by the Court later reversing itself, and dissents matter because a dissent today can become the majority view in a future case. This is not a court that corrects every mistake. It chooses the questions whose answers will control the whole country.
+
+My judgement is that the rule of four is the most important and most misunderstood feature of the Court, and readers should value it more than any single ruling. The rule is a deliberate guard against a small majority burying difficult questions. A case that four justices find troubling will be heard, and the country will get a full argument, written briefs, oral argument, a majority opinion, and concurring and dissenting opinions, rather than silence. That matters because the Court's power is not only in what it decides, but in what it refuses to decide. When the Court declines a case, the lower court's ruling usually stands, which makes the Court the final word even without a hearing. The common mistake is to treat a refusal as an accident. It is a decision with real effect. The list of cases not taken is part of the story, not a gap in it.
+
+What should the reader do differently? First, use the post's three questions for any Supreme Court story: what question is the Court being asked to decide, what did the lower courts say and why did they disagree, and what rule will the decision set for future cases? The names and legal language matter less than the rule left behind. Second, pay attention to dissents, because today's dissent can become tomorrow's majority, and a dissent often explains the real disagreement more clearly than the majority opinion. Third, remember that precedent is cautious by design: stability helps people plan their lives, yet the Court does sometimes reverse itself when an earlier decision is judged wrong or no longer fits changed times. What to skip is treating each ruling as final in every sense. A ruling is final until an amendment or a later reversal changes it, and it is not frozen forever.
 
 ## Frequently Asked Questions
 

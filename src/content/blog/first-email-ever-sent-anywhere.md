@@ -2,6 +2,7 @@
 title: "First Email Ever Sent Anywhere"
 description: "The first email ever sent travelled between two computers in late 1971. How Ray Tomlinson sent it, and why he chose the @ symbol for every address."
 pubDate: 2026-10-23T10:50:00+05:00
+updatedDate: 2026-10-29
 image: "/images/first-email-ever-sent-anywhere.webp"
 imageAlt: "An illustration of two old computers in side-by-side 1971 offices connected by a cable, with the first email travelling between them."
 category: "Technology"
@@ -57,6 +58,14 @@ Personally, I find something perfect in the fact that the first message is missi
 ## You may also like
 
 - [Happy99 Sent Fireworks By Email](https://talhablog.com/blog/happy99-sent-fireworks-by-email/)
+
+## My Take: The First Email Matters Because Its Message Was Forgotten
+
+The post gives the first email an honest beginning: nobody knows what it said, including the man who sent it. Ray Tomlinson, working at Bolt Beranek and Newman in Cambridge, Massachusetts, sent a message in November or December 1971 from one computer to another a few feet away in the same room, connected through ARPANET rather than by a simple cable, addressed to his own mailbox, to prove that a message could leave one machine and arrive in a mailbox on a different machine. Those facts are the ground for my judgement.
+
+In my view, the forgotten message is not a gap in the story but the story itself, and readers who hunt for a lost first sentence are looking for the wrong treasure. Tomlinson treated the first line the way most people treat most messages: he sent it, it worked, and he moved on. Email was never meant to be a monument. That modest aim, not a grand speech, is why email conquered ARPANET so fast. The builders had imagined scientists sharing computing power. What the scientists actually wanted was to talk to each other. The first email's missing words prove that the invention was working as intended from the start: ordinary, forgettable, and useful, with the monument arriving later, unplanned.
+
+My distinctive judgement is that Tomlinson's smallest decision, the @ symbol, deserves more credit than his larger system, because it is the decision that made the system usable by everyone. He gave the half-forgotten symbol less than a minute of thought, studying his Model 33 Teletype keyboard and rejecting commas, slashes, and brackets because people used them in names, and his employer later said he saved @ from probable extinction. Two options faced him in that minute: invent a new mark, a code, or a longer address that only specialists would learn; or reuse a plain preposition that already meant at, so an address could be read almost like a sentence. The second option wins, and it has kept winning for more than fifty years, unchanged, because it asks nothing new of the reader. The common mistake is to read email's history backwards, as if the flood of 392 billion messages a day were the plan, and the quiet test between two machines were merely a humble start. The flood was not the plan. The plan was a note that could wait. What to do first when using email today is to protect that original virtue: write so the receiver can read at a convenient time, without demanding an instant reply. What to do second is to distrust any claim that a new tool must be grand, instant, or always present to matter. Skip the search for a perfect first message or a single hero moment. Tomlinson himself noted that others had sketched versions of the idea. If it does, its first message may be forgotten, and its monument will arrive anyway.
 
 ## Frequently Asked Questions
 

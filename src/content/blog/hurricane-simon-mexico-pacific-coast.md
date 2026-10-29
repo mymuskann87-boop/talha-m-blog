@@ -2,6 +2,7 @@
 title: "Hurricane Simon Slams Mexico Coast"
 description: "Mexico hurricane Simon, a Pacific hurricane, swept Mexico's Pacific coast with Tropical Storm Rachel, killing at least 5 people. What happened on the coast."
 pubDate: 2026-10-13T21:45:00+05:00
+updatedDate: 2026-10-29
 category: "Disasters"
 image: "/images/hurricane-simon-mexico-pacific-coast.webp"
 imageAlt: "Huge waves crash over a seafront wall as palm trees bend in heavy rain and wind beside coastal houses"
@@ -47,6 +48,14 @@ Ordinary residents, meanwhile, have learned to live in two minds. In Puerto Vall
 ## You may also like
 
 - [Istanbul Floods Kill Three People](https://talhablog.com/blog/istanbul-floods-kill-three-people/)
+
+## My Take: Hurricane Simon Warns Through Water, Not Wind
+
+The post describes two storms striking Mexico's Pacific coast one after another. Hurricane Simon formed on 7 October, reached Category 4 with sustained winds of about 250 kilometres per hour, stayed mostly offshore, weakened to Category 2 as it rubbed against the mountains, and was forecast to come ashore near Mazatlan as a Category 1. Tropical Storm Rachel brought flooding further north. At least five people died: a 71-year-old man in Chilpancingo when a wall collapsed, and four members of one family, including two children, near Ensenada in Baja California, with five people remaining missing at one stage, 32 people rescued by helicopter, and more than 50 people in temporary shelters. The National Hurricane Center warned of 5 to 10 inches of rain that could trigger life-threatening floods and mudslides, and waves up to five metres high. I think the numbers alone miss the pattern the post keeps returning to: the wind makes headlines, but water does most of the killing.
+
+My judgement is that the real story of Simon is not the Category 4 peak, but the danger that remained after the peak passed, and readers who relax at clear skies have misunderstood hurricanes. Puerto Vallarta woke to clear skies and even a rainbow, shops removed wooden panels, and people exercised along the seafront, yet the airport stayed closed until Tuesday morning, officials kept Sinaloa and Nayarit on alert, and the forecast still expected a landfall near Mazatlan. In my view, that is the turning point most coverage misses, because a weakening storm looks like a finished story. A Category 1 storm over soaked ground, with rivers already full and hillsides already loose, can still bury roads and homes under mud. The mercy that Simon stayed offshore and weakened should not be read as safety. It should be read as time bought, and time bought must be used to stay alert, keep roads clear, and keep shelters ready.
+
+What should the reader take from this? First, judge a hurricane by water and ground, not only by wind speed: rainfall totals, flooded rivers, landslides and power cuts tell more about the risk to life than the category number alone. Second, remember why this coast is so exposed. Warm Pacific water feeds storms, El Nino warming is fuelling a more intense season, Simon was the twenty-first named storm, and steep mountains squeeze rain down slopes at once, turning streams into torrents. Homes on hillsides and near riverbeds, often the homes of the poorest families, face the worst of it, and that is a fact about who loses most, not only about weather. Third, value the response described: brigades with heavy machinery, the Armed Forces, the National Guard and the Navy clearing roads, helicopters lifting people to safety, and residents who kept one eye on the forecast and one bag packed. Until officials say so, staying alert is not fear. It is the lesson of every storm on this coast.
 
 ## Frequently Asked Questions
 

@@ -2,6 +2,7 @@
 title: "Man Sold Rocks As Pets"
 description: "In 1975, Gary Dahl sold ordinary beach rocks as pets for $3.95 each and became a millionaire. The funny, true maths behind the Pet Rock."
 pubDate: 2026-10-19T19:10:00+05:00
+updatedDate: 2026-10-29
 category: "Business"
 image: "/images/man-sold-rocks-as-pets.webp"
 imageAlt: "An illustration of Gary Dahl smiling in a 1970s California bar, holding a cardboard pet carrier with air holes and a smooth grey rock resting on straw inside."
@@ -97,6 +98,14 @@ Every modern business that sells an ordinary thing at an extraordinary price thr
 ## You may also like
 
 - [Company That Sold Ice Abroad](https://talhablog.com/blog/company-that-sold-ice-abroad/)
+
+## My Take: The Pet Rock Sold A Laugh, Not A Stone
+
+The post describes Gary Dahl, a freelance advertising copywriter in California, who in 1975, in a bar where friends complained about vet bills, walks, messes and chewed furniture, announced his pet never needed food, walks, a vet, or cleaning, because his pet was a rock. The price was 3.95 dollars, cheap enough to buy on impulse, expensive enough to feel like a real present. At the peak, Dahl estimated sales of up to 100,000 a day, and roughly 1.5 million were sold, about 5.9 million dollars in sales, with profit reported at roughly 95 cents per rock, well over 1 million dollars in profit. Later joke products, a Sand Breeding Kit, Canned Earthquake, and others, came nowhere near the rock. He returned to advertising, published Advertising for Dummies in 2001, and died on 23 March 2015 aged 78. I think the post's key insight is that nobody was fooled for a second. Buyers knew what was in the box, and bought the shared laugh on purpose.
+
+My judgement is that the Pet Rock was not a trick, but a fair trade in laughter, and that distinction is the turning point most business retellings miss. Dahl never pretended otherwise, and that honesty was the whole joke. The stone was free anywhere on Earth, and the words were what people paid for: a manual that taught a rock to stay, with play dead performed perfectly every time, and house-training advice involving old newspapers. In my view, the common mistake is to call the buyers foolish, or Dahl a cheat. The buyers were, as the post argues, far smarter than the joke suggests, paying for a gift that kept being funny every time it was shown to someone new, the way people still pay for greeting cards and novelty gifts today. Value lived in presentation, the box, the bedding, the manual, and the perfect price.
+
+What should the reader take from this? First, judge a novelty by whether the buyer knows the joke and enjoys it, not by the cost of its raw material. A penny rock in a 3.95 dollar box is a bad deal only if the box contains nothing else. This box contained a story, a package that made people smile before opening it, and words to enjoy and share. By February 1976, barely six months after the craze exploded, sales had collapsed, and later products never repeated the success. What to skip is copying the rock itself. Every modern business selling an ordinary thing at an extraordinary price through story, humour and packaging is walking a path Dahl paved in 1975, but the path works only when the story is original, the price sits in the impulse zone, and the buyer is in on the joke from the first smile.
 
 ## Frequently Asked Questions
 

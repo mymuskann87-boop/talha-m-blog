@@ -2,6 +2,7 @@
 title: "Man Sold Eiffel Tower Twice"
 description: "Paris, 1925: a smooth con man posed as a government official and sold the Eiffel Tower for scrap — twice. The true story of Victor Lustig."
 pubDate: 2026-10-18T09:20:00+05:00
+updatedDate: 2026-10-29
 category: "Crime"
 image: "/images/man-sold-eiffel-tower-twice.webp"
 imageAlt: "An original illustration of a gentleman in a 1920s suit and hat walking away from the Eiffel Tower with a briefcase full of money, while a large SOLD tag hangs from the tower."
@@ -94,6 +95,14 @@ The Eiffel Tower still stands over Paris, unsold and unsellable. The real monume
 ## You may also like
 
 - [Man Stole Mona Lisa Painting](https://talhablog.com/blog/man-stole-mona-lisa-painting/)
+
+## My Take: Victor Lustig Sold Secrecy, Not The Eiffel Tower
+
+The post tells how Victor Lustig, born in 1890 in Austria-Hungary, sold the Eiffel Tower in 1925. Lustig read a newspaper story about maintenance costs, researched scrap-metal dealers, and sent letters on forged official stationery, claiming to be a Deputy Director of the Ministry of Posts and Telegraphs, inviting dealers to a secret meeting at the Hotel de Crillon. There he said the government would take the tower down, and the right to demolish it, with roughly 7,000 tons of metal, would go to the best bidder, with absolute secrecy. He chose Andre Poisson, new to Paris and hungry to be counted among important businessmen. Poisson paid about 20,000 dollars in cash, with a further 50,000 dollars tied to securing the winning bid, some 70,000 dollars in total, as reported by Smithsonian Magazine, after Lustig hinted at a bribe, which Poisson read as proof of a real bureaucrat. Lustig left for Austria within about an hour. Poisson, embarrassed, said nothing, so Lustig returned and tried again, but a dealer went to the police and Lustig fled to America.
+
+My judgement, following the Crime angle, is about the pattern, not the legend: Lustig sold secrecy, not a tower, and the victim's own ambition did half the work. Secrecy protected Lustig, not the government, because a dealer who believes he is inside a secret cannot phone a ministry, ask a friend, or check anything. The bribe was the cleverest part of the trap, because Poisson became more convinced, reasoning that a real bureaucrat would ask for one, while a fake would not dare. Shame then became the con man's best bodyguard: reporting the crime meant admitting he had tried to buy the tower and paid a bribe, so he swallowed the loss in private, and the silence told Lustig the trick was safe. The pattern, fake authority, secrecy, an inside favour, hurry, and shame as a shield, is the same toolkit the post says scammers still use today, with fake officials, tell-no-one deals, special offers, countdowns, and embarrassed victims staying quiet.
+
+What should the reader do differently? First, treat flattery and insider status as hooks: a special offer just for you, a secret investment, or a bribe that makes you feel chosen should increase suspicion, not trust. Second, report a scam however painful, because reporting protects the next person, and silence protects the scammer, as Poisson's silence allowed a second attempt. What to skip is the belief that intelligence alone prevents being conned. Lustig's victims were not unintelligent; they were rushed by ambition, isolated by secrecy, and trapped by shame. The Eiffel Tower still stands, unsold and unsellable, and the real monument of the story, as the post puts it, is a warning: whenever a stranger offers a secret fortune, remember Andre Poisson, feeling clever in a grand hotel, at the exact moment he was being robbed.
 
 ## Frequently Asked Questions
 

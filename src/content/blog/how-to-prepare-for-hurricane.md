@@ -2,6 +2,7 @@
 title: "How To Prepare For Hurricane"
 description: "Hurricanes can be forecast days ahead, so preparation saves lives. Board windows, plan evacuation, and never drive into flood water."
 pubDate: 2026-10-28T18:15:00+05:00
+updatedDate: 2026-10-29
 category: "Disasters"
 image: "/images/how-to-prepare-for-hurricane.webp"
 imageAlt: "A coastal house with boarded windows under dark storm clouds, with palm trees bending in strong wind"
@@ -82,6 +83,16 @@ If you live in a hurricane area, prepare this week, not when the next forecast a
 
 - [Hurricane Simon Slams Mexico Coast](https://talhablog.com/blog/hurricane-simon-mexico-pacific-coast/)
 - [What To Do During Flood](https://talhablog.com/blog/what-to-do-during-flood/)
+
+## My Take: Hurricane Safety Is Decided Days Before The Storm
+
+The post rests on one fact that changes everything: unlike earthquakes, hurricanes can be forecast several days ahead. Hurricane season runs from June through November, peaking in early to mid-September. A storm needs sustained winds of 74 miles per hour to count as a hurricane, while a tropical storm at 39 to 73 miles per hour can still kill. The guidance is practical and early: learn whether a home is in a flood or evacuation zone, make a written family plan with more than one route, an assembly point and an out-of-area contact, board up windows, and gather water, food, medicines, torches, batteries, a radio and documents in a waterproof bag. Keep cash in small notes, fill the car's fuel tank, and leave early if officials order an evacuation.
+
+My distinctive judgement is that the hardest decision in a hurricane is not physical at all. It is the decision to leave while leaving still looks unnecessary. Evacuation orders are not suggestions, and the bravest decision is often the earliest one: to leave while leaving is still easy. That is the turning point, because every other step can be done late and badly, but evacuation cannot. Once roads flood and traffic builds, the choice disappears. A reader who waits to see how bad the storm looks is trading a real choice for a guess, and emergency services may not be able to reach them by then. Coverage often misses this. It shows wind and waves, which look dramatic, while water, not wind, causes most hurricane deaths, through storm surge, heavy rain and rivers bursting their banks. The camera points at the wind. The danger is in the water.
+
+There is a second judgement about staying. The post allows staying only in a sturdy building, away from the coast and flood water, when no evacuation has been ordered, and it warns against the deceptive calm of the eye, when blue sky returns before the second half of the storm. Readers should treat staying as the option that needs proof, not leaving. The proof is a sturdy home, a safe zone, supplies for days, and official advice that supports staying. If any part of that proof is missing, leaving early is the safer call, even if neighbours stay and the sky is still clear.
+
+What should the reader do differently? First, make the plan this week if they live in a hurricane area, not when the next forecast appears: the assembly point, the out-of-area contact, the waterproof bag, the emergency agency's number. Second, practise it once in calm weather, so every member of the household knows it. Third, learn the flood rule by heart: never drive into flooded areas, abandon a car if water rises around it, and do not walk through flood water that may hide drains, wires and chemicals. What to skip is panic buying on the last day, which the post presents as the opposite of preparation. Calm, early and written: that is my test.
 
 ## Frequently Asked Questions
 

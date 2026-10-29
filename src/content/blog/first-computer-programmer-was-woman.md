@@ -2,6 +2,7 @@
 title: "First Computer Programmer Was Woman"
 description: "Asked only to translate a short article, Ada Lovelace handed back notes three times longer — including a set of instructions now called the first computer"
 pubDate: 2026-10-19T20:10:00+05:00
+updatedDate: 2026-10-29
 category: "Technology"
 image: "/images/first-computer-programmer-was-woman.webp"
 imageAlt: "Ada Lovelace at a writing desk beside the gears and punched cards of Babbage's planned Analytical Engine, her notebook open to tables of numbers."
@@ -59,6 +60,14 @@ Her notes were largely forgotten for a century, then republished in 1953 and rec
 ## You may also like
 
 - [First Computer Bug Was Real](https://talhablog.com/blog/first-computer-bug-was-real/)
+
+## My Take: The First Computer Programmer Saw Beyond Mere Calculation
+
+The post gives Ada Lovelace a careful history. Augusta Ada Byron was born in London on 10 December 1815, the only legitimate child of Lord Byron and Annabella Milbanke Byron, and she was educated in mathematics by tutors including Mary Somerville and Augustus De Morgan. In Note G she set out a complete method for calculating Bernoulli numbers, step by numbered step, using only addition, subtraction, multiplication, and division. She died on 27 November 1852, aged 36, and her notes were republished in 1953. Those facts, with their honest debate, are the ground for my judgement.
+
+In my view, the argument over whether Lovelace wrote every line alone misses the larger reason she matters, and readers who spend all their attention on authorship will miss the insight that made her famous among historians. The post is fair about the debate: Babbage designed the machine, sketched programs in private, and supplied formulas for the Bernoulli calculation, while Lovelace turned them into the first published step-by-step table and chose the examples herself. My call is that publication plus vision, not sole authorship, is the turning point. A program locked in a drawer, however clever, teaches nobody. A program the world can read, surrounded by notes whose vision went further than Babbage's own published words, changes what people believe a machine can do. A reader who only asks who held the pen will never see that leap.
+
+Two options face anyone telling this story: crown Lovelace as a lone genius who invented programming from nothing, hiding Babbage's earlier private programs and his help; or shrink her to a mere translator who copied Babbage's ideas, hiding that her notes were three times longer than the article, that the choice of illustrations was entirely hers, and that she corrected his serious mistake. Both options are dishonest, and both lose the most interesting truth: a collaboration in which the machine's designer and its first published interpreter needed each other, and in which the interpreter saw further. The loser in either dishonest version is Lovelace herself, turned into either a myth or a footnote, when the evidence supports neither. The common mistake is to judge Lovelace by whether her program ran. What to do first is to judge the notes by what they made possible to think: looping, reuse of cards, and operations on things besides number. What to skip is the demand for a single inventor with a clean title. Her own phrase for her approach, poetical science, the mixture of number and wonder, is the best guide to why she saw what others missed. Number alone would have produced a calculator. Wonder alone would have produced a poem. Together they produced a program, and being first in public, with reasons strangers a century later could still learn from, is how Lovelace earns her title.
 
 ## Frequently Asked Questions
 

@@ -2,6 +2,7 @@
 title: "Man Who Invented Instant Noodles"
 description: "In a small shed behind his house in Osaka, 48-year-old Momofuku Ando spent a year of failed experiments chasing a noodle that could wait in a cupboard"
 pubDate: 2026-10-22T13:10:00+05:00
+updatedDate: 2026-10-29
 image: "/images/man-who-invented-instant-noodles.webp"
 imageAlt: "An illustration of Momofuku Ando in a small wooden shed workshop, holding a steaming cup of instant noodles with chopsticks."
 category: "Business"
@@ -51,6 +52,14 @@ Hold the two ends of this story side by side. In 1958 there was one shed, one wo
 ## You may also like
 
 - [Kodak Invented Future, Missed It](https://talhablog.com/blog/kodak-invented-future-missed-it/)
+
+## My Take: Instant Noodles Won By Watching Hungry People First
+
+The post tells how Momofuku Ando, born in 1910 in Taiwan, moved to Osaka in 1933, set up a small food company in 1948, and in 1957-58, aged 48, worked alone in a shed behind his home in Ikeda, Osaka, with an old noodle machine, a wok, flour and oil, chasing a noodle block that could wait in a cupboard and return to life with hot water. Chikin Ramen went on sale on 25 August 1958, priced at 35 yen, roughly six times fresh noodles, with chicken chosen because chicken soup felt rich and sat comfortably with the food rules of almost every faith. Ando held tasting events, production barely kept up, and Mitsubishi helped carry noodles across Japan. During the Asama-Sanso hostage crisis, police eating Cup Noodles on television brought fame, and in November 1973 it went on sale in America as Cup O'Noodles. In 2005, at 95, Ando asked for Space Ram, eaten by astronaut Soichi Noguchi aboard Discovery. He died in 2007 aged 96.
+
+My judgement is that Ando's invention won because he watched hungry people before he watched markets, and that order is the turning point most business stories reverse. He began with lines of people in thin coats waiting in the cold for noodles made from donated wheat flour, and with a belief that a peaceful world begins the day everyone has enough to eat. A hot meal, he believed, should never require an hour of standing in the cold. In my view, the common mistake is to treat flash frying as a lucky kitchen accident. Ando went back the next morning. The tempura insight mattered only because a year of failure had taught him what to look for: water leaving fast, holes remaining, a block that could wait.
+
+What should the reader take from this? First, start from the queue, not the product. The shed, the wok and the borrowed idea from a family dinner were never grand, and the two Cup Noodles museums in Japan now invite children to invent something of their own, which is the right lesson. Second, price honestly for the value offered: 35 yen was six times fresh noodles, Cup Noodles about four times a simple pack, and both had to win people over by tasting, not by argument. What to skip is the idea that one clever idea is enough. Ando's idea needed a year in a shed, tasting events, a trip that broke the noodles, five more years for a cup, and a refusal to stop showing up. That refusal, in my opinion, is the invention behind the invention. The shed, the wok, and a family dinner together show invention starting small, with ordinary tools and patient watching. Ando refused to stop showing up to the shed, and that refusal mattered more than any single idea.
 
 ## Frequently Asked Questions
 

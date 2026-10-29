@@ -2,6 +2,7 @@
 title: "Lake That Turns Animals Stone"
 description: "A red lake in Tanzania is famous for turning animals to stone. Here is the true story of Lake Natron, its soda water, and its flamingos."
 pubDate: 2026-10-18T09:40:00+05:00
+updatedDate: 2026-10-29
 category: "Nature"
 image: "/images/lake-that-turns-animals-stone.webp"
 imageAlt: "An original illustration of Lake Natron's red alkaline water at dusk, with flamingo silhouettes standing still like statues along the shore and a volcano in the distance."
@@ -82,6 +83,14 @@ So the next time you see those grey, ghostly photographs, you will know the full
 ## You may also like
 
 - [Lake That Explodes Without Warning](https://talhablog.com/blog/lake-that-explodes-without-warning/)
+
+## My Take: Lake Natron Protects Flamingos With Its Harsh Water
+
+The post corrects a viral myth about Lake Natron, a shallow red lake in northern Tanzania, close to Kenya, less than three metres deep in most places, with no river flowing out. Water leaves only by evaporation, so salt and soda grow stronger, and the water usually measures about 9 to 10.5 on the pH scale, roughly like milk of magnesia, climbing towards 60 degrees Celsius in the hottest spots. The lake does not turn a living animal into stone in a flash. Birds and bats sometimes die there, for reasons not known in every case, and natron, a powerful drying mineral, pulls moisture and fat from a dead body while soda and salt crust over it, leaving a dried, hardened shape like a mummy. The famous 2013 photographs by Nick Brandt showed bodies he found already preserved, which he placed in lifelike positions.
+
+My judgement is that the post's real subject is not the dead animals, but the living ones that use danger as protection, and readers who only share the grey photographs miss the better story. Around two and a half million lesser flamingos gather at Lake Natron, and its shores are their only regular breeding ground in East Africa. They survive because tough skin and scales protect their legs, special glands remove extra salt through their nostrils, and they feed on spirulina algae. When water drops, salt and mud islands appear, flamingos nest on them, and a predator must wade through burning soda shallows to reach an egg, which almost none try. In my view, that reversal is the point: the deadliest water in the region has become its safest nursery. The common mistake is to call the lake a trap that grabs everything near it. Most wild animals give the open lake a wide berth, drink from fresher streams nearby, and treat the red water with respect. The lake has strict rules, and creatures beside it have learned them over thousands of years.
+
+What should the reader take from this? First, distrust the instant version of any viral picture. The photographs are real photographs of real animals, honestly explained by Brandt, but the myth grew when the internet repeated them with a scarier story than the truth, leaving out that he posed bodies already dried and preserved. Second, look for the flamingos, not only the statues. The redder the lake looks, the saltier it has become, and the tiny microbes colouring it are also the start of the food chain. What to skip is any wish to swim in it or test it. The water can burn skin and eyes, and a brief dip could cause serious burns. It is a lake for looking at, from a safe distance, while millions of pink flamingos raise their chicks where their enemies cannot follow. That, in my opinion, is wonderful enough without magic.
 
 ## Frequently Asked Questions
 

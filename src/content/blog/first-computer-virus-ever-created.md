@@ -2,6 +2,7 @@
 title: "First Computer Virus Ever Created"
 description: "What was the first computer virus? Creeper, a playful 1971 program that hopped between ARPANET computers, printing a taunt wherever it landed."
 pubDate: 2026-10-23T10:40:00+05:00
+updatedDate: 2026-10-29
 image: "/images/first-computer-virus-ever-created.webp"
 imageAlt: "An illustration of an old 1970s computer with a playful program hopping from machine to machine along glowing cables."
 category: "Technology"
@@ -67,6 +68,14 @@ In my view, the sweetest detail in this whole history is that it did not begin w
 ## You may also like
 
 - [CIH Virus That Killed Computers](https://talhablog.com/blog/cih-virus-that-killed-computers/)
+
+## My Take: The First Computer Virus Began As Play, Not Crime
+
+The post presents Creeper, the program often called the first computer virus, with careful honesty about its label. In 1971 Bob Thomas at BBN Technologies wrote Creeper as an experiment for DEC PDP-10 mainframes running the TENEX system on ARPANET, and it printed a teletype message about being caught, travelling from machine to machine. Only around 28 machines ran TENEX, permission was asked before the experiment ran, and Creeper deleted no files and damaged no data. Tomlinson built Reaper in 1972 to hunt Creeper down and delete it. Those facts, with the virus-or-worm argument left open, are the ground for my judgement.
+
+In my view, the label argument is useful, but the moral argument matters more, and readers who argue only about definitions will miss the warning the history carries. Creeper began with an engineer asking a curious question and a program whose entire payload was a joke printed on paper. My judgement is that the trick itself was never neutral, even when its first use was playful. Each step, the same basic trick reached more machines, more strangers, and higher stakes. Play does not stay play when the road it opens stays open.
+
+My call on the turning point is that Reaper, not Creeper, is the part of the story modern readers should copy. Defence did not arrive late to this story. Two options face a person who discovers a clever travelling trick today: treat it as a game, share it, and assume good intentions will contain it, as Creeper's friendly setting seemed to contain it; or build the stop at the same time as the trick, ask permission, limit the playground, and plan the cleanup before the first run. The second option wins, because the first depends on the world staying as small and friendly as ARPANET in 1971, with 28 machines and collaborators who knew each other. The world did not stay small. The winner in the Reaper option is every later user whose machine is defended by a descendant of that hunter. The loser in the play-only option is the ordinary person who never agreed to be part of the experiment but inherits its road. The common mistake is to read Creeper's harmlessness as proof that early viruses were safe. Its importance is not the program itself. It is the idea it proved: software could travel between computers on its own. What to do first when a new trick appears is to ask who else could use it, and what it would do in unfriendly hands. What to do second is to remember the definition the post gives: a virus hides inside another file and waits, while a worm travels across a network by itself, and knowing which road a threat uses helps a person close the right door. A playful trick that proves a road exists has already built the road, and the next traveller on that road may not be playing.
 
 ## Frequently Asked Questions
 

@@ -2,6 +2,7 @@
 title: "Messi Scores Twice After Farewell"
 description: "Four days after ending his 21-year Argentina career, Lionel Messi scored two goals as Inter Miami beat DC United 4-0. Luis Suarez also scored twice"
 pubDate: 2026-10-12T23:47:00+05:00
+updatedDate: 2026-10-29
 category: "Sports"
 image: "/images/messi-two-goals-inter-miami-dc-united-after-argentina-retirement.webp"
 imageAlt: "Illustration of a football star in a pink Inter Miami style jersey celebrating a goal under stadium lights"
@@ -56,6 +57,14 @@ There is no long rest ahead. Inter Miami are back at home on Wednesday night, wh
 ## You may also like
 
 - [Ronaldo Scores 980th Career Goal](https://talhablog.com/blog/cristiano-ronaldo-980th-goal-al-nassr/)
+
+## My Take: Messi Farewell Freed Him Instead Of Slowing Him
+
+The post describes Inter Miami beating D.C. United 4-0 in the MLS on Saturday night, 10 October, at Nu Stadium in Miami. Luis Messi's goals took him to 23 league goals and 13 assists for the season, four clear in the Golden Boot race ahead of Petar Musa, and chasing a second straight Golden Boot, with a possible third Landon Donovan MLS MVP award. Suarez reached 15 goals and 9 assists, his third straight year with at least ten goals and twenty goal contributions. Four days earlier, Messi had played his final match for Argentina, ending a 21-year international career, scoring once and creating two more against Benin. He played the full ninety minutes against D.C. United, with no sign of an emotional hangover, and Miami next host New York City FC on Wednesday night.
+
+My judgement is that the turning point of this match was not the farewell itself, but the way Messi and Suarez shared the work, and that shared work is what separates a celebration from a team finding rhythm again. In my view, the common mistake is to read the night only as Messi's personal story, the freed man playing with joy after a weight lifted, although the post does describe him that way, and with good reason. The fuller judgement is about Miami: five matches without a win, four draws and one loss, no victory since a 7-1 win over CF Montreal on 29 August, and real questions about direction, answered convincingly in one night. A team that wins with goals and assists spread across so many players, the post argues, is a side finding its rhythm at exactly the right time. That spread matters more, in my opinion, than any single goal, because it suggests the win can be repeated.
+
+What should the reader take from this? First, judge a 39-year-old not by age, but by output over ninety minutes: full match, two goals, involvement in Suarez's second, balance, control and calm finishing intact, and a season total of 23 goals and 13 assists that most forwards dream of at their peak. Messi returned, trained, started, and played with hunger from the first whistle. Second, keep the next test in view: New York City FC at home on Wednesday, with no long rest, and the final stretch deciding the Golden Boot and MVP races. What to skip is the idea that one 4-0 win settles the season, or that a farewell automatically ends a player's club form. Four days after closing the biggest chapter of his life, Messi has started writing the next one, and on this evidence, as the post says, it could be a very good one. The evidence, in my judgement, is not only the two goals. It is the team around him, sharing the work, and believing again.
 
 ## Frequently Asked Questions
 

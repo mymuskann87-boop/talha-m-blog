@@ -2,6 +2,7 @@
 title: "GandCrab Makers Claimed Two Billion"
 description: "In May 2019, the gang behind the GandCrab ransomware posted a proud farewell note claiming it had earned over two billion dollars — while police were"
 pubDate: 2026-10-23T20:20:00+05:00
+updatedDate: 2026-10-29
 image: "/images/gandcrab-makers-claimed-two-billion.webp"
 imageAlt: "An illustration of a proud cartoon crab wearing a gold crown, sitting on a mountain of gold coins inside a glowing cave of computer screens."
 category: "Technology"
@@ -89,6 +90,14 @@ You cannot control criminal gangs, but you can make their job much harder. These
 ## You may also like
 
 - [NotPetya Caused Ten Billion Damage](https://talhablog.com/blog/notpetya-caused-ten-billion-damage/)
+
+## My Take: GandCrab Claimed Billions But Free Keys Won Quietly
+
+The post tells the story of GandCrab, a ransomware family that appeared in early 2018 and spread through fake emails, hacked websites, and software cracks, locking victims' files and demanding payment in cryptocurrency for the key. Its makers operated a franchise model, sharing profits with partners who spread the infection, and they claimed to have made two billion dollars, a figure the post reports as the makers' own claim, not as a verified fact. The post notes that victims included hospitals, businesses, and ordinary people, and that many never paid, waiting for free tools or restoring from backups. That contrast, a huge claimed fortune against quiet free keys, is the fact my judgement starts from.
+
+In my view, the two-billion claim should be treated as part of the crime, not as a fact about it, and readers who repeat the number as if it were a bank statement will have done the makers' advertising for them. A claim made by criminals announcing their retirement is not evidence. It is a boast, designed to make the operation look unstoppable, to attract future partners, and to frighten future victims into paying quickly. What can be verified is impressive enough without the boast. A franchise that turned file-locking into a business, with partners, profit shares, and customer service for victims, changed ransomware from a single attack into an industry. That change, not the claimed fortune, is the turning point, and it is the change defenders had to answer.
+
+My call is that the free decryptors, not the retirement announcement, are the victory in this story, and the story should be told with the emphasis in that order. Two options faced the security community. One option was to accept the makers' framing, to treat ransomware as an unstoppable business, and to advise victims to pay, because payment was the only way to recover files. The second option wins, because every free key broke the business model in the only place it could be broken: the belief that payment was the only choice. The common mistake is to admire the criminals' cleverness and to treat the defenders as slow followers. The defenders' work was slower because it was honest: a decryptor must be tested, a key must be real, and a promise to a victim must be kept. What to do first when ransomware strikes is to disconnect the machine, report the attack, and check for a free decryptor before even considering payment. What to do second is to restore from backups, and to keep backups offline, so the next attack finds nothing to hold hostage. Skip the belief that paying ends the problem. Payment funds the next franchise, and a paid victim may be marked as a payer. GandCrab's makers claimed billions. The free keys won quietly, one file at a time, and quiet winning is the only kind that lasts.
 
 ## Frequently Asked Questions
 

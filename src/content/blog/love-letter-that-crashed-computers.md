@@ -2,6 +2,7 @@
 title: "Love Letter That Crashed Computers"
 description: "On 4 May 2000, one curious little email called ILOVEYOU infected about a tenth of the world's connected computers and caused an estimated $10 billion"
 pubDate: 2026-10-23T15:30:00+05:00
+updatedDate: 2026-10-29
 image: "/images/love-letter-that-crashed-computers.webp"
 imageAlt: "An illustration of a giant glowing red envelope with a bright heart bursting open into streams of green computer code above rows of old office computers."
 category: "Technology"
@@ -110,6 +111,14 @@ Call the company using a number from its real website. Ask a knowledgeable frien
 ## You may also like
 
 - [Flame Spied On Whole Computers](https://talhablog.com/blog/flame-spied-on-whole-computers/)
+
+## My Take: The ILOVEYOU Worm Opened Every Door From Inside
+
+The post describes the ILOVEYOU worm, which first appeared on 4 May 2000 and began in the Philippines. An email with the subject ILOVEYOU carried an attachment named LOVE-LETTER-FOR-YOU.txt.vbs. Most people saw only .txt, which looks like a harmless text file, but the real ending was .vbs, a script a Windows computer would run, and on many computers the final part of the file name was hidden. Once opened, the worm used Microsoft Outlook to send itself to every contact in the victim's address book, so the next victim received it from a friend, boss, sister or customer, someone real and trusted. It also overwrote picture files, music files and other documents with copies of itself. A commonly cited estimate says around 10 percent of internet-connected computers were infected, and damage and clean-up were estimated at 10 billion dollars or more.
+
+My judgement is that ILOVEYOU was devastating because it used trust and curiosity, not force, and every door was opened from the inside. The worm never broke into computers. People carried it inside themselves, click by happy click, because the email arrived from someone they knew and the subject played on a simple question: who loves me? In my view, that is scarier than the money, even though the money was enormous. The common mistake is to think smart people should not have fallen for it. The post shows why they did: the sender was trusted, the file looked like text, the ending was hidden, and the feeling arrived before the careful brain woke up. One opened email could become fifty new emails, and each of those could become fifty more, because the worm mailed itself to an entire address book at once.
+
+What should the reader do differently? First, never open a surprise attachment, even from a friend, without checking. Senders get compromised, exactly as they did in 2000, and a quick message, Did you really send me this, costs ten seconds and can save a computer. Second, look at the full name of every file, and check the very end before opening anything. If a photo or document ends in .vbs, .exe, .scr or .js, do not open it, since real letters and pictures do not end that way. Third, be extra careful with emotional subjects: love, prizes, urgent bills, parcels, bank warnings. Strong feeling first, click second is the order attackers want, so flip it: check first, feel later. What to skip is the belief that the trick died with the year 2000. The love letter is gone, but its children wear parcel, invoice, prize and bank costumes today, and the pattern is identical. The most dangerous part of any message, as the post says, is the moment you trust it without looking.
 
 ## Frequently Asked Questions
 

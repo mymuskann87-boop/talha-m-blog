@@ -2,6 +2,7 @@
 title: "King Who Renamed His Country"
 description: "At his own 50th birthday party in April 2018, King Mswati III stood up in a packed stadium and gave his whole country a new name: eSwatini. Why he did it"
 pubDate: 2026-10-22T13:50:00+05:00
+updatedDate: 2026-10-29
 image: "/images/king-who-renamed-his-country.webp"
 imageAlt: "An illustration of a king in traditional dress addressing a huge cheering crowd waving national flags at a celebration."
 category: "Politics"
@@ -63,6 +64,14 @@ My own feeling is that the blank space on that university sign tells the truth a
 ## You may also like
 
 - [Country With Seven Presidents Explained](https://talhablog.com/blog/country-with-seven-presidents-explained/)
+
+## My Take: Renaming Swaziland Changed The Map, Not The Country
+
+The post describes 19 April 2018, in a stadium in Manzini, when King Mswati III, celebrating his fiftieth birthday and fifty years of independence from Britain, announced that the Kingdom of Swaziland would be known as the Kingdom of eSwatini. He has ruled since 1986, when he was eighteen, succeeding his father Sobhuza II, and as an absolute monarch, the last in Africa, his decision became real the moment he spoke. The name eSwatini comes from siSwati and means land of the Swazis, while Swaziland bolts the English word land onto Swazi, a mixture left from British rule from 1903 until independence on 6 September 1968. The king gave two reasons: African countries had reverted to ancient names on independence, and Swaziland was confused with Switzerland abroad. In May 2018, Legal Notice No. 80 made it official, effective from 19 April, and the UN, African Union and Southern African Development Community switched. The exercise was estimated to cost the government up to 6 million dollars.
+
+My judgement is that the renaming was a real act of identity and a poor answer to the question most citizens were actually asking, and both halves of that judgement must be held together. The identity case is strong on the post's own facts: a name used at home for years, a colonial mixture finally replaced, and a young man in Manzini telling reporters he liked the new name because it was more African. The objection is equally strong: the BBC reported real anger among citizens who felt the king should spend energy on the struggling economy instead, lawyer Thulani Maseko and the Institute for Democracy and Leadership took the matter to court, arguing that the constitution's legislative processes had been skipped, and critics raised a historical wrinkle, that the genuinely ancient name was said to be kaNgwane. It was both a symbol that many welcomed and a decision made without asking the people, in a kingdom where political parties are not allowed to take part in elections and the king appoints the prime minister. A symbol can be right and the method can still be wrong.
+
+What should the reader take from this? First, judge a name change by what changes on the ground, not only by the speech. A king can rename a country in one afternoon, the post says, but a country renames itself slowly, in banknotes, signboards and habits, over years. Second, listen to both sides the post presents, because both are partly right. What to skip is the idea that a new name alone renews a country. The word on the map changed in a day. The word in people's mouths is taking longer, and perhaps, as the post suggests, that is exactly as it should be.
 
 ## Frequently Asked Questions
 

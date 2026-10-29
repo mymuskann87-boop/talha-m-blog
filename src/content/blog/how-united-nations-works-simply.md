@@ -2,6 +2,7 @@
 title: "How United Nations Works Simply"
 description: "The UN has 193 member states, six main organs, and one powerful council with vetoes. How the General Assembly, Security Council and the rest fit together."
 pubDate: 2026-10-28T16:45:00+05:00
+updatedDate: 2026-10-29
 category: "Politics"
 image: "/images/how-united-nations-works-simply.webp"
 imageAlt: "The United Nations headquarters building in New York with rows of member-state flags flying in front of it."
@@ -65,6 +66,14 @@ That is why the UN often looks weak in a crisis. When the great powers agree, it
 For all its limits, the UN does three things no other body does. It gives every country, large and small, a seat and a vote in the Assembly. It provides the only forum where the Security Council can make decisions that bind all members on peace and security. And it runs the programmes and agencies that feed, shelter, vaccinate and educate millions of people who would otherwise be left alone with their crises. Countries complain about the UN constantly, and they keep coming back to it, because there is no other table where everyone is invited.
 
 The simple way to remember how it works is this. The Assembly talks. The Council decides, when it can. The Court judges. The Secretariat runs the machine. The Secretary-General speaks for the whole. And the veto means that on the hardest questions, the UN can only move as fast as its five most powerful members allow.
+
+## My Take: The United Nations Veto Buys Presence At A Price
+
+The post describes an organisation founded in 1945 by 51 countries, now with 193 member states, built around six principal organs under the UN Charter. The General Assembly gives every country one vote and makes recommendations that do not bind members. The Security Council has 15 members, can adopt compulsory resolutions that bind all member states, impose sanctions and authorise military action, but any of its five permanent members, China, France, Russia, the United Kingdom and the United States, can block a substantive resolution with a veto, even if the other fourteen agree. A resolution needs nine votes in favour. The Secretary-General, elected for a five-year mandate, has no army and no independent budget, so the power of the office is persuasion. The UN also runs programmes through agencies such as UNICEF, the World Food Programme and the World Health Organization, and tracks the 17 Sustainable Development Goals agreed in 2015.
+
+My judgement is that the veto should be understood as a price paid for keeping the great powers inside the room, and readers should judge the UN by whether that price is still worth paying, not by pretending the price does not exist. Supporters say the veto keeps the great powers inside the system, because a system that could order them around would simply be ignored, while critics say it lets one country paralyse the whole organisation on the issues that matter most. In my view, the supporters have the stronger reading of history and the critics have the stronger reading of the present harm. The founders, fresh from the most destructive war in history, accepted deadlock as better than no forum at all. That was a judgement about 1945, when the five permanent members were the major victorious powers. The structure has barely changed since, even though the world has changed enormously, and that is why the bargain now feels strained.
+
+What should the reader do differently? First, when reading UN news, ask which room is involved: an Assembly recommendation, a Council resolution, a Court opinion, or an agency programme, because each carries different weight. Second, ask who gains and who loses from a veto in that case, and whether the Assembly is being used as the alternative route, since the veto does not apply there. Third, resist the conclusion that the UN does nothing because it cannot act in one crisis; countries complain constantly and keep coming back, because there is no other table where everyone is invited. What to skip is the demand that the UN act like a world government. It cannot tax, raise its own army, or force a country except through Council resolutions that depend on member states to carry them out. Judge it as a forum, not a government.
 
 ## Frequently Asked Questions
 

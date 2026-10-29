@@ -2,6 +2,7 @@
 title: "Locky Ransomware Arrived By Email"
 description: "Locky ransomware hid inside fake invoice emails and became so powerful that a major Los Angeles hospital paid about $17,000 in Bitcoin to get its own files"
 pubDate: 2026-10-23T19:40:00+05:00
+updatedDate: 2026-10-29
 image: "/images/locky-ransomware-arrived-by-email.webp"
 imageAlt: "An illustration of an ordinary office envelope and invoice document splitting open to reveal a huge glowing padlock and heavy chains inside."
 category: "Technology"
@@ -79,6 +80,14 @@ The good news is that Locky's whole empire rested on a few simple habits, and ha
 ## You may also like
 
 - [Smartphone Sales Hit 14-Year Low](https://talhablog.com/blog/smartphone-sales-fall-14-year-low-ai-chip-shortage/)
+
+## My Take: Locky Ransomware Needed One Human Click To Win
+
+The post describes Locky, ransomware first seen in February 2016, which arrived mainly by spam email as a Word document pretending to be an invoice. The document showed scrambled text and told the reader to enable macros, and one click ran hidden instructions that downloaded Locky. Once inside, Locky searched for documents, spreadsheets, photos and databases, scrambled them with strong encryption, renamed files with .locky in early waves, and left a note demanding payment in Bitcoin, typically around half a bitcoin in early waves. In February 2016, Locky struck Hollywood Presbyterian Medical Center in Los Angeles, locking patient records and schedules for about a week, forcing staff back to paper and fax machines, moving some patients elsewhere, until the hospital paid about 17,000 dollars in Bitcoin.
+
+My judgement is that Locky won through a human decision, not through clever code alone, and the defence must therefore be aimed at that decision. Office programs keep macros switched off by default because they are dangerous, so criminals could not switch them on. They had to persuade a human being to do it, and the scrambled text with its helpful instruction was the persuasion. Invoices are perfect disguises because every business expects them, and they feel boring, routine and urgent all at once. A busy person, faced with a normal subject line and a normal file name, did what busy people do with invoices. The criminals sent a feeling, hurry, this is money, deal with it now, and pressure is the tool, not a side effect. The hospital story proves the stakes: a building full of doctors paid strangers on the internet to unlock its own filing cabinets, because care for the sick, wages for workers, and memories for families were locked inside digital boxes. The attackers never entered the building. They sent emails, somebody clicked, and money changed hands.
+
+What should the reader do differently? First, never enable macros on an emailed document. If a document tells you to click Enable Content so you can read it, close it, and contact the sender separately, by phone, before touching anything. Honest documents do not need permission to do secret work in the background. Second, treat unexpected invoices as suspects: read the sender's address letter by letter, ask whether you bought anything from that company, and verify by phone using a number you find yourself, not one printed inside the suspicious email. Third, keep a backup criminals cannot reach: copy important files onto an external drive, then unplug it, because a backup that stays connected can be locked too, while one in a drawer is beyond reach. What to skip is the belief that Locky is gone, so the danger is gone. The invoice retired, the post says, but the idea never did, and the same costume, a bill, a receipt, a delivery note, a tax form, is still arriving today.
 
 ## Frequently Asked Questions
 

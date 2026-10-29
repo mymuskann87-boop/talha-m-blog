@@ -2,6 +2,7 @@
 title: "Good Debt Versus Bad Debt"
 description: "Good debt can build your future and bad debt can drain it — learn the difference, the warning signs, and the questions to ask before borrowing."
 pubDate: 2026-10-28T02:26:00+05:00
+updatedDate: 2026-10-29
 image: "/images/good-debt-versus-bad-debt.webp"
 imageAlt: "Two open doors: a green door with a growing plant made of gold coins, and a red door with a shopping cart sinking in water"
 category: "Saving Money"
@@ -58,6 +59,14 @@ Context decides. The same loan can be wise for a household with steady income an
 
 - [Pay Yourself Before Every Bill](https://talhablog.com/blog/pay-yourself-before-every-bill/)
 - [Track Where Your Money Goes](https://talhablog.com/blog/track-where-your-money-goes/)
+
+## My Take: Good Debt Versus Bad Debt Turns On Use, Not Labels
+
+The post explains the difference between good debt and bad debt by what the borrowed money does after it is spent. Good debt is borrowing that can build value over time: a student loan that raises earning power, a mortgage on a home that may gain value, or a business loan that creates income. It also warns that debt taken without an emergency fund is riskier, because any surprise, a lost job or a medical bill, can turn a manageable payment into a crisis. That test, what the money does next, is the fact my judgement starts from.
+
+In my view, the post's distinction is useful but the word good is too kind, and readers who hear good debt will underestimate how much can still go wrong. A student loan is called good debt because education can raise income, but the post's own cautions show the condition: the degree must lead to work that pays enough to cover the payments, and the borrower must finish the course. A loan for a degree never completed, at a high rate, with no job at the end, is not good debt. It is bad debt wearing a good label. The same is true of a mortgage. A home can gain value, but a home bought at a price the buyer cannot afford, with payments that leave nothing for repairs or emergencies, is a burden, not an investment. Without those three, the label is decoration.
+
+My call is that the first question should never be good or bad, but can I repay this if the next three months go wrong. Two options face a person offered a loan. One option is to ask what the loan buys and to stop there, trusting the label: education, home, business, therefore good. The second option wins because it treats debt as a bet on the future, and bets should be sized so that losing does not ruin the household. The common mistake is to borrow for a depreciating thing at a high rate and to call it an investment because the thing feels important. A car bought on a long loan, a holiday on a credit card, and a wardrobe on instalments all feel important in the moment, and none of them return the money. What to do first is to build even a small emergency fund before taking new debt, so a surprise does not turn a payment into a default. What to do second is to compare the total cost, not only the monthly payment, because a small payment stretched over many years is often the most expensive loan in the room. Skip the belief that borrowing for something respectable makes the borrowing safe. Safety comes from the numbers, the plan, and the spare room in the budget, and the label on the loan is the last thing to trust.
 
 ## Frequently Asked Questions
 

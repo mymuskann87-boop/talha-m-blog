@@ -2,6 +2,7 @@
 title: "Make Your Laptop Last Longer"
 description: "Simple laptop care habits — cooling, charging, cleaning, and safe carrying — that stretch a laptop's life by years and delay the next purchase."
 pubDate: 2026-10-26T12:30:00+05:00
+updatedDate: 2026-10-29
 image: "/images/make-your-laptop-last-longer.webp"
 imageAlt: "A laptop glowing with a long golden battery light trail"
 category: "Saving Money"
@@ -55,6 +56,14 @@ For example, compare two identical laptops bought on the same day. One travels i
 Care extends life, but it does not grant immortality. Batteries eventually fade and need replacing — a normal, affordable repair. Screens crack, keyboards wear out, and some parts simply reach their end. When a repair costs more than the laptop is worth, replacement is the sensible choice, not a failure of care.
 
 The goal was never to keep one laptop forever. The goal is to replace it when you choose to, for a better machine or a real need — not when a preventable death forces your hand. A laptop that lasts six years instead of three halves what you spend per year on computing. That is saving, done quietly, one habit at a time.
+
+## My Take: Laptop Care Is Mostly Heat, Dust And Drops
+
+The post argues that most laptops do not die of old age. They die of heat, dust, drops and neglect, and with care an ordinary laptop can serve five, six, even seven years. Heat is the enemy that never sleeps: vents blocked by a bed, blanket or lap turn the laptop into a small oven, the machine slows itself to survive, and constant heat wears the battery and stresses parts inside. The fix is a hard flat table, a stand or hard board on soft surfaces, and compressed air through the vents every few months with the laptop off. Charging habits decide how fast the battery fades: sitting at 100 percent for weeks and running to empty again and again are both hard on it, while a charge cap around 80 percent for desk use, plugging in around 20 percent, and storing at roughly half charge in a cool place are kinder. Software should be cleaned twice a year, removing unused programs, stopping needless startups, and freeing drive space, because a slow laptop is often drowning, not dying.
+
+My judgement is that the post's best idea is also its quietest: a laptop that feels fast does not get replaced, and a laptop that feels slow gets replaced even when its parts are perfectly healthy. That turns software cleaning from a chore into real saving, and it explains why the twice-yearly hour is worth money. In my view, the common mistake is to shop for a replacement when the real problem is heat or clutter. A fan that screams all day, a base too hot for hands, or a laptop that slows after twenty minutes is the machine asking for air, and giving it air before it gives up is cheaper than any new machine. The difference was never the machine. It was the handling.
+
+What should the reader do differently? First, move the laptop to a hard surface today, clear the vents, and watch for heat warnings, since heat works slowly and nobody notices until damage is done. Second, set the charge cap if the machine offers one, avoid weeks at 100 percent, and store at half charge if unused for weeks. What to skip is obsession with keeping one laptop forever. Batteries fade and need replacing, a normal affordable repair, screens crack, keyboards wear out, and when a repair costs more than the laptop is worth, replacement is sensible, not a failure of care. The goal is to replace it when you choose to, for a better machine or a real need, not when a preventable death forces your hand. A laptop that lasts six years instead of three halves what you spend per year on computing. That, in my opinion, is saving done quietly, one habit at a time.
 
 ## Frequently Asked Questions
 

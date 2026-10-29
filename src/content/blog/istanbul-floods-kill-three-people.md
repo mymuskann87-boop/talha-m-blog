@@ -2,6 +2,7 @@
 title: "Istanbul Floods Kill Three People"
 description: "Istanbul's heaviest rainfall since 1942 flooded the city, killing three people, leaving several missing and more than 2,700 people evacuated."
 pubDate: 2026-10-16T01:58:00+05:00
+updatedDate: 2026-10-29
 category: "Disasters"
 image: "/images/istanbul-floods-kill-three-people.webp"
 imageAlt: "Illustration of a flooded Istanbul street with cars half under water, heavy rain over the city skyline and the words Istanbul Floods"
@@ -52,6 +53,14 @@ More heavy rain has been forecast for Istanbul and the surrounding region over t
 ## You may also like
 
 - [Hurricane Simon Slams Mexico Coast](https://talhablog.com/blog/hurricane-simon-mexico-pacific-coast/)
+
+## My Take: Istanbul Floods Exposed Everyday Dangers, Not Just Rain
+
+The post describes Istanbul's heaviest rainfall since records began in 1942, in a city of about 16 million people. Rain began on Tuesday and grew stronger through Wednesday 14 October. In Beykoz, 269.5 millimetres were recorded between midnight on Tuesday and 7:30 on Thursday morning. By Wednesday nightfall, the AFAD disaster agency had recorded 1,277 flooding incidents, 15 landslides, 47 people stranded and two roofs blown off. Three people were confirmed dead: a 14-year-old boy electrocuted after stepping into a puddle in Balat, a 34-year-old who slipped on a flooded sidewalk in Sariyer and struck their head, and a man found near Sadabad Park in Kagithane, close to an overflowing stream. The number missing was reported as four by the governor's office and five in later agency reporting, so the exact figure was still unsettled. Interior Minister Mustafa Ciftci said 2,727 people had been evacuated, with around 8,000 personnel and about 2,000 vehicles and machines sent out. Schools closed on Thursday and Friday, 43 flights to Istanbul Airport were diverted, and more rain was forecast for the weekend.
+
+My judgement is that this flood should be read as a story about everyday dangers in a city, not only about record rain, and that reading changes who is most at risk. The rain total explains the scale, but the three deaths, as reported, came from ordinary city surfaces turned lethal: a puddle carrying electricity, a sidewalk under water, a stream that overflowed beside a park. In my view, the common mistake after a record is to blame only the sky. A city that has grown to 16 million people puts more people, more basement homes, more roads and more underpasses in the path of water, and a record that has stood since 1942 will still find the lowest and most exposed places first. The post shows the danger spreading beyond Istanbul too, to Sakarya, where an evacuated house collapsed, and Kocaeli, where a driver swept away by an overflowing stream was rescued by ropes.
+
+What should the reader understand differently? First, treat any flooded street as unknown ground, not as shallow water to walk or drive through, because the post's own incidents show hidden electricity, a hidden fall, and a hidden stream doing the harm. Second, remember that the emergency does not end when the rain pauses, because more rain was forecast, the ground was already saturated, and search work for the missing continued. What to skip is the idea that a record flood is a freak event with nothing to learn. The record matters, but the lesson is practical and local: water in a city finds wires, sidewalks, basements and streams, and the people who respect those places, and leave them alone until teams have pumped them out, are the ones who stay safe.
 
 ## Frequently Asked Questions
 

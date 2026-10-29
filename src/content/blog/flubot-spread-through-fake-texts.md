@@ -2,6 +2,7 @@
 title: "FluBot Spread Through Fake Texts"
 description: "FluBot turned one fake parcel text into a chain reaction across whole countries, stealing bank logins from Android phones as it went."
 pubDate: 2026-10-23T21:20:00+05:00
+updatedDate: 2026-10-29
 image: "/images/flubot-spread-through-fake-texts.webp"
 imageAlt: "An illustration of a giant glowing fake text message bubble with a parcel icon floating over a night city, thousands of smaller fake message bubbles raining down onto people's phones."
 category: "Technology"
@@ -63,6 +64,14 @@ The good news is that this entire chain breaks at several points, and breaking a
 ## You may also like
 
 - [Nimda Spread Five Ways Fast](https://talhablog.com/blog/nimda-spread-five-ways-fast/)
+
+## My Take: FluBot Proves Trust, Not Technology, Is The Real Weakness
+
+The post describes FluBot as malware that spread through fake text messages pretending to come from delivery companies, telling people a parcel was waiting or a delivery had failed. The message contained a link, and tapping it led to a fake page asking the person to install an app, or to give details, on an Android phone. It spread quickly in several countries, including the United Kingdom, and phone networks and banks warned customers not to tap links in unexpected delivery messages. That chain, trust first, link second, theft third, is the fact my judgement starts from.
+
+In my view, FluBot's real weapon was not code but the address book, and readers who focus on the malware's technical tricks will miss the pattern that keeps repeating. The fake delivery text worked because it arrived from a plausible sender, about a plausible parcel, at a moment when many people were genuinely waiting for deliveries. The link did the technical work, but trust did the human work, and trust is the cheaper weapon. I think that is the most important lesson: a scam that borrows a real identity does not need to be clever, because the identity does the persuading. The person who tapped the link was not foolish. They were reading a message that looked like the messages they already trusted, from a number they already knew, about a parcel they might really be expecting. Judging victims as careless misses the design, which was built to look careless-proof.
+
+My call is that the defence must be a habit, not a warning remembered once, because warnings fade and delivery texts arrive every day. Two options face a person who receives an unexpected delivery message. One option is to tap, check, and hope, trusting that the phone will protect them and that the message is probably real. The second option wins because it costs only a minute and breaks the whole chain: no fake app installed, no codes read, no contacts infected. The common mistake is to trust a message because it came from a known number. A known number can be a borrowed number, and FluBot proved that the borrower's first act is to message everyone the victim knows. What to do first is to delete unexpected delivery texts without tapping, and to check parcels only through an app already installed or a website typed by hand. What to do second is to warn the contacts who might receive a message in your name, because the shame of having spread a scam is smaller than the harm of staying silent while friends tap the same link. Skip the belief that only careless people fall for such tricks. FluBot spread because it understood ordinary life: parcels, hurry, and trust in familiar numbers. The weakness it exposed was not technology. It was the habit of tapping first and thinking second, and habits are the one part of the chain a reader can change today.
 
 ## Frequently Asked Questions
 

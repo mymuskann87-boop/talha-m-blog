@@ -2,6 +2,7 @@
 title: "Klez Sent Emails As You"
 description: "Klez was an email worm that framed innocent people by sending its poisoned messages under stolen names, and its forgery trick is still in use today."
 pubDate: 2026-10-23T18:30:00+05:00
+updatedDate: 2026-10-29
 image: "/images/klez-sent-emails-as-you.webp"
 imageAlt: "An illustration of a long row of plain white envelopes where one glowing envelope in the middle wears a fake smiling mask and a stolen name tag."
 category: "Technology"
@@ -79,6 +80,14 @@ So the pattern should feel familiar by now: a message carrying a trusted name, a
 ## You may also like
 
 - [Melissa Virus That Clogged Emails](https://talhablog.com/blog/melissa-virus-that-clogged-emails/)
+
+## My Take: Klez Taught Email Names Prove Nothing At All
+
+The post describes Klez, a computer worm first seen in late 2001, whose strongest version, Klez.H, was released in April 2002 and was reported for months as the most widespread virus in the world. It searched a computer for email addresses, in the address book, saved messages and ordinary files, and mailed itself onward. Some versions overwrote files on certain dates, it dropped a second virus called Elkern, and it attacked antivirus software. Its famous trick was forgery: when an infected computer sent Klez onward, the worm picked a collected address at random and stamped it as the sender, so the poisoned email travelled under a borrowed identity. The truly infected computer stayed hidden, while the innocent owner of the borrowed address received angry replies, warnings and bounce-back notices, with no way to prove their computer was clean. Modern programs have closed that hole, but the forgery trick never retired.
+
+My judgement is that Klez was scarier than worms that simply deleted files, because it attacked trust between people, and that is why its lesson outlived the worm itself. A forged name turns ordinary people into suspects and makes neighbours, friends and workmates doubt each other over something none of them did. The post makes that point plainly, and I think it is the turning point most retellings miss when they focus only on infection counts. In my view, the common mistake today is to believe that modern software has solved the problem because the old preview hole is closed. It has solved one door, not the trick. Modern scam emails still arrive wearing borrowed names, a bank, a delivery company, a government office, or a friend whose address a criminal has copied, asking the reader to open a file or act quickly. The costume is the same, even though the worm is gone. The defence has not changed either: a familiar name is not a promise of safety.
+
+What should the reader do differently? First, treat the From line as a claim, not a fact, and judge a message by what it wants you to do: open a file, click a link, or send something urgently. Tricks need speed, and checking needs only a minute. Second, check through a different door: if a friend seems to send a strange file, do not reply to that email, but message them on a different app or call them and ask if they really sent it. That habit defeats the borrowed-name trick, because you are asking the real person, not the costume. Be careful with attachments from familiar names, especially files you were not expecting. If strangers accuse you of sending a virus, stay calm, run a full scan, and explain that sender names can be forged. Being the name on a bad email is not the same as being its sender. That distinction, learned the hard way in 2002, is still the most useful email lesson there is.
 
 ## Frequently Asked Questions
 

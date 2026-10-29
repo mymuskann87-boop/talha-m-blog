@@ -2,6 +2,7 @@
 title: "First Virus On Floppy Disks"
 description: "A 15-year-old's harmless joke called Elk Cloner became the first computer virus to spread in the wild, riding from friend to friend on borrowed game disks."
 pubDate: 2026-10-23T22:00:00+05:00
+updatedDate: 2026-10-29
 image: "/images/first-virus-on-floppy-disks.webp"
 imageAlt: "An illustration of a giant floppy disk flying like a friendly flying saucer between chunky 1982 home computers with green glowing screens."
 category: "Technology"
@@ -65,6 +66,14 @@ None of this needs to be fear. The lesson of Elk Cloner is friendly, really: sha
 ## You may also like
 
 - [First PC Virus From Lahore](https://talhablog.com/blog/first-pc-virus-from-lahore/)
+
+## My Take: The First Floppy Disk Virus Made Sharing Feel Unsafe
+
+The post tells the story of Elk Cloner, written in 1982 by Rich Skrenta, a fifteen-year-old American high-school student with an Apple II computer. Skrenta loved teasing friends by secretly changing games on disks he lent out, until his friends learned to treat every disk from his hands as a trap and some stopped accepting his disks at all. Elk Cloner erased nothing, stole nothing, corrupted no files, crashed no machines, and held nobody to ransom. Skrenta later helped found the Open Directory Project and the search engine Blekko. Those facts are the ground for my judgement.
+
+In my view, the poem is the least important part of Elk Cloner, and the doorway it demonstrated is the part that still matters. Readers are tempted to smile at the story, because the payload was a rhyme, the motive was a schoolboy's pride, and the damage was surprise, annoyance, and the effort of cleaning disks. I think that smile is the trap the story sets. A joke that proves a doorway exists has already built the doorway, and the next person through it may not be joking. The schoolboy who wanted his friends to read a poem ended up teaching the whole computing world that sharing, the most ordinary human act, could carry a passenger nobody invited.
+
+My call is that Skrenta's motive should be believed and still not be allowed to excuse the method. The post is clear that there was no villain's plan, no money to steal, no files to ruin, and no revenge to take, only a puzzle about what a small program could do if allowed to copy itself. That honesty matters, and I accept it. Two options face anyone who builds a self-delivering joke: stop when the audience says no, accepting that a joke refused is a joke finished; or build a way around the refusal, so the joke arrives anyway, quietly, on a disk the owner believes is clean. The second option wins the laugh and loses the trust, and trust, once lost, is harder to clean than a boot sector. The common mistake is to treat harmlessness as safety, and to conclude from the fact that Elk Cloner erased nothing that the world was safer when viruses were jokes. The world was not safer. What to do first today is to treat every borrowed drive like a borrowed disk in 1982: scan a USB stick, an external drive, or a shared file with antivirus before opening anything, every single time, and turn on automatic scanning for removable media. What to do second is to refuse to boot a computer from unknown media, because whatever runs first runs deepest. Skip the belief that a harmless-looking file or a document from a friend is safe because the friend is honest. It is the lesson of a poem that did a small lap of honour around a school district and then kept surfacing for years.
 
 ## Frequently Asked Questions
 

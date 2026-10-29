@@ -2,6 +2,7 @@
 title: "Man Played Golf On Moon"
 description: "Alan Shepard was America's first man in space, then an ear disease grounded him for years. He fought his way back to command Apollo 14 in 1971 — and marked"
 pubDate: 2026-10-23T10:30:00+05:00
+updatedDate: 2026-10-29
 image: "/images/man-played-golf-on-moon.webp"
 imageAlt: "An illustration of an astronaut in a white spacesuit swinging a golf club on the grey surface of the Moon, Earth shining in the black sky."
 category: "Space"
@@ -73,6 +74,14 @@ Shepard retired from NASA and the Navy in 1974 as a rear admiral, and he died in
 ## You may also like
 
 - [Japan Launches Mars Moon Mission](https://talhablog.com/blog/japan-launches-mars-moon-mission/)
+
+## My Take: Alan Shepard Golf Shot Measured Comeback, Not Distance
+
+The post tells the comeback behind the golf shot. Alan Shepard was the first American in space on 5 May 1961, in a fifteen-minute flight in Freedom 7, and was one of the Mercury Seven. Surgery corrected the problem, and in 1969 he was restored to full flight status at forty-five. Assigned first to Apollo 13, his crew was moved to Apollo 14, which launched on 31 January 1971. On 5 February he guided Antares down to Fra Mauro, the target Apollo 13 never reached, in the most accurate landing of the Apollo programme. Near the end of the second moonwalk, on 6 February 1971, he fitted a modified Wilson Staff six-iron head to a sample tool handle and swung one-handed, because his stiff suit would not let him use both hands. The balls travelled about 24 yards and about 40 yards, measured in 2021 by imaging specialist Andy Saunders from enhanced photographs, not the miles Shepard joked about.
+
+My judgement is that the golf shot should be measured as a comeback, not as a golf shot, and the honest forty yards makes the moment better, not worse. A forty-seven-year-old man, sealed in a suit that fought every bend, with thick gloves and shoulders that could barely turn, standing in dust no human had touched a decade earlier, swinging a tool handle with a club head on it, in what golfers would call the worst sand trap imaginable: of course the ball went forty yards. The wonder was never the distance. The wonder was that the game happened at all, at the very end of the mission, once everything important had succeeded, as Shepard had promised Bob Gilruth, director of NASA's Manned Spacecraft Center, when he quietly asked permission. The truth, forty yards on a normal course a gentle chip, does not shrink the achievement. It shows how hard the simplest act was in that suit, on that surface.
+
+What should the reader take from this? First, value the years behind the seconds: five years grounded, a desk job watching others fly, surgery, restoration at forty-five, and a delayed mission that became the one to put America back on the lunar surface after Apollo 13. Second, notice the discipline inside the fun: permission asked, self-funded, saved until the work was done, and a partner, Mitchell, joining in by hurling an experiment staff like a javelin into the same crater as the first ball. What to skip is the idea that the shot was a stunt that wasted a mission. It was a celebration at the end of a mission, by a man who had lost the sky, refused to accept it, and won it back. That, in my opinion, is why two small white balls are still sitting in grey dust, undisturbed, as trophies.
 
 ## Frequently Asked Questions
 

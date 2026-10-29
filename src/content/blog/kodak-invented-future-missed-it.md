@@ -2,6 +2,7 @@
 title: "Kodak Invented Future, Missed It"
 description: "In 1975, a Kodak engineer invented the first digital camera, and the film giant kept it hidden. How the king of photography missed its future."
 pubDate: 2026-10-18T21:10:00+05:00
+updatedDate: 2026-10-29
 category: "Business"
 image: "/images/kodak-invented-future-missed-it.webp"
 imageAlt: "An original illustration of a young engineer proudly holding the large, boxy first digital camera of 1975, while an old film factory fades behind him."
@@ -88,6 +89,14 @@ The camera in the drawer took its revenge in the end.
 ## You may also like
 
 - [Man Who Invented Instant Noodles](https://talhablog.com/blog/man-who-invented-instant-noodles/)
+
+## My Take: Kodak Protected Film And Lost Photography Itself
+
+The post tells a story in three dates. In December 1975, Kodak engineer Steven Sasson, working from a question set by his supervisor Gareth Lloyd, completed the first self-contained digital camera: about 3.6 kilograms, black-and-white pictures of 100 by 100 dots, 23 seconds to record one picture onto cassette tape, and another 23 seconds to show it on a television. Kodak did not publicly disclose the prototype until 2000, and in 1989 it initially declined to sell a modern-style digital camera built by Sasson and Robert Hills, to protect film sales. Through the 1990s, companies with no film fortune pushed digital forward, and then mobile phones with good cameras squeezed the ordinary digital camera business. Kodak filed for Chapter 11 bankruptcy protection in January 2012, stopped making digital cameras during the proceedings, and emerged in September 2013 as a much smaller company focused on commercial printing. I think the post's lesson is exact: Kodak did not lack brilliant people or miss the technology. It invented it, patented it, and held it in its hands.
+
+My judgement is that Kodak's failure was a failure of courage about its own income, not a failure of invention, and that distinction is the turning point most retellings miss. The post warns against that laugh, because the camera worked: a photograph taken, turned into numbers, stored, and shown again, without film. The decision that mattered was not technical. It was commercial and human. To the men guarding the throne, as the post puts it, the new invention looked like an enemy, because it threatened the fortune renewed with every roll sold. In my view, the common mistake in business stories is to praise invention and blame bad luck. Kodak had the patent, filed in 1977, the research, and fourteen years later a second chance with a real DSLR, and twice it chose the past. Competitors with nothing to protect took the lead, not because they were cleverer, but because they had nothing to lose by letting the new thing grow.
+
+What should the reader take from this? First, judge a company, or a person, not by whether it can invent, but by whether it can let a new thing endanger the old thing that feeds it today. Inventing the future is only the first step, the post says, and the harder step is daring to change. Second, treat early weakness as normal, not as proof that an idea will fail. Third, notice the irony the post records without exaggeration: during bankruptcy, the company that invented the digital camera stopped making digital cameras. What to skip is the comforting idea that being first is enough. Kodak was first by thirty years, and it still lost the business it had built since 1880, because it loved its present success so much that it treated the future as a threat instead of a gift. That, in my opinion, is the lesson every business should learn, and it applies far beyond photography.
 
 ## Frequently Asked Questions
 

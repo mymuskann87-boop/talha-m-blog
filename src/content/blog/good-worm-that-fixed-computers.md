@@ -2,6 +2,7 @@
 title: "Good Worm That Fixed Computers"
 description: "In August 2003 the Welchia worm broke into unpatched computers through the same hole as the Blaster worm — then deleted Blaster, tried to install"
 pubDate: 2026-10-23T23:00:00+05:00
+updatedDate: 2026-10-29
 image: "/images/good-worm-that-fixed-computers.webp"
 imageAlt: "An illustration of a friendly glowing green worm wearing a small medic cap, patching a broken computer with bandages of light while traffic jams of glowing data pile up behind it."
 category: "Technology"
@@ -69,6 +70,14 @@ Honestly, I find something almost touching in the Welchia story — a mysterious
 ## You may also like
 
 - [Blaster Worm Crashed Windows Computers](https://talhablog.com/blog/blaster-worm-crashed-windows-computers/)
+
+## My Take: The Good Worm That Fixed Computers Still Broke Consent
+
+The post tells the story of a worm that did good: a program that travelled between computers on its own, found machines with a known weakness, fixed the weakness, and in some versions left a message explaining what it had done. Unlike ordinary worms, which spread harm, this worm spread repairs, closing the very doors it used to enter, so that a harmful worm could not follow it through the same opening. The worm's makers were never celebrated as heroes, and the idea of a helpful worm never became standard practice. That tension, help without permission, is the fact my judgement starts from.
+
+In my view, the good worm is the most honest test in the whole history of malware, because it forces readers to choose between results and consent, and most people choose results until the worm enters their own computer. If a stranger fixed your roof without asking, while you were asleep, and left a note saying the roof was now safe, you would feel two things at once: gratitude that the roof was fixed, and anger that a stranger had been on your roof without permission. The good worm creates exactly that feeling at the scale of thousands of machines. A repair that arrives uninvited is still a repair, and a trespass that helps is still a trespass. The worm's defenders emphasise the closed doors, and they are right that fewer machines were left open to attack. Its critics emphasise the crashes, the slowdowns, and the precedent, and they are right that a world where helpful strangers may enter any computer is a world where harmful strangers will claim to be helpful.
+
+My call is that consent, not intention, should decide, and the good worm should be admired as an idea and rejected as a practice. Two options face a security community that discovers a widespread weakness. The second option wins because it preserves the principle on which all later security depends: a computer belongs to its owner, and no one else may enter it without permission, however good the reason. The common mistake is to judge the worm only by its results on the day, and to forget the precedent it sets for the next worm, whose maker will claim equally good intentions. What to do first when a weakness is found is to patch your own machines quickly, because the good worm proved the door was open and the next visitor may not be kind. What to do second is to support systems that fix machines with permission, such as automatic updates the owner has agreed to, which give the speed of the worm without the trespass. Skip the belief that a good motive makes an entry lawful or safe. The good worm fixed computers and broke consent, and consent, once broken, is harder to repair than any software flaw.
 
 ## Frequently Asked Questions
 

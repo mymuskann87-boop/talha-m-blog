@@ -2,6 +2,7 @@
 title: "Golden Record Still Flying Today"
 description: "Where is the Voyager Golden Record now? Far from Earth, the gold record still flies in space, carrying greetings and music, built to last a billion years."
 pubDate: 2026-10-18T22:00:00+05:00
+updatedDate: 2026-10-29
 category: "Space"
 image: "/images/golden-record-still-flying-today.webp"
 imageAlt: "An original illustration of the golden Voyager record shining on its spacecraft as it travels through deep space, far from a tiny Earth."
@@ -74,6 +75,14 @@ And if, in some unimaginable future, someone does find one — opens the alumini
 ## You may also like
 
 - [Moon Is Drifting Away Yearly](https://talhablog.com/blog/moon-is-drifting-away-yearly/)
+
+## My Take: The Golden Record Speaks To No One And Still Matters
+
+The post describes the Golden Record, a gold-plated copper disc carried by the Voyager spacecraft, launched in 1977, bearing greetings in many languages, music from many cultures, sounds of Earth such as thunder, birds, and a kiss, and pictures encoded as images. It was chosen by a committee led by Carl Sagan, and it carries a message from the President of the United States and the Secretary-General of the United Nations, along with a map showing how to find Earth. The record is a time capsule and a greeting, meant for any intelligence that might one day find the spacecraft, long after its makers are gone. Voyager 1 has now travelled farther from Earth than any other human-made object, and the record still flies with it, silent, through interstellar space. That silence, a message travelling toward no known reader, is the fact my judgement starts from.
+
+In my view, the Golden Record's value does not depend on being found, and readers who judge it by whether aliens will ever play it will miss its real achievement. The record was never a practical letter. No address was known, no reply was expected, and the chance of discovery is vanishingly small. I think that act of choosing is the message, and its audience was always ourselves. The record is a mirror held up by its makers, and the mirror matters whether or not anyone else ever looks into it.
+
+My call is that the record should be judged as a work of hope, not as a work of engineering, and the distinction changes what counts as success. Two options face a reader judging the project. The second option wins because the instruments will fall silent, the power will fade, and the data will end, while the record will keep flying, unchanged, carrying its greetings toward a future no one can predict. The common mistake is to treat the record as a message to aliens first and a human act second. It is a human act first, a gift chosen with care, and its first readers were the people who made it, who learned, in choosing, what they valued. What to do first when thinking about the record is to ask what you would choose to send, and to notice how hard the choosing is. What to do second is to remember that the map on the record points back to Earth, so any finder would know where the greeting came from, and the greeting therefore carries responsibility as well as pride. Skip the need for a reply. A greeting that waits forever, unanswered, is still a greeting, and the record speaks to no one and still matters, because it proves that we once believed the universe was worth addressing, and that we chose our best sounds to do it with.
 
 ## Frequently Asked Questions
 

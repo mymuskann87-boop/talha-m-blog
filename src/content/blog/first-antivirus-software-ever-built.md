@@ -2,6 +2,7 @@
 title: "First Antivirus Software Ever Built"
 description: "What was the first antivirus? The story runs from a 1971 worm called Creeper to Reaper, Elk Cloner, Brain and the first dedicated antivirus of 1987."
 pubDate: 2026-10-28T16:48:00+05:00
+updatedDate: 2026-10-29
 image: "/images/first-antivirus-software-ever-built.webp"
 imageAlt: "A vintage computer screen showing an early virus warning and a shield symbol"
 category: "Technology"
@@ -71,6 +72,14 @@ The history also carries a warning. Every defence in this story was built after 
 ## The Michelangelo scare and the antivirus boom
 
 The antivirus industry grew fastest when fear outran fact. In 1989, the AIDS Trojan arrived on floppy disks sent to an AIDS conference mailing list, demanding payment to restore files — the first ransomware, arriving years before the word existed. In 1992, the Michelangelo virus, programmed to trigger on the artist's birthday, 6 March, caused a wave of public panic, with warnings far outrunning the actual damage. The panic sold antivirus software by the box, and it taught the industry its most durable lesson: fear moves faster than viruses, and a public that is frightened buys protection. The honest antivirus makers learned to warn without panicking, because a panic that passes leaves a public that stops listening, and the next real threat needs listeners.
+
+## My Take: The First Antivirus Lesson Is Chase, Not Waiting
+
+The post traces the first antivirus from a chain of early programs. In 1966 John von Neumann described self-reproducing programs as theory. In 1983 Fred Cohen gave the phenomenon the lasting name computer virus. In 1987, according to AVG's history, the first dedicated antivirus software was built specifically to fight the Vienna virus. Later came the AIDS Trojan in 1989 and the Michelangelo panic in 1992. That chain is the evidence, and my judgement must stay inside it, without inventing new dates or programs.
+
+In my view, the most misunderstood part of this history is the order of events, and the misunderstanding changes how people protect themselves today. Readers often picture antivirus as a shield invented first, standing ready, with viruses arriving later to test it. The post proves the reverse order at every step. Creeper came first, Reaper second. Viruses came first, dedicated antivirus second. Ransomware in the form of the AIDS Trojan came first, and defences against it were still catching up. Defence in this story is always a chase, never a wall built in advance. That matters because a person who believes their guard was built before the threat will trust the guard and stop thinking. The first antivirus was not a product on a shelf. It was one program hunting one enemy, built by people in the same place, in the same years, from the same curiosity as the thing it hunted.
+
+My distinctive judgement is that Reaper should be admired for its idea and doubted as a model for safety. The idea inside Reaper, a program that defends computers against other programs, is the idea inside every antivirus today. Reaper knew one enemy and hunted that enemy. A defence that only knows yesterday's virus will always arrive late. The winner is the standing guard that expects new enemies, scans against huge lists, watches behaviour, checks downloads, and updates constantly. The loser is any user who treats antivirus as a purchase that finishes the job. Two options face a modern reader: buy protection and relax, trusting that fear will do the rest, as the Michelangelo panic sold antivirus by the box with warnings far outrunning actual damage; or treat protection as a habit, keeping the guard updated and staying calm enough to keep listening when the next real warning arrives. The second option wins, because panic that passes leaves a public that stops listening, and the next real threat needs listeners. What to do first is to update the guard and keep it running. What to do second is to pause before attachments and shared disks, remembering that Elk Cloner and Brain both travelled the way people shared things, hand to hand. Skip the search for a single tool or year that settled the matter. No such year exists, and the safest computer is not the one with the newest guard, but the one whose owner behaves as if the guard will always be one step behind the next trick.
 
 ## Frequently Asked Questions
 
