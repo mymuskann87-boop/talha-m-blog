@@ -2,6 +2,7 @@
 title: "Phone Without Apps Launches China"
 description: "A new phone from StepFun has no grid of app icons, yet it is built to get things done. Meet the STEPX Neo, the handset that places an AI agent called Amoo"
 pubDate: 2026-10-23T13:30:00+05:00
+updatedDate: 2026-10-29
 image: "/images/phone-without-apps-launches-china.webp"
 imageAlt: "An illustration of a smartphone with a completely empty home screen and one glowing AI orb, held high against the Shanghai skyline at night."
 category: "Technology"
@@ -97,6 +98,16 @@ That tension makes the launch interesting. The phone’s screen may look empty, 
 ## You may also like
 
 - [Joker Hid Inside Play Apps](https://talhablog.com/blog/joker-hid-inside-play-apps/)
+
+## My Take: A Phone Without Apps Must Earn Total Trust
+
+A new phone from StepFun has no grid of app icons, yet it is built to get things done, as this post describes. The STEPX Neo places an AI agent called Amoo at the centre, built into the foundation rather than added on top, with almost 100 partners behind it, first shown in Shanghai, with a price, pre-orders, and a first sales event. The home screen has almost nothing to open, no colourful wall of little squares, no familiar grid inviting the owner to tap, scroll, open, and close. The missing piece, the post says, is named Amoo, and the hard question behind the empty screen is whether an agent can be trusted to act on a person's behalf.
+
+My judgement is that a phone without apps is not a simpler phone. It is a phone that moves complexity out of sight, and out of sight is exactly where trust becomes hardest to check. An app grid, for all its clutter, has one honest virtue: the owner can see what is installed, open one thing at a time, and close it when done. An agent that acts behind an empty screen asks the owner to trust a chain of decisions that cannot be seen in the same way. I think that bargain can work, but only if the agent proves itself in small, checkable steps, with clear records of what it did, what it was told to do, and how to undo it.
+
+Readers should compare two kinds of convenience. One kind is the convenience of tapping an app you know, waiting for it to open, and doing the job yourself. It is slower, and it keeps control in your hands. The other is the convenience of asking an agent to do the job, and finding it done when you return. It is faster, and it hands control to a system whose choices you did not watch. The second kind will win many users, because speed is seductive, and because an empty home screen feels calm in a way a crowded grid never does. The cost, in my view, is the quiet loss of skill and oversight. When an agent books, buys, messages, and files on your behalf, mistakes become harder to spot, and the habit of checking fades just as the need to check grows.
+
+What should a buyer do before switching? Ask where the record is, how an action can be undone, and what happens when the agent misunderstands. Try it, if you try it at all, with low-risk tasks first, and keep the important decisions in your own hands until trust is earned by evidence. A phone without apps may be the future, or it may be a fashion that fades when the first serious mistake arrives. My call is to judge it by one test: does the empty screen give you more control over your life, or only a calmer picture of control you no longer hold?
 
 ## Frequently Asked Questions
 

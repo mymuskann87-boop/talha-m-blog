@@ -2,6 +2,7 @@
 title: "Oil Prices Jump Past $114"
 description: "One barrel of oil, one frightening week of attacks, and one big number — $114. Follow the barrel from deep under the desert to the petrol pump, and see why"
 pubDate: 2026-10-23T14:10:00+05:00
+updatedDate: 2026-10-29
 image: "/images/oil-prices-jump-past-114.webp"
 imageAlt: "An illustration of oil pumpjacks in a desert at sunset with a huge glowing green arrow shooting upward into the sky."
 category: "Business"
@@ -71,6 +72,16 @@ For ordinary people, the practical lesson is simple: when you hear that oil has 
 ## You may also like
 
 - [Start Business With Little Money](https://talhablog.com/blog/start-business-with-little-money/)
+
+## My Take: Fear Moves Oil Faster Than Supply Ever Could
+
+One barrel of oil, one frightening week of attacks, and one big number, $114, frame this post, which follows the barrel from deep under the desert to the petrol pump and asks why the price moved. The post explains why fear raises the price of oil, who watches the number, the long road to the pump, why the region matters so much, and what may happen next to the price. The barrel itself did not change in that week. What changed was what people believed about the future: whether oil would keep flowing, whether a route would stay open, and whether the next headline would be worse than the last.
+
+My judgement is that fear is the fastest trader in the oil market, and readers who ignore it will misread every sharp move. Supply changes slowly. A well cannot be drilled in a day, a pipeline cannot be rebuilt in a week, and a tanker cannot teleport across a sea. Fear changes in minutes. A single attack, a threat to a strait, or a rumour of a wider conflict can add dollars to a barrel before a single drop of supply is lost, because buyers pay for safety, not only for oil. I think that distinction matters for ordinary people, because it explains why a pump price can jump while shelves stay full and stations stay open. The price is not only a bill for the oil in the tank. It is a price for worry about the oil that may not arrive tomorrow.
+
+Two mistakes follow from confusing fear with shortage, and both cost money. One mistake is to panic-buy, filling tanks and cans at the peak price, which turns a market fear into a real local shortage. The other is to assume the price will fall back at once when headlines calm, and to plan spending as if the spike never happened. The wiser course, in my view, sits between them. Accept that fear-driven spikes are part of how this market works, keep enough fuel for genuine needs without hoarding, and judge the trend over weeks rather than over a single frightening day. The post's road from desert to pump is useful here, because it reminds readers how many hands, ships, and decisions stand between a barrel underground and a litre at the pump. Each of those steps can add worry, and worry adds price.
+
+What should readers do differently? Watch the reason for a price move, not only the number. Ask whether supply itself has been hit, or whether fear of a hit is doing the work. If it is fear, expect sharp moves in both directions, and avoid decisions made at the peak of alarm. Oil at $114 is a signal, not a verdict on the future. My call is to read it as a measure of how nervous the world feels, and to let that reading guide calm, patient choices rather than hurried ones.
 
 ## Frequently Asked Questions
 

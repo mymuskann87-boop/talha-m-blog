@@ -2,6 +2,7 @@
 title: "Russell Brand Trial Begins London"
 description: "Russell Brand has walked into a London court to face seven charges from six women. The full story in simple words: the charges, his not guilty plea, his"
 pubDate: 2026-10-14T19:30:00+05:00
+updatedDate: 2026-10-29
 category: "Celebrity"
 image: "/images/russell-brand-trial-begins-london.webp"
 imageAlt: "A man in a suit walking up the steps of a London courthouse as photographers take pictures"
@@ -99,6 +100,14 @@ The cameras will be on those courthouse steps every single day until then. So wi
 ## You may also like
 
 - [Scarlett Johansson: Black Widow's Story](https://talhablog.com/blog/scarlett-johansson-biography-life-story/)
+
+## My Take: Russell Brand trial must be judged inside courtroom only
+
+The post is careful to state what is known and what is not, and that care must govern any judgement about this trial. Russell Brand walked up the steps of Southwark Crown Court in London, where a jury of twelve ordinary people, eight men and four women, will decide the case. He faces seven charges from six women, covering the period 1999 to 2009, and he has pleaded not guilty to every charge. The trial could run for six weeks, maybe longer, with estimates ranging up to ten weeks. The judge warned the jury not to search for the story on the internet, not to read old news about it, and to judge only what they hear inside the room. In the eyes of the law, as the post states clearly, he is innocent unless the jury decides otherwise.
+
+My judgement is that the courtroom, and only the courtroom, is the place where this case should be decided, and everything outside it is noise, however loud. Brand has been a famous figure for twenty years, a comedian, actor, author, and online broadcaster with millions of followers. His reinvention online, talking about politics, addiction, wellness, and faith, made him a truth-teller to many followers and a very different figure to his critics. That public split is exactly why the judge's warning matters. A trial about events up to twenty-seven years old will turn on memory, dates, details, and which version of long-ago years the jury believes. A public test is decided by reaction and never ends. A legal test is decided by twelve people, after slow work, with a verdict that carries real consequences.
+
+What the reader should do differently is adopt the jury's discipline, even though the reader is not on the jury. First, do not search for or share old news about the case, and do not treat social media reaction as evidence, because the judge's warning to the jury is good advice for everyone. Second, wait for the slow part: prosecutors calling witnesses one by one, lawyers questioning every memory, date, and detail, and the decision, still to come, whether Brand himself will give evidence. Third, judge the outcome only when it arrives, charge by charge, and accept that a verdict on seven charges may not be all one way. A plea of not guilty is a position, not evidence. An opening is a claim to be tested, not a finding. If cleared, he walks out to rebuild his life with his name restored by a jury. If convicted on the most serious counts, he faces a long prison sentence. The cameras will be on the courthouse steps every day until then. The reader's job is not to join the crowd on the steps. It is to wait, quietly, for the room where evidence is heard, and to let twelve ordinary people do the work the law gives only to them.
 
 ## Frequently Asked Questions
 

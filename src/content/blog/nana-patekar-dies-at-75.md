@@ -2,6 +2,7 @@
 title: "Nana Patekar Dies At 75"
 description: "Nana Patekar, 75, died at his home in Goa. His age, life, best-known films, and why people loved him — a simple look back at the actor's work."
 pubDate: 2026-10-10T21:10:00+05:00
+updatedDate: 2026-10-29
 category: "Celebrity"
 image: "/images/nana-patekar-dies-at-75.webp"
 imageAlt: "Illustration of a vintage Bollywood film set with an elderly actor silhouette, marigold flowers and candlelight."
@@ -56,6 +57,18 @@ May his soul rest in peace.
 ## You may also like
 
 - [Breaking Bad's RJ Mitte Dies](https://talhablog.com/blog/rj-mitte-breaking-bad-actor-dies-at-34/)
+
+## My Take: Range, Not One Role, Made Nana Patekar Last
+
+Nana Patekar has died at 75, at his home in Goa, after what India's news agency reported as a suspected cardiac arrest, and this post looks back at a career built across Hindi and Marathi cinema. It lists work that spans decades and moods: an early breakthrough in Salaam Bombay, a powerful turn in Krantiveer, crime drama, a children's film, comedy as a kind-hearted gangster, and a political thriller, alongside the Padma Shri honour and an honorary army rank. The Prime Minister's tribute, quoted in the post, praised the variety and creativity of his roles, and the characters audiences would remember for generations.
+
+In my view, range is the correct word for his legacy, and it is also the hardest kind of legacy to earn. Many actors find one strong manner and repeat it until audiences tire of it. Patekar, as the post presents him, moved between anger and humour, menace and kindness, without letting one role swallow the others. That movement is a choice, not an accident. It asks an actor to risk looking foolish in a new register, to accept parts that do not flatter him, and to trust that audiences will follow. I think his staying power came from that willingness. A single famous role can make a career. Only a spread of different roles, each played as if it mattered, makes a career that survives fashion.
+
+Readers should compare two ways of remembering a performer. One way picks a favourite scene and stops there. The other asks what the performer could do that others in the same era could not. For Patekar, the post's list answers that question well: he could be frightening and funny, grand and small, without breaking belief. The comedy roles matter to the judgement as much as the serious ones, because comedy done well demands timing and restraint, and because audiences who laugh with an actor often trust him more deeply when he turns serious. The children's film role matters too, for a similar reason. An actor who only plays power can feel distant. One who can play for children, and mean it, feels human.
+
+An actor who lasts across decades usually does so by refusing to be owned by a single success, and by letting each new part ask something different of him.
+
+What should a reader do with this loss? Watch the spread, not only the famous clip. See a serious performance, then a comic one, and notice how little of the actor's manner carries over unchanged. That is the craft. Patekar's death closes a long working life, and the funeral details, as the post notes, were not yet confirmed. The work itself needs no confirmation. It is there, varied and alive, and it is the fairest measure of why he is mourned.
 
 ## Frequently Asked Questions
 

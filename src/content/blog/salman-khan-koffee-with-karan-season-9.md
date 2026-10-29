@@ -2,6 +2,7 @@
 title: "Salman Khan Koffee Final Season"
 description: "After 22 years, Koffee With Karan returns for its ninth and final season on October 14, with Salman Khan as the first guest. Here is the farewell story."
 pubDate: 2026-10-13T21:45:00+05:00
+updatedDate: 2026-10-29
 category: "Celebrity"
 image: "/images/salman-khan-koffee-with-karan-season-9.webp"
 imageAlt: "An empty ornate television studio set with a green velvet sofa, gold curtains and carved panels, and two cups of coffee on a round table"
@@ -49,6 +50,14 @@ What viewers can expect is a farewell run designed to go out on a high: the bigg
 ## You may also like
 
 - [Shah Rukh Khan Life Story](https://talhablog.com/blog/shah-rukh-khan-life-story/)
+
+## My Take: Koffee With Karan ending protects legacy before decline
+
+For more than two decades, India's biggest film stars have sat on the Koffee With Karan couch, laughed, cried, fought, and sometimes said things that became headlines for weeks. Now that couch is being used one final time. Koffee With Karan returns for a ninth season, and it will be the last season ever. The farewell run begins on 14 October 2026, streaming on JioHotstar, with Salman Khan as the first guest. The show started in 2004, when many of today's young viewers were not even born. Across eight seasons and 161 episodes, the couch hosted almost every major name in Indian cinema. Karan Johar announced on 30 September that the ninth season would be the final one, in an emotional message about friendships, memories, madness, love, and also controversies, trolling, and gossip.
+
+My judgement is that ending the show now is a creator choosing his own ending, and that choice protects the legacy better than another season would. Johar explained, in an interview with Variety, that he wants to dedicate the next phase of his career to directing films and telling stories through cinema. It was, in his words, a heavy-hearted decision, not a show being cancelled, but a creator feeling the journey is complete. That distinction matters. A show that fades because people stopped caring leaves a sad ending. A show that ends because its creator feels it is time to let go leaves a proper farewell. Salman Khan was the only choice to open it, in my view, because he is part of the show's history. He opened Season 4, returned for the 100th episode in Season 5 with his brothers Arbaaz and Sohail, and has not sat on the couch since 2016, nearly ten years ago.
+
+What the reader should do differently is watch the final season as a goodbye, not as a promise of more. First, judge it by moments, not by ratings or rumours, since the guest list beyond Salman has been kept a mystery, which is exactly how the show likes it. Second, remember why the show mattered: it built its name on getting guarded superstars to talk the way people talk when cameras are supposedly not judging, and episodes regularly spilled into national conversation, headlines, and memes. Third, accept the sadness in the farewell without turning it into a demand for a return. Johar has said some journeys are not planned to end; you simply know, deep inside, when it is time to let them go. If the final season delivers even a few moments like the ones that built its legend, it will be remembered as one of television's great goodbyes. On 14 October, millions will press play, not just for an episode, but to say thank you, and goodbye, to a show that became part of their lives. That is a fair ending, chosen on purpose, and it deserves to be enjoyed as one.
 
 ## Frequently Asked Questions
 

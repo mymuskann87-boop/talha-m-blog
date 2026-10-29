@@ -2,6 +2,7 @@
 title: "Pay Loans Faster Save Interest"
 description: "How to pay loans faster and save interest — list every loan, attack the highest rate first, and use windfalls wisely."
 pubDate: 2026-10-26T16:10:00+05:00
+updatedDate: 2026-10-29
 image: "/images/pay-loans-faster-save-interest.webp"
 imageAlt: "Loan papers with scissors cutting an interest chain"
 category: "Saving Money"
@@ -64,6 +65,16 @@ Also, interest is not the only cost of a loan. Fees, insurance bundled with the 
 
 - [Good Debt Versus Bad Debt](https://talhablog.com/blog/good-debt-versus-bad-debt/)
 - [Payday Plan Saves Monthly Salary](https://talhablog.com/blog/payday-plan-saves-monthly-salary/)
+
+## My Take: Attack The Highest Rate, Ignore The Rest First
+
+The post opens with a ledger of four loans, paid faithfully for years, with balances falling slowly and interest returning like a tide, because payments were spread evenly across all four. Its advice is clear: list every loan with its rate, attack the highest rate first while keeping minimum payments everywhere else, put windfalls against the loan rather than the lifestyle, ask about early repayment terms before paying extra, and never take a new loan to pay an old one blindly. It also states the honest limits of paying loans faster, and it warns against spreading effort equally when one loan is, in the post's image, on fire while the others merely wait.
+
+My judgement is that the highest-rate-first rule is the most valuable piece of advice in the whole post, and also the hardest to follow, because it asks for patience in the wrong place. Human nature prefers quick wins. Paying off a small loan first feels good, because a line disappears from the ledger and the borrower feels progress. Attacking the highest rate first often means paying a larger, slower-moving balance for months without the pleasure of closing an account. I think that discomfort is the price of saving real money. Interest is charged on what you owe, at the rate you owe it, and every extra payment sent to a low-rate loan while a high-rate loan burns is a payment that works less hard than it could. The post's water image is exact: pouring equally on four plants helps the burning one least, and the burning one is the one that costs you most.
+
+Readers should compare two uses of a windfall, because windfalls test character more than paydays do. One use spreads the money across pleasures and small debts, and feels generous in the moment. The other sends the whole windfall, or the largest share of it, against the highest-rate loan, and feels dull on the day. The dull choice is the one that shortens the life of the debt, cuts the total interest paid, and frees future income sooner. The same comparison applies to the warning about new loans. Borrowing to pay borrowing can make sense only when the new terms are clearly better, the fees are known, and the old debt truly closes. Done blindly, it merely moves the fire to a new room and adds a fee for the move. The post is right to insist on asking about early repayment terms first, because a penalty for paying early can quietly eat the saving the extra payment was meant to create.
+
+What should you do differently? List the loans, circle the highest rate, and make that loan the target while protecting every minimum payment. Send windfalls to the target, check terms before each extra payment, and review the list when one loan closes. Paying loans faster is not about working harder. It is about aiming the same effort at the costliest fire first, and letting the other fires wait their turn.
 
 ## Frequently Asked Questions
 

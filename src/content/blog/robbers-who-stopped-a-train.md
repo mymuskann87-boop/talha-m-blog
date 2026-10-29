@@ -2,6 +2,7 @@
 title: "Robbers Who Stopped A Train"
 description: "On 8 August 1963, a gang used a false red signal to stop a Royal Mail train and steal about £2.6 million. The plan worked for one night, then a farm"
 pubDate: 2026-10-23T09:50:00+05:00
+updatedDate: 2026-10-29
 image: "/images/robbers-who-stopped-a-train.webp"
 imageAlt: "An illustration of a mail train stopped on dark countryside tracks at night, with masked robbers beside it under the moonlight."
 category: "Crime"
@@ -91,6 +92,14 @@ In my view, the word "great" in Great Train Robbery describes the size of the th
 ## You may also like
 
 - [Spot Fake Message Before Clicking](https://talhablog.com/blog/spot-fake-message-before-clicking/)
+
+## My Take: Great Train Robbery fame hides its human cost
+
+The story in this post is told in five moves, and the moves themselves show why the robbery should not be remembered as a clever adventure. At about three in the morning on 8 August 1963, a gang used a glove over the real green signal and a battery-powered red light to stop an overnight Royal Mail train in the Buckinghamshire countryside. Driver Jack Mills slowed and stopped, as a careful driver is trained to do. Masked men swarmed the locomotive, Mills was struck on the head and knocked unconscious, co-driver David Whitby was attacked and thrown down a steep embankment, and the gang uncoupled most of the train, keeping the engine and the first two carriages. The amount stolen is usually given as about £2.6 million, with the National Archives putting it at over £2.63 million, a record haul in Britain at the time, and most of the money was never recovered.
+
+My judgement is that the word great in this crime describes the size of the theft, not the worth of the men who did it. The execution, however, bent back toward cruelty when the plan failed. At the bridge, 120 sacks holding about two and a half tons of money were passed in a human chain. A plan that needs an injured man to finish its work is not a masterstroke. It is a failure that other people paid for. The common mistake is to treat the absence of guns as proof of gentleness.
+
+What the reader should do differently is change the centre of the story when retelling it. First, put Mills at the centre, as the driver who stopped for a signal because that was the safe and correct thing to do, and who was beaten and forced to drive while bleeding for obeying it. Second, judge the plan by its weakest point, not its cleverest: the false signal worked, but the gang could not drive the train, could not hide its fingerprints, and could not clean its hideout. Fingerprints found on a Monopoly board and a tomato ketchup bottle helped connect Biggs to the crime, after the farm was left uncleaned with food, bedding, banknote wrappers, and postal sacks behind. Third, remember the human cost in full. Whitby, only twenty-five when attacked, struggled to come to terms with it and died from a heart attack in 1972, aged thirty-four. Mills never fully returned to work and died in 1970. His official cause of death was leukaemia, but his family insisted the head injury and ordeal contributed to his poor health, and the post keeps both statements together. A record sum and a famous board game do not make a crime admirable. They make it a warning about how easily a clever trick is mistaken for a great deed, when the people who paid for it are left out.
 
 ## Frequently Asked Questions
 

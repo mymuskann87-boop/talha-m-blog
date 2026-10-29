@@ -2,6 +2,7 @@
 title: "Ryuk Demanded Millions From Companies"
 description: "Ryuk ransomware skipped the small fish, hid inside giant companies for weeks, then locked everything in one night and demanded millions."
 pubDate: 2026-10-23T19:50:00+05:00
+updatedDate: 2026-10-29
 image: "/images/ryuk-demanded-millions-from-companies.webp"
 imageAlt: "An illustration of a giant glowing ransom hologram floating over a corporate city skyline at night, with a briefcase of gold bars on a rooftop."
 category: "Technology"
@@ -59,6 +60,14 @@ To me, the scariest part of Ryuk is not the encryption — it is the weeks of si
 ## You may also like
 
 - [Conficker Infected Millions, Vanished Quietly](https://talhablog.com/blog/conficker-infected-millions-vanished-quietly/)
+
+## My Take: Ryuk attack rewards patience in criminals, punishes delay
+
+The post describes Ryuk as the opposite of a wide net. Most criminals throw a net and hope to catch anything. The people behind Ryuk behaved like patient hunters tracking one very large animal: they picked a giant company, slipped quietly inside, hid for days or weeks, learned where the doors, keys, and treasure room were, and then struck every room at once. Ryuk first appeared in August 2018. It scrambles data with strong encryption, a kind of mathematical padlock, and leaves a ransom note, usually demanding payment in Bitcoin for the key. The FBI and CISA attributed the attacks to a group tracked as Wizard Spider. In January 2021, the FBI reported that Ryuk's operators had received more than 61 million dollars in ransom payments during the period covered by its advisory, counting only what investigators could trace.
+
+My judgement is that patience, in this story, belongs to the criminals, and delay belongs to the victims, and that reversal is what made Ryuk so frightening. The quiet stage could last for weeks, because the criminals were mapping a giant, not rushing a single computer. When they understood the whole network, they reached central computers, switched off security tools, and hunted down backups and destroyed or disabled them. Only then, often at night or on a weekend, did they release Ryuk across hundreds or thousands of computers in a few hours. The scariest part is not the encryption. It is the weeks of silence before it, while strangers quietly learned somebody's whole workplace, and nobody heard them. Ryuk was almost never the first thing to enter a company. It was the last thing, the final blow, after human operators had prepared the ground.
+
+What the reader should do differently is break the first link, because it is the one within reach. First, treat every unexpected email like a possible trap door: if it asks for an attachment, a link, or a password, stop and check through a different route, by calling the sender on a trusted number, because a genuine invoice can wait ten minutes and a trap cannot survive ten minutes of questions. Second, turn on two-factor sign-in everywhere it is offered, and use a different password for each key account, so a stolen password alone cannot open the next door. Third, keep a backup that criminals cannot touch, on an external drive unplugged after copying, or in a separate cloud account, and update devices and use built-in security tools. In 2020, Universal Health Services was hit, with systems down across hundreds of hospital facilities and staff falling back on paper. In 2018, Tribune Publishing was attacked in a way that delayed newspaper printing. A reader who only asks how to remove ransomware, and never asks how the scout got in, will keep rebuilding the last door while the first one stays open. The chain that ended with a locked hospital started with one believed message, at one ordinary desk.
 
 ## Frequently Asked Questions
 

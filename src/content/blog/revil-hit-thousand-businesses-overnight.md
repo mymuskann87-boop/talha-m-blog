@@ -2,6 +2,7 @@
 title: "REvil Hit Thousand Businesses Overnight"
 description: "The REvil gang slipped its ransomware through one trusted IT tool and locked up around 1,500 businesses around the world on a single holiday weekend."
 pubDate: 2026-10-23T20:00:00+05:00
+updatedDate: 2026-10-29
 image: "/images/revil-hit-thousand-businesses-overnight.webp"
 imageAlt: "An illustration of one giant master key made of glowing red code unlocking a thousand office doors at once across a night-time city skyline."
 category: "Technology"
@@ -71,6 +72,16 @@ You cannot control everything, but this attack teaches clear, practical lessons 
 ## You may also like
 
 - [Shamoon Wiped Thirty Thousand Computers](https://talhablog.com/blog/shamoon-wiped-thirty-thousand-computers/)
+
+## My Take: REvil attack proves trusted tools need tighter guarding
+
+REvil, also known as Sodinokibi, did not usually break into one company at a time. It rented its ransomware to affiliates, in a model called ransomware-as-a-service, sharing the money when a ransom was paid. On 2 July 2021, just before the American Independence Day holiday weekend, the gang found a weakness in Kaseya VSA, software used by IT support companies to look after many client computers at once. It pushed ransomware through that trusted channel. Around 1,500 businesses downstream were reported affected. REvil demanded 70 million dollars for a single universal key. Days later its websites vanished, the FBI had quietly obtained a working key, and in January 2022 Russia's FSB announced arrests.
+
+My judgement is that this attack changes who should feel responsible for safety. A small shop can train staff, choose good passwords, and lock its own doors, and still be hit. The attack never came through its door. It came through the trusted tools of the company managing its computers. Most of those 1,500 businesses had never been careless at all. They were standing behind a door somebody else was trusted to guard. A thief who picks one lock harms one shop. A thief who steals the caretaker's master key can open every door on the street. Management software is that master key, because it lets technicians reach many computers at once. That power is why the tool is precious, and why it must be guarded: reachable only by people who truly need it, protected with strong passwords and an extra verification step, and never left wide open to the internet when that is not necessary.
+
+What should the reader do differently? First, ask the IT provider plainly what software it uses to connect to your computers, and who can use it to make changes, and expect a clear answer. Second, keep at least one backup disconnected from the main system, on a drive unplugged after copying, so a clean copy means rebuilding without paying anyone. Third, decide in advance who to call, where backups are, and how customers will be served if computers are locked tomorrow. Patch and update quickly, and make a recovery plan before the bad day arrives. The common mistake is to judge victims by asking what they did wrong. The better question is what the provider did, and what the victim could have controlled anyway. Trust itself can be the road criminals drive down. Guard the trusted roads as carefully as the front door.
+
+The ending of the story also carries a lesson about timing and quiet work. The attack landed just before a holiday weekend, when fewer technicians were available and many victims discovered the disaster slowly. The FBI had quietly obtained a working decryption key weeks earlier and held it while operations continued, helping some victims unlock systems without the world knowing where the key came from. When the gang later released a universal key publicly, victims no longer needed to pay for what investigators could already help them recover.
 
 ## Frequently Asked Questions
 

@@ -2,6 +2,7 @@
 title: "River That Was Reversed Forever"
 description: "In 1900, the city of Chicago did something no city had ever dared: it dug a canal deeper than its own river and forced the Chicago River to flow away"
 pubDate: 2026-10-23T10:10:00+05:00
+updatedDate: 2026-10-29
 image: "/images/river-that-was-reversed-forever.webp"
 imageAlt: "An illustration of a wide city river flowing between city bridges, with giant engineering works and cranes along its banks."
 category: "Nature"
@@ -71,6 +72,16 @@ To me, that is the perfect ending to the story, because it refuses to be simple.
 ## You may also like
 
 - [Place Where Lightning Strikes Nightly](https://talhablog.com/blog/place-where-lightning-strikes-nightly/)
+
+## My Take: Reversing Chicago River solved drinking, created guardianship
+
+Chicago's sewers emptied into the Chicago River, the river emptied into Lake Michigan, and Lake Michigan was where drinking water came from. By 1890 about a million people lived in Chicago, and about 1.6 million by 1900. Typhoid fever took an average of 65 lives per 100,000 residents every year, and 174 per 100,000 in 1891. The solution, approved by voters with 99 percent support, was to create the Sanitary District of Chicago in 1889 and reverse the river. The Chicago Sanitary and Ship Canal, about 28 miles long, was dug deeper than Lake Michigan, so gravity would turn the river around and carry sewage away toward the Mississippi and the Gulf of Mexico. In the early hours of 2 January 1900, the river began to flow backwards, and it still does.
+
+My judgement is that this is one of the greatest public health rescues in history, and also a warning about what a rescue costs when it is permanent. With sewage no longer drifting toward the intakes, waterborne disease rates fell sharply, and the city kept growing. That gain is real. But the canal joined two great water systems that nature kept apart, opening a highway for invasive species. Asian carp could use the canal to reach Lake Michigan and the Great Lakes system. The United States Army Corps of Engineers installed electric barriers near Romeoville between 2002 and 2011, pulsing electricity through the water to turn fish back. Chicago solved its crisis so completely that the solution must now be guarded every day, like a living thing. In the 1890s, treating sewage for a million-plus people was beyond available technology and budgets, so dilution in lake water was the practical tool. Since around 1950, canal water has been fully treated, not merely diluted.
+
+What should the reader understand differently? First, correct the legend: the famous 90,000 deaths in 1885 never happened, as historians found no cholera deaths that year, and the Chicago Tribune retracted the claim in 2005. The storm was a warning, not a massacre. Second, judge any grand fix twice: once for the crisis it ends, and once for the new duties it creates. Missouri sued in Missouri v. Illinois, arguing Chicago's sewage sickened St. Louis, but in 1906 the Supreme Court ruled for Illinois, finding harm had not been proved on that evidence. A solution can be lawful and successful at home while sending a problem downstream. Third, notice the river today: still flowing backwards, held by locks, dyed green once a year since 1962, and guarded against carp by electricity. The bill, in a sense, is still being paid. That is true of nearly every bold thing human beings have ever built.
+
+The scale of the work earned recognition that still frames how it should be judged. In 1955, the American Society of Civil Engineers named the canal one of the Seven Wonders of American Engineering.
 
 ## Frequently Asked Questions
 

@@ -2,6 +2,7 @@
 title: "Navi Pillay Wins Nobel Prize"
 description: "Navi Pillay, 85, has won the 2026 Nobel Peace Prize. Here is her life story in simple words, from defending Mandela to leading global courts."
 pubDate: 2026-10-11T09:05:00+05:00
+updatedDate: 2026-10-29
 category: "Awards"
 image: "/images/navi-pillay-nobel-peace-prize-2026.webp"
 imageAlt: "Illustration of a gold peace medal with scales of justice and an olive branch"
@@ -58,6 +59,16 @@ It also sends a message to victims: their stories matter, and some people have s
 ## You may also like
 
 - [How Nobel Prize Winners Chosen](https://talhablog.com/blog/how-nobel-prize-winners-chosen/)
+
+## My Take: Slow Law, Not Slogans, Earned Navi Pillay's Prize
+
+Navi Pillay, 85, has won the 2026 Nobel Peace Prize for a lifetime of work making sure war crimes, crimes against humanity, and genocide are prosecuted, as this post explains. The record it sets out runs from defending Nelson Mandela and other anti-apartheid activists as a lawyer in South Africa, through leading the tribunal for Rwanda, to serving as a judge at the International Criminal Court and as United Nations High Commissioner for Human Rights. The post also notes one difficult headline after the announcement, and it is careful to present her career as patient, step-by-step legal work rather than a single dramatic moment.
+
+My judgement is that this prize honours a kind of courage that rarely photographs well. Speaking in court, building a case file, and pressing for recognition of a crime are slow acts, and they offer no instant result. Pillay's work at the Rwanda tribunal, where rape was recognised as an act of genocide, matters precisely because it changed the law's language. Legal language may sound dry, but for victims it is the difference between suffering that is named and suffering that is passed over. I think the committee's choice is a defence of that slow method at a time when public life rewards quick slogans. A slogan can name an injustice in seconds. Only a court, patiently worked, can test evidence, assign responsibility, and leave a record that outlives the news cycle.
+
+Readers should weigh two ideas of justice against each other. One idea wants punishment to be swift, loud, and visible, and grows impatient when cases take years. The other accepts that fair process is slow because it must be careful, and that a rushed verdict can harm the innocent as well as fail the victim. I favour the second idea, with a clear limit: slowness is not an excuse for delay without end, and institutions must answer for cases that stall. Pillay's path, as the post describes it, shows the balance in practice. Each role built on the one before it, and each step carried the same belief, that law should protect people with the least power, even when powerful governments would prefer silence.
+
+The common mistake is to treat a peace prize as a prize for being good, or for holding the right opinions. This one, in my view, is a prize for doing the work. Defending activists under apartheid was not safe or easy, and serving as a human rights voice at the United Nations meant speaking up when silence would have been more comfortable. For ordinary readers, the lesson is not to become lawyers. It is to value the unglamorous habits behind lasting change: keep records, follow rules that bind the strong as well as the weak, and refuse to let a victim's story be forgotten because it is inconvenient. Pillay's life, as told here, earns respect because the work came first and the honour came last.
 
 ## Frequently Asked Questions
 

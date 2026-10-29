@@ -2,6 +2,7 @@
 title: "PTI March For Imran Khan"
 description: "The PTI long march led by KP Chief Minister Sohail Afridi has completed one week. Here is a simple, step-by-step explanation of what it is, where it has"
 pubDate: 2026-10-11T14:00:00+05:00
+updatedDate: 2026-10-29
 category: "Pakistan News"
 image: "/images/pti-long-march-khyber-pakhtunkhwa.webp"
 imageAlt: "Illustration of a peaceful crowd marching on a mountain road in Khyber Pakhtunkhwa."
@@ -83,6 +84,14 @@ This is a developing story, and details may change. We will keep you updated.
 ## You may also like
 
 - [Protests Erupt Over Petrol Levy](https://talhablog.com/blog/protests-erupt-over-petrol-levy/)
+
+## My Take: The PTI march tests patience more than street power
+
+The account in this post is careful to present both sides, and the reader should keep that care. The march began on Sunday, 4 October 2026, at Gandi Chowk in Lakki Marwat, led by Khyber Pakhtunkhwa Chief Minister Sohail Afridi and organised by Pakistan Tehreek-e-Insaf. Its main demand, as stated by PTI leaders, is the release of Imran Khan, who is in jail. Other reasons given by PTI leaders are a fairer share of money under the NFC Award, unfulfilled promises to the former tribal areas, and opposition to another military operation in the province. The federal government disagrees: a federal minister said the march would not be allowed to enter Punjab or Islamabad, and the Prime Minister asked PTI to end the march and solve problems through talks. After one week, the march had stayed inside Khyber Pakhtunkhwa, with supporters asked to gather at the Swabi Interchange.
+
+My judgement is that this march tests patience more than it tests street power. A convoy of cars, buses, and trucks, growing town by town, can show strength, and a leader can make a speech in each place. Afridi was to announce the next plan at Swabi, with the latest reports pointing to 13 October, and the march would move beyond Swabi on 14 October. I think the real contest is between a movement that must keep its people together while waiting, and a government that must decide between talks, refusal, and the idea of governor's rule, which Afridi said he did not fear. Waiting is harder than marching, because marching gives people something to do, while waiting asks them to trust a plan they have not yet heard. Crowds show feeling, but they do not, by themselves, settle money shares, jail releases, or security policy.
+
+What the reader should do differently is refuse to decide this story from a single speech or a single crowd photo. First, check what was actually announced at Swabi, and on which date, because dates in this story have already moved. Second, separate what PTI leaders say they want from what the federal government says it will allow, and hold both statements side by side without merging them. Third, watch the ordinary effect: roads, towns, and daily life near Swabi, Mardan, and Charsadda, not only the leaders, since big gatherings can affect traffic and daily life in nearby towns. If talks resume and produce movement, PTI gains a path marching alone could not give, and the government gains calm without confrontation. If the march pushes forward and is stopped, PTI may gain sympathy but lose momentum, while the government may gain control of the road but lose goodwill. My call is that the wiser first step for either side is a clear, public offer of talks with a date attached, because an offer without a date is easy to ignore, and a march without a next plan is easy to tire out.
 
 ## Frequently Asked Questions
 

@@ -2,6 +2,7 @@
 title: "Two Army Pilots Martyred Quetta"
 description: "A Pakistan Army Mushshak training aircraft crashed near Nawan Killi in Quetta on October 12 due to a technical fault. Instructor Major Husnain Shehzad"
 pubDate: 2026-10-12T23:45:00+05:00
+updatedDate: 2026-10-29
 category: "Pakistan News"
 image: "/images/pakistan-army-mushshak-crash-quetta-two-pilots-martyred.webp"
 imageAlt: "Illustration of a small military training aircraft flying over the rocky hills near Quetta at dusk"
@@ -84,6 +85,16 @@ Until such an examination is complete, many questions will remain unanswered. Wh
 ## You may also like
 
 - [Pakistan Tests Fatah-2 Hypersonic Missile](https://talhablog.com/blog/pakistan-fatah-2-hypersonic-missile-test/)
+
+## My Take: Training Risk Deserves Honest Memory, Not Slogans
+
+A Pakistan Army Mushshak training aircraft crashed near Nawan Killi in Quetta on October 12, due to a technical fault, and both officers on board embraced martyrdom, as this post reports. The aircraft was a small training plane of Pakistan Army Aviation, and the loss was confirmed in the army's statement after the crash. The post names the instructor, Major Husnain Shehzad, describes what the Mushshak is, explains why training flights are risky, records the grief expressed by leaders, and sets out what happens next. The facts are few and stark, and the post is right not to dress them up. Two men who went up to train did not come back.
+
+My judgement is that a training death deserves a different kind of respect from a battle death, and that difference should be kept in mind. In battle, risk is chosen in the face of an enemy. In training, risk is accepted in the hope that skill, practised safely, will save lives later. That hope does not make the loss smaller. In a sense, it makes it sharper, because the flight had no enemy to blame and no victory to balance against it. I think the honest response is to honour the officers as professionals who accepted a quiet, daily danger so that others could fly with more skill and more safety. Slogans can flatten that truth into a phrase. Memory should keep it whole: two trained men, a technical fault, a morning flight, and families left with a loss that no tribute can repair.
+
+Readers should weigh two duties that follow a crash like this. One duty is to grieve, and to let the families grieve without turning their loss into an argument. The other duty is to ask, calmly and firmly, what the technical fault was, whether it was known, and whether training aircraft, maintenance, and safety checks are receiving the care they need. These duties do not conflict, though they are often treated as if they do. Grief without questions can leave the next crew at the same risk. Questions without grief can sound cold to people who are mourning. In my view, the army's statement and the leaders' tributes mark the first duty well. The second duty belongs to the inquiry that the post says will follow, and it should be pursued with patience and with public clarity about what is learned.
+
+What should readers understand differently? Training is not the safe rehearsal before the real danger. For pilots, training is itself a form of service, flown in real aircraft, in real weather, with real faults possible. The Mushshak, as a trainer, exists to teach skill before greater responsibility, and every safe flight that follows rests on flights like the one that ended at Nawan Killi. My call is to remember the two officers by that standard: not as symbols in a headline, but as skilled men doing necessary, risky work, whose loss should make training safer for those who fly next.
 
 ## Frequently Asked Questions
 

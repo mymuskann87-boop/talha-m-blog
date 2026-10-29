@@ -2,6 +2,7 @@
 title: "Nepal Flood Sweeps Away Houses"
 description: "Budhi Gandaki river flood in Gorkha, Nepal swept away around 45 houses and four bridges on October 11. Five people are missing and 82 were rescued."
 pubDate: 2026-10-12T23:49:00+05:00
+updatedDate: 2026-10-29
 category: "Disasters"
 image: "/images/nepal-flash-flood-budhi-gandaki-gorkha-houses-swept-away.webp"
 imageAlt: "Illustration of a Himalayan river valley village with a swollen muddy river after a flash flood"
@@ -60,6 +61,16 @@ For the families of Salleri Bazaar, Jagat Bazaar and the small settlements along
 ## You may also like
 
 - [Massive 7.6 Earthquake Hits Panama](https://talhablog.com/blog/panama-earthquake-7-6-what-happened/)
+
+## My Take: Nepal's Flood Punished Places With No Warning
+
+On October 11, 2026, the Budhi Gandaki river in Gorkha district, Nepal, rose in minutes without heavy rain falling on the valley, turning black and grey with mud, rocks, and broken trees, as this post reports. Around 45 houses and four bridges were swept away, five people were missing, and 82 were rescued, with helicopters and hundreds of personnel sent to help. The post explains how the water rose so fast, what was destroyed, including power projects, and why the river may have burst, while noting that the country was still healing from floods in August. The numbers alone tell only part of the story. The rest is about warning, or the lack of it.
+
+My call is that the sharpest failure in a disaster like this is not the river. Rivers flood. The failure is a system that leaves people in a valley with minutes to act and no clear signal in time. I think readers should judge the response in two parts, and keep them separate. The rescue effort, with helicopters and large numbers of workers, deserves credit for saving lives under terrible conditions. The warning and planning that should have come before the water arrived deserve harder questions. Were people living beside the river told plainly what a sudden rise could look like? Were there routes to higher ground that everyone knew? Was there any upstream watch that could have bought even a little time? The post raises the question of cause, and I believe the cause matters less to the families than the answer to a simpler question: what will be different before the next sudden rise?
+
+Two temptations follow every flood, and both should be resisted. One is to treat the event as an act of fate that no one could have foreseen, which lets every decision escape scrutiny. The other is to blame the victims for living where they live, as if a bazaar, a field, or a trailhead beside a river were a foolish choice rather than a home, a living, and a community built over years. In my view, the honest middle is harder. Mountain rivers can turn without local rain, because trouble upstream travels fast. That fact should change how risk is mapped, how houses and bridges are placed, and how quickly information moves from watchers to villages. It should also change how aid is judged. Rescue is essential, and it is not enough.
+
+What should readers understand differently? A flood that arrives in minutes rewards preparation made in calm weeks, not courage improvised in panic. Support that rebuilds houses in the same exposed places, without warning systems and safer routes, only sets up the next rescue. Support that pairs rebuilding with honest risk maps, drills, and upstream monitoring gives people a chance to move before the water decides for them. Nepal's loss, as reported here, deserves grief first. It also deserves a firm demand: that the next valley gets its warning before the river speaks.
 
 ## Frequently Asked Questions
 

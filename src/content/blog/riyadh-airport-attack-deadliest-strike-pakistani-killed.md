@@ -2,6 +2,7 @@
 title: "Riyadh Airport Attack Kills 13"
 description: "Riyadh's airport was attacked again on Sunday, a day after the deadliest Houthi strike on Saudi soil in over a decade killed 13. A Pakistani national died"
 pubDate: 2026-10-12T08:45:00+05:00
+updatedDate: 2026-10-29
 category: "Conflict"
 image: "/images/riyadh-airport-attack-deadliest-strike-pakistani-killed.webp"
 imageAlt: "Illustration of an airport terminal and control tower silhouetted against a dark night sky"
@@ -60,6 +61,14 @@ What is clear is the human cost of one weekend: at least 12 people killed on Sat
 ## You may also like
 
 - [Drone Attack Hits Saudi Airport](https://talhablog.com/blog/drone-attack-hits-saudi-airport/)
+
+## My Take: Riyadh airport strikes turn travel into repeated danger
+
+The facts reported in this post must be held carefully, because they arrived quickly and the story was still moving. On Saturday, 10 October, a Houthi missile struck King Khalid International Airport in Riyadh, around terminals 3 and 4. Saudi authorities said at least 12 people were killed and 309 wounded, with the death toll later reported as 13 and more than 300 wounded in total, described as the deadliest strike on Saudi soil in more than a decade. On Sunday, 11 October, the airport was attacked again: a projectile hit Terminal 4 and started a fire, killing one person, a Pakistani national, and injuring 11 others, according to Saudi Arabia's General Authority of Civil Aviation, as reported by Arab News. Sunday's strike was the fourth attack on Riyadh's airport in five days, Dammam's airport was also attacked on Sunday evening, and Riyadh's airport remained closed.
+
+My judgement is that repetition is what turns this from a tragedy into a pattern, and patterns demand a different kind of attention. One attack on a civilian airport is shocking enough, and the post is right to keep its tone respectful and close to what officials and major agencies reported. The victims were Saudi citizens and foreign nationals, including people from Bangladesh, Palestine, the United States, Egypt, Jordan, Syria, and Sudan on Saturday, and a Pakistani national on Sunday. Footage showed pilgrims inside the terminal. Behind each number is a traveller, a worker, or a pilgrim who went to an airport expecting a journey, a reunion, or work. Remembering them as people, not just numbers, is the only honest way to measure what escalation means.
+
+What the reader should do differently is practical and restrained. First, follow official airline and airport updates rather than rumours on social media, because schedules can change quickly and the full extent of damage to Terminal 4 had not been published in detail. Second, keep the unknowns labelled as unknown: when normal operations can safely resume, and the full official updates on the wounded and the damage, were still to come. Third, hold the human facts at the centre while waiting: at least 12 killed on Saturday, later reported as 13, and more than 300 wounded, then one more person killed on Sunday and 11 injured. The Houthis, an Iran-aligned group in Yemen, were held responsible in the reporting, with a spokesperson claiming responsibility for Saturday's attack. Yemen has been at war for years, and a Saudi-led coalition backs Yemen's government against them. Missiles reaching a civilian airport in the capital is the widening governments say they fear, and an airport closure is itself a harm to thousands far beyond one country. These were travellers, workers, and pilgrims at an airport, and they deserve to be remembered as people.
 
 ## Frequently Asked Questions
 

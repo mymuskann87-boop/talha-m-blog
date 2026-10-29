@@ -2,6 +2,7 @@
 title: "Mirai Broke Internet Using Cameras"
 description: "In 2016, the Mirai botnet turned hundreds of thousands of ordinary home cameras and gadgets into an army that knocked giant websites offline for much"
 pubDate: 2026-10-23T16:10:00+05:00
+updatedDate: 2026-10-29
 image: "/images/mirai-broke-internet-using-cameras.webp"
 imageAlt: "An illustration of a vast army of small home cameras and smart devices with glowing red eyes marching over a dark city while internet cables snap above them."
 category: "Technology"
@@ -77,6 +78,18 @@ None of these steps costs money. All of them together take less than an hour, on
 ## You may also like
 
 - [Stuxnet Worm That Broke Machines](https://talhablog.com/blog/stuxnet-worm-that-broke-machines/)
+
+## My Take: Cheap Cameras Became Weapons Through Neglect
+
+In 2016, the Mirai botnet turned hundreds of thousands of ordinary home cameras and other small connected gadgets into an army that knocked large websites offline, as this post describes. The cameras were not broken in the usual sense. They were working, blinking quietly in corners, while weak default passwords and forgotten settings let strangers take them over. The sources and the post agree on the uncomfortable point: the attack did not need a brilliant new trick. It needed a very large number of devices whose owners never thought of them as computers at all.
+
+My judgement is that blame belongs first with makers and sellers, and only second with owners. A camera sold for a home should arrive with a forced password change, automatic updates that do not demand technical skill, and plain warnings when a setting leaves it open to the internet. I think the industry failed that test, and the internet paid for the failure when those quiet devices were aimed together at one target. At the same time, owners cannot be left out of the judgement. A device that watches your front door, or your child's room, deserves the same care as a lock on that door. Leaving a factory password in place is not a small oversight once the device can be reached from anywhere in the world. It is an open invitation, and Mirai accepted it at scale.
+
+Readers should compare two habits. One habit buys the cheapest gadget, plugs it in, and never opens its settings again. The other spends ten extra minutes at setup, changes the password, turns off remote access that is not needed, and checks for updates now and then. The first habit feels cheaper. The second is cheaper in every way that counts, because the cost of the first habit was carried by strangers whose websites went dark, and by owners whose cameras became part of an attack without their knowledge. The turning point in this story was not a single hacker. It was the moment when so many small, neglected devices added up to power that no single device could ever hold alone.
+
+The lesson is not that home technology is evil; it is that a device with a network connection is a responsibility, and the seller who hides that fact is selling only half a product.
+
+What should you do differently? Treat every connected gadget as a computer with a door to your home. Change default passwords, keep software updated, and disconnect or replace devices that no longer receive updates. When you buy, prefer a maker that explains its security in plain words over one that only boasts about picture quality. Mirai is old news, but the pattern is not. The next army will also be built from devices people forgot. My call is simple: remember yours before someone else does.
 
 ## Frequently Asked Questions
 

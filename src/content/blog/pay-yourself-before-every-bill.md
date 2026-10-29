@@ -2,6 +2,7 @@
 title: "Pay Yourself Before Every Bill"
 description: "Pay yourself first by moving savings out on payday, before bills and spending — a simple habit that builds a cushion month by month."
 pubDate: 2026-10-28T02:27:00+05:00
+updatedDate: 2026-10-29
 image: "/images/pay-yourself-before-every-bill.webp"
 imageAlt: "A hand drops a glowing gold coin into a clear glass jar beside tall stacks of banknotes"
 category: "Saving Money"
@@ -62,6 +63,16 @@ It also needs care with timing. An automatic transfer set for the wrong day can 
 
 - [Good Debt Versus Bad Debt](https://talhablog.com/blog/good-debt-versus-bad-debt/)
 - [Track Where Your Money Goes](https://talhablog.com/blog/track-where-your-money-goes/)
+
+## My Take: Payday Saving Works Because Willpower Does Not
+
+The post opens with pay arriving on Friday and money gone by the third week, with nothing reckless having happened, only small, reasonable leaks: a meal here, a delivery there, a small treat that felt earned. Saving was always the plan for next month, and next month always started empty too. Its answer is the pay-yourself-first habit: move savings out on payday, before bills and spending, make the move automatic, start small and keep it steady, choose where the money lives, and know what to do when the cushion gets used. It also states the honest limits of the habit, which is why it deserves trust.
+
+My judgement is that this habit works precisely because it does not rely on willpower, and willpower is the weakest part of any money plan. Willpower is strong on payday, when the balance looks healthy and good intentions are fresh. It is weak in the third week, when the balance is thin, the month feels long, and a small treat feels earned. A plan that asks a person to decide, fresh, every day, whether to save, will lose most of those daily votes. A plan that moves the money on payday, automatically, before the daily votes begin, wins by removing the decision altogether. I think that is the post's real insight, and it is more valuable than any figure or percentage. Saving is not a test of character. It is a test of timing, and payday is the only timing that reliably passes.
+
+Readers should compare two orders of operations. One order pays bills, spends, and saves what is left, which, as the post shows, is usually nothing. The other order saves first, pays bills second, and spends what remains, which forces spending to fit the money that is truly left. The second order feels harsher at first, because the spending money is smaller from the start. It feels kinder by the third week, because there is still a cushion, and the month does not end in coins and favours. The trade-off is real: a small, steady amount saved first will sometimes mean saying no to a reasonable pleasure. The gain is also real: a cushion that grows month by month, and a habit that survives bad weeks because it does not depend on feeling strong.
+
+What should you do differently? On payday, move a small, fixed amount to a separate place before anything else, make it automatic if you can, and start with an amount so small you barely notice it. When the cushion must be used, use it without shame, and rebuild it with the next payday's move. When the habit is steady, raise the amount slowly. Paying yourself first is not selfishness. It is the admission that future you deserves a share of payday too, and the only reliable way to give it is to pay that share before present you can spend it.
 
 ## Frequently Asked Questions
 

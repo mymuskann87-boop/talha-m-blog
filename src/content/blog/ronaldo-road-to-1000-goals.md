@@ -2,6 +2,7 @@
 title: "Ronaldo Road To 1000 Goals"
 description: "Cristiano Ronaldo has 981 or 982 career goals, depending on who counts. How the road to 1,000 looks, what must happen, and why one goal is disputed."
 pubDate: 2026-10-28T16:45:00+05:00
+updatedDate: 2026-10-29
 category: "Sports"
 image: "/images/ronaldo-road-to-1000-goals.webp"
 imageAlt: "Cristiano Ronaldo celebrating a goal in an Al Nassr yellow shirt, with a stadium crowd behind him and a scoreboard showing the goal count."
@@ -57,6 +58,14 @@ If all three happen, the 1,000th goal will be one of the most celebrated moments
 No player has scored 1,000 official senior goals under modern statistical counting, which is what makes the road ahead historic rather than routine. Pelé's famous 1,000th goal in 1969 included goals in friendlies and unofficial matches that modern sources do not count in the same way as official competitive goals. Ronaldo's total counts official senior goals for club and country, so his 1,000th, if it comes, will stand under modern rules.
 
 The other piece of context is the counting itself. The league and Opta already disagree by one goal over the Al Faisaly match, and there is a precedent from 2010, when a deflected free kick was awarded to Pepe by the referee but credited to Ronaldo by MARCA. When the milestone arrives, the record-keepers will have to be clear about which count it is measured on, because the two counts may point to different matches.
+
+## My Take: Ronaldo road to 1000 needs fitness before counting
+
+The post refuses to take a side on the count, and that refusal is the honest starting point. After his goal against Al Faisaly on 23 October 2026, the Saudi Pro League credited Cristiano Ronaldo with 982 career goals, leaving 18 to reach 1,000. The statistics company Opta disagreed, recording the goal as an own goal by defender Andrei Girotto, which would leave the total at 981 and the distance at 19. ESPN reported both figures on 24 October 2026. The total counts official senior goals for club and country, in competitive matches. Ronaldo was born in February 1985, making him 41 years old in late 2026. The 980th goal came earlier in October 2026, in Al Nassr's 3-0 win over Al Diriyah, scored in the 23rd minute from a rebound. The disputed goal came from a free kick by João Félix, deflected off the defender.
+
+My judgement is that fitness and selection matter more than arithmetic, and the arithmetic should follow them, not lead them. That sentence is full of conditions, and each one deserves weight. A single serious injury could delay the milestone by months. A decision to retire, or to leave Al Nassr, could end the road entirely. Goals do not arrive evenly: a player can score three in one game and none in the next four. Injuries, suspensions, rest, and team form all affect the rate. The reader who counts down from 18 or 19 without asking whether the body and the team will hold for 20 or more matches is counting the wrong thing first. Age is the question, but not whether he can score, which he has shown. It is whether he can stay fit, stay selected, and stay motivated.
+
+What the reader should do differently is watch the road in the right order, and keep both counts alive. First, watch fitness and selection news before the goal count, because those decide whether the road stays open at all. Second, name the count being used whenever the milestone is discussed, league or Opta, so that 18 and 19 are never confused. Third, remember the precedent from 2010: a free kick deflected off Pepe was awarded to Pepe by the referee but credited to Ronaldo by MARCA, the same pattern of deflection and different counting. If the counts disagree, there will be two candidates for the 1,000th goal, one match apart. That footnote does not lessen the achievement. It proves that even a number as clean as 1,000 depends on human judgement. Pelé's famous 1,000th goal in 1969 included friendlies and unofficial matches that modern sources do not count the same way. Ronaldo's 1,000, if it comes, will be counted under modern rules, in official matches. No player has scored 1,000 official senior goals under modern counting. That is what makes the road historic, and the journey, match by match, is what the next months will be about.
 
 ## Frequently Asked Questions
 

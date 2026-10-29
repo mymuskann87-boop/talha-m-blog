@@ -2,7 +2,7 @@
 title: "Rehman Baba Express Derails Multan"
 description: "Rehman Baba Express train accident near Multan: the rescue is over. Officials confirm 5 dead and 49 injured, some sources report 7 dead. What happened."
 pubDate: 2026-10-13T21:45:00+05:00
-updatedDate: 2026-10-14T09:55:00+05:00
+updatedDate: 2026-10-29
 category: "Pakistan News"
 image: "/images/rehman-baba-express-derailment-multan.webp"
 imageAlt: "A derailed green train carriage tilted off the tracks in misty fields, with rescue workers in orange vests and ambulances nearby"
@@ -71,6 +71,16 @@ Every accident brings the same promises: an inquiry, compensation, better safety
 ## You may also like
 
 - [HSY Designing New PIA Uniforms](https://talhablog.com/blog/hsy-designing-new-pia-uniforms/)
+
+## My Take: Rehman Baba crash demands answers before blame settles
+
+Around 5:15 on Tuesday morning, 13 October, the Rehman Baba Express derailed near Sher Shah Bridge in Multan. It was travelling from Karachi towards Peshawar, with around 500 passengers on board. Fourteen coaches came off the track. The driver said the train was travelling at about 100 kilometres per hour, the signal was clear, and he felt a strong push from behind before braking. The rescue operation was later completed, and most injured passengers were sent home. On the death toll, reports differ. Pakistan Railways' chief executive and Rescue 1122 say five people were killed and 49 injured. Rescue sources quoted by some newspapers put the deaths at seven, including a baby girl of about 18 months.
+
+My judgement is that the first duty after a crash like this is clarity, and clarity has not yet been given. Families deserve a single, final answer on how many people died. When one official figure says five and other sources say seven, the public is left to carry two stories at once. The reader should refuse to settle the number by choosing the version that feels more complete. Hold both figures as reported, note which source gave each one, and wait for the formal inquiry. The cause has not been officially established. An initial report suggested a possible fault in a passenger coach, but that is an early finding, not a final conclusion. One passenger's claim about a repair to coach number nine has not been independently verified. A single broken part is easier to understand than a system, yet the system is the harder question: old tracks, ageing equipment, and decades of low investment.
+
+What should the reader do? First, repeat only figures with their sources attached, and treat the toll as disputed until a final official figure is given. Second, treat the cause as unknown, and treat any single claim as something investigators must check, not as a verdict. Third, judge the response by the inquiry, held on 17 and 18 October, and by whether its findings are published in full. The minister visited Multan, promised compensation under the insurance policy, and said those found responsible would be held accountable. The Prime Minister and President ordered relief and a transparent investigation. Those responses gain value only if three questions are answered: what failed, who was responsible, and what will change. Remember the ordinary people at the centre: passengers asleep at dawn, families waiting for a phone call, and local people who ran towards the wreckage first. Grief for those lost, care for those injured, and a firm refusal to let blame settle before evidence is heard: that is the honest position.
+
+The rescue itself deserves to be remembered alongside the questions. As always in Pakistan, the first helpers were ordinary people from nearby areas, running towards the sound of the crash before official teams arrived.
 
 ## Frequently Asked Questions
 

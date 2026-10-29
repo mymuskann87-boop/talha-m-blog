@@ -2,6 +2,7 @@
 title: "Rabada Breaks Record Against Australia"
 description: "Kagiso Rabada just did something no bowler in Test cricket history had ever done before. Open the record book and follow the clues to a number that stood"
 pubDate: 2026-10-23T15:30:00+05:00
+updatedDate: 2026-10-29
 image: "/images/rabada-breaks-record-against-australia.webp"
 imageAlt: "An illustration of a fast bowler in silhouette at sunset in a packed stadium, the ball leaving his hand like a glowing comet."
 category: "Sports"
@@ -85,6 +86,14 @@ It also tells young bowlers something valuable. Greatness is not always the loud
 ## You may also like
 
 - [PSG Beat Barcelona In Thriller](https://talhablog.com/blog/psg-beat-barcelona-in-thriller/)
+
+## My Take: Rabada record proves speed sustained beats single spells
+
+The record in this post is narrow, exact, and easy to misunderstand. During the second Test against Australia at St George's Park in Gqeberha, on 21 October 2026, Kagiso Rabada completed 200 Test wickets on South African soil. Among the 26 bowlers in Test history who have taken 200 wickets in a single country, every one needed 40 balls or more, on average, for each wicket at home, until Rabada. His home strike rate is 35, a wicket every 35 balls. Dale Steyn, the closest before him, stood at 40.2. Mitchell Starc owns 278 home wickets, the biggest pile on the list, but his strike rate in Australia is 44.8. In the same rain-hit match, Australia were bowled out for 99, with Marco Jansen taking five wickets and Rabada taking 2 for 33 in 12 overs in the first innings.
+
+My judgement is that this record rewards a habit, not a highlight. The quiet number says more about Rabada than any one delivery, because doing damage quickly, season after season, on the same grounds, is the hardest trick in fast bowling. A bowler can be brilliant for a week and ordinary for a year. Rabada's figure says he was dangerous in almost every spell across all those years, which is a different kind of greatness, less loud and much harder to fake. The comparison with Starc makes it clear: Starc has more home wickets, and that pile deserves respect, since lasting long enough demands fitness and skill. Rabada has fewer, but each one came faster, and the record joins the two tests together. One part rewards a long career. The other punishes every quiet match. Passing both at once is why the page stayed empty for more than a century and a half.
+
+What the reader should do differently is change what to look for in the next Test. First, watch Rabada's early spells, not only his late ones, because the record was built by striking early and often, not by waiting for tired batsmen. Second, ask two questions together whenever a bowler is praised: how many wickets, and how quickly, over how long. Third, remember the match around the record, rain and all, because records feel warmer when the game around them is remembered, and this one arrived almost quietly inside a collapse to 99. Rabada gains a place in arguments about the greatest fast bowlers that does not depend on fame or fan clubs, because strike rate counts balls and wickets and nothing else. Steyn loses nothing, since 40.2 across 200 home wickets remains a towering mark. The losers are lazy arguments that rank bowlers only by totals or by one famous spell. Greatness, here, did not shout. It knocked on fewer doors than anyone else needed, again and again, until the book had to open a new page.
 
 ## Frequently Asked Questions
 

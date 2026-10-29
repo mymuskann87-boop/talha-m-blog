@@ -2,6 +2,7 @@
 title: "Police Seized LockBit Gang's Website"
 description: "LockBit was the world's busiest ransomware gang, until Operation Cronos officers seized its own website and turned it into a police notice board."
 pubDate: 2026-10-23T20:40:00+05:00
+updatedDate: 2026-10-29
 image: "/images/police-seized-lockbit-gangs-website.webp"
 imageAlt: "An illustration of a giant computer screen showing a dark criminal website now covered by a glowing blue official seizure banner, heavy chains and police shield badges."
 category: "Technology"
@@ -57,6 +58,16 @@ The fourth shield is a pause before clicking. Unexpected attachments, surprise i
 ## You may also like
 
 - [Police Finally Killed Emotet King](https://talhablog.com/blog/police-finally-killed-emotet-king/)
+
+## My Take: Seizing A Gang's Website Hurt Pride More Than Profit
+
+LockBit was the world's busiest ransomware gang, until Operation Cronos officers seized its own website and turned it into a police notice board, as this post describes. The post explains what LockBit is and how the gang worked, how an attack reaches an ordinary business, the damage left behind, the morning the police moved in, and how to protect against a LockBit-style attack. The opening image is exact: a criminal wakes, makes tea, and sits down to work, only to find the gang's hidden website, with its proud list of victims and ticking countdown clocks, replaced by a police message. The gang's office had been taken, in public, for all to see.
+
+My judgement is that the seizure hurt LockBit's pride and reputation more than it hurt its profits, and that distinction decides how much the operation should be celebrated. A ransomware gang lives on fear and trust, of a strange kind. Victims must fear that their data will be published, and must also trust, at least a little, that payment will buy silence. Affiliates, the criminals who carry out attacks using LockBit's tools, must trust that the gang will share the money fairly and keep the machinery running. Seizing the website and filling it with police messages struck directly at that trust. I think that blow to standing matters, because a gang that looks weak finds it harder to recruit, harder to threaten, and harder to be believed.
+
+Two kinds of damage must be kept apart when judging Operation Cronos. One kind is the damage to the gang's infrastructure, servers seized, sites replaced, operations disrupted. That damage is real, and it is also, by nature, temporary, because infrastructure can be rebuilt, moved, and renamed. The other kind is the damage to the gang's business model, the doubt planted in victims and affiliates that payment and partnership are safe. That damage lasts longer, because doubt, once planted, is hard to remove. Yet neither kind, on its own, ends ransomware. The post's account of how an attack reaches an ordinary business shows why: the entry points, the unpatched systems, the human errors, remain open, and another gang, or the same gang under a new name, will try them again. The seizure bought time. It did not buy safety.
+
+What should businesses and readers do differently? Treat the Cronos seizure as a warning to prepare, not as a reason to relax. Keep backups apart from the main network, patch promptly, train staff to recognise the first signs of an attack, and have a plan for working without locked systems. If a gang's website can be seized in a morning, a business's data can be locked in a morning too. My call is to admire the police work, and to use the time it bought. Pride wounded is a good headline. Habits changed are a better defence, and they are the only defence that survives the gang's return under another name.
 
 ## Frequently Asked Questions
 

@@ -2,6 +2,7 @@
 title: "Nobel Winner Sold His Medal"
 description: "In December 2014, DNA pioneer James Watson auctioned his 1962 Nobel Prize medal for a record $4.1 million — and then the billionaire who bought it did"
 pubDate: 2026-10-22T13:00:00+05:00
+updatedDate: 2026-10-29
 image: "/images/nobel-winner-sold-his-medal.webp"
 imageAlt: "An illustration of a golden Nobel Prize medal on an auction table with a raised gavel, bidders watching in a grand hall."
 category: "Awards"
@@ -67,6 +68,16 @@ But before you decide it all worked out perfectly, sit with the harder part for 
 ## You may also like
 
 - [Nobel Medals Melted Into Liquid](https://talhablog.com/blog/nobel-medals-melted-into-liquid/)
+
+## My Take: Selling A Medal Priced Honour, Not Just Gold
+
+In December 2014, DNA pioneer James Watson auctioned his 1962 Nobel Prize medal, and the bidding, as this post describes it blow by blow, climbed from an opening of $1.5 million to a hammer price of $4.1 million, $4,757,000 once the auction house premium was added. It was a record for a Nobel medal, and Watson became the first living laureate to sell his own medal at auction. The post sets the sale beside the discovery it honoured, the double helix model built with Francis Crick, the seven cold years that followed a fall from standing, the reasons Watson stated in the open, and the buyer who then stepped forward. The money is the smallest part of the shock. The shock is that the honour itself was put on the block.
+
+My judgement is that the sale priced two different things at once, and only one of them was gold. The disc of 23-carat gold, small enough to hide in a closed fist, has a value any dealer could state. The honour has no dealer price, because it was never meant to be sold. When Watson sold the medal, he forced the world to ask what a prize is once it leaves the winner's hands. Is it a relic, whose value grows with its story? Is it a possession, to be used as its owner wishes? Or is it a trust, held for a field and a public, and therefore not quite private property? I think the auction answered the second question in practice, while leaving the first and third unanswered.
+
+The most telling part of the story, in my view, is what happened after the sale. The buyer stepped forward and the medal came home to Watson, a strange happy ending that the post notes with care. That return changes the judgement. A sale that ends in return is not quite a sale, and not quite a gift. It reads as a gesture, a recognition that some objects carry a meaning larger than their owner, even when the owner has every legal right to sell. I believe the return also softens a harsher reading, that Watson sold out of bitterness alone. Whatever his stated reasons, the ending suggests that both seller and buyer understood the medal as more than metal, and acted, in the end, to keep it with the man who earned it.
+
+What should readers learn? Honour and money use different scales, and forcing them onto one scale distorts both. A record price proves that collectors value history. It does not prove that history should be priced. If your life's crowning award sat in a drawer while the world stopped calling, the post asks, would you sell it too? My answer is that the question itself is the lesson. A prize is easy to honour when the world is applauding. Its true test comes when applause stops, and the medal must be carried quietly, for its own sake, without an audience.
 
 ## Frequently Asked Questions
 

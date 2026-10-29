@@ -2,6 +2,7 @@
 title: "Save Money On Daily Transport"
 description: "One working day's journeys, each priced, shows where transport money goes and which cheaper choices are actually worth it."
 pubDate: 2026-10-25T17:30:00+05:00
+updatedDate: 2026-10-29
 image: "/images/save-money-on-daily-transport.webp"
 imageAlt: "A bus, a bicycle and walking shoes on a glowing path with saved coins"
 category: "Saving Money"
@@ -47,6 +48,14 @@ Here is the part a saving guide must not hide. A cheaper journey that takes two 
 ## More ways to save
 
 - [Quit Smoking Save Money Daily](https://talhablog.com/blog/quit-smoking-save-money-daily/)
+
+## My Take: Daily transport saving is counting your own route
+
+Seven in the morning. The notebook opens on the kitchen table, and the day's journeys get priced like items in a shop. The school run: one short ride. The trip to work: a longer one. The evening errand: a third. By dinner, the notebook tells a story most people never read about their own lives: transport, bought in small daily pieces, is one of the biggest bills in the month, and it is bought without ever being added up. Nobody thinks of a single ride as expensive. It is a small amount, paid quickly, forgotten instantly. But a month of small rides is a large amount, paid slowly, and forgotten completely. The notebook fixes that. One day of honest prices is enough to see where the money goes, and once it is seen, it can be changed.
+
+My judgement is that the answer belongs to your route, not to anyone else's, and the post's maths proves why. A daily ticket looks cheap and a monthly pass looks expensive, but multiply the daily ticket by working days and compare it honestly with the pass price. On a route taken almost daily, the pass usually wins, sometimes by a wide margin. On a route taken twice a week, the daily ticket usually wins, and the pass would be a waste. Count your own trips for two normal weeks, multiply, and let the numbers decide. The smallest habit, batching errands into one outing instead of five small trips, removes a fare or fuel cost with every trip avoided. Keep the notebook for a full month, not just a day, because a single day can mislead, while a month shows the true pattern.
+
+What the reader should do differently is balance money against time, and organise sharing before it is needed. First, walk the short trips when the day allows it, and pay for the ride when it does not, since a habit with exceptions still saves far more than no habit at all. Second, agree car-share rules in advance: pickup times, how fuel money is split, weekly is simplest, and what happens when someone is sick or late, because money arguments end car shares faster than traffic does. Third, check safety before choosing the bicycle, since where roads are dangerous, the bicycle is not a saving, it is a risk, and no saving is worth that. A cheaper journey that takes two extra hours a day is not a saving for everyone. A person who reaches work exhausted after three changes of bus has paid with energy, and energy is a real currency too. Take the cheaper option when it costs a little extra time, and pay for the faster option when time matters more, a job interview, a sick child, a full day.
 
 ## Frequently Asked Questions
 

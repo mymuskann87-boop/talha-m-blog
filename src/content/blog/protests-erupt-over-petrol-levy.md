@@ -2,6 +2,7 @@
 title: "Protests Erupt Over Petrol Levy"
 description: "Of every litre of petrol sold in Pakistan, Rs114 goes straight to the government in taxes and duties — and now fresh protests have been announced over it."
 pubDate: 2026-10-23T16:20:00+05:00
+updatedDate: 2026-10-29
 image: "/images/protests-erupt-over-petrol-levy.webp"
 imageAlt: "An illustration of frustrated people at a petrol station holding empty fuel cans and blank placards under a giant fuel price board."
 category: "Pakistan News"
@@ -73,6 +74,14 @@ The young man on the motorbike eventually rides away with his half-full tank. He
 ## You may also like
 
 - [PTI March For Imran Khan](https://talhablog.com/blog/pti-long-march-khyber-pakhtunkhwa/)
+
+## My Take: The petrol levy hurts daily earners most unfairly
+
+The facts as reported in this post are stark and simple. On every litre of petrol, the government levies Rs114 in taxes and duties, and on every litre of high-speed diesel, Rs100. A religious party has announced fresh protests over the petroleum levy, after protests in recent months amid multiple hikes in fuel prices, according to reporting by Arab News Pakistan. The post explains why the burden spreads far beyond drivers: diesel moves trucks, buses, wheat, vegetables, milk, medicine, and cement, so a rise in diesel quietly reaches the price of food and the cost of building a small house. Even a person who owns no vehicle and walks everywhere still pays, folded invisibly into shop prices, because almost everything bought has travelled on diesel.
+
+My judgement is that this levy is unfair in a specific way that other taxes are not. A tax on a luxury touches only people who can afford luxuries. A tax on petrol and diesel touches the rickshaw driver, the office worker, the farmer, the shopkeeper, the student on a borrowed bike, and the family boiling milk that arrived on a diesel truck. The pain is daily, in small pieces, at a meter the buyer can watch moving, and that daily visibility is why anger returns again and again. The motorbike rider in the opening of this post does not ride for pleasure. His bike is his job, his school run, and his whole geography, and he cannot simply choose a cheaper road, because there is no cheaper road. For him, the levy is a charge on moving at all. For a wealthier driver, the same Rs114 is an annoyance that can be absorbed or avoided by driving less. The same rate, paid by two very different pockets, is not the same burden. Governments need revenue, and roads, hospitals, and schools must be paid for somehow, yet my call is that a levy at this weight asks too much from daily movement and too little from other, easier places to collect.
+
+What the reader should do differently is small and practical, but it changes the argument. First, remember the two numbers, Rs114 and Rs100, and use them when judging any new price rise, so the tax share is never hidden inside the pump price again, since fuel cost and tax are two bills stapled together: one for fuel that must be bought, shipped, refined, stored, and delivered, and one for the state, charged litre by litre. Second, watch what happens after the announced protests, and judge them by size, shape, and response, which the post says will become clear in the days ahead, rather than by noise on the first day. Third, ask the fairness question plainly whenever a new hike is announced: who must pay, who can avoid it, and what is being bought with it. The common mistake is to argue only about the pump price, as if the two bills were one thing.
 
 ## Frequently Asked Questions
 

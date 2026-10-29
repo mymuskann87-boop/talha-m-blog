@@ -2,6 +2,7 @@
 title: "Ransomware Explained In Simple Words"
 description: "What is ransomware in simple words? Malicious software that locks your files and demands payment for the key, how it spreads, and how to protect yourself."
 pubDate: 2026-10-28T16:44:00+05:00
+updatedDate: 2026-10-29
 category: "Crime"
 image: "/images/ransomware-explained-in-simple-words.webp"
 imageAlt: "An illustration of a computer screen locked with a large padlock and a ransom message, while files behind it stay out of reach."
@@ -86,6 +87,14 @@ For an individual, the same rules apply in miniature: keep backups of photograph
 ## You may also like
 
 - [Spot Fake Message Before Clicking](https://talhablog.com/blog/spot-fake-message-before-clicking/)
+
+## My Take: Ransomware punishes haste and rewards prepared backups
+
+The post explains ransomware in plain terms, and the explanation itself is the warning. Ransomware is malicious software that locks files by encryption, which means scrambling data so it cannot be read without a key, and holds them for payment. A typical attack follows three steps: gain a foothold on a device or network, encrypt the files it finds, and display a message demanding payment, often with a deadline and a rising price. The ransomware may wait quietly for days, weeks, or even months, spreading and reaching backups before anyone notices. The costs given in the post are large: one report put the average price paid above 300,000 dollars, another put the average total cost close to 2 million dollars, and a 2020 estimate put yearly damage above 1 billion dollars. It is also estimated that 95 percent of organisations that pay do get their data back.
+
+My judgement is that the deadline is the real weapon, more than the lock itself. Encryption is strong mathematics, and mathematics does not care how much the victim needs the files. But a lock without pressure can be studied, reported, and worked around. A lock with a countdown cannot, because the countdown is designed to stop the victim thinking clearly, seeking advice, or restoring from backups. The most dangerous moment is not the morning the screen fills with a message. It is the hour after it, when fear pushes a person or company to pay quickly, alone, and in secret. Criminals demand payment in cryptocurrency or other methods that are difficult to trace, and they keep enough promises to keep the next victim paying. The comparison that should guide every reader is between paying and preparing. Preparing looks dull: backups kept separate, tested regularly, and protected from the attack. A backup connected during an attack can be encrypted too. A backup disconnected, tested, and recent is the difference between a bad week and a catastrophe. Decide before an attack, not during one, because a decision made under a deadline belongs to the attacker.
+
+What the reader should do differently begins today, while nothing is locked. First, make a backup of photographs and documents on a drive that is not always connected, and test that it can be opened, because an untested backup is only a hope. Second, treat every unexpected attachment as a possible trap, and check it through a different route before opening it, since social engineering, disguised as an invoice, a delivery notice, or a message from a colleague, is the most common way in. Third, disconnect first if the worst happens: unplug network cables, switch off Wi-Fi, do not connect backup drives that were attached during the attack, and get help from a trusted professional rather than following instructions in the ransom message. In each type, the victim with no separate backup loses most. Skip the idea that paying quickly is brave or clever.
 
 ## Frequently Asked Questions
 

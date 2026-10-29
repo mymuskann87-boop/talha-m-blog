@@ -2,6 +2,7 @@
 title: "Multan Star Shines On Debut"
 description: "A young all-rounder from the dusty grounds of Multan has announced himself to world cricket with a dream debut against Australia. Meet Arafat Minhas"
 pubDate: 2026-10-23T15:40:00+05:00
+updatedDate: 2026-10-29
 image: "/images/multan-star-shines-on-debut.webp"
 imageAlt: "An illustration of a young cricketer in a green kit, seen from behind, raising his bat to a cheering crowd in a floodlit stadium."
 category: "Sports"
@@ -97,6 +98,18 @@ The star from Multan has risen. Now the whole cricket world gets to watch how br
 ## You may also like
 
 - [Pakistan's Adam Gilchrist Goes Viral](https://talhablog.com/blog/pakistan-adam-gilchrist-karachi-teen-century/)
+
+## My Take: One Debut Proves Promise, Not A Career
+
+A young all-rounder from Multan, Arafat Minhas, has announced himself with a dream debut against Australia, according to the profile this post draws on. The post sets him in his city, a place of saints and shrines, hard grounds, fierce heat, and cricket played in every street and schoolyard, and it follows him through junior cricket to the senior stage. It describes a player who did not shrink in the biggest moment of his young life, and a city that now claims a share of his success. That is a fine story, and the post tells it with warmth, but warmth is not the same as a verdict on a career.
+
+My judgement is that a debut, however bright, proves temperament more than it proves staying power. One match can show courage, skill, and readiness for the occasion. It cannot show how a player handles failure, a long run of low scores, injury, or the slow work of adjusting once opponents have studied him. I think the right response is hope with a firm limit. Celebrate the debut, by all means, and credit the grounds, coaches, and family effort behind it. Then refuse the two easy errors: writing him off after one poor game, and writing his whole future in advance after one good one. Both errors steal the same thing, which is time. A young cricketer needs time to learn, and the loudest praise can be almost as heavy as the harshest blame.
+
+The comparison to keep in mind is between a spark and a fire. A spark gets attention. A fire needs fuel, shelter from wind, and steady tending. For Minhas, the fuel is the junior ladder the post describes, the habits learned on hard Multan grounds, and the support that stays steady when the headlines move on. The wind is expectation: every innings judged as proof, every selection debated as a final answer. In my view, the people around him matter now as much as his talent. Coaches who protect his development, selectors who judge a run of games rather than a single day, and fans who allow a young player to be young will decide more than any one innings can.
+
+A debut also tests the crowd around a player, because praise that arrives too fast can turn a young man into a symbol before he has learned to carry ordinary failure.
+
+Readers should watch what comes next with patience. Look for consistency, for learning after setbacks, and for the all-round contribution across many matches, not only the headline moment. Multan has given cricket a new name to follow. Whether that name lasts will be decided quietly, over seasons, far from the noise of a debut week. My call is to enjoy the rise and to judge it slowly.
 
 ## Frequently Asked Questions
 

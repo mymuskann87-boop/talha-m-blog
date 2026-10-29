@@ -2,6 +2,7 @@
 title: "NotPetya Caused Ten Billion Damage"
 description: "NotPetya looked like a $300 ransom note but was really a destroyer, and one poisoned software update cost the world about $10 billion in a single day."
 pubDate: 2026-10-23T15:10:00+05:00
+updatedDate: 2026-10-29
 image: "/images/notpetya-caused-ten-billion-damage.webp"
 imageAlt: "An illustration of a monstrous red wave of computer code with a skull face crashing over a giant container port with frozen ships and cranes."
 category: "Technology"
@@ -63,6 +64,16 @@ NotPetya walked through networks using stolen passwords. Use a different strong 
 ## You may also like
 
 - [GandCrab Makers Claimed Two Billion](https://talhablog.com/blog/gandcrab-makers-claimed-two-billion/)
+
+## My Take: NotPetya Proved A Ransom Note Can Lie
+
+NotPetya looked like a $300 ransom note but was really a destroyer, and one poisoned software update cost the world about $10 billion in a single day, as this post explains. It began with an ordinary accounting program update in Kyiv, Ukraine, clicked in the usual way, and spread from there to offices, hospitals, and companies far beyond its starting point. The post describes what NotPetya actually does, how it spread, the damage story in one day, and how to protect yourself from a wiper, a program built to erase rather than to hold data for payment. The ransom note was a disguise. Payment would not have brought the files back, because there was nothing to bring back.
+
+In my view, the lie is the point, and it changes how every future warning should be read. Most people imagine a cyberattack as a robbery: pay, and the thief leaves with the money and returns the goods. NotPetya was closer to arson dressed as robbery. It used the familiar shape of ransomware to slow the response, to make victims waste time deciding whether to pay, and to hide the fact that recovery by payment was never on offer. I think that deception deserves more attention than the dollar figure, large as it is. Ten billion dollars measures the damage. It does not measure the trust lost when a routine update, the very act users are told to perform for safety, becomes the way in. After NotPetya, the advice to update promptly carries a shadow, and honest security advice must admit that shadow instead of repeating slogans.
+
+Two defences fail against a wiper, and readers should name them plainly. The first is the hope that paying will fix it. Against a destroyer, payment is a gift to an attacker who never intended to help. The second is the hope that being small or far from the first target will keep you safe. NotPetya spread through trusted connections, through software and networks that linked companies together, and distance offered little shelter once those links carried it. The defence that fits is unglamorous: backups kept apart from the main system, updates tested and watched, and a plan for working without computers when computers fail. Those steps do not sound heroic. They are the difference between a bad day and a lost business.
+
+What should you do differently? Keep backups that an attack cannot reach in the same sweep, and practise restoring from them before you need to. Treat a ransom demand with suspicion, and seek expert advice before paying anything, because payment may buy nothing at all. NotPetya's lesson, in my judgement, is that the most dangerous attacks are not always the loudest or the most technical. They are the ones that wear a familiar face, and ask you to trust the very click that harms you.
 
 ## Frequently Asked Questions
 

@@ -2,6 +2,7 @@
 title: "Moon Is Drifting Away Yearly"
 description: "The Moon takes about 27 days to orbit Earth, and laser light bounced off Apollo mirrors shows it drifting a little farther away every year."
 pubDate: 2026-10-19T20:00:00+05:00
+updatedDate: 2026-10-29
 category: "Space"
 image: "/images/moon-is-drifting-away-yearly.webp"
 imageAlt: "A laser beam fired from an Earth observatory toward the Moon, where small mirror panels left by Apollo astronauts reflect it back."
@@ -53,6 +54,18 @@ NASA points out that this arrangement will not last forever. As the Moon keeps d
 ## You may also like
 
 - [Man Played Golf On Moon](https://talhablog.com/blog/man-played-golf-on-moon/)
+
+## My Take: The Moon Leaves Slowly And Eclipses Will Fade
+
+The Moon is moving a little farther from Earth every year, and scientists know this because laser light bounced off mirrors left on the Moon by Apollo astronauts can be timed with great care, as this post explains. The distance is about 385,000 kilometres, the orbit takes about 27 days, and the drift is tied to the tides: the Moon pulls the oceans, the oceans drag on Earth's spin, and that exchange slowly pushes the Moon outward while Earth's day gets longer. The post also looks back to a time when the Moon was closer, and forward to a time when total solar eclipses, which need the Moon to cover the Sun exactly, will no longer line up in the same way.
+
+I think the most useful way to read this story is as a lesson in slow change. People often imagine space as fixed and timeless, with the same sky above every generation. The Moon's drift says otherwise. The sky is moving, just too slowly for one lifetime to notice without instruments. In my view, that slowness is exactly why the measurement matters. It proves that careful watching over years can catch a change no eye could see in a night, and it turns a familiar sight into evidence. The Moon is not running away in any sense that should worry a reader. It is drifting, steadily, on a scale where human years are almost nothing, and the far future it points to belongs to a world very different from ours.
+
+That patience is worth copying in other parts of life, where a quick answer often feels safer than a careful one, even when the careful one is true.
+
+Two readings of the same fact lead in opposite directions, and readers should choose between them with care. One reading treats the drift as a curiosity with no bearing on daily life, a number to admire and forget. The other treats it as a reminder that even the most stable parts of nature are in motion, and that long-term thinking has a place beside short-term news. I favour the second reading, with one limit: wonder should not become worry. Nothing in the post suggests a sudden change, a danger to Earth, or a date when the Moon will vanish. The honest position is calmer. The Moon will still rise, tides will still turn, and eclipses will still thrill watchers for a very long time, even as the geometry behind them very slowly shifts.
+
+What should a reader take away? Look up with better questions. Ask how we know, not only what we know, and notice that mirrors left decades ago are still answering. The Moon's slow departure is not a loss to mourn. It is proof that patience and precision can read a story written across millions of years, one pulse of light at a time.
 
 ## Frequently Asked Questions
 
