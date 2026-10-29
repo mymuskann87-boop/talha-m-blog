@@ -2,6 +2,7 @@
 title: "Beat Impulse Buying With Ease"
 description: "One shopping trip, four pulled brakes — the simple rules that stop unplanned purchases before they reach the till."
 pubDate: 2026-10-25T18:30:00+05:00
+updatedDate: 2026-10-29
 image: "/images/beat-impulse-buying-with-ease.webp"
 imageAlt: "A shopping cart racing downhill while a hand pulls the brake"
 category: "Saving Money"
@@ -75,6 +76,16 @@ My trolley that day left the shop with rice, lentils, soap and vegetables, and w
 ## More ways to save
 
 - [Beat Rainy Season Extra Costs](https://talhablog.com/blog/beat-rainy-season-extra-costs/)
+
+## My Take: Impulse Buying Loses to Waiting, Not Willpower
+
+Impulse buying means buying without planning, driven by the moment: a display, a sale sign, a mood, or a smell. The post's strongest brake is the three-day test: for any non-essential item above a small amount, wait three full days. Most urges do not survive the wait. The urges that survive are calm, specific, and usually come with a real reason. Other brakes follow: silence the sellers, shop with a list, ask where the item will live, and count impulse buys for one month.
+
+In my view, the three-day test works because it changes the question, not the shopper. Willpower asks a tired person to fight a designed temptation at the worst hour. Waiting asks time to do the fighting instead. The gadget that glowed in the aisle looks ordinary on the second day and slightly embarrassing on the third. I think that is the cheapest test of a want ever invented. My call is that most shopping advice fails because it asks for a stronger character. This advice asks for a slower calendar, and a slower calendar is available to everyone. It was a moment, dressed as a need.
+
+There is a second judgement about triggers that deserves equal weight. Temptation you never see costs nothing, and the post applies that rule ruthlessly. Unsubscribe from the sale emails, mute the notifications, or remove the apps and shop on a computer where buying takes effort. I think removing the trigger beats resisting the trigger every time, because a battle that never starts cannot be lost. Enter with a list written at home from the shelves and the week's meals, check what is already in the cupboard, and set a rough total like a fence. Anything not on the list must pass the three-day test, which means it cannot be bought today at all. Shopping on a full stomach keeps the trolley honest, because hunger turns a food shop into a feast of extras.
+
+What should a reader do differently? First, set a small-amount line for what skips the test, so daily essentials never need a trial. The test is for the gadget, the extra shirt, the decoration, and the upgrade nobody asked for. Second, ask where it will live before any non-essential purchase. If there is no honest answer, the purchase has nowhere to go except a cupboard, where impulse buys go to be forgotten. Third, count the month. Write down every impulse buy and its price for one month, then add the numbers. Guilt fades by morning, but a total stays on the screen and changes the next month without a lecture. A birthday gift, a favourite snack bought deliberately, and a film night belong in the budget and taste better for being chosen. A budget with zero joy breaks, and the break always arrives as a binge. The goal was never to stop spending. It was to stop spending by accident, and waiting is the simplest way to tell the difference.
 
 ## Frequently Asked Questions
 

@@ -2,6 +2,7 @@
 title: "Country Ruled By Two Princes"
 description: "Andorra is ruled not by one head of state but by two: a Spanish bishop and the President of France. Inside the world's strangest job-share."
 pubDate: 2026-10-19T21:50:00+05:00
+updatedDate: 2026-10-29
 category: "Politics"
 image: "/images/country-ruled-by-two-princes.webp"
 imageAlt: "The green mountain valleys of Andorra in the Pyrenees, the small country ruled jointly by two co-princes."
@@ -73,6 +74,16 @@ Perhaps that is the real charm of it. The co-princes do not exist to rule Andorr
 ## You may also like
 
 - [Cat Who Became Town Mayor](https://talhablog.com/blog/cat-who-became-town-mayor/)
+
+## My Take: Andorra Survived Because Neither Prince Could Rule
+
+Andorra, 468 square kilometres in the Pyrenees between France and Spain, with around 80,000 people, is ruled by two co-princes: the Bishop of Urgell in Spain, currently Josep-Lluís Serrano Pentinat, who took the role in May 2025, and the President of France, currently Emmanuel Macron. Neither lives in Andorra, and neither was voted for by Andorrans. The arrangement began with a paréage in 1278, when the Bishop of Urgell and the Count of Foix agreed to govern together after a quarrel, with neither able to act alone. In March 1993 Andorrans approved their first written constitution, keeping the co-princes as joint heads of state with no veto over laws, most acts needing countersignature, and real power held by the 28-member General Council and its elected head of government.
+
+In my view, the genius of Andorra's arrangement is not that two princes share a job. It is that neither prince can do the job alone, and that single limit is what kept a tiny country alive for more than 700 years. It is a deadlock designed on purpose, and a deadlock that protects the weaker party is worth more than a strong ruler who might one day decide to take everything. My call is that Andorra's system should be judged by what it prevents, not by what it does.
+
+There is a second judgement about who really runs Andorra that corrects a common misunderstanding. The General Council's 28 members are elected by direct popular vote, elections are held every four years, and every citizen aged 18 or over can vote. Life under the double crown is normal and rather prosperous: no airport, no railway, no army of its own, not an EU member, yet using the euro under a formal agreement, with around eight million visitors a year for skiing and duty-free shopping. I think that normality is the strongest defence of the arrangement. It is a compromise that survived because it never asked to be efficient.
+
+What should a reader take from the world's strangest job-share? First, notice that divided power can be a feature, not a failure, when the division itself is the protection. Second, notice that ceremonial heads of state do real work by existing: two powerful neighbours permanently watching each other across a tiny country means neither can ever take it, and that watching is the whole point. Third, notice the paperwork joke that proves the system is taken seriously: when France sends an ambassador to Andorra, the letters of credence are signed by the French president twice, once as sender and once as receiver. Governments rise and collapse, and empires that once surrounded Andorra have vanished, yet the deal signed in 1278 is still printed in law. The co-princes do not exist to rule Andorra. They exist to protect it, by never being allowed to rule it alone, and that is a lesson larger countries, with their winner-takes-all thrones, would do well to study.
 
 ## Frequently Asked Questions
 

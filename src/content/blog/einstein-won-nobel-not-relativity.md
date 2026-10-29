@@ -2,6 +2,7 @@
 title: "Einstein Won Nobel Not Relativity"
 description: "Why did Albert Einstein get a Nobel Prize? Not for relativity. The true story of the 1921 prize, the photoelectric effect, and his relativity lecture."
 pubDate: 2026-10-18T11:00:00+05:00
+updatedDate: 2026-10-29
 category: "Awards"
 image: "/images/einstein-won-nobel-not-relativity.webp"
 imageAlt: "An original illustration of Albert Einstein in a book-filled study, holding a gold medal, with a chalkboard of light waves and equations behind him."
@@ -68,6 +69,18 @@ Einstein, for his part, got everything in the end: the prize, the money question
 ## You may also like
 
 - [Family That Won Five Nobels](https://talhablog.com/blog/family-that-won-five-nobels/)
+
+## My Take: Einstein's Nobel Honoured Proof, Not Fame
+
+Ask almost anyone why Albert Einstein won the Nobel Prize, and they will answer: for relativity. The answer is wrong. Einstein published special relativity in 1905 and general relativity in 1915. The prize went instead to work from the same year, 1905. He explained the photoelectric effect. Einstein said light arrives in tiny separate packets of energy, quanta, later called photons. 
+
+My judgement is that the Committee was right to wait, and right to choose the photoelectric effect. It honoured work that could be proven. 
+
+ Millikan did not believe Einstein's light packets. A sceptic, doing honest work, proving his opponent correct, thereby proving the work itself. It is also why the prize could be given with confidence. 
+
+The prize money detail and the announcement far away add a human note. They show how little the prize, in Einstein's life, resembled a coronation. That ordinariness is the point. The committee gave the photoelectric effect. The photoelectric effect as work now underlying technologies like smartphone cameras, through light knocking electrons free. A reader insisting the prize was a mistake because it omitted relativity asks the prize to be a biography. A reader accepting it as a judgement on proof will see it as correct. Fame, however deserved, is never a substitute for evidence. Millikan spent years testing an idea he disbelieved, designing experiments in his own mind to show Einstein wrong, and the experiments showed Einstein right. That sequence is why the prize could be given with confidence: a theory confirmed by a doubter, after years of trying to break it, is proven in a way a theory confirmed by friends is not. Science advances when doubt is given tools, when a Millikan tests an Einstein, and when the result is accepted whatever it is. The prize honours testing as well as the idea, and a reader remembering only Einstein's name has remembered half the story. The human details matter too: Einstein was travelling when the 1921 prize was announced, the money was already promised to someone else, and the certificate named clerk-years work, not the famous theory. That ordinariness is the point. Great work is done in ordinary circumstances and recognised late, and the public mind, wanting relativity on the certificate, wanted a biography where the committee gave a judgement on proof.
+
+So answer the photoelectric effect, not relativity, when asked why Einstein won. Respect the Committee's caution. Remember Millikan, the doubter proving Einstein right, as the model of science. Let the story correct a larger habit. Fame is not proof, in science or anywhere else. Work proven quietly, by a sceptic's experiment, deserves as much honour as the theory filling headlines. Proof, not fame, is the prize's meaning. Keep that meaning, and the prize stays honest.
 
 ## Frequently Asked Questions
 

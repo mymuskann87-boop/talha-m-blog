@@ -2,6 +2,7 @@
 title: "Cat Who Became Town Mayor"
 description: "The mayor cat in Alaska: for 20 years, Talkeetna had a cat for a mayor. The true, funny story of Stubbs, the orange cat who ruled from a general store."
 pubDate: 2026-10-18T21:50:00+05:00
+updatedDate: 2026-10-29
 category: "Politics"
 image: "/images/cat-who-became-town-mayor.webp"
 imageAlt: "An original illustration of a proud orange cat with a tiny stub tail sitting in the window of an old Alaskan general store like a mayor."
@@ -60,6 +61,16 @@ Stubbs never passed a law, never signed a paper, and never pretended to be anyth
 ## You may also like
 
 - [King Who Renamed His Country](https://talhablog.com/blog/king-who-renamed-his-country/)
+
+## My Take: Stubbs Ruled by Presence, Not by Power
+
+Stubbs was an orange, part-Manx kitten found in a box in the parking lot of Nagley's General Store in Talkeetna, Alaska, in 1997. He was born without a proper tail, just a small stub, which gave him his name. Talkeetna is an unincorporated community with no real mayor's office, so there was no official election, and his title was honorary. From 18 July 1997 until his death in 2017, he was the town's figurehead for twenty years. He died on 21 July 2017, aged 20, and younger store cats Aurora and Denali later became honorary mayors.
+
+In my view, the honest version of this story is better than the famous version, and that is rare enough to celebrate. The famous version says unhappy voters wrote a kitten's name on ballots as a joke, and the kitten won. NPR checked and pointed out the truth: a town with no real mayor could not have held a mayoral election. An honorary title, given lovingly by a town of around 900 to 1,000 people, did real work that an official title might not have done. My call is that readers should prefer the true charm to the invented election.
+
+There is a second judgement about why Stubbs worked as a mayor, and the post states it as a joke that deserves to be taken seriously. People said he was close to the perfect mayor because he never raised taxes and never interfered with anyone's business. He simply ruled by being there, being orange, and being utterly unbothered by fame. I think that joke contains a real criticism of human politics. A figurehead who does nothing cannot disappoint, cannot divide, and cannot break a promise, because he makes none. When a dog mauled him badly on 31 August 2013, fans around the world donated so much for his treatment that the extra went to an animal shelter and the local veterinary clinic. That generosity was not for a policy. It was for a cat who had shown up, every day, for sixteen years. Presence, repeated daily, built a loyalty no speech could buy.
+
+What should a reader take from twenty years of a cat mayor? First, do not let the word honorary fool you into thinking the role meant nothing. Second, notice what survived the fact-check. The election did not happen, but the cat, the store, the town that loved him, and the visitors who travelled to shake his paw were all real. Third, remember the successors. Aurora continues to serve from the store, after Denali died in 2022, carrying on a tradition Stubbs started. Stubbs never passed a law, never signed a paper, and never pretended to be anything but a cat. Yet he did something many human politicians never manage. He made his town proud, made strangers smile, and gave a tiny community in Alaska a story the whole world wanted to hear. That is a record worth envying, even if the office was never real.
 
 ## Frequently Asked Questions
 

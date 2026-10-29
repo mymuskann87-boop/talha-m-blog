@@ -2,6 +2,7 @@
 title: "Drones Hit Tankers Near Romania"
 description: "Drones hit two chemical tankers near Romania in the Black Sea. Seven sailors are missing, five were rescued, and NATO is now involved."
 pubDate: 2026-10-16T08:43:00+05:00
+updatedDate: 2026-10-29
 category: "Conflict"
 image: "/images/drones-hit-tankers-near-romania.webp"
 imageAlt: "Illustration of two tanker ships on a rough Black Sea, one burning with thick smoke, drones in the sky and rescue helicopters nearby, with the words Tankers on Fire"
@@ -54,6 +55,16 @@ For now, the most urgent work is simple and human: finding seven missing sailors
 ## You may also like
 
 - [North Korea Fires Ballistic Missiles](https://talhablog.com/blog/north-korea-fires-ballistic-missiles-sea-of-japan/)
+
+## My Take: Romania Tanker Attacks Threaten Sailors Before Trade
+
+Two chemical tankers were hit by drones off Romania's Black Sea coast on a Thursday morning. The first, the Yara J, sailing under the flag of Comoros, was anchored about 8 to 10 miles southeast of Sulina, inside Romania's territorial waters, when fire broke out late on Wednesday evening. The second, the Wine Trader, sailing under the flag of San Marino, travelling empty from Tunisia to Romania, sent an alert at about 7 on Thursday morning reporting explosions and fire. Of the Wine Trader's 12 crew, five were rescued and seven are missing. President Dan declined to say whether Russia was responsible. A NATO military source said the drones were of Russian origin.
+
+ My judgement is that the missing sailors, not the trade route, should centre this story. The trade route should be understood through them, not instead of them. The people on it are the ones the post counts first and last. A reader beginning with seven missing men in a rough, cold sea will understand why the supply chain matters, and what it costs when attacked. It is the condition under which the missing must be found, before waves make the task impossible. 
+
+The careful language about responsibility deserves its own judgement. It is the part most likely to be simplified into false certainty. President Dan declined to say whether Russia was responsible. A NATO military source said the drones were of Russian origin. NATO said it is in close contact with Romanian officials. Secretary General Mark Rutte met President Dan and Bulgaria's Prime Minister Rumen Radev. Dan said NATO plans a summit to discuss growing drone attacks. A reader merging them into a single claim — that Russia did it, as proven fact — has gone beyond what the sources support. It is respect for the difference between a source's word and a state's conclusion.
+
+The wider wave is the context making patience difficult and necessary at once. Romania shares about 614 kilometres of border with Ukraine, much along the Danube. Since Russia's full-scale invasion began in 2022, drones have repeatedly entered Romanian airspace. Drifting mines have threatened the same trade routes. The pattern is why the Danube route cannot be treated as a local shipping lane. It is a lifeline under repeated attack. Every attack tests not only ships and crews, but the willingness of Romania, Bulgaria, NATO and the wider world to protect a civilian trade route feeding people far from the Black Sea. That test is political, answered in summits and statements. It is also human, answered first in a search, in rough seas, for seven missing sailors. Keep those tests in proper order. The search first. The summit second. The grain third. A world reversing that order has understood economics and lost the people. Ships can be replaced. Cargo can be reloaded. Seven missing sailors in a cold sea cannot be replaced by analysis. The reader remembering them first has remembered the story correctly.
 
 ## Frequently Asked Questions
 

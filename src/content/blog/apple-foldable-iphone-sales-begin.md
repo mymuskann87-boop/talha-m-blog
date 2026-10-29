@@ -2,6 +2,7 @@
 title: "Apple Foldable iPhone Sales Begin"
 description: "The morning the first buyers opened a phone like a book — Apple's iPhone Duo foldable has finally reached the shops, and the queues started before sunrise."
 pubDate: 2026-10-23T13:20:00+05:00
+updatedDate: 2026-10-29
 image: "/images/apple-foldable-iphone-sales-begin.webp"
 imageAlt: "An illustration of a futuristic foldable smartphone opened like a glowing book, floating above a cheering crowd outside a glass electronics store at night."
 category: "Technology"
@@ -65,6 +66,16 @@ What *is* confirmed is already plenty: the iPhone Duo is real, it is on sale fro
 ## You may also like
 
 - [Agent Tesla Spies On Keyboards](https://talhablog.com/blog/agent-tesla-spies-on-keyboards/)
+
+## My Take: The iPhone Duo Sells a Fold, Not a Phone
+
+On 23 October 2026, the iPhone Duo went on sale in India and other first markets. Apple had announced the phone on 9 September 2026, and pre-orders opened on 16 October. Queues formed before sunrise, with people carrying folding chairs and flasks of tea. Opened, it blooms into a 7.6-inch inner display, closer to a small tablet. It comes in two colours, Star White and Night Sky. Reports of other possible hardware this month, including a touchscreen MacBook Pro, remain unconfirmed.
+
+In my view, the fold itself is the product, and that is both the strength and the limit of this launch. I think that scene tells the truth better than any specification list. A phone that opens like a book changes what a phone is for, because it offers two lives: a quick, one-handed phone on the outside, and a wide screen on the inside for reading, notes, games, and films. My call is that Apple understood this correctly. A fold that delights on day one must still delight after months of daily opening, and the post, written on launch day, cannot answer that question yet.
+
+There is a trade-off here that buyers should weigh before they join a queue. The outer display earns its keep, because most people do not want to unfold a phone to read one short message. I think the Duo suits a reader who splits time between short checks and long sessions: articles with notes beside them, messages answered without closing a video, games with room to breathe. It suits that reader far less if the day is mostly quick glances, because then the fold is a party trick used twice and forgotten. The outer screen also protects the inner screen from constant folding for tiny jobs, which is a practical benefit the launch-day excitement barely mentions. The post notes Apple designed the phone for multitasking, gaming, and watching content on the larger screen. I would put multitasking first and the rest second. Buyers who juggle two things at once may find it hard to give up.
+
+The common mistake, I think, is to treat launch-day joy as a verdict. The post is careful to label the other hardware reports as unconfirmed, and readers should keep that care with the Duo itself. What should a reader do? First, be honest about the split in a normal day: how much time is quick jobs, and how much is long sessions that need a wide screen. Second, wait for reports from people who have folded it hundreds of times, not dozens. A foldable bought for show will disappoint faster than one bought for a daily habit. Today it folded, beautifully, in Star White and Night Sky. I think the wiser praise is to call this a genuine turn, and still to let the turn prove itself beyond day one.
 
 ## Frequently Asked Questions
 

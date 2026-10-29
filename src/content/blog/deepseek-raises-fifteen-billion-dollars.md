@@ -2,6 +2,7 @@
 title: "DeepSeek Raises Fifteen Billion Dollars"
 description: "America told its offices to delete this Chinese AI app. Two days later, the same company raised about $15 billion. Read the strange story of two rooms, two"
 pubDate: 2026-10-23T13:50:00+05:00
+updatedDate: 2026-10-29
 image: "/images/deepseek-raises-fifteen-billion-dollars.webp"
 imageAlt: "An illustration of a giant whale made of glowing blue circuits leaping from a sea of gold coins and rising stock charts."
 category: "AI"
@@ -93,6 +94,16 @@ Two days. Two decisions. One company at the center of a race that is only gettin
 ## You may also like
 
 - [Nadella Wants AI Kill Switch](https://talhablog.com/blog/microsoft-ceo-ai-kill-switch-explained/)
+
+## My Take: DeepSeek's Fifteen Billion Beats Washington's Ban
+
+The post tells a story of two rooms in the same week. DeepSeek is an AI lab from China, based in Hangzhou. Roughly two days later, news broke from China. DeepSeek had raised about $15 billion in fresh funding. According to the Bloomberg report, potential investors include CATL, the giant Chinese battery maker, and Tencent, the company behind WeChat. The money is meant for AI infrastructure. DeepSeek is also backing open models, for domestic and international markets. The post argues the world scores DeepSeek on two scoreboards. The post's own view is plain. The cheque matters more than the ban in the long run. 
+
+My judgement agrees with that view, and I want to press it further. The reason the cheque matters more is structural, not merely size. Money, by contrast, is a foundation. Fifteen billion dollars buys computing power, systems, talent and time. In AI, the future belongs to whoever builds foundations fastest. Foundations, once laid, are hard to replace. 
+
+The investors named strengthen that reading. DeepSeek builds the brains, the AI models. It invests because AI will shape how people chat, pay, search and work. 
+
+There is a second judgement, about the American side, and fairness requires it. The security concern is not imaginary. AI tools can sit inside systems, touch documents, and move information around. A government handles secrets, citizens' personal data, and plans that should never travel. When a tool comes from a rival country, officials use the logic of changing locks after losing a key. You may never know who picked the key up. You change the locks anyway. That logic is sound for the systems it protects. The removal order should be judged as protection, not punishment. The mistake would be judging it as a verdict on DeepSeek's future. A ban answers a question about trust in sensitive systems. It does not answer how big the lab can become. Or how much infrastructure it can build. Or how strongly it can compete. Those are the Chinese scoreboard's questions. The cheque answers them. Both scoreboards are real. A company can be risky and promising at once, like a fast river both dangerous and full of energy. Governments reach for the danger sign. Investors reach for the energy. Both are right, about different things. So stop reading bans and funding as opposite verdicts on one question. Watch foundations, not headlines. Expect the domestic race to get rougher, with rivals spending more and pushing open models harder. In the age of AI, a closed door and an open cheque can arrive in the same week. Both can be logical. The future, built with fifteen billion dollars, will still be there when the door is forgotten. Money builds. Bans move. Remember the difference.
 
 ## Frequently Asked Questions
 

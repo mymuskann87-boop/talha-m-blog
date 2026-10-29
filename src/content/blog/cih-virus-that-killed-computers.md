@@ -2,6 +2,7 @@
 title: "CIH Virus That Killed Computers"
 description: "The CIH virus, nicknamed Chernobyl, slept quietly inside computers all year and woke on 26 April to destroy files and leave machines completely unable"
 pubDate: 2026-10-23T18:10:00+05:00
+updatedDate: 2026-10-29
 image: "/images/cih-virus-that-killed-computers.webp"
 imageAlt: "An illustration of a spooky graveyard of old desktop computers under a huge full moon, every screen black and dead."
 category: "Technology"
@@ -71,6 +72,16 @@ I keep coming back to one thought in this story: the most frightening viruses ar
 ## You may also like
 
 - [First Computer Virus Ever Created](https://talhablog.com/blog/first-computer-virus-ever-created/)
+
+## My Take: CIH Killed Machines by Waiting for One Date
+
+CIH first appeared in 1998, written by Chen Ing-hau, a student in Taiwan, and its name comes from his initials. It infected .exe program files on Windows 95, 98, and ME, hiding pieces of itself in empty gaps inside files, so infected files did not grow bigger. For most of the year it copied itself quietly and waited. The most famous version woke on 26 April, the anniversary of the Chernobyl disaster of 1986. On that date it overwrote the start of the hard disk, destroying the map that tells the computer where files live, and on many machines it also overwrote the BIOS, the starter program on the motherboard chip. On 26 April 1999 it struck across Asia and beyond, with estimates in South Korea alone ranging from hundreds of thousands to millions of computers affected.
+
+In my view, CIH's patience is what made it terrifying, more than either of its attacks alone. CIH did very little an ordinary user could see, for weeks or months, while it copied itself from file to file. The damage sat inside healthy-looking machines like a seed in winter, waiting for one square on the calendar. My call is that readers should fear quiet infections more than loud ones. A loud attack can be answered. A quiet one builds its army in silence, and its bill arrives on a date the victim never chose.
+
+There is a second judgement about the BIOS attack that explains why old-timers speak of CIH with respect. Most viruses damage your things. CIH reached one level deeper and damaged the machine's ability to wake up. When CIH overwrote the BIOS, no repair disc could help, because the machine could not even reach the point of reading a disc. I think that distinction matters for how readers judge computer harm. Losing files is a bad day. Losing the ability to start is a dead machine, and a dead machine cannot even help with its own repair. The hiding trick was equally clever. By splitting itself into empty gaps, CIH made file-size checks useless, because an infected file looked exactly as it should.
+
+What should a reader do differently? First, download software only from trusted sources, because pirated programs and free versions from strange websites were CIH's favourite road in. Second, keep antivirus switched on and updated, so it can recognise known viruses and watch for suspicious behaviour. Third, scan files handed over on disks, USB sticks, or messages before opening them, since friends can pass infections without knowing. Fourth, keep backups of important files somewhere separate, on an external drive unplugged when not in use, or a trusted cloud service. Finally, do not ignore strange behaviour: slow programs, odd files, and actions nobody asked for deserve a full scan at the first sign. A quiet program and a single date were enough to leave whole rooms of computers dead, and the habits that stop that pattern are still simple, still ordinary, and still worth keeping.
 
 ## Frequently Asked Questions
 

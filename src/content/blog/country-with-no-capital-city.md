@@ -2,6 +2,7 @@
 title: "Country With No Capital City"
 description: "Every country on Earth has a capital city — except one. Meet the tiny Pacific island where the capital box on the map is simply left blank."
 pubDate: 2026-10-19T19:50:00+05:00
+updatedDate: 2026-10-29
 category: "Politics"
 image: "/images/country-with-no-capital-city.webp"
 imageAlt: "The small Pacific island of Nauru, a single oval of land in the ocean with no official capital city."
@@ -75,6 +76,16 @@ Nauru's story carries a lesson far bigger than the island: wealth that comes out
 ## You may also like
 
 - [Country Where Voting Is Compulsory](https://talhablog.com/blog/country-where-voting-is-compulsory/)
+
+## My Take: Nauru Proves a Capital Is a Habit, Not a Need
+
+The sources agree carefully on a strange-looking fact. The CIA World Factbook writes that Nauru has no official capital and that government offices sit in the Yaren District. Other lists leave the entry blank or write the single word none. Yaren holds the Parliament House, the government offices and the courts, with the airport nearby. Yet Yaren is a district, not a city, and has never been declared the capital. The scale makes this possible: 21 square kilometres, about 10,000 people, 14 districts rather than cities and towns, and a parliament of 19 members who choose the president. Nauru is the third-smallest country on Earth and the smallest island nation. Nothing here is a trick. It is a working country whose map refuses to fill in one familiar box.
+
+My judgement is that a capital city is mostly a habit that large countries need and small ones can live without. When a whole country is one small ring of land, and most people live along the shore joined by a ring road, the job a capital normally does is already done by closeness itself. Calling Yaren the capital in practice, the de facto capital, is useful shorthand. I think it is also slightly misleading, because it invites the reader to picture a city that does not exist.
+
+That said, I would not turn smallness into a fairy tale. The same post tells the harder half of the story, and my call is that this half matters more. Phosphate, built up over countless centuries from seabird droppings and discovered in 1900, made Nauru, after independence in 1968 and after buying the mining business in 1970, among the richest peoples in the world through the 1970s. Then the mine ran down, unwise investments drained much of what had been set aside, and by around 2000 the fortune was largely gone. Today the post lists smaller streams instead: the Australian-run processing centre hosted since 2001, with breaks and restarted in 2023, fishing licences, aid led by Australia, and remaining phosphate earnings.
+
+The common mistake is to read Nauru as either a joke or a miracle. The joke version says a country without a capital cannot be serious. The miracle version says smallness alone is wisdom. Both miss the point. Nauru is serious because it has a president, a parliament, a flag and a United Nations seat, and because its people refused, in 1962, an offer to be resettled elsewhere when the phosphate was known to run out. So treat the capital question as a doorway, not the destination. When any country, company or household strikes one rich seam, ask the Nauru question: what is being built for the day the seam ends? A capital is a name on a form. A future is what you build while the money is still flowing, and Nauru's story warns us to build it early, plainly, and before the easy years end.
 
 ## Frequently Asked Questions
 

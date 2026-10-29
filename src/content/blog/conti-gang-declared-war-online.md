@@ -2,6 +2,7 @@
 title: "Conti Gang Declared War Online"
 description: "The Conti ransomware gang threatened the whole government of Costa Rica, and the country answered by declaring a national emergency."
 pubDate: 2026-10-23T21:00:00+05:00
+updatedDate: 2026-10-29
 image: "/images/conti-gang-declared-war-online.webp"
 imageAlt: "An illustration of a giant glowing megaphone made of computer code shouting red sound waves over the digital map of a small country at night."
 category: "Technology"
@@ -61,6 +62,16 @@ You cannot control gangs on the other side of the world, but you can control the
 ## You may also like
 
 - [Check Scammer Number Free Online](https://talhablog.com/blog/check-scammer-number-free-online/)
+
+## My Take: Conti Died as a Brand, Not as a Business
+
+Conti appeared in 2020 as ransomware run like a business, on a model called ransomware as a service, with a core gang building the software and partners carrying out break-ins. It scrambled victims' files and stole copies first, so it could threaten to publish private records as well as keep files locked. In April 2022 it attacked the government of Costa Rica, badly damaging tax and customs systems, and publicly threatened the government and boasted it aimed to overthrow it. In May 2022 the president declared a national emergency, reported as the first ever declared because of a ransomware attack, and the United States announced rewards of up to 15 million dollars for information on Conti's leaders. By the middle of 2022 the Conti brand shut down, but researchers reported its members scattered into other ransomware groups and kept working under new names.
+
+In my view, closing one office means little when every worker simply starts the same job at a new office down the street. I think readers make a dangerous mistake when they treat a gang's shutdown as a victory. The brand died, but the business model survived, and the people, skills, software, and stolen money did not retire with the name. A gang organised like a company does not vanish when its sign comes down. My call is that the public should measure success against ransomware by whether the model stops paying, not by whether a name disappears. As long as stolen files can be sold, locked files can be ransomed, and partners can be recruited, the same workers will find a new name, and the next country will face the same threat with a different label on it.
+
+There is a second judgement about how Conti reached a whole nation that matters more than any detail of its software. It started small, at one desk, with one ordinary mistake: an email that looked like a bill or a message from the boss, a password guessed or reused from an older leak, or a remote-access door left open. Once inside, the intruders explored, stole passwords, and moved sideways across flat networks where every computer could reach every other, like a building where every inside door is open. The first step of a nation-shaking attack can land in the inbox of any employee, teacher, clerk, or shop worker, and it does not look dangerous.
+
+What should a reader do differently? First, separate networks into rooms, not one open hall, so one infected computer poisons one room instead of the whole building. Second, guard passwords like house keys, with a long different password for every account and two-step verification wherever it exists, so one leaked password is never the key to everything. The doors it used are still open wherever backups stay plugged in, networks stay flat, and one believed email is all it takes.
 
 ## Frequently Asked Questions
 

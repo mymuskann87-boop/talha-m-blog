@@ -2,6 +2,7 @@
 title: "DarkSide Stopped America's Fuel Pipeline"
 description: "In May 2021 the DarkSide gang locked up Colonial Pipeline, America's biggest fuel line, and the whole East Coast felt the squeeze at the pump."
 pubDate: 2026-10-23T20:10:00+05:00
+updatedDate: 2026-10-29
 image: "/images/darkside-stopped-americas-fuel-pipeline.webp"
 imageAlt: "An illustration of a giant desert fuel pipeline stretching to the horizon, frozen solid, its huge valve wheel locked with glowing digital chains, with dark empty gas stations in the distance."
 category: "Technology"
@@ -73,6 +74,16 @@ None of this needs special skill or expensive tools. It needs only the habit of 
 ## You may also like
 
 - [BlackCat Attacked America's Healthcare Giant](https://talhablog.com/blog/blackcat-attacked-americas-healthcare-giant/)
+
+## My Take: DarkSide Proved One Forgotten Login Can Stop Fuel
+
+DarkSide worked like a shady business renting ransomware to other criminals. In May 2021 it stopped America's largest fuel pipeline system. The attackers reportedly entered through a virtual private network account. Colonial Pipeline shut its pipeline on 7 May 2021 as a precaution. The shutdown lasted six days. The chief executive later confirmed a ransom of about $4.4 million in Bitcoin was paid. In June 2021 the Department of Justice announced investigators had recovered much of that payment. 
+
+My judgement is that the forgotten door is the true subject. The pipeline is only the largest example. The attack did not succeed because DarkSide was brilliantly clever. The post's image captures it exactly. The six-day shutdown, the queues, the panic buying were not caused by a broken pipe. They were caused by a door nobody remembered owning. That is a failure of housekeeping, not technology. 
+
+The ransom and recovery resist both easy morals. Neither simple reading survives the facts. The chief executive explained payment publicly, in testimony and interviews, as a decision to get fuel moving. The recovery adds a twist neither side expected. The public ledger of Bitcoin allowed investigators to recover much of the payment. The lesson is not that paying works or refusing works. By the time a gang holds the keys and fuel has stopped, every option is bad. The good decisions should have happened years earlier. When the forgotten account could have been closed. When the password could have been changed. When the second proof could have been switched on. Security here is not a heroic moment. It is a boring list, kept up to date.
+
+The defences are one annual habit, not five separate tips. Deleting unused accounts, two-factor sign-in, never reusing passwords, offline backups, and an annual review are one job: knowing your doors. A password manager makes never-reuse practical. No human memory holds a different strong password for every account. Two-factor adds a second proof, usually a code on a phone. A leaked password alone becomes nearly useless. That is exactly the defence the Colonial account lacked. Offline backups remove the gang's leverage. A household that can rebuild without paying need not negotiate. The annual review finds forgotten doors before a gang does. Put it in the calendar like a bill. A review depending on remembering is itself a forgotten door. So list every account and close the unused ones the same day. Turn on two-factor everywhere it exists. Use a different strong password per account. Keep backups offline and test that they open. Repeat the review once a year. DarkSide's story is about a door nobody remembered, and six days of queues that followed. Remembering your own doors costs nothing but attention. The door, not the gang, is the lesson.
 
 ## Frequently Asked Questions
 

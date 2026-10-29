@@ -2,6 +2,7 @@
 title: "Astronaut Grew Taller In Space"
 description: "Scott Kelly spent 340 days in space while his identical twin Mark stayed on Earth. Scott came home measurably taller, and NASA's Twins Study tracked what"
 pubDate: 2026-10-22T14:00:00+05:00
+updatedDate: 2026-10-29
 image: "/images/astronaut-grew-taller-in-space.webp"
 imageAlt: "An illustration of two twin brothers standing back to back, one of them an astronaut floating slightly taller in space."
 category: "Space"
@@ -74,6 +75,16 @@ The honest limits matter too. NASA itself points out that a study with a single 
 ## You may also like
 
 - [Astronauts Stuck In Space Months](https://talhablog.com/blog/astronauts-stuck-in-space-months/)
+
+## My Take: Scott Kelly's Height Was the Least Important Change
+
+Scott Kelly spent 340 days aboard the International Space Station and came home in March 2016. After the mission, Scott was briefly taller. Reports said about two inches, while Scott himself measured nearer an inch and a half. Scott's genes shifted how they were switched on and off, his telomeres grew longer in orbit, and a flu vaccine given in space worked as it would on Earth.
+
+In my view, the height story, charming as it is, was the least important change in the whole study. The real finding is how much of the body bends under spaceflight and then bends back. Within six months of landing, 91.3 percent of the gene-expression changes had returned to normal. That figure is, to me, the most comforting number in the post. The flu vaccine result matters more than it first appears, because it showed the immune system still doing its job properly in an unfamiliar environment. Changes in his gut bacteria were no larger than the kind stress alone can produce on the ground, which is another reassuring limit on the space effect. A small percentage of genes, mostly connected to the immune system and DNA repair, were still behaving differently months later. A body that does not fully reset is the reason more research is needed before longer journeys.
+
+The telomere surprise deserves special care, because it shows how easily a strange result becomes a false promise. Instead, they grew longer in orbit. I think the lesson is about patience with early results. A single surprising measurement, in a single person, is a question, not an answer. The honest version is less exciting and more useful: space can push a marker in an unexpected direction, and coming home can push it back hard.
+
+There is a second, quieter judgement about Mark Kelly, the brother who stayed home. His part sounds easy, but it gave the study its meaning. Without that baseline, every change in Scott could have been blamed on ordinary life, stress, or the passing year. With it, scientists could ask whether both brothers changed, or only the one in orbit. I think Mark is the unsung half of this experiment, and the study's design is its real genius. Scott is one man, not a statistic. A round trip to Mars will keep astronauts away for years, far longer than 340 days. What should a reader take away? The return itself was harder than the trip up, with deep muscle soreness and skin so sensitive it burned where it touched anything. Those rough first weeks are the human price behind the clean percentages. What should a reader take away? Do not remember only the taller twin. Remember a body that stretched and mostly sprang back, a marker that surprised everyone and then corrected itself, and a brother on the ground whose patience made the numbers mean something. Future crews will travel farther because both brothers did their jobs.
 
 ## Frequently Asked Questions
 

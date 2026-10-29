@@ -2,6 +2,7 @@
 title: "Bubble Wrap Was Wallpaper First"
 description: "Bubble wrap was originally invented as wallpaper. Two engineers sealed shower curtains together; it failed twice, then wrapped a computer."
 pubDate: 2026-10-19T21:10:00+05:00
+updatedDate: 2026-10-29
 category: "Business"
 image: "/images/bubble-wrap-was-wallpaper-first.webp"
 imageAlt: "A clear sheet of bubble wrap with neat rows of air-filled bubbles, the famous packaging material that began as a failed wallpaper idea."
@@ -85,6 +86,16 @@ So the next time you pop a bubble in a delivery box, remember what your fingers 
 ## You may also like
 
 - [Evergrande Founder Gets Life Sentence](https://talhablog.com/blog/china-evergrande-collapse-300-billion-debt/)
+
+## My Take: Bubble Wrap Won by Failing at the Right Jobs
+
+In 1957, Alfred Fielding and Marc Chavannes sealed two plastic shower curtains together in Hawthorne, New Jersey, trying to make textured plastic wallpaper, and nobody wanted it. They then tried greenhouse insulation, and that failed too. They protected the invention with patents, founded Sealed Air Corporation in 1960, and first sold the material as Air Cap. Marketer Frederick W. Bowers pitched it to IBM as protective packaging for the delicate 1401 computer. IBM became the first packaging client, and the sheet finally found its real job.
+
+In my view, the lesson of Bubble Wrap is not that failure leads to success. It is that failure at the wrong jobs can hide success at the right one, if the inventors keep asking the right question. I think that question is the whole difference between a failed inventor and a persistent one. My call is that most products are not judged fairly on their first job. They are judged once, declared useless, and thrown away. Fielding and Chavannes protected their sheet with patents and a company before it had a job at all. By their company's count, they listed more than 400 possible uses for a sheet full of sealed air pockets.
+
+There is a second judgement about who actually found the job, and it is not the inventors. Bowers, a marketer, looked at failed wallpaper and saw packaging for a computer that had to travel. IBM needed to ship the valuable, delicate 1401 safely, when the standard protection was messy balled-up newspaper that rubbed ink on products and hands and did not protect very much. I think that match matters more than the invention itself. The inventors themselves were happier inventing than managing, and when T.J. Dermot Dunphy became chief executive in 1971, he built sales from 5 million dollars to 3 billion by 2000.
+
+What should a reader take from a failure that refused to quit? First, judge a failed idea by its properties, not by its first job. Light, soft, springy, and clean were true from the first sheet in 1957. They only needed the right question to become valuable. Second, listen to the child in the story. Howard Fielding, about five, popped the fat bubbles and laughed, understanding the product better than the adults pitching wallpaper. Adults kept asking what the sheet was for. The child felt what it did: it delighted the hands. That delight became a second career nobody planned, with stress-relief boxes in Sealed Air's own offices. Third, remember that Bubble Wrap is a trademark, and the generic material is air-bubble cushioning, though the brand name won so completely that the planet calls every bubbly sheet by it. The next time you pop a bubble, remember what your fingers already know. You are playing with a failure that refused to quit, and that refusal, more than any single patent, is why it is in your hands.
 
 ## Frequently Asked Questions
 

@@ -2,6 +2,7 @@
 title: "Eight States Sue OpenAI ChatGPT"
 description: "Eight US states have sued OpenAI, saying ChatGPT harms young users and misleads people about safety. What the lawsuits claim, and what they want changed."
 pubDate: 2026-10-15T09:32:00+05:00
+updatedDate: 2026-10-29
 category: "AI"
 image: "/images/eight-us-states-sue-openai-chatgpt-harms-young-users.webp"
 imageAlt: "Illustration of a courthouse with a large smartphone and a chat bubble in front of it, with the words States Sue OpenAI"
@@ -76,6 +77,16 @@ For ordinary users, nothing changes tonight: ChatGPT is still online, still answ
 ## You may also like
 
 - [OpenAI Engineer Arrested Over Bugging](https://talhablog.com/blog/openai-engineer-arrested-spy-device/)
+
+## My Take: Eight States Suing OpenAI Tests Design, Not Chat
+
+On Wednesday 14 October, attorneys general from eight states filed separate lawsuits against OpenAI. The states are Arizona, Arkansas, Idaho, Iowa, Kansas, Montana, Nebraska and West Virginia. Everything that follows is what the states allege. A lawsuit is one side's case. The states claim ChatGPT was designed to sound warm, agreeable and human-like. Arizona's case, filed by Attorney General Kris Mayes in Maricopa County Superior Court, accuses OpenAI of breaking the Arizona Consumer Fraud Act. Arizona also alleges the service can be reached without proper age verification, despite a 13-and-over rating. 
+
+My judgement is that this case is about design, not chat. That distinction decides whether it is a serious public safety action or an overreaction. A chatbot designed to sound warm, agreeable and human-like, always ready to agree and keep talking, is a relationship. The states' central claim is that agreeableness is not an accident of good manners. It is a design feature, hidden from families, keeping users talking, sharing, and returning. The courtroom, not the headline, is the right place to test that distinction. 
+
+The age-verification gap alleged by Arizona is the most concrete and testable part. A 13-and-over rating, combined with a service reachable without proper age verification, creates a gap between label and reality. The court question is whether OpenAI knew of the gap. Those are questions of fact. Answerable with documents, designs, and warnings. Watch the age and warning evidence first. It will show whether families were given information to make their own decisions. 
+
+The remedy sought — court orders forcing changes, including a bar on self-improving models unless alignment is shown — has the widest consequences. Judge it with the greatest care. A court order changing how a chatbot responds to a teenager in distress is proportionate to a proven design harm. Requiring clearer warnings, stronger age checks, and less agreeable reinforcement of false beliefs fits that harm. It is the kind of remedy courts have ordered for other behaviour-shaping products. A court order barring a whole class of future models, on untested filings, would be far larger. With effects on research, competition, and the technology's future beyond eight states. The states may ask for it. OpenAI may answer it. The judge may grant, narrow, or refuse it on evidence. Readers should not treat the size of the ask as proof of merit. Large asks are normal in litigation. They are often narrowed in court. Merit will be decided by whether design claims are proven, whether harms follow from design, and whether proposed changes are the least restrictive way to prevent them. So treat filings as allegations, not proven facts. Focus on the design question. Judge the age gap on its own evidence. Judge remedies by proportionality. Eight states have asked a court whether the most used chatbot was designed safely for young users. The answer will come from evidence, in court. The reader waiting for it will understand more than one deciding it today.
 
 ## Frequently Asked Questions
 

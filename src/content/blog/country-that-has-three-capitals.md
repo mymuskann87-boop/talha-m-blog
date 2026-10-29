@@ -2,6 +2,7 @@
 title: "Country That Has Three Capitals"
 description: "Why does South Africa have three capitals? Pretoria, Cape Town and Bloemfontein share the job. A road trip through all three, and why the split happened."
 pubDate: 2026-10-23T10:20:00+05:00
+updatedDate: 2026-10-29
 image: "/images/country-that-has-three-capitals.webp"
 imageAlt: "An illustration of three capital cities of one country shown side by side, with parliament buildings, a high court and government offices."
 category: "Politics"
@@ -69,6 +70,16 @@ So next time a quiz asks you for the capital of South Africa, smile. The honest 
 ## You may also like
 
 - [Country That Abolished Its Army](https://talhablog.com/blog/country-that-abolished-its-army/)
+
+## My Take: Three Capitals Bought Unity at Commuting Cost
+
+South Africa is the only country with three capital cities: Pretoria, the administrative capital where the president works in the Union Buildings; Cape Town, the legislative capital 1,400 kilometres away, where both houses of Parliament meet; and Bloemfontein, the judicial capital, home of the Supreme Court of Appeal. The Constitutional Court, the highest court, sits in Johannesburg, which is not a capital of any kind. The arrangement comes from the South Africa Act of 1909, a compromise when four colonies could not agree on one capital: each of three big colonies received one branch of government, and Natal received compensation instead. Parliament still sits in Cape Town.
+
+In my view, the three-capital system should be judged as a price paid for a country, not as an office plan. The system was never designed because it was efficient. It was designed because it was the only deal everyone would accept, and sometimes keeping a country together matters more than tidy organisation charts. In 1908 and 1909, delegates from four colonies with deep rivalries, fresh from the bitter South African War that ended in 1902, nearly broke the project over one question: where should the capital be? Sharing the branches meant nobody won everything, so everybody could sign. But the cost of no deal at all was no Union, and a country that never forms has no capital to argue about.
+
+There is a second judgement about the move-Parliament debate that shows why the argument never ends. Building a new home for Parliament in Pretoria would cost around R7 billion, even if it then saved perhaps R500 million to R750 million a year. Moving would uproot about 1,400 parliamentary staff and their families and damage Cape Town's economy, which benefits greatly from parliamentary seasons. I think the persistence of the debate proves the compromise is still working as a compromise: painful enough to argue about, balanced enough that no side can win outright. The judicial capital keeps its historic title while the most powerful court works in Johannesburg, a city with no capital title at all.
+
+What should a reader take from the road trip? First, learn the three jobs correctly: Pretoria runs the country, Cape Town makes the laws, Bloemfontein judges the arguments, and Johannesburg quietly holds the highest court. South Africa has 12 official languages, after South African Sign Language was added as the twelfth in 2023, and a country that speaks in twelve official tongues finds nothing strange about a government that works in three official cities. Second, judge compromises by their lifespan. An arrangement that survives from 1910 through the Union, the Republic, and every argument since is not an accident waiting to be fixed. It is a settlement that keeps being chosen, year after year, by people who know its price and still pay it. Efficiency would put everything in one city. History put it in three, and history, in this case, was right to insist on sharing.
 
 ## Frequently Asked Questions
 

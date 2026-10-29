@@ -2,6 +2,7 @@
 title: "Buy Clothes Smart Spend Less"
 description: "Open the closet, judge every piece honestly, and learn the simple maths that separates a bargain from a waste of money."
 pubDate: 2026-10-25T18:00:00+05:00
+updatedDate: 2026-10-29
 image: "/images/buy-clothes-smart-spend-less.webp"
 imageAlt: "An open wardrobe with price tags falling like leaves"
 category: "Saving Money"
@@ -67,6 +68,16 @@ My wardrobe audit took one Sunday afternoon. The bed was covered, the pile of un
 ## More ways to save
 
 - [Buy Shoes That Last Longer](https://talhablog.com/blog/buy-shoes-that-last-longer/)
+
+## My Take: Clothes Earn Their Place by Being Worn
+
+A wardrobe audit tells a plain truth. Most money goes into a few pieces worn all the time. Most waste goes into pieces barely worn at all. The post's central maths is simple: divide the price by the number of times you wear it. A jacket costing 3,000 and worn 100 times costs 30 per wear. A shirt costing 1,000 and worn twice costs 500 per wear.
+
+In my view, cost per wear is the most honest number in personal finance, because it punishes the exact mistake shops are designed to cause. A sale sign makes a shirt look cheap in the moment. The maths waits until the shirt has been worn twice and reveals the truth. My call is that every shopper should do this division in their head before paying, and put the piece back if the honest answer is maybe twice. The shop will still be there tomorrow, and the money will still be in your pocket.
+
+There is a second judgement about sales and repairs that readers often reverse. Sales feel like saving, and repairs feel like effort, so people chase the first and skip the second. I think the post has the order right. A sale saves money only when it sells something already going to be bought. A sale that sells something never wanted has spent money that would have stayed home. Shopping for next year, buying a winter coat at winter's end for the season ahead, is less exciting and genuinely cheaper. Repairs are cheaper still. A shirt that lasts three years instead of one is a shirt bought twice for free. I think the cooling-off rule ties both habits together. Walk away, finish the errand, and return another day if the piece is still on your mind. Most sale excitement fades within a day. The pieces that survive the wait are the ones worth owning.
+
+What should a reader do differently? First, audit the closet honestly, piece by piece, and notice which pieces earn their place three times over by matching three other items. Build on neutrals, white, black, navy, grey, and brown, with a few bright accents, rather than loud pieces that refuse to sit together. Second, let unworn pieces go. Pieces unworn for a year will not be worn next year, and keeping them recovers no money. Give them to family, donate them, swap them, or sell them, and let the emptier closet make the next decision clearer. Third, remember where the rule bends. Children outgrow clothes in months, so expensive basics for a growing child are poor maths, and cheaper pieces and hand-me-downs are the wiser answer. Quality basics cost more at the counter, and the saving appears over months, not on the first day. That delay is normal, not failure. Buy slowly and deliberately: one piece, matched to three things owned, at a price whose cost per wear is already worked out. Getting dressed becomes easier, because everything in the closet earns its place.
 
 ## Frequently Asked Questions
 

@@ -2,6 +2,7 @@
 title: "Drishyam Conclusion Crosses ₹446 Crore"
 description: "Is Drishyam The Conclusion a hit or flop? It crossed ₹446 crore worldwide in nine days and became Ajay Devgn's highest-grossing film. The numbers."
 pubDate: 2026-10-11T15:55:00+05:00
+updatedDate: 2026-10-29
 category: "Celebrity"
 image: "/images/drishyam-the-conclusion-box-office.webp"
 imageAlt: "Illustration of a cinema hall with a busy box office counter"
@@ -54,6 +55,20 @@ Will the total climb much further? We don't know yet, and it's better to say tha
 ## You may also like
 
 - [Elon Musk Life Story Explained](https://talhablog.com/blog/elon-musk-life-story-explained/)
+
+## My Take: Drishyam's Head Start Cannot Explain Its Second Week
+
+ According to Sacnilk figures reported by Business Today, it grossed about ₹446.80 crore worldwide in nine days. The film also crossed ₹300 crore in India. This film kept drawing audiences into its second week. 
+
+My judgement is that the head start explains the opening, but cannot explain the second week. The second week is the real story. The move from near ₹250 crore to past ₹300 crore is not a measure of the head start. That word-of-mouth engine, not the franchise name, is the turning point. 
+
+The overseas figure should be judged as a share, not only a total. The honest reading is that overseas confirms the franchise's reach, while the Indian second-week hold confirms the film's quality as experienced by viewers. Those are two different achievements. Confusing them would overstate the first and understate the second. This film did both, on the figures given. The home hold is harder and more impressive. 
+
+Trust, as the post defines it, is not loyalty to a star. It is a known experience: a thriller built on suspense, smart turns, and an ending people want to discuss afterwards. That definition sets the test for a third film. In my view, a third part usually inherits a smaller audience than the first part found, because some viewers drift away and others wait for reviews. This film did the opposite. In nine days it became the highest-grossing film of Ajay Devgn's career, which means it grew instead of shrinking. My call is that the career high, not the worldwide total, is the sharpest measure here. A total alone does not show growth. A career high for a third part does. The reader should therefore judge sequels against their own past, not against new films. Ask whether the new chapter widened the audience or merely collected it. Here, the answer is widening, not collection.
+
+Trust fills the first weekend, because audiences know the characters and the thriller style. But a familiar name alone never carries a second week, and plenty of sequels fail when the story has nothing new to say. The move past ₹300 crore measures word of mouth: viewers told others without spoiling twists, and new viewers kept arriving. Overseas, about ₹103 crore within the worldwide total, largely reflects the same ready-made audience in many countries. It proves reach, not a new audience abroad. The honesty warning matters too: figures are estimates that move, gross is not profit, and an achievement surviving honest measurement needs no exaggeration.
+
+So separate the opening from the hold. Credit the franchise for the first weekend, and word of mouth for the second week. Read overseas ₹103 crore as reach, and Indian ₹300 crore as sustained appeal. Treat every figure as an estimate that moves, attributed to Sacnilk via Business Today. Never mistake gross for profit. Resist guessing the final total. The head start opened the door. The second week proved the room was worth staying in.
 
 ## Frequently Asked Questions
 

@@ -2,6 +2,7 @@
 title: "Amazon Rainforest Is Slowly Vanishing"
 description: "The Amazon, the biggest rainforest in the world: a journey into its giant river with no bridges, pink dolphins, tribes, and flying rivers."
 pubDate: 2026-10-15T01:42:00+05:00
+updatedDate: 2026-10-29
 category: "Nature"
 image: "/images/amazon-rainforest-last-wild-corner-of-earth.webp"
 imageAlt: "Illustration of the Amazon rainforest and its great river with the words The Amazon Jungle"
@@ -123,6 +124,16 @@ The Amazon is still there. The last wild corner is still wild. The question of o
 ## You may also like
 
 - [Island Ruled By Deadly Snakes](https://talhablog.com/blog/island-ruled-by-deadly-snakes/)
+
+## My Take: The Amazon Is Not Lungs, It Is Climate Stability
+
+The Amazon is the largest rainforest on Earth, about 6.7 million square kilometres across nine countries. It holds about one in ten known species, with an estimated 390 billion trees. Its river runs about 6,400 kilometres and carries more water than the next seven largest rivers combined. About 47 million people live in the region, including more than two million Indigenous people. About 17 percent of the forest has been destroyed, with a tipping point near 20 to 25 percent loss.
+
+In my view, the most valuable correction in the post is about the lungs of the Earth. The claim that the Amazon produces 20 percent of the world's oxygen is a half-truth, as the post says. The net gift of oxygen is close to zero. I think clinging to the lungs slogan does real harm. The true reason is stronger and stranger. The forest stores an estimated 150 to 200 billion tonnes of carbon in wood and soil. It shapes rainfall across a continent through its flying rivers. My call is to defend the Amazon not as a lung, which it is not, but as an air conditioner and water pump. Honesty is what a cause this large needs.
+
+There is a second judgement about who actually protects the forest. The post notes that Indigenous peoples' protected lands consistently lose far less forest than surrounding areas. I think that fact should sit at the centre of any plan, not at the edge as a kind note. In the post's account, they are its most effective guardians. The same applies to groups in voluntary isolation, whom Brazil and Peru protect by law and who are not to be contacted. The common mistake is picturing the Amazon as empty wilderness waiting for a saviour from outside. It was never empty. The grand plans that arrived, from rubber barons to Ford's town with its golf course and strict rules, were beaten by the forest or left it poorer.
+
+The trade-off that worries me most is between short-term gain and the tipping point. Clearing forest for cattle, farms, roads, mines, and timber pays someone now, in a way that can be counted. The flying rivers pay everyone later, in rain that cannot easily be counted until it fails. If the forest crosses that line, the post warns, the east and south could dry into savanna. That is not a distant risk for other people. The post names readers in Multan, Manchester, and Minneapolis for a reason. What should a reader do? Stop repeating the lungs slogan, and use the truer picture. Judge every rescue claim by whether it strengthens Indigenous peoples and protected lands. Remember the scale: a forest bigger than Pakistan more than eight times over, and a desert feeding a forest across an ocean. The forest is still there, and still wild. Whether it stays that way is being decided tree by tree, by choices that include our own.
 
 ## Frequently Asked Questions
 

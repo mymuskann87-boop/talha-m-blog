@@ -2,7 +2,7 @@
 title: "Ronaldo Scores 980th Career Goal"
 description: "Cristiano Ronaldo returned for Al-Nassr, scored his 980th career goal in a 3-0 win over Diriyah, and put the Portugal row behind him for a night."
 pubDate: 2026-10-10T23:15:00+05:00
-updatedDate: 2026-10-17
+updatedDate: 2026-10-29
 category: "Sports"
 image: "/images/cristiano-ronaldo-980th-goal-al-nassr.webp"
 imageAlt: "Illustration of a football striker silhouette celebrating a goal in a packed stadium"
@@ -60,6 +60,16 @@ One goal does not settle a row with a national team coach. But it does change th
 ## You may also like
 
 - [Messi Scores Twice After Farewell](https://talhablog.com/blog/messi-two-goals-inter-miami-dc-united-after-argentina-retirement/)
+
+## My Take: Ronaldo's 980th Goal Answered Noise With Ordinary Brilliance
+
+The post reports a simple football night inside a loud argument. Ronaldo returned for Al-Nassr after walking out of the Portugal camp. He scored the opening goal in a 3-0 win over Diriyah. It was the 980th goal of his career. The goal came in the 23rd minute. It was a rebound, after Kingsley Coman's shot was saved. Samu Costa scored in the 35th minute. Coman finished the scoring in the 77th minute. The win put Al-Nassr level on points behind Al-Qadsiah, who lead on goal difference. ESPN reported a banner reading greatness is earned. Fans chanted his name in the 7th minute. The Portugal row began in Norway on September 27. Ronaldo was an unused substitute in a 2-1 win. He said coach Jorge Jesus broke his word about playing time. He also said he remains available for Portugal.
+
+My judgement is that the ordinary look of the goal was its strength. A rebound is not a highlight-reel goal. It is a saved shot and a loose ball. It rewards the striker who expected the ball to come back. That expectation is hard work, not luck. A rebound says something quieter. It says the striker was alert and in the right place. At this stage, with 980 goals behind him, waiting for the perfect ball would be easy. Ronaldo chased the imperfect ball instead. That choice matters more than the number. Numbers at this level stop surprising people. Hunger still surprises them. The fans helped too. Their early banner and chant backed him before he scored.
+
+One goal does not settle a row with a national coach. The post says so plainly, and I agree. A walkout and a broken promise are not erased by one rebound. Anyone who claims otherwise confuses mood with resolution. What the goal did was change the terms of the next conversation. Before the match, the talk was about a walkout and a benching. After it, the talk could also be about a goal and a win. That is a gain of ground, not a victory. The Portugal question stays open. How much Ronaldo plays, and under what understanding, still awaits a decision. His own words keep it open. He says he remains available. The title race stays open too. Al-Nassr trail Al-Qadsiah on goal difference, not on points.
+
+So judge the return by behaviour, not by beauty. Was he in the right place for the second ball? Did the team keep scoring after his goal? Did support turn into work, not theatre? By those tests, this was a good night. Credit the alertness. Enjoy the number. Then wait for the harder decisions. A landmark is a marker on a road. It is not the end of the road. The road still runs toward Portugal and toward the title. The rebound proved one thing for one night. The hunger that built the first 979 goals is still present for the next one.
 
 ## Frequently Asked Questions
 

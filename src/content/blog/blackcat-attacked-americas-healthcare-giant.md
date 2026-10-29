@@ -2,6 +2,7 @@
 title: "BlackCat Attacked America's Healthcare Giant"
 description: "A BlackCat affiliate's attack on Change Healthcare froze pharmacy payments across America for weeks."
 pubDate: 2026-10-23T20:50:00+05:00
+updatedDate: 2026-10-29
 image: "/images/blackcat-attacked-americas-healthcare-giant.webp"
 imageAlt: "An illustration of a sleek black cartoon cat with glowing green eyes sitting on top of a hospital data server in a dark server room, a city of hospitals behind it."
 category: "Technology"
@@ -73,6 +74,16 @@ Finally, remember the Change Healthcare lesson: one supplier can affect thousand
 ## You may also like
 
 - [Code Red Worm Attacked Websites](https://talhablog.com/blog/code-red-worm-attacked-websites/)
+
+## My Take: BlackCat Hurt Patients by Striking One Shared Bridge
+
+BlackCat, also called ALPHV, appeared in late 2021 as a ransomware gang and toolkit, described as the first major ransomware written in Rust. In February 2024, an attack widely attributed by US authorities to a BlackCat affiliate struck Change Healthcare, part of UnitedHealth Group. Pharmacies across the United States could not process insurance claims for weeks. Hospitals and small clinics faced serious money trouble.
+
+In my view, the most important fact in this story is what Change Healthcare was not. It was not a hospital with beds and nurses. It was a quiet company behind prescriptions, payments, and insurance claims, processing a huge share of American healthcare. I think that invisibility is the danger. Modern life runs on shared bridges that nobody sees until they fall. One hidden doorway, shared by millions, can hurt people who never touched the infected computer. It is measured by the weeks of waiting, the frozen claims, and the small clinics with thin safety margins that worried about paying staff and suppliers. Healthcare runs on claims, approvals, and payments moving at the right time, and when those freeze, staff and suppliers still need paying.
+
+There is a second judgement about BlackCat's business model that explains why it grew so fast and died so ugly. Ransomware-as-a-service is a criminal franchise: one group owns the recipe and the signboard, while affiliates open local branches of trouble. I think the FBI seizure of the leak site in December 2023 shows the other side of that model. The final lesson is fitting: researchers say the gang robbed its own affiliate and vanished. Criminals can survive police pressure for a while. The gang claimed the FBI had seized everything, but an affiliate complained publicly that BlackCat had stolen the healthcare ransom instead of sharing it.
+
+What should a reader do differently? You cannot control a giant healthcare network, and you cannot arrest a gang from a kitchen table. But you can control your own doors. Use different passwords for important accounts, and turn on two-factor sign-in wherever it is offered, so a password alone is not enough. Keep backups that are not always connected, on a drive unplugged after backing up, and test the backup sometimes. Give each person their own account where possible, and remove access for people who no longer need it. At work, treat the computer used for banking with extra care, and install updates for system, browser, and security software. Finally, spread the risk at home. If all photos sit in one account and all documents sit on one laptop, one bad day can take everything. The Change Healthcare lesson is that one supplier can affect thousands of strangers. The home version is smaller but real: one account, one password, and one connected backup is one bridge too few. Make the cat work harder than it wants to.
 
 ## Frequently Asked Questions
 

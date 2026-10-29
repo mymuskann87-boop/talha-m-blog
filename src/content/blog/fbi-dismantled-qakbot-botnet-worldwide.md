@@ -2,6 +2,7 @@
 title: "FBI Dismantled QakBot Botnet Worldwide"
 description: "In Operation Duck Hunt, the FBI seized QakBot's command network and used the botnet itself to uninstall the malware from more than 700,000 infected"
 pubDate: 2026-10-23T21:10:00+05:00
+updatedDate: 2026-10-29
 image: "/images/fbi-dismantled-qakbot-botnet-worldwide.webp"
 imageAlt: "An illustration of a giant pair of glowing blue digital scissors cutting the cables of a worldwide web of infected computers around the Earth, police shield badges glowing."
 category: "Technology"
@@ -57,6 +58,20 @@ The good news hidden inside this story is that QakBot's favourite road — the p
 ## You may also like
 
 - [Man Paid Fortune For Pizza](https://talhablog.com/blog/man-paid-fortune-for-pizza/)
+
+## My Take: Operation Duck Hunt Turned the Botnet Against Itself
+
+ 
+
+My judgement is that Operation Duck Hunt deserves its name, because it turned the attacker's own weapon against him. 
+
+The phishing email deserves the closest attention, because it is the part of the story still true today. Fooling one person once was enough to open a door, which could then be sold to a gang delivering ransomware. The 700,000 cleaned computers are a triumph. The next 700,000 infections will begin, as QakBot's did, with one person fooled once. The reader who learns only the takedown has learned history. The reader who learns the phishing lesson has learned protection.
+
+The damage QakBot enabled, rather than caused directly, should change how the reader thinks about malware. A banking trojan stealing details is a crime with a visible victim. A delivery machine selling entrances is a crime with invisible victims, multiplied. Each entrance sold could become a ransomware attack, locking a hospital's files, a school's records, or a business's accounts. The original victim, whose computer was infected, might never know their machine was the door. The ransomware victim might never know QakBot opened it. The chain separates cause from effect so widely that blame and understanding both blur. That blurring is the point of the delivery-machine model. It industrialises crime. One group builds the entrances. Another buys them. A third delivers the ransom. Each profits. Each denies the whole. Operation Duck Hunt attacked the industrial model at its centre, the command network, and used it to clean the machines. The protection advice — updated software, strong distinct passwords, two-factor authentication — attacks the same model at its edges, the individual machines. Both are needed. The centre must be seized. The edges must be hardened. A reader updating software and using two-factor authentication is not performing a ritual. They are closing a door that could otherwise be sold.
+
+The delivery-machine model industrialised crime by separating cause from effect: one group built the entrances, another bought them, a third delivered the ransom, and each profited while denying the whole. Operation Duck Hunt attacked that model at its centre, the command network, and used it to clean the machines. The protection advice attacks the same model at its edges, the individual machines. Both are needed: the centre must be seized and the edges hardened. 
+
+So admire the reversal, and learn the two lessons it teaches. The botnet's central command was its strength and its vulnerability, and law enforcement turned it against itself. The phishing email was the door, and it is still the door, opened by one fooled person. The delivery machine industrialised crime by separating cause from effect. Harden the edges: pause before the unexpected attachment, keep software updated, use strong distinct passwords, add the extra check of two-factor authentication. The operation cleaned more than 700,000 computers. The habits it implies can keep the next 700,000 from needing cleaning. A botnet turned against itself is a triumph. A reader turning suspicion into habit is a defence that outlasts any single operation.
 
 ## Frequently Asked Questions
 

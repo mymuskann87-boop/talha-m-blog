@@ -2,6 +2,7 @@
 title: "Code Red Worm Attacked Websites"
 description: "In July 2001, the Code Red worm infected about 359,000 web servers in less than a day, painted a strange message across websites, and then marched"
 pubDate: 2026-10-23T18:00:00+05:00
+updatedDate: 2026-10-29
 image: "/images/code-red-worm-attacked-websites.webp"
 imageAlt: "An illustration of a giant glowing red warning radar screen in a dark cybersecurity control room sweeping across a network map covered in red alert lights."
 category: "Technology"
@@ -65,6 +66,16 @@ You probably do not run a giant web server, but the rules that would have saved 
 ## You may also like
 
 - [Fastest Email Worm Ever Recorded](https://talhablog.com/blog/fastest-email-worm-ever-recorded/)
+
+## My Take: Code Red Proved Postponed Patches Invite Disaster
+
+Code Red appeared on 13 July 2001, attacking a known flaw in Microsoft's IIS web server software. Microsoft had released a patch about a month earlier, but thousands of server owners had not installed it. Each infected server knocked on random internet addresses, found another unpatched server, and began knocking too. Analysts counted roughly 359,000 servers infected in less than a day. Infected websites showed a graffiti message in place of their normal pages. During the middle days of each month, infected servers were ordered to flood the White House website's fixed numerical address, but the White House had moved its site to a different number, so the flood hit an empty address. A stronger variant, Code Red II, followed in August 2001, and combined damage and response costs were estimated in the billions of dollars.
+
+In my view, the real villain in this story is not the worm. It is the postponed patch. Code Red's victims were not careless people. They were busy people, and a skipped patch shows nothing when it is skipped. I think that invisibility is the whole problem. My call is that readers should treat an uninstalled patch as an open door, not as a task for later. Every victim became a recruiter, and the outbreak needed no clicks, no emails, and no human mistakes at all. The worm did not care whether a server belonged to a giant corporation or one person running a small site. If the software was old and the patch missing, the door was open.
+
+There is a second judgement about the calendar inside Code Red that shows how much planning a simple worm can carry. It did not attack at full strength every day. I think that patience, built into code, is more unsettling than the graffiti message it painted on websites. The graffiti message was built into the worm, sprayed automatically everywhere it landed, and claimed by nobody. Code Red lived only in memory, so restarting wiped it out, but an unpatched server was re-infected within minutes. Restart, patch, in that order, was the real cure.
+
+What should a reader do differently? First, install updates promptly everywhere: computer, phone, website software, and router, with automatic updates switched on, so a forgotten repair cannot sit waiting while a worm goes looking for it. Second, change default passwords on routers, admin panels, and devices, since factory passwords are printed in manuals anyone can read. Third, if a device behaves strangely, take it offline, update everything, change passwords, and only then bring it back, because a restart alone is a pause, not a cure. Fourth, keep a backup that is checked, since a copy never opened is a hope, not a backup. Behind every fast worm are tired people fighting it, and behind every postponed patch is a door left open for the next one. Locking a door is boring too, and both are cheaper than the flood.
 
 ## Frequently Asked Questions
 

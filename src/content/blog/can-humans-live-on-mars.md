@@ -2,6 +2,7 @@
 title: "Can Humans Live On Mars"
 description: "Can humans live on Mars? Not today, and not outside: the air, cold, radiation, and dust that stop us, and the sealed habitats that might let us stay."
 pubDate: 2026-10-28T16:44:00+05:00
+updatedDate: 2026-10-29
 category: "Space"
 image: "/images/can-humans-live-on-mars.webp"
 imageAlt: "An illustration of a small sealed habitat with domes on the rusty surface of Mars, with astronauts in spacesuits walking outside it."
@@ -80,6 +81,16 @@ Mars is the most Earth-like planet in our solar system, and it is still brutally
 ## You may also like
 
 - [Astronaut Grew Taller In Space](https://talhablog.com/blog/astronaut-grew-taller-in-space/)
+
+## My Take: Mars Demands Sealed Walls, Not Brave Wishes
+
+No life has been found on Mars yet, and the search continues. In July 2024, the Perseverance rover drilled a rock named Cheyava Falls in Jezero Crater, finding organic compounds and chemical signatures that might have been left by ancient microbes. Today, humans cannot live on Mars. The air is 95 percent carbon dioxide and only 0.16 percent oxygen, pressure is too low, average temperature is minus 63 degrees Celsius, and radiation hits harder with no magnetic field.
+
+In my view, the most honest sentence in this post is also the least exciting: promising is not the same as proven. Cheyava Falls is the most promising clue in decades, and it proves nothing yet. I think readers should hold both facts at once, as the post asks: no life has been found, and the search continues with the best clue sealed in a rover, waiting for a journey home that has not happened. My call is that the same honesty should govern the second question, whether humans could live there. It does not make settlement easy.
+
+There is a second judgement about what living on Mars would actually mean, and the post's picture is stricter than most dreams allow. Astronauts would live in pressurised buildings, like a giant inflatable balloon, with airlocks, filters, greenhouses, workshops, and power systems that must never fail. Some habitats would sit partly underground or under thick Mars dirt to block radiation. A spacesuit is not clothing. It is a personal spacecraft, carrying air, pressure, temperature control, and communications, and it must never fail. I think the word base is the right word, and the word city is the wrong one for the first century of effort. Permanent settlement would need lifetime radiation protection, children born in low gravity, and industries making everything locally. All of it is far beyond the first missions, which will be visits with a return home.
+
+What should a reader take away? First, treat all dates as aims, not promises. NASA targets the 2030s after Moon bases, SpaceX wants to go sooner with Starship, and no firm date has been set. The trip takes seven to nine months one way, with an 18-month wait for the planets to align, so the first mission would last around three years. The Moon comes first as a rehearsal three days away, where rescue is within reach. Mars allows no such safety net. Second, remember the good news without exaggerating it. Buried ice is almost everywhere, water means drinking, breathing, food, and fuel from one frozen resource, and MOXIE proves oxygen can be made from local air. Third, keep the two questions separate. Whether life ever lived on Mars will be answered by rocks and labs. Whether humans can live there will be answered by sealed walls and clever machines. Mars is the most Earth-like planet, and still brutally unlike Earth. That is not a promise. It is a plan, and the most honest answer science can give.
 
 ## Frequently Asked Questions
 

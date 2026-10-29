@@ -2,6 +2,7 @@
 title: "Country That Abolished Its Army"
 description: "In 1948, after winning a civil war, Costa Rica did the unthinkable: it abolished its army forever. This is how, and what happened next."
 pubDate: 2026-10-18T11:50:00+05:00
+updatedDate: 2026-10-29
 category: "Politics"
 image: "/images/country-that-abolished-its-army.webp"
 imageAlt: "An original illustration of the old Bellavista army barracks in San Jose becoming a national museum, with schoolchildren walking in where soldiers once stood."
@@ -56,6 +57,16 @@ That is what makes Costa Rica stand out. It is not a microstate with a few thous
 ## You may also like
 
 - [Country Ruled By Two Princes](https://talhablog.com/blog/country-ruled-by-two-princes/)
+
+## My Take: Costa Rica Disarmed Its Own Future Coups
+
+The 1949 constitution locked the decision into Article 12, which states the army as a permanent institution is abolished, allowing military forces only in a true national emergency or under a continental defence agreement, always under civilian control. The barracks became the National Museum of Costa Rica. Resources went to education, health, and pensions, with roughly a quarter of the national budget devoted to education and almost 98 percent adult literacy, and Costa Rica has not suffered a coup since 1949.
+
+In my view, the hammer blow matters less as theatre and more as timing. Figueres struck the wall at the exact moment when keeping the army would have been easiest and most profitable for him personally. He stood in the headquarters of his own victorious army, the very force that could have made him a dictator, and he used his moment of greatest strength to dissolve it. I think that is the rarest act in politics: a winner disarming himself before anyone asks him to. Figueres did the opposite of the usual victor, and the world still talks about him because of it. My call is that readers should judge leaders not by what they promise to build, but by what they are willing to give up while they are strong enough to keep it. A speech can be forgotten and a decree cancelled, which is why the constitution mattered as much as the hammer. Article 12 put the abolition where no future leader could easily undo it, and the date, 1 December, is still celebrated as Army Abolition Day.
+
+There is a second judgement about the money that explains why the decision lasted. An army is one of the most expensive things a government maintains: salaries, bases, equipment, pensions, year after year. Freed from that bill, Costa Rica directed resources towards education, health, and pensions, a shift already building since the early twentieth century which the abolition completed. Figueres himself later served as elected president in 1953 and again in 1970, chosen by voters, not carried by an army. He won it twice at the ballot box, in a country where soldiers no longer decided the future. The barracks becoming a museum completes the symbol: guns out, history in, with schoolchildren walking where soldiers once drilled and a plaque of Article 12 on display. It is the daily experience of a country that chose teachers over generals and kept the choice.
+
+What should a reader understand about the honest limits? Costa Rica maintains a civil guard with police duties, district police, and a Public Force handling law enforcement and some border and security tasks. For foreign threats it leans on diplomacy, international law, and treaties. The lesson is that the most dangerous army a country owns is sometimes the one pointed at its own people, and a leader strong enough to dissolve it at the height of victory is the leader most worth trusting with the schools and clinics that take its place.
 
 ## Frequently Asked Questions
 

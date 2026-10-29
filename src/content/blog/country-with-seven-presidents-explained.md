@@ -2,6 +2,7 @@
 title: "Country With Seven Presidents Explained"
 description: "Switzerland has no single all-powerful president. Seven leaders share the job and take turns in the chair. How this unusual system works."
 pubDate: 2026-10-18T09:50:00+05:00
+updatedDate: 2026-10-29
 category: "Politics"
 image: "/images/country-with-seven-presidents-explained.webp"
 imageAlt: "An original illustration of the Swiss parliament building in front of the Alps, with seven chairs in a row on the terrace for the country's seven leaders and Swiss flags flying."
@@ -62,6 +63,14 @@ It is a useful reminder that there is more than one way to run a country. Some n
 ## You may also like
 
 - [Country With No Capital City](https://talhablog.com/blog/country-with-no-capital-city/)
+
+## My Take: Switzerland's Seven Presidents Beat One Strongman Every Time
+
+Switzerland has a Federal Council of seven members. The number is fixed in the constitution since 1848. Together, the seven do the work of a president or prime minister. Each councillor also runs one big department. These include foreign affairs, finance, defence, justice and the economy. Parliament elects them for four years at a time. Every year, parliament chooses one of the seven as President. The job lasts a single year. It is described as primus inter pares, first among equals. The president chairs meetings and welcomes foreign guests. Inside the room, the president's vote counts the same as the other six. The president cannot overrule the team. The president cannot sack a fellow councillor. For 2026, the president is Guy Parmelin. He has been a councillor since 2016. The council follows collegiality. It deals with roughly 2,000 to 2,500 items a year. 
+
+My judgement is blunt. This is the better design. The reason is not politeness. It is power. A single strong leader can decide fast. But speed can hide a mistake until it is too large to undo. Seven people must argue and vote as equals. Then they must speak with one voice. That trades a little speed for a lot of error-checking. The rotation sharpens the point. The chair moves every year, normally following seniority. No one person can turn the job into a personal brand. No party can claim the country belongs to its face. Switzerland has different languages, religions and regions. It chose a team from the main groups. No group should feel ruled by another group's champion. There is a trade-off. A team of seven can be slow and cautious. Voters who cannot name the president may feel they cannot hold anyone to account. I accept that criticism. My call is still for the Swiss side. The calm is the point. Faces change one at a time, usually at retirement. The team carries on.
+
+So stop asking who the president of Switzerland is as if the blank were a failure. The blank is the design working. Collegiality only works because the seven are equals. They have real departments of their own. They are not advisers a boss can sack. Collegiality without equality would be mere obedience. Collegiality among equals is a discipline. It is the discipline, more than the number seven, that other countries could learn from. Copying the number without equality would give you a committee with a king. That is the worst of both worlds. When judging any system, ask two questions. Not only who decides fastest. Also ask who can be corrected when they decide wrongly. And ask who must carry a decision with colleagues who disagreed. Switzerland put seven chairs in a row. It made sure none was higher than the rest. Most countries would be steadier and fairer if they worried less about one great person. They should worry more about a room where seven capable people must agree before the country moves.
 
 ## Frequently Asked Questions
 

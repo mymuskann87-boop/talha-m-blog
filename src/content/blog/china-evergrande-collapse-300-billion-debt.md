@@ -2,6 +2,7 @@
 title: "Evergrande Founder Gets Life Sentence"
 description: "Evergrande, once China's biggest property company, fell under $300 billion of debt, its founder got life in prison, and liquidators now sell what is left."
 pubDate: 2026-10-14T19:30:00+05:00
+updatedDate: 2026-10-29
 category: "Business"
 image: "/images/china-evergrande-collapse-300-billion-debt.webp"
 imageAlt: "Illustration of a dark glass skyscraper in China with unfinished apartment towers behind it under storm clouds"
@@ -86,6 +87,16 @@ The biggest property collapse in modern history is not finished. It has only ent
 ## You may also like
 
 - [First Billionaire In World History](https://talhablog.com/blog/first-billionaire-in-world-history/)
+
+## My Take: Evergrande Fell When the Money Stopped Flowing
+
+Evergrande was once China's biggest property builder, and it defaulted on most of around 300 billion dollars in liabilities. It grew by selling apartments years before they were built, using advance payments and borrowed money to buy more land and start more projects. About six years ago, regulators cracked down on developers who had borrowed too much. Loans became hard to get, buyers grew nervous, and sales slowed.
+
+In my view, the turning point was not the court order or the prison sentence. It was the day the money stopped flowing in. Evergrande's model worked beautifully only while prices kept rising and new buyers kept coming. I think the model was a machine that needed constant new fuel, and the crackdown closed the tap while the bath was still filling with bills. My call is that readers should judge such models by what happens when new money stops, not by how impressive they look while it flows. A company owing 300 billion dollars is not a bad month. It is years of borrowing dressed as growth, and growth that needs new debt to survive is not growth at all.
+
+There is a second judgement about who really paid, and it is the part of the story that should stay with readers longest. The deepest pain belongs to ordinary families, not billionaires or banks. Millions of partially built properties sit unfinished across China, where families paid in full for homes never completed and still wait years later. I think the sale of the remaining pieces makes the scale cruelly clear. The property services unit is worth slightly under 1.6 billion dollars, small change next to 300 billion in debt, and its share price has dropped 87 percent since listing in 2020. For every 176 dollars owed, about 1 dollar has been found. It is the measure of how little is left for the people who trusted first and were paid last.
+
+What should a reader watch next? Three questions remain unanswered, and the post names them plainly. Will families who paid for unbuilt homes ever see even a small part of their money again, when only 255 million dollars has been recovered against 45 billion claimed? And was Evergrande the end of the earthquake, or only the first building to come down, while other builders still carry mountains of debt and prices still slide? I think the third question is the one that keeps experts awake, and it should keep readers awake too. A collapse this large is rarely a single company's story. It is a warning about an entire model: sell what does not exist, borrow to build more, and hope the future pays for the past. When the future stops paying, the buildings stop rising, and the families who paid first wait longest. The biggest property collapse in modern history is not finished. It has only entered its next chapter, and the whole world is still watching.
 
 ## Frequently Asked Questions
 

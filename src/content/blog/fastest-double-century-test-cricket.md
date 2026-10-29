@@ -2,6 +2,7 @@
 title: "Fastest Double Century Test Cricket"
 description: "Test cricket has no over limit, so the fastest double centuries are measured in balls. Nathan Astle's 153-ball 222 leads a list of the quickest ever."
 pubDate: 2026-10-28T16:45:00+05:00
+updatedDate: 2026-10-29
 category: "Sports"
 image: "/images/fastest-double-century-test-cricket.webp"
 imageAlt: "A Test cricket batsman playing an attacking shot on the fifth day of a match, with fielders spread around the ground."
@@ -57,6 +58,18 @@ The two records also differ in what they show. The ODI record shows what is poss
 Nathan Astle's record has now stood for more than twenty years, which is itself a measure of how hard it is to score 200 runs that quickly in a Test match. The closest challenger, Ben Stokes, needed ten more balls, reaching 200 off 163 in 2016, and no one since has come closer. Sehwag, McCullum, and the others on the list all attacked, and all fell short of Astle's 153.
 
 The record's survival says something about Test cricket. The format rewards patience, the bowlers have time to plan, and the pitch wears over five days, so an innings that scores at more than 130 runs per 100 balls, sustained over 153 deliveries, needs everything to align: form, pitch, attack, and luck. Astle's innings came in a fourth-innings chase of 550 that no team had ever completed, which is the hardest setting of all. Until a batsman matches that combination of speed and circumstance, the record will stay where it is.
+
+## My Take: Astle's 153-Ball Double Century Still Sets the Standard
+
+ The fastest double century — 200 runs — in Test history belongs to Nathan Astle of New Zealand. 
+
+My judgement is that Astle's innings should be ranked first not only for speed, but for the conditions making speed hardest. He reached 200 in 153 balls, in a chase, on a pitch punishing attack, against an England side knowing exactly what was at stake. 
+
+ Stokes reached 200 in 163 balls, ten balls slower, scoring 258 off 198, against South Africa in 2016. The ten-ball gap, and the innings gap, together measure the difference. Sehwag appearing twice shows the rarest quality of all. Consistency at speed. 
+
+The Test versus one-day distinction is the part most often misunderstood, and it decides whether Astle's record is properly valued. A double century in a one-day match, with fielding restrictions, a white ball, and a fixed number of overs, is a feat of sustained hitting under known conditions. It is spectacular, and it deserves its own record book. A Test double century, in 153 balls, in the fourth innings, on a worn pitch, is a feat of hitting under conditions actively trying to stop the batsman. The pitch, the ball, the field, the match situation: all conspire against attack. The batsman must overcome not only the bowling but the conditions themselves. That is why fast Test doubles are rare. That is why the record has stood for more than two decades. Bowlers have improved. Bats have improved. Scoring rates have risen. The record has not fallen, because the combination — speed, fourth innings, worn pitch, chase — is so hard to reproduce. Numbers without context are the easiest way to misunderstand sport. The fourth innings is Test cricket's hardest place to bat: the pitch has worn for four days, cracked and uneven, the target is known, and every wicket brings defeat closer. A batsman there is expected to defend and play for a draw. Astle attacked, and the speed was the point — attack was the only way to win, and the risk was accepted rather than avoided. Stokes at Cape Town, 163 balls in the second innings on a pitch not worn by four days of play, deserves second place and strengthens Astle by comparison: ten balls is a small margin alone, but a second innings against a fourth is a large margin in context. Sehwag appearing twice shows consistency at speed, a method and temperament, not one day when everything came off.
+
+So rank Astle first for speed and conditions together. Honour Stokes second, and Sehwag for doing it twice. Keep the Test and one-day records in separate books. Remember the fourth innings, the worn pitch, and the chase, whenever the number 153 is quoted. A record is not only a number. It is a number earned in a place, under pressure, against conditions. Astle's 153 balls were earned in the hardest place Test cricket offers. That is why they still set the standard, more than two decades on.
 
 ## Frequently Asked Questions
 

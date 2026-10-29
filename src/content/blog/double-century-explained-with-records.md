@@ -2,6 +2,7 @@
 title: "Double Century Explained With Records"
 description: "A double century means 200 runs in one innings. The fastest double centuries in ODI cricket, the first ever, and the records that still stand today."
 pubDate: 2026-10-28T16:45:00+05:00
+updatedDate: 2026-10-29
 category: "Sports"
 image: "/images/double-century-explained-with-records.webp"
 imageAlt: "A cricket batsman raising his bat to the crowd after reaching 200 runs, with the scoreboard showing the double century."
@@ -57,6 +58,16 @@ Vedantu's guide to double centuries notes both records, and they are worth remem
 Double centuries are rare because they need everything to go right at once. The batsman must be in form, the pitch must be good for batting, the bowling must allow scoring, the fielding side must not take the chances offered, and the batsman must stay in for more than 100 balls without being dismissed. One mistake, one good ball, one brilliant catch, and the innings ends. Most batsmen who reach 150 are dismissed before 200, because the effort of scoring quickly increases the risk of getting out.
 
 The rarity is also what makes the achievement special. A century is common in ODI cricket. A double century is not. Only 11 batsmen had scored one, in 14 innings, as of late 2026, in more than 4,000 ODI matches. That is roughly one double century in every 300 matches. When it happens, it is an event, and the crowd knows it. Harry Brook's 202, in a losing cause, was an event that the record book will remember long after the result is forgotten.
+
+## My Take: Brook's Speed Matters More Than Rohit's Total
+
+A double century means one batsman scores 200 or more in a single innings. The first was Sachin Tendulkar's 200 not out off 147 balls. The fastest, by balls faced, was Harry Brook's 200 off 114 balls. The highest is Rohit Sharma's 264 against Sri Lanka at Kolkata in 2014. In women's ODI cricket, Belinda Clark scored 229 not out against Denmark in 1997. Only 11 batsmen had scored one, in 14 innings, as of late 2026, in more than 4,000 ODI matches.
+
+My judgement is that Brook's innings, not Rohit's total, is the turning point. Rohit's 264, built over 173 balls, is a masterclass in building slowly. But a double century off 114 balls does something different. It proves 200 can be reached in less than two-thirds of the overs. Brook did not merely break a record. He moved the idea of what is possible. 
+
+The painful twist — England lost — deserves a harder judgement than usual consolation. Brook's 202 was not enough. It is a measure of how much batting alone can and cannot do. It warns against judging a batsman only by the result. A double century in a losing cause is still a double century. Its speed still changes the record books. The two are related, but not the same. Brook's innings proves it in the clearest way.
+
+The history before Tendulkar, and the women's records, complete the judgement. From 1971 to 2010, the record moved from around 100 to 200 in small steps. Through Richards' 189 and Anwar's 194, regarded as limits of the possible. From 2010 to 2026, it moved from 200 to 264. The fastest time to 200 fell sharply. That acceleration reflects changed batting, pitches, equipment, and ambition. The women's game, with Clark's 229 not out in 1997, shows the achievement was never limited to men. The women's record was ahead of the men's for many years. A reader remembering only the men's list has half the story. Double centuries are rare because they need everything at once. Form, pitch, bowling, fielding, and the batsman staying in. Rarity makes them special. Speed makes Brook's the most important for the future. So judge by total and speed together. Separate the innings from the team result. Remember slow history and women's records alongside men's. Expect the record to move again. Once 114 balls has been shown possible, the next generation will chase it. The double century is no longer whether 200 can be scored. It is how fast. Brook's answer, 114 balls in a losing cause, is the answer the future will measure itself against. Speed is the new frontier. Brook proved it. The next generation will chase it. A double century in 114 balls rewrote what batsmen believe is possible.
 
 ## Frequently Asked Questions
 

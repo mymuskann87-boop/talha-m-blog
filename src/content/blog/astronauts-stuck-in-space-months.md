@@ -2,6 +2,7 @@
 title: "Astronauts Stuck In Space Months"
 description: "Two astronauts flew up for an 8-day test flight and came home 286 days later. Follow their wait, month by month, aboard the space station."
 pubDate: 2026-10-19T22:00:00+05:00
+updatedDate: 2026-10-29
 category: "Space"
 image: "/images/astronauts-stuck-in-space-months.webp"
 imageAlt: "Astronauts Suni Williams and Butch Wilmore floating inside the International Space Station beside a round window showing Earth below."
@@ -89,6 +90,16 @@ After splashdown, flight surgeons checked the crew, who then flew to Houston to 
 ## You may also like
 
 - [Astronaut Grew Taller In Space](https://talhablog.com/blog/astronaut-grew-taller-in-space/)
+
+## My Take: Stuck Is the Wrong Word for Patient Professionals
+
+Suni Williams and Butch Wilmore flew to the space station on 5 June 2024 for a test flight of about eight days. Their Boeing Starliner developed helium leaks and five steering thrusters stopped working properly on the way up. NASA studied the problem all summer, then decided on 24 August that Starliner would fly home empty. The astronauts stayed as full station crew and came home on 18 March 2025, after 286 days. They returned in a SpaceX Dragon capsule with Nick Hague and Aleksandr Gorbunov. Williams set a record of 62 hours and 6 minutes of spacewalking, the most by any woman.
+
+In my view, the word stuck, used by newspapers throughout, misleads more than it informs. They described the stay as a prolonged deployment, in the language of their Navy lives. I think that language matters. My call is that readers should retire the word stranded for this story. It flatters the headline and insults the professionalism. That is not being stuck. That is service under changed orders.
+
+There is a second judgement about NASA's decision on 24 August, which deserves more respect than it usually gets. Starliner later landed safely without its crew, and some readers may ask whether NASA chose wrongly. The post answers firmly: one safe landing does not prove every landing would have been safe. On 24 August nobody knew how that flight would end. The damaged parts could never be inspected, because that section of the ship is thrown away before landing. NASA chose the path it could defend with the facts it had, when probably fine was not good enough for two human lives. I think that is the right standard, and it is rarer than it sounds. NASA accepted the waste of an empty return rather than gamble with a crew. The alternative could have been far worse. A decision judged only by its outcome, after the safe landing, misses the uncertainty that defined the choice.
+
+What should a reader take from 286 days? First, notice what the astronauts actually did with the time. Williams became station commander three months in. They exercised two hours or more every day to protect bones and muscles. Second, notice the human cost the post does not hide. Wilmore missed most of his younger daughter's final year of high school. Williams kept in touch with family through internet calls. Both said the separation was hardest on the people waiting at home. Third, remember the scale of the return: 4,576 circles of the Earth and about 121 million miles travelled. I think the lesson is about patience as a skill, not a mood. Most of us grow annoyed when a train is twenty minutes late. These two waited through seasons, smiled in public, and came home waving. The story is not about being trapped. It is about professionals who let a plan change, and changed with it.
 
 ## Frequently Asked Questions
 
