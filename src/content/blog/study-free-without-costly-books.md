@@ -62,6 +62,8 @@ A final caution: never pay for a pirated copy or a "cheap" download from an unkn
 - [Save Money On Exam Preparation](https://talhablog.com/blog/save-money-on-exam-preparation/)
 - [Cut Kids School Costs Smartly](https://talhablog.com/blog/cut-kids-school-costs-smartly/)
 
+Misal: 5 nayi kitabein Rs 2,000 each = Rs 10,000; library se muft aur 2 second-hand kitabein Rs 500 each = Rs 1,000, yani Rs 9,000 ki bachat. Ye ek misal hai, asli qeemat dukaan se farq ho sakti hai.
+
 ## My Take: Free Studying Works When Planning Comes First
 
 The post argues that studying well does not require owning every book on a list, since much of what a student needs is available free or cheaply through libraries, legal free editions, sharing, and second-hand copies. Classic books whose copyright has expired and open textbooks written by teachers and universities are legally free from established digital libraries, while shady sites offering new textbooks free are usually pirated and can carry viruses, missing pages, or wrong content. Sharing works on a rota among classmates, swapping at the end of term passes books to junior students, and second-hand copies cost a fraction of the new price, with a previous owner's notes sometimes making a book better. Planning the list before term starts, marking books essential, useful, or optional, and working through free options first, removes the panic of buying whatever the nearest shop has at whatever price it asks.

@@ -86,3 +86,7 @@ For pumpkin oranges, peel a small orange and leave it whole, then push a thin gr
 **How do you make monster apple bites?**
 
 Cut an apple into thick slices, spread a little peanut butter on one slice, and place a second slice on top at an angle so the sandwich stays slightly open. Then push a few small sweets into the peanut butter as teeth. The open mouth looks funny and a little bit spooky at the same time, and the snack uses only an apple, peanut butter, and a few small sweets.
+
+## Sources
+
+- Amy's DIY Frugal Life — Fun Halloween Snacks That Will Delight Kids and Adults: https://amysdiyfrugallife.com/fun-halloween-snacks-that-will-delight-kids-and-adults/

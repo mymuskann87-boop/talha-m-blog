@@ -19,7 +19,7 @@ The petroleum levy in Pakistan is the main levy on petrol and diesel. It is char
 
 ## The Two Figures In The News
 
-In late October 2026, two figures appeared in the news, and they need to be kept apart. The first is the petroleum levy itself. According to the Oil and Gas Regulatory Authority (OGRA) pricing notification reported by Nukta on 28 October 2026, the petroleum levy stood at Rs80 per litre on both petrol and diesel, with an additional climate support levy of Rs5 per litre on both fuels, and sales tax at zero. That is Rs85 per litre in levies, on top of the base price of the fuel and other charges.
+In late October 2026, two figures appeared in the news, and they need to be kept apart. The first is the petroleum levy itself. In late-October 2026 reporting (source link no longer available), the petroleum levy stood at Rs80 per litre on both petrol and diesel, with an additional climate support levy of Rs5 per litre on both fuels, and sales tax at zero. That is Rs85 per litre in levies, on top of the base price of the fuel and other charges.
 
 The second figure is larger. Jamaat-e-Islami (JI), which had been demanding the abolition of the levies for more than two months, said the total levies and duties on petrol amounted to Rs114 per litre, and Rs100 per litre on diesel. Dawn reported the demand on 23 October 2026. That figure is not the petroleum levy alone. It is the total of all the taxes, duties and levies charged on a litre, including the petroleum levy, the climate support levy, customs duty, and other charges. The Rs80 figure is one levy. The Rs114 figure is the total tax burden. Both are correct, and they describe different things.
 
@@ -73,7 +73,7 @@ What should readers do differently? Read the receipt, check the figures the post
 
 **What is the petrol levy in Pakistan?**
 
-The petrol levy, formally the petroleum levy, is a fixed charge imposed by the government on every litre of petrol and diesel sold in Pakistan. As of 28 October 2026, it stood at Rs80 per litre on both petrol and diesel, according to the OGRA pricing notification reported by Nukta, with an additional climate support levy of Rs5 per litre and sales tax at zero. The levy does not change with the world price of oil. It is set by the government and can be raised or lowered at each fortnightly price review.
+The petrol levy, formally the petroleum levy, is a fixed charge imposed by the government on every litre of petrol and diesel sold in Pakistan. As of 28 October 2026, it stood at Rs80 per litre on both petrol and diesel, in late-October 2026 reporting (source link no longer available), with an additional climate support levy of Rs5 per litre and sales tax at zero. The levy does not change with the world price of oil. It is set by the government and can be raised or lowered at each fortnightly price review.
 
 **How much tax is there on a litre of petrol in Pakistan?**
 
@@ -81,7 +81,7 @@ It depends on whether you count one levy or all charges together. The petroleum 
 
 **What is the climate support levy on petrol?**
 
-The climate support levy is an additional charge of Rs5 per litre on petrol and diesel, on top of the Rs80 petroleum levy, as shown in the OGRA pricing notification of 28 October 2026. Its name suggests it is meant to support climate-related spending, such as dealing with floods, heatwaves and other effects of a changing climate. Critics ask whether the money is actually spent on climate work or goes into general government revenue, which is a question for the budget rather than for the pump price.
+The climate support levy is an additional charge of Rs5 per litre on petrol and diesel, on top of the Rs80 petroleum levy, as reported in late October 2026 (source link no longer available). Its name suggests it is meant to support climate-related spending, such as dealing with floods, heatwaves and other effects of a changing climate. Critics ask whether the money is actually spent on climate work or goes into general government revenue, which is a question for the budget rather than for the pump price.
 
 **Why are petrol prices so high in Pakistan?**
 
@@ -93,5 +93,5 @@ Jamaat-e-Islami has demanded the abolition of the levies for more than two month
 
 ## Sources
 
-- Nukta — OGRA notifies revised petrol, diesel prices from October 28: https://www.nukta.com/petrol-diesel-prices-pakistan-october-28-ogra
+- Dawn — Petrol price unchanged, high-speed diesel raised by Rs2.29 (OGRA, Oct 31): https://www.dawn.com/news/2040998/petrol-price-unchanged-high-speed-diesel-raised-by-rs229
 - Dawn — JI demands abolition of Rs114 per litre levies on petrol: https://www.dawn.com/news/2039149/ji-demands-abolition-of-rs114-per-litre-levies-on-petrol

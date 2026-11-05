@@ -60,6 +60,8 @@ Context decides. The same loan can be wise for a household with steady income an
 - [Pay Yourself Before Every Bill](https://talhablog.com/blog/pay-yourself-before-every-bill/)
 - [Track Where Your Money Goes](https://talhablog.com/blog/track-where-your-money-goes/)
 
+Misal: mahina Rs 60,000 aaye to qarz ki qist 10% = Rs 6,000 rakhein, baqi Rs 54,000 ghar ke kharch ke liye bachta hai. Qist is had se zyada ho to qarz bojh ban jata hai. Ye ek misal hai, asli aamdani se farq ho sakta hai.
+
 ## My Take: Good Debt Versus Bad Debt Turns On Use, Not Labels
 
 The post explains the difference between good debt and bad debt by what the borrowed money does after it is spent. Good debt is borrowing that can build value over time: a student loan that raises earning power, a mortgage on a home that may gain value, or a business loan that creates income. It also warns that debt taken without an emergency fund is riskier, because any surprise, a lost job or a medical bill, can turn a manageable payment into a crisis. That test, what the money does next, is the fact my judgement starts from.

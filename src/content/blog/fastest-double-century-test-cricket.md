@@ -39,7 +39,7 @@ Sehwag's approach was unusual in Test cricket, where most batsmen build an innin
 
 Brendon McCullum of New Zealand scored the fifth fastest Test double century, reaching 200 off 186 balls against Pakistan at Sharjah in 2014, and finishing with 202 off 188 balls. McCullum, like Sehwag, was an attacking batsman who changed the tempo of a match by scoring quickly. His double century came in the first innings, and it set up a New Zealand victory. McCullum later scored the fastest Test century, off 54 balls, in his final Test, which shows the same attacking instinct carried to its extreme.
 
-The rest of the list, as compiled by CricIndeed, includes Sehwag again, with 319 off 304 balls against South Africa at Chennai in 2008, reaching 200 off 194 balls, Ollie Pope of England, reaching 200 off 207 balls, Herschelle Gibbs of South Africa and Ross Taylor of New Zealand, both reaching 200 off 211 balls, and Adam Gilchrist of Australia, reaching 200 off 212 balls. The list shows that fast double centuries are not limited to one era or one country. They have been scored by batsmen from New Zealand, England, India, South Africa and Australia, across five decades, whenever an attacking batsman has met a pitch and an attack that allowed it.
+The rest of the list, as compiled by CricIndeed, includes Sehwag again, with 319 off 304 balls against South Africa at Chennai in 2008, reaching 200 off 194 balls, Ollie Pope of England, reaching 200 off 207 balls, Herschelle Gibbs of South Africa and Ross Taylor of New Zealand, both reaching 200 off 211 balls, and Adam Gilchrist of Australia, reaching 200 off 212 balls. The list shows that fast double centuries are not limited to one era or one country. They have been scored by batsmen from New Zealand, England, India, South Africa and Australia, across more than two decades, whenever an attacking batsman has met a pitch and an attack that allowed it.
 
 ## Why Fast Test Double Centuries Are Rare
 
@@ -95,4 +95,4 @@ No. New Zealand were chasing 550 runs to win against England at Christchurch in 
 
 ## Sources
 
-- CricIndeed — Fastest Double Century in Test Cricket: https://www.cricindeed.com/fastest-double-century-in-test-cricket/
+- CricIndeed — Fastest Double Century in Test Cricket: https://cricindeed.com/fastest-double-centuries-in-test/

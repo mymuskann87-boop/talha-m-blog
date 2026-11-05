@@ -64,6 +64,8 @@ There is also a limit of pride. Looking tidy matters at work, at school, and at 
 - [Cut Hair Care Costs Smartly](https://talhablog.com/blog/cut-hair-care-costs-smartly/)
 - [Cut Beauty Costs Without Sacrifice](https://talhablog.com/blog/cut-beauty-costs-without-sacrifice/)
 
+Misal: salon haircut Rs 1,000 mahina = saal me Rs 12,000. Ghar par trimmer Rs 3,000 ek dafa + har mahine Rs 0 = pehle saal Rs 3,000, yani saving Rs 9,000. Ye ek misal hai, asli qeemat salon se farq ho sakti hai.
+
 ## My Take: Haircut costs fall when style outlasts the calendar
 
 The chair spun slowly, the cape went on, and the barber asked the usual question: the same as last time? The customer nodded, the scissors started, and twenty minutes later the mirror showed a neat, familiar cut. Then came the bill, and with it a small thought that visits most people in that chair: this happens every month, sometimes twice a month, and the total across a year is far bigger than any single visit suggests. A haircut is a small expense that repeats forever, which is exactly why it deserves a plan. This post is that plan, told from the barber's chair. It does not ask anyone to walk around with a bad cut or to give up looking tidy. It shows how to stretch each cut further, choose styles that last, use quiet hours wisely, and skip extras that add nothing. For a family, where two or three heads need cutting, the saving multiplies fast.

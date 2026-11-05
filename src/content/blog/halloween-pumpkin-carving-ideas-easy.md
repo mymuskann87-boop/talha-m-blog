@@ -94,3 +94,7 @@ Safety comes first, and it is simple. Adults handle sharp tools, always. Childre
 **What is the most important pumpkin carving rule?**
 
 Draw first, cut second. A marker lets you plan, change your mind, and fix mistakes, and a knife does not, so the design should be fully drawn before any cutting begins. Save the fancy details for your second or third pumpkin, and keep the first one to simple shapes like triangles, circles, and zigzags, which are the shapes beginners cut best.
+
+## Sources
+
+- One Kindesign — 22 Quick and Easy Pumpkin Carving Ideas to DIY This Halloween: https://onekindesign.com/easy-pumpkin-carving-ideas-diy-halloween/

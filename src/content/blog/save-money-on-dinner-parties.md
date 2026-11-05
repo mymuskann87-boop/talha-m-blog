@@ -25,7 +25,7 @@ The second step is the menu, and the rule is one generous main dish cooked well,
 
 Cooking one dish well has a second advantage: the cook is calm. Instead of juggling five pots and timing five dishes, the host cooks one thing with full attention, and it shows in the taste. Guests remember a delicious main dish. They rarely remember the fourth side dish, and they never miss it.
 
-For example, a table of eight fed from one large main dish with rice, a salad and bread can cost less per person than a single restaurant plate each — and everyone eats until they are full, then asks for the recipe.
+Misal: 8 mehmaanon ke liye main dish Rs 4,000, chawal, salad aur roti Rs 2,000 — kul Rs 6,000, yani Rs 750 per shakhs. Ye ek misal hai, asli qeemat sheher aur dukaan se farq ho sakti hai.
 
 ## Ask guests to bring a dish or dessert
 

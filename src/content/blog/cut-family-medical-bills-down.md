@@ -76,6 +76,9 @@ Also, beware of offers that sound too cheap to be real. Medicine or treatment so
 - [Save Money On Medicine Costs](https://talhablog.com/blog/save-money-on-medicine-costs/)
 - [Care For Parents Spending Less](https://talhablog.com/blog/care-for-parents-spending-less/)
 
+
+For example: the same test priced at Rs 6,000 in one place and Rs 4,500 in another gives a saving of Rs 6,000 − Rs 4,500 = Rs 1,500, before any other cost is considered. Ye ek misal hai, asli qeemat se farq ho sakti hai.
+
 ## My Take: Family Medical Bills Shrink With One File
 
 The post offers five habits. One file for the whole family. Ask about the generic, calmly. Compare prices before the test. Checkups cost less than emergencies. A monthly health amount, like rent. It is worn away by scattered records. By checkups skipped until a small problem becomes an emergency. One file means prescriptions, results, allergies and past treatments are in one place. Asking about the generic means asking whether the same medicine exists at a lower price. The monthly amount means health is budgeted like rent.

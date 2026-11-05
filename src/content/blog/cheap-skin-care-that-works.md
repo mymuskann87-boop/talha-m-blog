@@ -74,6 +74,8 @@ Real savings come from a short routine, done daily, with simple products chosen 
 - [Cut Beauty Costs Without Sacrifice](https://talhablog.com/blog/cut-beauty-costs-without-sacrifice/)
 - [Cut Hair Care Costs Smartly](https://talhablog.com/blog/cut-hair-care-costs-smartly/)
 
+Misal: basic routine: face wash Rs 600 + moisturizer Rs 900 + sunscreen Rs 1,500 = Rs 3,000, jo 3 mahine chale to mahina Rs 1,000. Nayi cheez pehle haath par thori si laga kar check karein. Ye ek misal hai, asli qeemat brand se farq ho sakti hai.
+
 ## My Take: Skin Care Rewards Consistency, Not Complexity
 
 Skin care costs grow because the industry sells complexity: ten steps, rare ingredients, and beautiful bottles. The post strips the routine to three steps: gentle cleansing, moisture, and sun protection, done every day. Skin problems deserve a doctor, promptly, and cheap care never means expired products or strong home treatments without knowledge.

@@ -59,6 +59,9 @@ Saving water means cutting waste, not cutting care. The drips, the half loads, t
 
 - [Cut Monthly Gas Bill Down](https://talhablog.com/blog/cut-monthly-gas-bill-down/)
 
+
+For example: a 10-minute shower at 12 litres a minute uses 10 × 12 = 120 litres, while a 5-minute shower at the same flow uses 5 × 12 = 60 litres — a saving of 120 − 60 = 60 litres a day, or 60 × 30 = 1,800 litres over 30 days.
+
 ## My Take: Water Bill Savings Begin With a Drip
 
 The post offers six habits. The drip that never sleeps. Shorter showers, full machines. The one-hour meter test. Reuse only clean water. Teach the whole house. Health comes before the bill. A drip wastes water every minute of every day. Shorter showers and full machines reduce the two largest everyday uses. The one-hour meter test turns suspicion of a leak into a fact. Reusing only clean water means saving where it is safe. 

@@ -9,7 +9,7 @@ category: "Crime"
 tags: ["online safety", "child protection", "cybercrime Pakistan"]
 ---
 
-Tonight, a 14-year-old girl in Pakistan is safe. That is the most important line in this whole post, so it comes first. Not long ago, she was trapped in a frightening corner of the internet, controlled by strangers who used her own photographs against her. She could not see a way out. Then help reached her. Pakistani officials found her and rescued her from the online network that had been pressuring her, a network known by the name '764'.
+Tonight, a 14-year-old girl in Karachi is safe. That is the most important line in this whole post, so it comes first. Not long ago, she was trapped in a frightening corner of the internet, controlled by strangers who used her own photographs against her. She could not see a way out. Then help reached her. Pakistan's National Cyber Crime Investigation Agency (NCCIA) found her and rescued her from the online network that had been pressuring her, a network known by the name '764'.
 
 Her name has not been shared, and that is right. She is a child, and her privacy and dignity matter more than any headline. What matters for the rest of us is the lesson inside her rescue. This trap was not built in some dark corner that ordinary families never visit. It was built inside the games and apps that children open every single day. So please read this post slowly, and share it with the parents you know. One saved child is good news. A thousand warned families would be even better news.
 
@@ -21,7 +21,7 @@ At first, contact like this rarely looks dangerous. A new player seems kind. A n
 
 Then came the photographs. She was forced to share her photographs, and once the strangers had them, the friendship showed its real face. The photographs became a weapon. The blackmailers threatened her with them, and fear did the rest of their work for them. A frightened child will obey almost any order if she believes that stopping means shame in front of her whole world.
 
-The cruelty of these people is hard to write about, and it will be kept to one plain sentence, because she deserves gentleness, not spectacle. The pressure grew so cruel that she was forced to kill her own pet cat, and even to harm herself. After that, this post will not return to those details again. They are mentioned once, only so that every reader understands how serious this danger truly is, and how much courage it takes a trapped child to keep going until help arrives.
+The cruelty of these people is hard to write about, and it will be kept to one plain sentence, because she deserves gentleness, not spectacle. The pressure grew so cruel that she was forced to kill her own pet cat, and then pressured to harm herself. After that, this post will not return to those details again. They are mentioned once, only so that every reader understands how serious this danger truly is, and how much courage it takes a trapped child to keep going until help arrives.
 
 ## Why Children Stay Silent
 
@@ -73,7 +73,7 @@ Most of all, keep the door of conversation open before anything goes wrong. A ch
 
 ## My Take: A Rescue Is A Beginning, Not The End
 
-A 14-year-old girl in Pakistan is safe tonight, after Pakistani officials found her and rescued her from an online network that had been pressuring her, a network known by the name 764, as this post reports. That line comes first in the post, and it should come first in any judgement too, because a child safe is the only outcome that matters more than any lesson. The post then explains how traps are built inside ordinary apps, why children stay silent, the warning signs every parent should know, what to do if a child is trapped, and the safer habits that make traps harder. Its source is Arab News Pakistan, and its tone is careful, practical, and free of blame toward the child.
+A 14-year-old girl in Pakistan is safe tonight, after Pakistan's National Cyber Crime Investigation Agency (NCCIA) found her and rescued her from an online network that had been pressuring her, a network known by the name 764, as this post reports. That line comes first in the post, and it should come first in any judgement too, because a child safe is the only outcome that matters more than any lesson. The post then explains how traps are built inside ordinary apps, why children stay silent, the warning signs every parent should know, what to do if a child is trapped, and the safer habits that make traps harder. Its source is Arab News Pakistan, and its tone is careful, practical, and free of blame toward the child.
 
 My judgement is that a rescue, however welcome, is a beginning, not an ending, and adults who treat it as an ending will fail the child they mean to help. Rescue removes a child from immediate danger. It does not, on its own, remove shame, fear, or the pressure that kept her silent, and it does not, on its own, stop the network that trapped her from seeking another child. I think the post's focus on why children stay silent is therefore its most important section. A child who fears punishment, disbelief, or the loss of a phone may choose silence over help, and silence is the trap's strongest lock. An adult who answers a disclosure with anger, with blame, or with a demand for the whole story at once will tighten that lock. An adult who answers calmly, believes the child, and seeks help at once will loosen it.
 
@@ -105,4 +105,4 @@ Yes. Children are stronger than adults often think, especially when they are bel
 
 ## Sources
 
-- Arab News Pakistan — "Pakistan rescues teenage girl coerced into animal cruelty, self-harm by online network '764'" (23 October 2026): https://www.arabnews.pk/pakistan
+- Arab News Pakistan — "Pakistan rescues teenage girl coerced into animal cruelty, self-harm by online network '764'" (23 October 2026): https://www.arabnews.pk/pakistan/foreign-agencys-alert-helps-pakistan-rescue-girl-from-international-online-abuse-network-3005018

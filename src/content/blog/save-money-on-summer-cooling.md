@@ -63,6 +63,8 @@ The same honesty applies to expectations. These steps will not make a tin-roofed
 
 - [Save Money On Summer Clothes](https://talhablog.com/blog/save-money-on-summer-clothes/)
 
+Misal: 1,000 watt ka cooler roz 5 ghante chale to 5 units roz, aur 30 din me 150 units bante hain; sirf 3 ghante chalane par 3 units roz = 90 units mahina, yani 60 units kam. Ye ek misal hai, asli bijli rate is me shamil nahi hai.
+
 ## My Take: Summer cooling works when shade comes before machines
 
 Monday was the day the heat moved in properly. By three in the afternoon the front room felt like the inside of a parked car, the ceiling fan was spinning at full speed and losing, and the electricity meter outside was ticking away like it had somewhere important to be. That week taught the house to breathe. Not all at once, and not through one big purchase. A few small changes, stacked on top of each other, turned the same rooms from ovens into places a person could sit, work, and sleep. None needed an expert. All together cut the cooling bill in a way that showed up on paper, not just in feeling. Start with the cheapest machine in the house. A fan does not cool air the way an air conditioner does. It moves air across skin, and moving air carries heat away from the body, so a person feels cooler even though room temperature barely changes. A fan uses only a small fraction of the power an air conditioner drinks.

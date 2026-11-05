@@ -31,7 +31,7 @@ He won the 2016 election and served his first term from 2017 to 2021. After losi
 
 Forbes estimated his wealth at around $6.5 billion in early 2026, with about $8.4 billion in assets and $1.1 billion in debts. A June 2026 report put it near $6.1 billion. His best-known properties include Trump Tower in New York, the Mar-a-Lago resort in Florida and Trump National Doral in Miami. He also owns golf courses and resorts, and has a large stake in Trump Media, the company behind Truth Social. In January 2026 his company announced a $7 billion real estate project in Saudi Arabia.
 
-Forbes reported that much of his recent jump in wealth came from crypto, including a memecoin that earned him roughly $710 million. Critics say a presidnet should not earn money like this while in office. Trump and his team reject this view. Please note that nobody knows his exact net worth, becuase these are only estimates.
+Forbes reported that much of his recent jump in wealth came from crypto, including a memecoin that earned him roughly $710 million. Critics say a president should not earn money like this while in office. Trump and his team reject this view. Please note that nobody knows his exact net worth, because these are only estimates.
 
 ## The Iran war
 

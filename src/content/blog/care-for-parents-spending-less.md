@@ -64,6 +64,8 @@ In my view, presence beats presents every single time. But presence has its own 
 - [Cut Baby Care Costs Smartly](https://talhablog.com/blog/cut-baby-care-costs-smartly/)
 - [Cut Family Medical Bills Down](https://talhablog.com/blog/cut-family-medical-bills-down/)
 
+Misal: waldein ke liye mahina: dawa Rs 3,000 + check-up Rs 2,000 + ghar ka khana Rs 5,000 = Rs 10,000. Bahar ka khana Rs 8,000 ki jagah ghar ka Rs 5,000 ho to saving Rs 3,000. Ye ek misal hai, asli kharcha family se farq ho sakta hai.
+
 ## My Take: Caring for Parents Costs Time, Not a Fortune
 
 A friend priced expensive services for his ageing parents, worked himself into a quiet panic, then visited for a weekend, cooked a meal, fixed a leaking tap, and sat for tea. His mother called it the best day she had had in weeks, and it cost almost nothing. The post separates costs into two groups: real and unavoidable costs like medicine, doctor visits, and essential house costs, and flexible costs like takeaways ordered from guilt, expensive services bought in panic, duplicate purchases, and separate trips that could have been one.

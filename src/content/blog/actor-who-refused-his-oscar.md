@@ -143,5 +143,4 @@ The Academy apologised for the abuse, mockery and career damage she suffered bec
 
 - NPR / WHRO — "The Academy apologizes to Sacheen Littlefeather for her treatment at the 1973 Oscars": https://www.whro.org/national-news/2022-08-15/the-academy-apologizes-to-sacheen-littlefeather-for-her-treatment-at-the-1973-oscars
 - The Hollywood Reporter obituary — "Sacheen Littlefeather, Who Delivered Marlon Brando's Oscar Rejection Speech, Dies at 75" (republished by Portside): https://portside.org/node/29643/printable/print
-- h2g2 — "Sacheen Littlefeather and Marlon Brando's Oscar Refusal": https://h2g2.com/entry/A88029976
 - Wikipedia — "Sacheen Littlefeather": https://en.wikipedia.org/wiki/Sacheen_Littlefeather

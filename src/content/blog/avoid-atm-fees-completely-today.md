@@ -27,7 +27,7 @@ If your own bank has few machines near you, this habit needs a partner: withdraw
 
 ## Step two: withdraw fewer, larger amounts — carefully
 
-Every withdrawal can carry a fee, so fewer withdrawals usually mean fewer fees. For example, four withdrawals at 25 each cost 100 in a month, while one withdrawal of the same total costs 25 or nothing at all. The arithmetic is simple, and it surprises people every time they do it.
+Every withdrawal can carry a fee, so fewer withdrawals usually mean fewer fees. For example, four withdrawals at Rs 25 each cost Rs 100 in a month, while one withdrawal of the same total costs Rs 25 or nothing at all. The arithmetic is simple, and it surprises people every time they do it.
 
 But this step carries a safety warning that matters more than the saving: carrying large amounts of cash has its own risk. Do not walk around with money you cannot afford to lose. Balance the saving with safety. Withdraw an amount that covers a reasonable stretch — a week, not a month — and keep the rest in the account where it belongs.
 
@@ -70,7 +70,7 @@ Children learn this faster than adults expect, especially when the rule is expla
 
 ## My Take: ATM Fees Reward Planning, Not Wealth
 
-An ATM fee is charged when you use another bank's machine, and your own bank may add its own small charge on top. Using your own bank's machine usually avoids both charges. Some accounts also allow only a limited number of free withdrawals per month, wherever you withdraw. The post gives a clear example: four withdrawals at 25 each cost 100 in fees, while one withdrawal of the same total costs 25 or nothing. Its five steps are simple: use your own bank's machines, withdraw fewer larger amounts carefully, pay by card where it costs nothing, know your free limit and count, and plan cash before travelling.
+An ATM fee is charged when you use another bank's machine, and your own bank may add its own small charge on top. Using your own bank's machine usually avoids both charges. Some accounts also allow only a limited number of free withdrawals per month, wherever you withdraw. The post gives a clear example: four withdrawals at Rs 25 each cost Rs 100 in fees, while one withdrawal of the same total costs Rs 25 or nothing. Its five steps are simple: use your own bank's machines, withdraw fewer larger amounts carefully, pay by card where it costs nothing, know your free limit and count, and plan cash before travelling.
 
 In my view, the most important idea in this post is also the easiest to miss. ATM fees do not punish poor people for being poor. They punish hurried people for being hurried. The cure is not wealth. It is planning. My call is that the person who plans cash on Friday afternoon will almost always beat the person who searches for a machine at midnight, whatever their incomes.
 
@@ -86,7 +86,7 @@ That bank is serving someone who is not its customer, so it charges for the serv
 
 **Does withdrawing larger amounts really save money?**
 
-Usually, yes, because each withdrawal can carry a fee. For example, four withdrawals at 25 each cost 100 in fees, while one withdrawal costs 25 or nothing. But balance this with safety — never carry cash you cannot afford to lose.
+Usually, yes, because each withdrawal can carry a fee. For example, four withdrawals at Rs 25 each cost Rs 100 in fees, while one withdrawal costs Rs 25 or nothing. But balance this with safety — never carry cash you cannot afford to lose.
 
 **How do free withdrawal limits work?**
 

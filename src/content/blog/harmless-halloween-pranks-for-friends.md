@@ -82,3 +82,7 @@ Place a plastic spider on top of the sweets in a bowl. People spot it, jump a li
 **What makes a prank funny instead of mean?**
 
 A prank only counts as funny if the other person laughs too. If only the prankster is laughing, that is not a joke: it is just being unkind with extra steps. A prank is a gift of laughter, not a test of someone's patience, and in the writer's opinion, the best pranks are the ones where the person who gets tricked tells everyone about it for the rest of the night.
+
+## Sources
+
+- Parade — 10 Funny (and Scary) Halloween Prank Ideas: https://parade.com/219703/parade/10-easy-diy-halloween-pranks/

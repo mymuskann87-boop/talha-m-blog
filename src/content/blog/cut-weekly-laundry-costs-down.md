@@ -66,6 +66,9 @@ Hygiene also sets a floor. Bedding during illness, cloth nappies, and cleaning c
 - [Cut Home Cleaning Costs Easily](https://talhablog.com/blog/cut-home-cleaning-costs-easily/)
 - [Cut Your Water Bill Monthly](https://talhablog.com/blog/cut-your-water-bill-monthly/)
 
+
+For example: a Rs 900 detergent bottle measured out for 30 washes costs Rs 900 ÷ 30 = Rs 30 per wash, while the same bottle poured freely for only 15 washes costs Rs 900 ÷ 15 = Rs 60 per wash — a saving of Rs 60 − Rs 30 = Rs 30 per wash. Ye ek misal hai, asli qeemat se farq ho sakti hai.
+
 ## My Take: Laundry Savings Come From Full Loads and Cold Water
 
 The post offers five habits. Wash full loads, never half ones. Cold water does most of the work. Air drying is free, and it is gentle. Measure the detergent, and treat stains fast. What cheaper laundry cannot do. Half loads waste water, electricity and detergent on few clothes. 

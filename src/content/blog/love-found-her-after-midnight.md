@@ -9,6 +9,8 @@ category: "Romance"
 tags: ["midnight love story", "romantic story", "night shift romance", "emotional story", "love story"]
 ---
 
+Note: This is a fictional love story. It is not real, and any resemblance to real people or places is purely coincidental.
+
 At 1:40 every night, the bell above the café door rang, and Maya's heart did a small, foolish jump. She told herself it was only the bell. It was not only the bell. It was the man who came with it, the same man, every single night, in rain and in cold and in the heavy, breathless heat of summer. He never spoke. He never smiled. He only nodded at her, sat by the window, and waited for his coffee as if the whole sleeping city had narrowed down to that one table and that one cup.
 
 Maya worked the night shift at the little café on the corner of Rose Lane. The café stayed open all night for taxi drivers, nurses finishing late shifts, students who could not sleep, and lonely people who wanted light and warmth more than they wanted coffee. Maya liked the quiet hours best. After two in the morning, the world went soft. The street outside turned silver under the lamps. The coffee machine hissed like a sleepy animal. And Maya, who was twenty-six and saving money for a small flat of her own, wiped tables and dreamed about a life that felt a little less lonely.

@@ -64,6 +64,9 @@ There is a second line, softer but real: time. A baby does not price a parent's 
 - [Care For Parents Spending Less](https://talhablog.com/blog/care-for-parents-spending-less/)
 - [Save Money On Daily Lunch](https://talhablog.com/blog/save-money-on-daily-lunch/)
 
+
+For example: a small diaper pack at Rs 1,000 for 20 pieces costs Rs 1,000 ÷ 20 = Rs 50 per piece, while a bulk pack at Rs 4,000 for 100 pieces costs Rs 4,000 ÷ 100 = Rs 40 per piece — a saving of Rs 50 − Rs 40 = Rs 10 per piece, or Rs 10 × 100 = Rs 1,000 over 100 pieces, provided the size is still the one the baby wears now. Ye ek misal hai, asli qeemat se farq ho sakti hai.
+
 ## My Take: Baby Care Savings Must Protect Health Before Price
 
 The post offers five ways to lower baby care costs. Buy fewer clothes, in slightly larger sizes. Buy diapers and basics in bulk, by per-piece price. Make simple baby food at home, when the time is right and the doctor agrees. Borrow the big items used only for months. Keep a list of what the baby actually uses, based on two weeks of real daily use. The post also draws a firm line. Health costs must never be cut. That means check-ups, prescribed care, and prompt visits when the baby is unwell. The FAQ adds detail. Bulk diapers help only in the current size. An outgrown pack becomes waste. 

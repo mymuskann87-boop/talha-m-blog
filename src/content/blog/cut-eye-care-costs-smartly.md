@@ -68,6 +68,9 @@ Also, beware of extremely cheap glasses sold without a proper test or a proper s
 - [Cut Dental Care Costs Smartly](https://talhablog.com/blog/cut-dental-care-costs-smartly/)
 - [Cut Hair Care Costs Smartly](https://talhablog.com/blog/cut-hair-care-costs-smartly/)
 
+
+For example: a fragile frame at Rs 8,000 replaced twice costs 2 × Rs 8,000 = Rs 16,000, while one durable frame at Rs 10,000 costs Rs 10,000 — a saving of Rs 16,000 − Rs 10,000 = Rs 6,000. Ye ek misal hai, asli qeemat se farq ho sakti hai.
+
 ## My Take: Eye Care Savings Protect the Prescription First
 
 The post sets out six rules. Test on schedule, not on headaches. Compare prices for the same prescription. Choose durable frames over fashionable fragile ones. The hard case is the cheapest insurance. Rest tired eyes during long screen hours. Understand what smart saving never means. Testing on schedule means the prescription is checked before headaches announce a change. A hard case prevents the most avoidable expense: a broken pair replaced in a hurry. 

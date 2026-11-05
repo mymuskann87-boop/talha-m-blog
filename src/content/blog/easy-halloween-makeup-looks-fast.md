@@ -76,3 +76,7 @@ Start with an orange base, using orange face paint or a warm orange blush blende
 **How can I do Halloween makeup safely?**
 
 Use only products made for skin, and test a small dab on your wrist first if you have sensitive skin. Keep everything away from your eyes unless the product is meant for eyes, wash it all off before bed with warm water and soap, and never share makeup with friends, because shared makeup can spread skin problems. Safe and simple first, then fun, is the rule the post sets before any of its four looks.
+
+## Sources
+
+- AllWomenTalk — 15 Last-Minute Halloween Costumes You Can Do With Just Makeup: https://lifestyle.allwomenstalk.com/cute-and-easy-last-minute-halloween-costume-ideas/amp.html

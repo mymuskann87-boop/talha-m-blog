@@ -58,6 +58,8 @@ Save seeds from your own plants and the saving compounds. A ripe tomato gives do
 - [Save Money On Monthly Groceries](https://talhablog.com/blog/save-money-on-monthly-groceries/)
 - [Free Workouts Replace Costly Gyms](https://talhablog.com/blog/free-workouts-replace-costly-gyms/)
 
+Misal: ghar ki sabzi: beej Rs 500 + mitti Rs 1,000 + pani Rs 500 = Rs 2,000. Bazaar se wohi sabzi Rs 4,000 ki ho to saving Rs 2,000. Ye ek misal hai, asli qeemat season se farq ho sakti hai.
+
 ## My Take: Gardening saving grows from seeds, swaps and patience
 
 The first pot sat on the balcony railing for a month and did nothing. Then one morning, a green shoot pushed through the soil, thin as a thread, and by the end of summer that one pot was giving fresh mint whenever tea was wanted. That is how a money-saving garden begins, not with a big plan or an expensive nursery bill, but with one pot, one seed, and a little daily attention. Gardening means growing plants, usually outdoors or in pots, and a small home garden can quietly cut the grocery bill while giving food that tastes like it was picked minutes ago, because it was. The first rule is almost too simple: grow what the kitchen uses most. Every family has a short list, herbs for tea and cooking, chillies, tomatoes, leafy greens, lemons if climate allows. A plant loved and used daily pays for itself within weeks. A plant grown because it looked pretty in the shop may never pay anything at all. Start with four or five plants, not forty. A small garden actually watered beats a large garden abandoned by July.

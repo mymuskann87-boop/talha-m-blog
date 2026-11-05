@@ -121,6 +121,6 @@ Mills died in 1970 from leukaemia, seven years after the attack. He had been str
 ## Sources
 
 - [British Transport Police — The Great Train Robbery, 1963](https://www.btp.police.uk/police-forces/british-transport-police/areas/about-us/about-us/our-history/crime-history/great-train-robbery/)
-- [Thames Valley Police Museum — The Great Train Robbery](https://www.thamesvalley.police.uk/police-forces/thames-valley-police/areas/au/about-us/thames-valley-police-museum/the-great-train-robbery/)
+- [Google Arts & Culture / The Postal Museum — The Great Train Robbery](https://artsandculture.google.com/story/aAWRARcgrhkA8A)
 - [The National Archives — The Great Train Robbery: A Forensic Journey](https://www.nationalarchives.gov.uk/whats-on/events/the-great-train-robbery-a-forensic-journey/)
 - [Encyclopaedia Britannica — Ronnie Biggs](https://www.britannica.com/biography/Ronnie-Biggs)

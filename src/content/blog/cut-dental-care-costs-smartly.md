@@ -72,6 +72,9 @@ It also never means choosing the cheapest clinic without asking questions. A ver
 - [Cut Eye Care Costs Smartly](https://talhablog.com/blog/cut-eye-care-costs-smartly/)
 - [Cut Family Medical Bills Down](https://talhablog.com/blog/cut-family-medical-bills-down/)
 
+
+For example: a written estimate of Rs 15,000 split into urgent work at Rs 9,000 and work that can wait at Rs 6,000 adds up as Rs 9,000 + Rs 6,000 = Rs 15,000, so doing only the urgent work now costs Rs 9,000 and leaves Rs 6,000 to plan for later. Ye ek misal hai, asli qeemat se farq ho sakti hai.
+
 ## My Take: Dental Savings Begin Before Anything Hurts
 
 The post offers a clear order of action. Brush well, and the bill shrinks. Keep the checkup, even when nothing hurts. Ask for a written estimate first. Ask what is urgent and what can wait. Starve the dental bill's best friends. Understand what smart saving never means. Brushing well is the cheapest treatment of all. 

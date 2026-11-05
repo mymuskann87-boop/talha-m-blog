@@ -49,7 +49,7 @@ These are not grand sacrifices. They are small rearrangements of things a househ
 
 ## The meter tells the truth
 
-The last stop on my evening walk was outside, at the meter box. Most people never look at their meter except when a bill shocks them, and that is a pity, because the meter is the most honest letter a house ever writes. Read it once a month, on the same date, and write the number in a notebook or a phone note. Two numbers, a month apart, tell you exactly how much power the house used. A sudden jump between two months is a message: something changed. Perhaps a new appliance arrived, perhaps an old one began to fail, perhaps a habit slipped. Catching the jump early means asking questions while the cause is still fresh in memory, instead of staring at a bill weeks later and guessing.
+The last stop on my evening walk was outside, at the meter box. Most people never look at their meter except when a bill shocks them, and that is a pity, because the meter is the most honest letter a house ever writes. Read it once a month, on the same date, and write the number in a notebook or a phone note. Two numbers, a month apart, tell you exactly how much power the house used. Misal: pehli tareekh ko meter 12,400 tha, agli pehli tareekh ko 12,700 — matlab us mahine 300 units use hue. A sudden jump between two months is a message: something changed. Perhaps a new appliance arrived, perhaps an old one began to fail, perhaps a habit slipped. Catching the jump early means asking questions while the cause is still fresh in memory, instead of staring at a bill weeks later and guessing.
 
 If your bill shows units used, watch that number rather than only the money. The money moves with prices, but the units tell you what the house actually did.
 

@@ -59,6 +59,9 @@ Cutting beauty costs has a boundary, and it is drawn by health. Skin problems de
 
 There is also a boundary drawn by joy. If one particular product genuinely delights you — its scent, its texture, the small ritual of using it — keeping it is not waste. The goal was never to make a bathroom shelf miserable. The goal is to remove the bottles that nobody loves, nobody finishes, and nobody would miss. Keep what you love. Release the rest. The shelf gets lighter, the skin gets calmer, and the money stays where it belongs.
 
+
+For example: five products at Rs 2,000 each cost 5 × Rs 2,000 = Rs 10,000, while a simplified routine of two products at Rs 2,000 each costs 2 × Rs 2,000 = Rs 4,000 — a saving of Rs 10,000 − Rs 4,000 = Rs 6,000. Ye ek misal hai, asli qeemat se farq ho sakti hai.
+
 ## My Take: Beauty Savings Work When One Product Finishes First
 
 The post offers five ways to cut beauty costs. Simplify the routine to what skin truly needs. Buy the basic version before the luxury version. Finish one product before opening another. Use multi-use products where they genuinely work. Test cheaper alternatives one at a time. Beauty spending rarely fails because one product is too expensive. It fails because several products are open at once. Simplifying means asking what skin needs, not what an ad says. Finishing one product stops the waste of half-used bottles. 

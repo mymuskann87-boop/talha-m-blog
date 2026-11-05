@@ -131,11 +131,11 @@ He plays for Al-Nassr in Saudi Arabia and captains Portugal, after a rise with M
 Reports in October 2025, based on Bloomberg estimates, put it at around $1.4 billion. Forbes has repeatedly listed him as the world's highest-paid footballer. All such figures are estimates.
 ## Sources
 
-- Olympics — Cristiano Ronaldo biography and career profile: https://olympics.com/en/athletes/cristiano-ronaldo-dos-santos-aveiro
+- Britannica — Cristiano Ronaldo biography and career profile: https://www.britannica.com/biography/Cristiano-Ronaldo
 - Wikipedia — Cristiano Ronaldo: https://en.wikipedia.org/wiki/Cristiano_Ronaldo
 - People — All about Georgina Rodriguez and the couple's five children: https://people.com/what-to-know-about-georgina-rodriguez-cristiano-ronaldo-11989576
 - WION — Ronaldo tops Forbes highest-paid footballers list, October 2025: https://www.wionews.com/sports/football-cristiano-ronaldo-tops-forbes-list-for-richest-footballer-with-estimated-net-worth-of-280-million-1760667939740
 
-Photos from the scene: Real photos of Cristiano Ronaldo can be seen on the Olympics profile page (https://olympics.com/en/athletes/cristiano-ronaldo-dos-santos-aveiro) and on the People family profile (https://people.com/what-to-know-about-georgina-rodriguez-cristiano-ronaldo-11989576).
+Photos from the scene: Real photos of Cristiano Ronaldo can be seen on the Britannica profile page (https://www.britannica.com/biography/Cristiano-Ronaldo) and on the People family profile (https://people.com/what-to-know-about-georgina-rodriguez-cristiano-ronaldo-11989576).
 
 The picture on this page is an original illustration made for Talha M Blog.

@@ -62,6 +62,8 @@ So start with the wardrobe, add one fun detail, check the safety bits, and let y
 - [Buy Clothes Smart Spend Less](https://talhablog.com/blog/buy-clothes-smart-spend-less/)
 - [Halloween Costumes For Couples Cheap](https://talhablog.com/blog/halloween-costumes-for-couples-cheap/)
 
+Misal: do bachon ke shop wale costume Rs 2,500 each = Rs 5,000; ghar ke kapron se bana costume Rs 300 + Rs 300 = Rs 600, yani Rs 4,400 ki bachat. Ye ek misal hai, asli qeemat dukaan se farq ho sakti hai.
+
 ## My Take: Cheap Halloween Outfits For Kids Should Fit Comfort First
 
 The post offers cheap Halloween outfits for kids, made from clothes already at home, old sheets, cardboard, face paint, and a little imagination. Its ideas include classic characters, animals, and homemade heroes, with tips for keeping costs low, for involving children in the making, and for choosing outfits that are warm, safe, and easy to move in. The post stresses fit and comfort above all: an outfit a child will not keep on is a wasted outfit, however clever it looked in a photograph. It also warns against masks that block vision, capes that drag, and accessories that break or trip, and it suggests testing the outfit at home before the night. That warning, that comfort decides whether an outfit survives the evening, is the fact my judgement starts from.
@@ -83,3 +85,7 @@ The friendly ghost: a white sheet, cut to the right length by an adult so nobody
 **How do I keep a kids Halloween costume comfortable all evening?**
 
 The best kids' costumes are the ones a child actually wants to wear all evening, not the expensive ones that itch, slip, and fall apart by the second house. A shop costume can cost more than a week of groceries and be worn for exactly one evening, then sit forgotten in a cupboard. Build from the wardrobe, cut sheets to the right length so nobody trips, and make eye holes big enough to see through clearly, so comfort lasts from the first house to the last.
+
+## Sources
+
+- ModernMom — Cheap Halloween Costumes for Kids: https://www.modernmom.com/cheap-halloween-costumes-for-kids/

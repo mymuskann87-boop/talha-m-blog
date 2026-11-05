@@ -60,6 +60,8 @@ There is an honest limit to all of this. Transport to the outing still costs mon
 - [Free Fun Ideas For Families](https://talhablog.com/blog/free-fun-ideas-for-families/)
 - [Save Money On Birthday Parties](https://talhablog.com/blog/save-money-on-birthday-parties/)
 
+Misal: 4 afraad ki outing: park entry Rs 0 + ghar ka nashta Rs 1,200 + bus kiraya Rs 800 = Rs 2,000, yani Rs 500 per shakhs. Ye ek misal hai, asli qeemat jagah se farq ho sakti hai.
+
 ## My Take: Children Remember Time Together, Not Ticket Prices
 
 Children do not price a day. They remember it. The post's ideas start with what a family already owns: bicycle rides, park games, and walks through green areas cost nothing after the bicycles themselves. Transport still costs money, so places near home matter, and ideas must adapt for family members who cannot walk far or ride.

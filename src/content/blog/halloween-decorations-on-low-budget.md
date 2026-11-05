@@ -59,6 +59,8 @@ So this year, before you head to the shops, look around your home. A sheet, a ja
 - [Save Money On Home Repairs](https://talhablog.com/blog/save-money-on-home-repairs/)
 - [Halloween Snacks Kids Will Love](https://talhablog.com/blog/halloween-snacks-kids-will-love/)
 
+Misal: shop ki sajawat Rs 2,000 + Rs 1,500 + Rs 1,000 = Rs 4,500; ghar ki cheezon se DIY sajawat Rs 500 + Rs 300 + Rs 200 = Rs 1,000, yani Rs 3,500 ki bachat. Ye ek misal hai, asli qeemat dukaan se farq ho sakti hai.
+
 ## My Take: Halloween Decorations On A Low Budget Need Darkness, Not Spending
 
 The post offers Halloween decorations on a low budget, built from darkness, paper, cardboard, old sheets, jars, and lights already at home. Its ideas include paper bats, cut-out silhouettes in windows, homemade ghosts, pumpkin alternatives made from painted jars, and lighting tricks that turn an ordinary room into a haunted one. The post stresses that darkness does most of the work: a dim room, a single flickering light, and a few shapes in shadow frighten more than a room full of bought plastic. It also warns against spending on decorations that will be thrown away, and it suggests reusing, borrowing, and making things with children, so the making becomes part of the celebration. That claim, that darkness matters more than spending, is the fact my judgement starts from.
@@ -80,3 +82,7 @@ An old white bedsheet can become a ghost on the porch: drape it over a chair or 
 **How do I make paper Halloween decorations?**
 
 Paper is the cheapest decoration material in the world, and it works wonders at Halloween. Cut bat shapes from black paper and stick them on the wall or the window, and cut a spider web shape from white paper and hang it in a corner. Children love helping with this part, and their slightly wonky bats look more charming than anything from a shop. Orange and black balloons cost very little too, and five or six of them, with pumpkin faces drawn on the orange ones, change a room at once.
+
+## Sources
+
+- AllInfoHome — Best 10 DIY Scary Halloween Outdoor Decorations For 2026: https://www.allinfohome.com/blog/diy-scary-halloween-outdoor-decorations

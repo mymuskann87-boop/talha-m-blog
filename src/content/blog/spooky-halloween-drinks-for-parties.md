@@ -76,3 +76,7 @@ Blend plain lemonade with a little coconut milk until it turns pale and cloudy, 
 **Is dry ice safe for Halloween punch?**
 
 Dry ice is what makes a punch bowl smoke like a cauldron, and it deserves respect. Only adults should handle it, and never touch dry ice with bare hands: use thick gloves or tongs, because it is cold enough to burn skin on contact. With those rules followed, the smoking bowl becomes the centrepiece guests keep drifting over to stare at.
+
+## Sources
+
+- Brit + Co — 18 Spooky & Fun Halloween Mocktails for Kids!: https://www.brit.co/halloween-mocktails/

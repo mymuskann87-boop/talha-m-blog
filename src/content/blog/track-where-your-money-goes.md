@@ -62,6 +62,8 @@ Life also breaks neat patterns, and that is human, not failure. Guests arrive, a
 - [Good Debt Versus Bad Debt](https://talhablog.com/blog/good-debt-versus-bad-debt/)
 - [Pay Yourself Before Every Bill](https://talhablog.com/blog/pay-yourself-before-every-bill/)
 
+Misal: do hafte ka record — khana Rs 8,000 + transport Rs 3,000 + snacks Rs 2,000 = Rs 13,000; jab total samne aaye tabhi pata chalta hai ke chhota kharcha kitna bara ban gaya. Ye ek misal hai, asli kharch har ghar me farq hota hai.
+
 ## My Take: Tracking Money Reveals Timing, Not Just Totals
 
 The post begins with a bank statement that does not make sense. The month felt careful, with no big purchases, holidays, or emergencies, yet the money was gone, and nobody could say where it had gone. The money had not vanished in one place. It had gone out in twenty small places, none of which seemed important at the time. Tracking spending is a simple record of where every bit of money goes, kept long enough to see the pattern.  Timing matters too, since income and bills arrive on different days, and a month can look balanced while running short. A weekly ten-minute check, asking how much has been spent, how that compares with the plan, and what needs to change next week, turns the record into control, and a budget built on real totals almost writes itself.

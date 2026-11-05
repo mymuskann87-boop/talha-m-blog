@@ -17,7 +17,7 @@ That is the nature of the daily lunch problem. It never arrives as one big expen
 
 The first step is the simplest and the strongest: carry lunch from home on most workdays. Not every single day — a rigid rule breaks by Wednesday — but four days out of five changes the month completely.
 
-The reason is arithmetic, not willpower. A bought lunch costs several times more than the same food packed at home, because the bought price includes the shop's rent, staff, packaging and profit. The home-packed version includes only the ingredients. For example, if a bought lunch costs 400 and a home lunch costs 120, the daily saving is 280 — and across twenty workdays, that is 5,600 kept in the pocket. The numbers differ by city and kitchen, but the gap is always there, because a shop must charge more than ingredients to survive.
+The reason is arithmetic, not willpower. A bought lunch costs several times more than the same food packed at home, because the bought price includes the shop's rent, staff, packaging and profit. The home-packed version includes only the ingredients. For example, if a bought lunch costs Rs 400 and a home lunch costs Rs 120, the daily saving is Rs 280 — and across twenty workdays, that is Rs 5,600 kept in the pocket. The numbers differ by city and kitchen, but the gap is always there, because a shop must charge more than ingredients to survive.
 
 Home lunch has a second advantage nobody talks about: it tastes like your own kitchen. The spices are the ones you like. The portion is the one you want. The food waits in your bag instead of in a queue.
 

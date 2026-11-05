@@ -106,3 +106,7 @@ Ghosts are supposed to be scary, but in jokes they are mostly polite and a littl
 **What are good witch and skeleton jokes?**
 
 Witches and skeletons have been Halloween favourites for years, and they carry some of the best wordplay in the post, in the same short, silly style as the pumpkin and ghost jokes. They work the same way as every joke here: say the line slowly, let people guess the answer first, and enjoy the wrong guesses, because half the fun is hearing a guess that is funnier than the real answer. Like all the jokes in the post, they need no costume, no stage, and no spooky prop, only one silly line and a straight face.
+
+## Sources
+
+- Reader's Digest — 205 Funny Halloween Jokes for Kids and Adults in 2026: https://www.rd.com/article/halloween-jokes/

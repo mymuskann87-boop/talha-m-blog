@@ -94,4 +94,3 @@ No, not in the usual sense. Lying requires intent, and a language model has no i
 ## Sources
 
 - IBM — What Are AI Hallucinations?: https://www.ibm.com/think/topics/ai-hallucinations
-- Everyday AI Guide — Why AI Gets Things Wrong: https://www.everydayaiguide.com/why-ai-gets-things-wrong/

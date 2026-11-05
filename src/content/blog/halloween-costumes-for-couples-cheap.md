@@ -55,6 +55,8 @@ So pick a pair, raid the wardrobe, and spend the evening being a team. The cheap
 - [Smart Gift Giving Saves Money](https://talhablog.com/blog/smart-gift-giving-saves-money/)
 - [Cheap Halloween Costumes That Impress](https://talhablog.com/blog/cheap-halloween-costumes-that-impress/)
 
+Misal: do logon ke shop wale costume Rs 3,000 each = Rs 6,000; ghar ke kapron se bana jora Rs 500 + Rs 500 = Rs 1,000, yani Rs 5,000 ki bachat. Ye ek misal hai, asli qeemat dukaan se farq ho sakti hai.
+
 ## My Take: Cheap Halloween Costumes For Couples Win On Shared Jokes
 
 The post offers cheap Halloween costumes for couples, built on a simple idea: a couple's costume works when the two halves belong together, and the cheapest pairs are often the funniest, because they use clothes already at home, a little makeup, and a shared joke. Its suggestions include classic pairs, food pairs, and opposites, with tips for making costumes from old clothes, cardboard, and face paint, for keeping the total cost low, and for choosing ideas that are comfortable enough to wear for an evening. The post stresses agreement: both partners should like the idea, both should be recognisable, and neither should be left as the boring half while the other gets the laugh. It also warns against costumes that are hard to walk in, hard to sit in, or embarrassing for one partner. That warning, that a shared joke must be shared, is the fact my judgement starts from.
@@ -80,3 +82,7 @@ If a costume takes more than 30 minutes to put together, simplify it. Cut the ex
 **What makes a couples costume fun?**
 
 It is not the price tag. It is the moment two people walk in and everyone instantly gets the joke, like two ghosts where one wears sunglasses and the other carries a tiny pumpkin bucket, or a cat and mouse pair where the chase writes itself and guests play along without being asked. The best couples costumes are the ones you laugh about while making them, because that laughter shows on the night itself.
+
+## Sources
+
+- The Highlander — Eight non-cringy couples costumes: https://www.highlandernews.org/97434/eight-non-cringy-couples-costumes/

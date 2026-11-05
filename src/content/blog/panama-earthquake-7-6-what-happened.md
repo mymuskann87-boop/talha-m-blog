@@ -1,5 +1,5 @@
 ---
-title: "Massive 7.6 Earthquake Hits Panama"
+title: "Massive 7.7 Earthquake Hits Panama"
 description: "A powerful earthquake struck Panama on October 9, 2026. A simple explainer on the damage, the aftershocks, and the tsunami warning that later passed."
 pubDate: 2026-10-10T20:30:00+05:00
 updatedDate: 2026-10-29

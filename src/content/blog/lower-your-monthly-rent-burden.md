@@ -51,6 +51,8 @@ One last thing, cousin. The goal is not the cheapest roof in the city. The goal 
 
 - [Cut Monthly Gaming Costs Down](https://talhablog.com/blog/cut-monthly-gaming-costs-down/)
 
+Misal: mahina Rs 60,000 aaye to aik tihai rehnumai ke mutabiq kiraya Rs 20,000 banta hai; Rs 25,000 wala flat is se Rs 5,000 zyada hai, aur do log mil kar lein to har ek ka hissa Rs 25,000 / 2 = Rs 12,500. Ye ek misal hai, asli kiraya aur aamdani se farq ho sakta hai.
+
 ## My Take: A Cheaper Rent That Steals Time Is No Saving
 
 The post, written as a letter to a younger cousin, starts from a plain fact: rent is usually the biggest single bill in a household, and a rent slightly too high hurts twelve times a year, in money never left for anything else. Money advisors commonly suggest keeping rent near a third of income where possible, as a guide, not a law, so food, transport, savings and a little fun still have room to breathe. At renewal, a polite written question about keeping the rent the same costs nothing, because landlords sometimes prefer a good tenant over an empty place. Before signing, read the real price, including water, maintenance, parking and service charges. Moving itself costs money, in transport, deposits and days off work, so it only pays when the monthly saving covers the moving cost within a few months. I think the post's best line is its goal: a home that leaves money for the rest of life, not the cheapest roof in the city.

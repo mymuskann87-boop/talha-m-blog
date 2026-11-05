@@ -77,6 +77,8 @@ My trolley that day left the shop with rice, lentils, soap and vegetables, and w
 
 - [Beat Rainy Season Extra Costs](https://talhablog.com/blog/beat-rainy-season-extra-costs/)
 
+Misal: mahine me 4 impulse cheezein Rs 500 each = Rs 2,000. Agar sirf 1 li jaye to kharcha Rs 500, yani saving Rs 1,500. Ye ek misal hai, asli qeemat cheez se farq ho sakti hai.
+
 ## My Take: Impulse Buying Loses to Waiting, Not Willpower
 
 Impulse buying means buying without planning, driven by the moment: a display, a sale sign, a mood, or a smell. The post's strongest brake is the three-day test: for any non-essential item above a small amount, wait three full days. Most urges do not survive the wait. The urges that survive are calm, specific, and usually come with a real reason. Other brakes follow: silence the sellers, shop with a list, ask where the item will live, and count impulse buys for one month.

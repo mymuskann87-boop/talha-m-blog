@@ -104,5 +104,5 @@ The fifth annual Albie Awards were held at the Natural History Museum in London 
 ## Sources
 
 - [Arab News — Amal Clooney Dazzles in Gold Gucci at the Albies in London](https://www.arabnews.com/fashion/amal-clooney-dazzles-in-gold-gucci-at-the-albies-in-london-3005606) (fetched 2026-10-28)
-- [Constitutional Court of South Africa — Justice Albie Sachs](https://concourt.org.za/index.php/judges/former-judges/11-former-judges/65-justice-albie-sachs) (fetched 2026-10-28)
+- [South African History Online — Judge Albert Louis “Albie” Sachs](https://sahistory.org.za/people/judge-albert-louis-albie-sachs) (fetched 2026-10-28)
 

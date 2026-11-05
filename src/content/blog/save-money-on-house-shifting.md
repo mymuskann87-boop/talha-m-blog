@@ -66,6 +66,8 @@ Mark it clearly — write "FIRST NIGHT" on every side in thick letters — and c
 - [Save Money On Furniture Buying](https://talhablog.com/blog/save-money-on-furniture-buying/)
 - [Lower Your Monthly Rent Burden](https://talhablog.com/blog/lower-your-monthly-rent-burden/)
 
+Misal: shifting: truck Rs 15,000 + packing Rs 5,000 + mazdoor Rs 4,000 = Rs 24,000. Khud packing karne par Rs 5,000 bach jayein to kul Rs 19,000. Ye ek misal hai, asli qeemat sheher se farq ho sakti hai.
+
 ## My Take: House shifting costs less when boxes never pack
 
 The truck is parked outside, the driver is waiting, and the house looks like a warehouse that exploded. Boxes everywhere, half of them unlabelled, and somewhere inside the chaos is the kettle the family will need tonight. House shifting is one of life's most expensive chores, and most of the cost is not the truck, it is the disorder. A move planned box by box costs less, breaks less, and ends with the family sleeping in their own beds instead of on a mountain of cardboard. Moving house means transporting belongings from one home to another. The price depends on how much there is to move, how far it travels, and how much work the movers do. Every one of those three things is partly in the family's control, and that is where the saving lives.

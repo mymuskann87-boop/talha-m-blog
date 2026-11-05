@@ -62,6 +62,8 @@ Notice how the week repeats ingredients instead of buying new ones each day. Egg
 - [Save Money On Daily Lunch](https://talhablog.com/blog/save-money-on-daily-lunch/)
 - [Save Money On Monthly Groceries](https://talhablog.com/blog/save-money-on-monthly-groceries/)
 
+Misal: roz ka nashta: anda Rs 60 + roti Rs 40 + doodh Rs 100 = Rs 200. Mahine me 30 din = Rs 6,000. Ye ek misal hai, asli qeemat sheher se farq ho sakti hai.
+
 ## My Take: Breakfast Is Cheapest When It Is Plain
 
 Breakfast is the first meal after the night's fast, and it needs to fill, steady the morning, and cost little. The post's five ideas are eggs with bread, seasonal fruit, and tea; oats bought in bulk; leftovers done right; preparation the night before; and skipping expensive branded health products.

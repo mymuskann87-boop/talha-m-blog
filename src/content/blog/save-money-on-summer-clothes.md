@@ -62,6 +62,8 @@ There are honest limits. In very hot climates, good summer clothing is a health 
 - [Save Money On Winter Clothes](https://talhablog.com/blog/save-money-on-winter-clothes/)
 - [Buy Clothes Smart Spend Less](https://talhablog.com/blog/buy-clothes-smart-spend-less/)
 
+Misal: garmi ke kapre: 3 lawn suit Rs 2,000 each = Rs 6,000. Sale me 25% kam ho to Rs 1,500 bach jayein, yani Rs 4,500. Ye ek misal hai, asli qeemat dukaan se farq ho sakti hai.
+
 ## My Take: Summer clothes stay cheap with cotton and timing
 
 There is a particular sound to a summer clothesline in the breeze, light fabric moving, pegs tapping, the smell of sun on cotton. It is the sound of a wardrobe that costs very little and works very hard. Summer clothes should be the cheapest clothes a family owns. The fabric is lighter, the layers are fewer, and nothing needs to survive snow. Yet families still overspend on summer, because summer shopping happens in the heat, in a hurry, and in front of displays designed to make a third bright shirt feel necessary. This post is about keeping summer dressing simple, cool, and cheap. The first rule is also the cheapest: light cotton clothes cost less and feel cooler than branded synthetics. Cotton breathes, lets air move across skin, and soaks up sweat instead of trapping it. A plain cotton shirt on a hot day feels better than an expensive synthetic one, and it usually costs less too. Choose light colours, which reflect heat, and loose fits, which let air move.

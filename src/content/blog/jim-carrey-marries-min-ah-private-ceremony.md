@@ -15,11 +15,11 @@ In this post I will explain what has been confirmed, what was reported about the
 
 ## The short version
 
-Jim Carrey, aged 64, has married Min Ah, an artist and actress who is also known as Minzi. His representative confirmed the marriage to People magazine in early October 2026. TMZ reported that the wedding was a small private ceremony in Los Angeles. The couple were first photographed together in February 2022, and they later made their public debut at the César Awards in Paris on February 26. Carrey has been married before, to Melissa Womer and to Lauren Holly.
+Jim Carrey, aged 64, has married Min Ah, an artist and actress who is also known as Minzi. His representative confirmed the marriage to People magazine on 30 September 2026. TMZ reported that the wedding was a small private ceremony in Los Angeles. The couple were first photographed together in February 2022, and they later made their public debut at the César Awards in Paris on February 26. Carrey has been married before, to Melissa Womer and to Lauren Holly.
 
 ## How the marriage news was confirmed
 
-The most important detail in this story is also the simplest one. Carrey's representative confirmed the marriage to People magazine in early October 2026.
+The most important detail in this story is also the simplest one. Carrey's representative confirmed the marriage to People magazine on 30 September 2026.
 
 A representative speaks on behalf of a public person, so a confirmation from a representative carries more weight than a rumour on social media. That is why this news is being reported as a confirmed marriage, and not just as gossip. At the same time, the couple have kept the moment itself private, and we should respect what that word means. Private means they did not turn their wedding into a public show.
 
@@ -35,7 +35,7 @@ Notice the careful wording there. The ceremony detail comes from a TMZ report, w
 
 Carrey and Min Ah were first photographed together in February 2022, leaving a charity comedy show.
 
-It is also worth pausing on the gap between that moment and the wedding news in 2026. This was a relationship that played out over years, not weeks. The phrase "longtime partner" makes sense in that light. They were first seen together in 2022, they appeared publicly together later, and the marriage was confirmed in early October 2026. Put in order, the timeline is calm and easy to follow.
+It is also worth pausing on the gap between that moment and the wedding news in 2026. This was a relationship that played out over years, not weeks. The phrase "longtime partner" makes sense in that light. They were first seen together in 2022, they appeared publicly together later, and the marriage was confirmed on 30 September 2026. Put in order, the timeline is calm and easy to follow.
 
 ## Their public debut at the César Awards in Paris
 
@@ -57,7 +57,7 @@ That is perhaps the nicest way to read this story. A person who once questioned 
 
 ## My Take: Jim Carrey Privacy Deserves More Weight Than Gossip
 
-The post is careful, and I think that care is its real subject. It separates two kinds of information: what a representative confirmed to People magazine in early October 2026, and what TMZ reported about a small private ceremony in Los Angeles. It notes that the couple were first photographed together in February 2022, leaving a charity comedy show, and later made their public debut at the Cesar Awards in Paris on February 26, where Carrey thanked his companion in a speech. The post refuses to guess at reasons, saying he has not given them in the facts shared there.
+The post is careful, and I think that care is its real subject. It separates two kinds of information: what a representative confirmed to People magazine on 30 September 2026, and what TMZ reported about a small private ceremony in Los Angeles. It notes that the couple were first photographed together in February 2022, leaving a charity comedy show, and later made their public debut at the Cesar Awards in Paris on February 26, where Carrey thanked his companion in a speech. The post refuses to guess at reasons, saying he has not given them in the facts shared there.
 
 My judgement is that the distinction between confirmed and reported matters more than any single detail in this story, and it is the test readers should apply to every celebrity report. A representative speaks on behalf of a public person, so confirmation through that route carries more weight than a rumour on social media, as the post explains. A report from one outlet about the form of a ceremony is a different kind of claim, and treating it as equally strong is, in my view, a reading error. The post's wording is deliberate: private means they did not turn the moment into a public show, and that privacy should be respected. I think the common mistake is to treat a quiet choice as a puzzle to solve, digging for details the people involved chose not to share. A longtime relationship, known in public terms since 2022, does not owe the public a fuller account in 2026. The calm timeline, first seen together, public debut, then news confirmed years later, is itself the story: nothing sudden, nothing performed for attention.
 
@@ -67,7 +67,7 @@ What should the reader do differently? First, ask of any celebrity story which p
 
 **Who is Jim Carrey's wife Min Ah and what is she also known as?**
 
-Min Ah is an artist and actress, and she is also known as Minzi. She is Jim Carrey's longtime partner, and his representative confirmed their marriage to People magazine in early October 2026.
+Min Ah is an artist and actress, and she is also known as Minzi. She is Jim Carrey's longtime partner, and his representative confirmed their marriage to People magazine on 30 September 2026.
 
 **When were Jim Carrey and Min Ah first photographed together?**
 
@@ -89,3 +89,4 @@ Yes. He was married to Melissa Womer from 1987 to 1995, and they have a daughter
 
 - The Express Tribune — https://tribune.com.pk/story/2632410/jim-carrey-marries-longtime-partner-min-ah-in-private-ceremony-in-los-angeles?amp=1
 - The Indian Express — https://indianexpress.com/article/entertainment/hollywood/jim-carrey-ties-the-knot-for-third-time-marries-longtime-girlfriend-min-ah-10902233/
+- PEOPLE — Jim Carrey Marries Min Ah 7 Months After Making Their Debut as a Couple at Awards Show Where He Called Her His 'Sublime Companion': https://people.com/jim-carrey-marries-min-ah-12150846

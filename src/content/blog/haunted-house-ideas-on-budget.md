@@ -61,6 +61,8 @@ When the last guest leaves and you switch the lights back on, the sheets are jus
 - [Save Money On Electricity Bill](https://talhablog.com/blog/save-money-on-electricity-bill/)
 - [Spooky Halloween Party Ideas Cheap](https://talhablog.com/blog/spooky-halloween-party-ideas-cheap/)
 
+Misal: ghar ki cheezon se haunted house Rs 1,000 + Rs 800 + Rs 700 = Rs 2,500 me ban jaye; shop ka tayyar set Rs 8,000 ka ho to Rs 5,500 ki bachat. Ye ek misal hai, asli qeemat dukaan se farq ho sakti hai.
+
 ## My Take: Haunted House Ideas On Budget Need Darkness, Not Props
 
 The post offers haunted house ideas on a budget, built from darkness, old sheets, cardboard, string, and lights already at home. Its suggestions include a dark entrance, hanging shapes that brush against visitors, whispering voices from another room, a corridor of curtains, and a single startling moment placed carefully, rather than fright at every step. The post stresses planning the path, keeping visitors moving, and using sound and shadow more than bought props. It also warns against blocking exits, tripping hazards, and scares that touch or chase visitors, and it suggests a clear way out for anyone who wants to leave. That warning, that a haunted house must be safe as well as scary, is the fact my judgement starts from.
@@ -86,3 +88,7 @@ Do not try to scare people everywhere: pick two or three spots and make them cou
 **Why does darkness make a haunted house scarier?**
 
 Good lighting matters more than any decoration you can buy, because it changes the whole feeling of a room in seconds. Cover bright lamps with thin coloured cloth and switch off the main lights, and shadows stretch across the walls while every ordinary object suddenly looks strange. A haunted house works on what visitors cannot quite see, and darkness is what turns an ordinary room into a place where a thin white sheet hanging from the ceiling looks like a ghost that forgot to leave.
+
+## Sources
+
+- GBTimes — How to Build a Terrifying Haunted House on a Shoestring Budget: https://gbtimes.com/how-to-make-a-haunted-house-on-a-budget/

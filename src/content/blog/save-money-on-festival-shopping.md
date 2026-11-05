@@ -23,7 +23,7 @@ Carry the list everywhere during festival shopping, and buy only what is on it. 
 
 ## One total budget, split before buying anything
 
-Before the first purchase, decide one total festival budget — the whole amount the family can spend on the festival without borrowing or touching savings meant for something else. Then split that total across the list: so much for clothes, so much for gifts, so much for food, so much for decorations. Write the splits down next to the list.
+Before the first purchase, decide one total festival budget — the whole amount the family can spend on the festival without borrowing or touching savings meant for something else. Then split that total across the list: so much for clothes, so much for gifts, so much for food, so much for decorations. Write the splits down next to the list. Misal: kul budget Rs 30,000 ho to kapre Rs 12,000, gifts Rs 8,000, khana Rs 6,000 aur decorations Rs 4,000 — kul Rs 30,000. Ye ek misal hai, asli budget family se farq ho sakta hai.
 
 This split is what stops one category from eating the others. Without it, a beautiful dress can quietly consume the gift budget, and the gifts get bought on a card at the last minute. With it, each category has its own limit, and the shopper knows at a glance whether a purchase fits.
 

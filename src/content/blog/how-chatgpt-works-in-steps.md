@@ -91,5 +91,5 @@ In real systems, ChatGPT can use tools, including web search, to fetch current i
 
 ## Sources
 
-- DEV — How ChatGPT Works: An In-Depth Guide to ChatGPT Architecture and Functionality: https://dev.to/abhinav_m/how-chatgpt-works-an-in-depth-guide-to-chatgpt-architecture-and-functionality-3m3c
+- IntuitionLabs — Understanding ChatGPT: Architecture, Function, and Generative AI: https://intuitionlabs.ai/articles/chatgpt-understanding-architecture-llm
 - IBM — What Are AI Hallucinations?: https://www.ibm.com/think/topics/ai-hallucinations

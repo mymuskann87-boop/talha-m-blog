@@ -9,7 +9,7 @@ imageAlt: "A council chamber with empty seats in different colours, showing seve
 tags: [Coalition Government, Elections, Politics Explained, South Africa, Majority]
 ---
 
-Imagine a council with ten seats. Party A wins four seats, Party B wins three, Party C wins two, and Party D wins one. Nobody has the five seats needed for a majority. Nobody can govern alone. That is where a coalition government begins. Two or more parties, or independent representatives, must combine their votes to elect a government and support the decisions it takes. This post explains, in the simplest words, what a coalition is, how one is formed, what it is good at, what can go wrong, and what it means for ordinary voters.
+Imagine a council with ten seats. Party A wins four seats, Party B wins three, Party C wins two, and Party D wins one. Nobody has the six seats needed for a majority. Nobody can govern alone. That is where a coalition government begins. Two or more parties, or independent representatives, must combine their votes to elect a government and support the decisions it takes. This post explains, in the simplest words, what a coalition is, how one is formed, what it is good at, what can go wrong, and what it means for ordinary voters.
 
 ## The One-Sentence Definition
 
@@ -67,7 +67,7 @@ The lesson of that history is simple. A coalition is not a failure of democracy.
 
 ## My Take: A Coalition Is Judged By Services, Not By Seats
 
-The post starts with a council of ten seats, and the arithmetic is the starting point. Party A wins four seats, Party B wins three, Party C wins two, and Party D wins one. Nobody has the five seats needed for a majority, so two or more parties must combine their votes to elect a government and support its decisions. That is the South African Government's definition of a coalition government, needed when no single party has a majority. In South Africa, elections use proportional representation, so parties win seats roughly in proportion to votes received. 
+The post starts with a council of ten seats, and the arithmetic is the starting point. Party A wins four seats, Party B wins three, Party C wins two, and Party D wins one. Nobody has the six seats needed for a majority, so two or more parties must combine their votes to elect a government and support its decisions. That is the South African Government's definition of a coalition government, needed when no single party has a majority. In South Africa, elections use proportional representation, so parties win seats roughly in proportion to votes received. 
 
 In my view, the arithmetic is the least interesting part of a coalition, and it gets far too much attention. The interesting part is what partners do with the numbers once they have them. A coalition can represent different political ideas and cultures, adopt compromise-based policies that may last longer than policies from one majority party, and, when well managed, make government more stable in the long run. The other case is set out just as clearly: a weak partnership falls into conflict, decisions are postponed, and the council becomes preoccupied with politics instead of service delivery. Municipalities handle water, sanitation, electricity, refuse removal, planning, and finances, so a council that cannot approve budgets hurts residents daily. My judgement: judge a coalition by services, not by seat numbers.
 
@@ -79,7 +79,7 @@ What should the reader do differently? First, stop asking only who won, and star
 
 **What is a coalition government in simple words?**
 
-A coalition government forms when no single party wins more than half the seats, so two or more parties, or independent representatives, combine their votes to elect a government and support its decisions. In a council of ten seats, for example, a party with four seats must find partners with at least one more seat to reach a majority of five or more. At local level, the partners work together to elect a mayor and other executive members and to back decisions such as the budget and municipal policies. It is a deal built on numbers first, and on shared agreements second.
+A coalition government forms when no single party wins more than half the seats, so two or more parties, or independent representatives, combine their votes to elect a government and support its decisions. In a council of ten seats, for example, a party with four seats must find partners with at least two more seats to reach a majority of six or more. At local level, the partners work together to elect a mayor and other executive members and to back decisions such as the budget and municipal policies. It is a deal built on numbers first, and on shared agreements second.
 
 **How is a coalition government formed after an election?**
 

@@ -64,6 +64,8 @@ It also needs care with timing. An automatic transfer set for the wrong day can 
 - [Good Debt Versus Bad Debt](https://talhablog.com/blog/good-debt-versus-bad-debt/)
 - [Track Where Your Money Goes](https://talhablog.com/blog/track-where-your-money-goes/)
 
+Misal: salary Rs 50,000 ho to pehle 10% = Rs 5,000 bachat me daal dein, baqi Rs 45,000 mahine ke kharch ke liye bachta hai; 12 mahine me 12 x Rs 5,000 = Rs 60,000 jama ho jayein ge. Ye ek misal hai, asli salary se farq ho sakta hai.
+
 ## My Take: Payday Saving Works Because Willpower Does Not
 
 The post opens with pay arriving on Friday and money gone by the third week, with nothing reckless having happened, only small, reasonable leaks: a meal here, a delivery there, a small treat that felt earned. Saving was always the plan for next month, and next month always started empty too. Its answer is the pay-yourself-first habit: move savings out on payday, before bills and spending, make the move automatic, start small and keep it steady, choose where the money lives, and know what to do when the cushion gets used. It also states the honest limits of the habit, which is why it deserves trust.

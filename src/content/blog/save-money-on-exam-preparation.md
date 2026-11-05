@@ -31,7 +31,7 @@ Library books have one more advantage that nobody mentions. They are the books t
 
 Free official material comes next. Many education boards and universities publish sample papers, marking schemes, and revision notes openly. Use them. A marking scheme is a quiet treasure: it shows exactly what an examiner rewards — a definition here, a worked step there, a labelled diagram worth its marks. Students who read marking schemes stop writing long essays where three clear points would have scored more.
 
-Buy a book only after the free material runs out, and buy one good book, not five average ones. One book, read three times, beats three books read once.
+Buy a book only after the free material runs out, and buy one good book, not five average ones. One book, read three times, beats three books read once. Misal: 3 guidebooks Rs 1,500 each = Rs 4,500, aur crash course Rs 10,000 — kul Rs 14,500. Library Rs 0 + 1 achi book Rs 1,500 = Rs 1,500, yani saving Rs 13,000. Ye ek misal hai, asli qeemat se farq ho sakta hai.
 
 ## Share notes and study together
 

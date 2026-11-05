@@ -60,6 +60,9 @@ Rainy days still need play. Indoor games — hiding treats in boxes, a paper bal
 - [Cut Baby Care Costs Smartly](https://talhablog.com/blog/cut-baby-care-costs-smartly/)
 - [Care For Parents Spending Less](https://talhablog.com/blog/care-for-parents-spending-less/)
 
+
+For example: a small food bag at Rs 2,000 for 2 kg costs Rs 2,000 ÷ 2 = Rs 1,000 per kg, while a larger bag at Rs 6,000 for 8 kg costs Rs 6,000 ÷ 8 = Rs 750 per kg — a saving of Rs 1,000 − Rs 750 = Rs 250 per kg, or Rs 250 × 8 = Rs 2,000 over 8 kg. Ye ek misal hai, asli qeemat se farq ho sakti hai.
+
 ## My Take: Pet Care Savings Must Never Cut Prevention
 
 The post offers six habits. Buy food by the kilo, not by the bag. Prevention is the cheapest treatment. Groom at home between visits. Toys do not need a shop. Think in years, not in the first price. The honest limits of saving on pets. Prevention costs little compared with treating an illness it would have avoided. 

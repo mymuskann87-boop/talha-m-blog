@@ -99,5 +99,5 @@ Supporters say referendums give people a direct say on a single issue, settle qu
 
 ## Sources
 
-- USAFacts — What is a referendum?: https://usafacts.org/answers/civics/government/how-does-a-referendum-work/
-- tutor2u — Referendums: https://www.tutor2u.net/politics/reference/referendums
+- USAFacts — What is a referendum?: https://usafacts.org/articles/referendum-definition/
+- tutor2u — Referendums: https://www.tutor2u.net/politics/reference/referendum

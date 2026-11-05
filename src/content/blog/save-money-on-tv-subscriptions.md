@@ -59,6 +59,8 @@ Cutting subscriptions saves money, but it does not create time, and it should no
 
 Also remember that prices and bundles change. A service that was good value last year may cost more today, and a new bundle may beat the old arrangement. Review the list every few months, not once and never again. The audit is a habit, not a single event.
 
+Misal: 3 subscriptions Rs 1,000 each = Rs 3,000 mahina. Sirf 1 rakhne par Rs 1,000, yani saving Rs 2,000 mahina, saal me Rs 24,000. Ye ek misal hai, asli qeemat plan se farq ho sakti hai.
+
 ## My Take: TV subscriptions shrink when rotation replaces stacking
 
 Somewhere in the house, a remote control knows the truth. It knows which buttons get pressed every night and which ones have gathered dust since last winter. The bills, meanwhile, do not care. They arrive every month for every service, watched or not, like rent for rooms nobody enters anymore. A subscription is a recurring payment for continued access, paid monthly, with shows, channels, or films staying open. That model is convenient, which is exactly why it is so good at quietly draining money. One service feels small. Four or five, stacked together, cost more than a family outing every single month. The fix is not to stop watching television. The fix is to pay only for watching that actually happens. The first step is a list, and it must be honest. Sit down with bank statements or card bills for the last two months and write down every TV and streaming charge, including the channel pack added for one tournament and never removed, and the free trial that quietly turned into a paid month.

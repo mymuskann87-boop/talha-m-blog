@@ -68,6 +68,9 @@ It also never means buying the cheapest product without reading it. A very cheap
 - [Save Money On Haircuts Monthly](https://talhablog.com/blog/save-money-on-haircuts-monthly/)
 - [Cut Beauty Costs Without Sacrifice](https://talhablog.com/blog/cut-beauty-costs-without-sacrifice/)
 
+
+For example: a Rs 1,200 bottle used at the right amount for 60 washes costs Rs 1,200 ÷ 60 = Rs 20 per wash, while the same bottle used at double the amount for only 30 washes costs Rs 1,200 ÷ 30 = Rs 40 per wash — a saving of Rs 40 − Rs 20 = Rs 20 per wash. Ye ek misal hai, asli qeemat se farq ho sakti hai.
+
 ## My Take: Hair Care Savings Come From Using Less, Not Buying Less
 
 The post offers five habits. Wash as often as hair truly needs. Use the right amount, not the advertised amount. Finish one bottle before opening another. Protect hair, and treatments become unnecessary. Trim split ends before they travel. Hair spending is driven less by the price of one bottle than by how fast bottles empty. Opening a second bottle before the first finishes means several half-used bottles. Protecting hair from damage means fewer treatments are bought. 

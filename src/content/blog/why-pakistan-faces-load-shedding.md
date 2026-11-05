@@ -95,5 +95,5 @@ Solar power helps, but it does not end load shedding on its own. More households
 
 ## Sources
 
-- Solar Technology Institute — Load Shedding in Pakistan: https://www.solartechnologyinstitute.com/load-shedding-in-pakistan/
+- Nation Press — Pakistan power shortfall crosses 4,000 MW, load-shedding intensifies: https://www.nationpress.com/international/pakistan-power-shortfall-tops-4000-mw
 - Dawn — Lesco carries out two hours of load management as RLNG plants go non-operational: https://www.dawn.com/news/2036429/lesco-carries-out-two-hours-of-load-management-as-rlng-plants-go-non-operational

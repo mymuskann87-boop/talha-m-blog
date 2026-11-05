@@ -105,4 +105,4 @@ A set of electric barriers built by the US Army Corps of Engineers in the canal 
 - [Metropolitan Water Reclamation District of Greater Chicago — Chicago River's reversal in 1900 was an 'engineering triumph'](https://mwrd.org/news/chicago-rivers-reversal-1900-was-engineering-triumph-transformed-our-city-chicago-sun-times)
 - [Oak Park River Forest Museum — The Chicago Sanitary and Ship Canal](https://oprfmuseum.org/chicago-sanitary-and-ship-canal)
 - [Wikipedia — Chicago 1885 cholera epidemic myth](https://en.wikipedia.org/wiki/Chicago_1885_cholera_epidemic_myth)
-- [Sierra Club, Sierra Magazine — Should Chicago Dye Its River Green for St. Patrick's Day?](https://www.sierraclub.org/sierra/should-chicago-dye-its-river-green-st-patrick-s-day?amp)
+- [NPR — Dyeing the Chicago River green is a St. Patrick's Day tradition. How did it start?](https://www.northcountrypublicradio.org/news/npr/1086988193/dyeing-the-chicago-river-green-is-a-st-patrick-s-day-tradition-how-did-it-start)

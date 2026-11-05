@@ -73,6 +73,8 @@ The man ahead of me in the queue probably never asked about the generic. Nobody 
 
 - [Save Money On Gardening Costs](https://talhablog.com/blog/save-money-on-gardening-costs/)
 
+Misal: mahine ki dawa: brand Rs 6,000 ki jagah generic Rs 3,500 ho to saving Rs 2,500. Dawa doctor se pooch kar hi badlein. Ye ek misal hai, asli qeemat dawa se farq ho sakti hai.
+
 ## My Take: Medicine costs fall through questions, never skipped doses
 
 The man ahead at the pharmacy counter held his prescription in one hand and his wallet in the other, and looked at the total the way people look at a bill they were not expecting. The pharmacist said the amount quietly. The man nodded, paid, and walked out a little slower than he had walked in. Most families have stood in that spot. Medicine is not a luxury purchase that can be postponed until next month feels kinder. When someone in the house needs it, it is bought. That is exactly why the medicine bill deserves a calm plan of its own, not panic, not shortcuts, just a few honest questions asked at the right counter. Nothing in this post asks anyone to take less medicine than prescribed. Nothing asks anyone to gamble with health. Savings come from prices, habits, and information, never from doses.

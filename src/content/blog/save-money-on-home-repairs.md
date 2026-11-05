@@ -61,6 +61,8 @@ None of this is exciting, and that is why it works. Maintenance is a handful of 
 
 - [Save Money On Summer Cooling](https://talhablog.com/blog/save-money-on-summer-cooling/)
 
+Misal: chhoti repair: plumber ki visit Rs 2,000 + saman Rs 1,000 = Rs 3,000. Khud karne par sirf saman Rs 1,000, yani saving Rs 2,000. Ye ek misal hai, asli qeemat kaam se farq ho sakti hai.
+
 ## My Take: Home repairs stay cheap when small jobs stay early
 
 Saturday morning, eight o'clock, and the kitchen tap was doing its impression of a metronome. Drip. Drip. Drip. It had been doing it for three weeks. Everyone had learned to ignore it, the way people learn to ignore a clock, and the water bill had learned nothing of the sort. The washer inside that tap cost less than a cup of tea. The visit to replace it, once the drip became a stream and the sink started staining, cost twenty times more. That Saturday, with a wrench borrowed from a neighbour and a video watched twice, the tap took twelve minutes. The silence afterwards was worth more than the money. Most money in home improvement is lost in exactly this gap, between the small job noticed early and the big job paid for late. Water is patient. A drip finds the same path every day, and the path widens. A hairline crack lets damp in, damp invites mould, and a loose hinge tears its screws out of softening wood.

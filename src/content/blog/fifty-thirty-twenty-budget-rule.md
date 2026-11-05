@@ -85,6 +85,8 @@ It also lasts because it is kind. A budget that bans all pleasure teaches people
 
 The rule will not make anyone rich in a month. What it does, month after month, is stop the quiet leak, build a cushion, and turn payday from a festival that ends in worry into a routine that ends in calm. That calm is the real product, and it is worth more than any single purchase the wants pile ever buys.
 
+Misal: salary Rs 100,000 ho to needs 50% = Rs 50,000, wants 30% = Rs 30,000, aur savings 20% = Rs 20,000. Ye ek misal hai, asli salary se farq ho sakta hai.
+
 ## My Take: The Fifty Thirty Twenty Rule Fails Without Honest Sorting First
 
 The post explains the fifty thirty twenty budget rule as a simple split of after-tax pay: 50 percent for needs, 30 percent for wants, and 20 percent for savings and extra debt repayment. The rule became widely known through a 2005 book, All Your Worth, by Elizabeth Warren and Amelia Warren Tyagi, and Prudential describes it as a guideline, not a law. Needs cover housing, groceries, transport, utilities, insurance, clothing genuinely needed, minimum debt payments, and childcare while working. Wants cover restaurants, takeaway coffee, streaming, holidays, hobbies, concerts, gadgets, and gifts. The savings share covers an emergency fund, extra debt repayment, and retirement saving, with Prudential suggesting an emergency fund of six to twelve months of expenses over time. Those facts are the ground for my judgement.

@@ -58,6 +58,8 @@ Teach the skill to the family and the saving multiplies. A child who learns to s
 - [Buy Clothes Smart Spend Less](https://talhablog.com/blog/buy-clothes-smart-spend-less/)
 - [Save Money On Winter Clothes](https://talhablog.com/blog/save-money-on-winter-clothes/)
 
+Misal: 4 kapron ki silai: darzi Rs 800 each = Rs 3,200. Ghar par silai ho to sirf dhaga/button Rs 400, yani saving Rs 2,800. Ye ek misal hai, asli qeemat darzi se farq ho sakti hai.
+
 ## My Take: Sewing Saves Most When Repairs Come First
 
 The post makes a steady case for sewing as a household saving. It names five repairs that cover most clothing failures: a missing button, a fallen hem, a split seam, a small tear, and a broken zip. It argues for altering clothes instead of replacing them, sewing simple things such as cushion covers, curtains, tote bags, and children's simple clothes, buying sale cloth only when a real need exists, and keeping a small kit ready so a ten-minute repair does not wait for a shopping trip that never comes. It is honest about limits too. Fine fabrics, heavy coats, and complicated tailoring belong to experienced hands, a repair that takes three unhappy hours may cost more in time than a tailor's small fee, and cloth bought in bulk without a plan becomes storage rather than saving. That is the material as given, and I think the order inside it matters more than any single tip.

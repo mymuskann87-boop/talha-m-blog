@@ -41,7 +41,7 @@ There is also something sweet about the timing of fashion and flight coming toge
 
 ## What Passengers Will Be Watching For
 
-Naturally, the announcement has started a guessing game. Will the famous green of the flag shine through in the new look? Will there be a modern cut with a traditional soul? Will the scarf, so much a part of how crew style is remembered in this part of the world, get a fresh twist? At this stage, none of these questions has an official answer, and it is important to say that clearly. The report tells us who will design the uniforms. It does not share design details, and no launch date for the new uniforms has been announced.
+Naturally, the announcement has started a guessing game. Will the famous green of the flag shine through in the new look? Will there be a modern cut with a traditional soul? Will the scarf, so much a part of how crew style is remembered in this part of the world, get a fresh twist? At this stage, none of these questions has an official answer, and it is important to say that clearly. The report tells us who will design the uniforms. It does not share design details, and the uniforms were scheduled to debut on 31 October 2026.
 
 So for now, the fun is in the waiting. Fashion lovers will watch for the first sketch or photograph like fans waiting for a film trailer. Aviation lovers will wonder how the new look will sit beside the aircraft at the gate. And ordinary passengers, the ones who simply want a pleasant journey, will judge it the way passengers always do: with one quick look at the crew as they step aboard and say their first hello.
 
@@ -62,7 +62,7 @@ That is why this pairing of airline and designer is so interesting to watch. It 
 
 ## My Take: The PIA Uniform Is A Promise, Not A Fix
 
-The post reports, from Arab News Pakistan on 22 October 2026, that HSY, whose full name is Hassan Sheheryar Yasin, will design new cabin crew uniforms for Pakistan International Airlines. It shares no design details and no launch date, and that absence matters. What it does explain is why a uniform is never just clothing: it must look smart for long hours, let crew move freely while lifting, reaching and bending, stay graceful in meal service and dignified in an emergency, and carry the identity of the airline and the country. For Pakistanis, PIA is tangled with family memories, relatives flying abroad, loved ones welcomed home, and a green tail fin seen from a window seat. In past decades the crew uniforms were a point of national pride. I think the post is right to treat this as a message before a single stitch is sewn: we care about how we look, and we want to be seen as fresh and modern again.
+The post reports, from Arab News Pakistan on 22 October 2026, that HSY, whose full name is Hassan Sheheryar Yasin, will design new cabin crew uniforms for Pakistan International Airlines. It shares no design details, though it puts the uniforms' debut on 31 October 2026. What it does explain is why a uniform is never just clothing: it must look smart for long hours, let crew move freely while lifting, reaching and bending, stay graceful in meal service and dignified in an emergency, and carry the identity of the airline and the country. For Pakistanis, PIA is tangled with family memories, relatives flying abroad, loved ones welcomed home, and a green tail fin seen from a window seat. In past decades the crew uniforms were a point of national pride. I think the post is right to treat this as a message before a single stitch is sewn: we care about how we look, and we want to be seen as fresh and modern again.
 
 My judgement is that the uniform should be read as a promise, not as proof, and the difference decides whether this news deserves hope or only applause. A promise is valuable when the person making it must then keep it in public, every day, in front of thousands of passengers. A uniform walks down an aisle on every flight, and passengers judge it with one quick look as they step aboard. That visibility is the point, in my view, and also the risk. If planes, punctuality and service do not improve, as the post itself warns, a fresh look will start to feel like dressing up a problem rather than facing it. No jacket can land an aeroplane on time. On the other hand, if service does improve, the uniform will help passengers notice the change at once, because trust is built in seconds by a sharp, well-fitted look.
 
@@ -80,7 +80,7 @@ According to the report, HSY will design the new cabin crew uniforms for Pakista
 
 **When will the new PIA uniforms appear?**
 
-No launch date has been announced in the report. The news confirms the designer and the job, but the design details and the date when crew will start wearing the new uniforms have not been shared yet.
+The report puts the uniforms' debut on 31 October 2026. The news confirms the designer and the job, but the design details have not been shared yet.
 
 **Why do airlines care so much about crew uniforms?**
 
@@ -92,4 +92,4 @@ Because it joins two things Pakistanis love to discuss: their national airline a
 
 ## Sources
 
-- Arab News Pakistan — HSY to design new PIA cabin crew uniforms, 22 October 2026: https://www.arabnews.pk/author/naimat-khan-arab-news-pakistan
+- Arab News Pakistan — HSY to design new PIA cabin crew uniforms, 22 October 2026: https://www.arabnews.pk/pakistan/famed-pakistani-designer-hsy-to-design-new-pia-cabin-crew-uniforms-3004930

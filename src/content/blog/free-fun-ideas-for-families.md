@@ -69,6 +69,9 @@ The kite on the park grass dived again as the sun went down, and the little girl
 
 - [Free Workouts Replace Costly Gyms](https://talhablog.com/blog/free-workouts-replace-costly-gyms/)
 
+
+For example: a paid family outing with 4 tickets at Rs 800 each plus Rs 1,800 of snacks costs 4 × Rs 800 + Rs 1,800 = Rs 3,200 + Rs 1,800 = Rs 5,000, while a home picnic with Rs 1,500 of snacks costs Rs 1,500 — a saving of Rs 5,000 − Rs 1,500 = Rs 3,500. Ye ek misal hai, asli qeemat se farq ho sakti hai.
+
 ## My Take: Free Family Fun Works When Time Beats Spending
 
 The post offers free fun ideas for families, built on a simple claim: the best family time often costs nothing, and the ideas that work best are the ones that use time, attention, and imagination rather than money. Its suggestions include walks and nature hunts, cooking together from ingredients already at home, reading and storytelling, making things from scrap and recycled materials, free local events, library visits, games that need no equipment, and stargazing on a clear night. The post stresses planning lightly, letting children choose, and putting phones away, so that the time feels like play rather than a lesson. It also warns that free does not mean effortless: somebody must still plan, gather, and lead, and the ideas fail when adults treat them as a list to complete rather than time to share. That distinction, between a list and shared time, is the fact my judgement starts from.

@@ -84,3 +84,7 @@ The tourist who got lost needs a bright shirt, shorts, sunglasses, a sun hat, a 
 **How do I make a last-minute costume memorable?**
 
 A small strange detail is what makes people remember the costume. The witch's twist, a handbag, bright red shoes, or a cooking spoon instead of a wand, turns a base outfit into a talking point. A quick homemade costume often gets more compliments than an expensive shop-bought one, because the joke is clear, the idea is strong, and the maker went all in on one idea instead of buying a set.
+
+## Sources
+
+- El Cronista (reporting Good Housekeeping) — Halloween 2026: 7 easy, budget-friendly costumes you can make with things you already have at home: https://www.cronista.com/en/lifestyle/halloween-2026-7-easy-budget-friendly-costumes-you-can-make-with-things-you-already-have-at-home/

@@ -51,6 +51,9 @@ So this Halloween, skip the expensive shop aisle. Grab a sheet, a box, and a lit
 - [Buy Clothes Smart Spend Less](https://talhablog.com/blog/buy-clothes-smart-spend-less/)
 - [Best Horror Movies This Halloween](https://talhablog.com/blog/best-horror-movies-this-halloween/)
 
+
+For example: a shop costume at Rs 5,000, compared with a home-made costume using cardboard at Rs 500, paint at Rs 800 and ribbon at Rs 200 — Rs 500 + Rs 800 + Rs 200 = Rs 1,500 in total, so the saving is Rs 5,000 − Rs 1,500 = Rs 3,500. Ye ek misal hai, asli qeemat se farq ho sakti hai.
+
 ## My Take: The Bedsheet Ghost Beats the Costly Costume
 
 Last October, a small boy in an old white bedsheet with two eye holes stopped the whole street, while a child in a costly shiny costume got no reaction at all. The post's lesson is that most families already own everything needed for a great costume: a black bin bag becomes a witch's cape, a cardboard box becomes a robot, and an old shirt with patches becomes a scarecrow.
@@ -74,3 +77,7 @@ The bedsheet ghost never fails. Take an old white sheet, fold it in half, and as
 **What can I make a Halloween costume from?**
 
 Cardboard is the secret weapon of cheap costumes. A big box, some paint, and safe scissors can build almost anything: cut a hole for the head and two for the arms, paint it silver, and you have a robot, then add bottle caps as buttons and a kitchen colander as a helmet. A cardboard box can also become a television, a car, or a house with windows. A black bin bag becomes a witch's cape, and an old shirt with patches becomes a scarecrow that looks like it walked straight out of a field.
+
+## Sources
+
+- Positively Frugal — Frugal Halloween: Cheap Costumes, DIY Decorations and Budget Party Ideas: https://positivelyfrugal.com/frugal-halloween/

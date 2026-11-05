@@ -75,6 +75,8 @@ The blanket is back in the cupboard now, folded, waiting. The heater clicks on i
 
 - [Save Money On Winter Clothes](https://talhablog.com/blog/save-money-on-winter-clothes/)
 
+Misal: heater roz 5 ghante, 500 watt = 2.5 units roz. 30 din = 75 units. Unit Rs 40 ho to mahina Rs 3,000. Sirf 3 ghante chalane par 45 units = Rs 1,800, yani saving Rs 1,200. Ye ek misal hai, asli bijli rate se farq ho sakta hai.
+
 ## My Take: Winter heating keeps warmth by sealing cracks first
 
 Monday night. The first real cold week of the year. The heater clicked on in the living room, the window showed its first frost at the corners, and the old heavy blanket, dragged out of the cupboard that morning, settled over knees like it had never been away. Heating means warming indoor spaces, usually with heaters or central systems. It is also, in winter, one of the largest lines on the household bill. This is the log of one cold week in one room, and what the heater learned about its manners. The first lesson was not about the heater at all. It was about the cracks. Warm air escapes through gaps around doors and windows before it ever warms a person. A hand along the window frame felt a thin, cold thread of air, patient and constant. A strip of draught seal on the frame, a rolled cloth at the bottom of the door, and the thread stopped. The room did not suddenly become a furnace. It simply stopped losing what the heater had already worked to make.

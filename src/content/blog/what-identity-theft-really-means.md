@@ -117,4 +117,4 @@ Review your credit reports and bank statements regularly, use strong, unique pas
 ## Sources
 
 - Consumer Financial Protection Bureau, "What is identity theft?": https://www.consumerfinance.gov/ask-cfpb/what-is-identity-theft-en-1243/
-- Action Fraud, "Ponzi schemes": https://www.actionfraud.police.uk/a-z-of-fraud/ponzi-schemes
+- Action Fraud, "Identity fraud and identity theft": https://www.actionfraud.police.uk/a-z-of-fraud/identity-fraud-and-identity-theft

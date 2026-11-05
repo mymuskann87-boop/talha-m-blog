@@ -71,6 +71,8 @@ The router will keep blinking either way. The question is only whether the bill 
 
 - [Save Money On Wedding Costs](https://talhablog.com/blog/save-money-on-wedding-costs/)
 
+Misal: roz 2 ghante film dekhna mahine me 30 x 2 = 60 ghante banta hai; jo ghar itna istemal nahi karta usay itni bari zaroorat nahi — apne asli istemal ke mutabiq package lein, kyunke plan ki qeemat har company aur ilaqe me farq hoti hai. Ye ek misal hai, koi khaas plan ki qeemat nahi batayi gayi.
+
 ## My Take: Internet package should match real use, not brochure
 
 It sits in the corner, blinking. Small box, green lights, a faint hum nobody notices until it stops. That is the router, the most ignored appliance in the house, and the one quietly carrying a monthly bill probably never questioned. An internet service provider is the company that connects a home to the internet, usually for a monthly fee. A package was chosen once, maybe years ago, and the bill has arrived ever since. This post starts at that blinking box and ends at that bill, and the distance between them is shorter than expected. Browsing, messaging, and video calls need far less speed than people assume. A video call runs happily on a modest connection. Streaming a film in normal quality needs a little more. The hungry case is a house full of people streaming in the highest 4K quality at the same time, plus large game downloads, and even then, the need is occasional, not constant.

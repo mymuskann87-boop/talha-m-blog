@@ -25,7 +25,7 @@ A home party has one honest limit: space. If the guest list is larger than the h
 
 Catering is usually the second largest cost, and it is the easiest to replace. A homemade cake costs a fraction of a bakery cake, and it carries something no shop cake can: the knowledge that someone in the family made it for this child. Children rarely compare cakes by price. They compare them by taste, by candles, and by who made them.
 
-Home snacks follow the same logic. Sandwiches, fruit, popcorn, juice, and a few homemade treats feed a children's party happily. The food does not need to impress adults; it needs to fill small stomachs between games. For example, a table of home snacks for twenty children can cost less than a single catered platter, and the children will eat just as happily.
+Home snacks follow the same logic. Sandwiches, fruit, popcorn, juice, and a few homemade treats feed a children's party happily. The food does not need to impress adults; it needs to fill small stomachs between games. Misal: 10 bachon ki home party me cake Rs 2,000, snacks Rs 3,000 aur balloons Rs 1,000 — kul Rs 6,000, yani Rs 600 per bacha. Ye ek misal hai, asli qeemat sheher aur dukaan se farq ho sakti hai.
 
 For adult guests, the same rule holds with slightly better food. A home-cooked meal, served simply, beats a catered spread that nobody remembers. The money saved on catering can go toward one thing the child truly wants, such as a special gift or a favourite game, instead of disappearing into a food bill.
 

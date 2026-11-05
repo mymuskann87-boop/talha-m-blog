@@ -74,6 +74,9 @@ Some homes also need more care than others. A home with small children, elderly 
 - [Cut Weekly Laundry Costs Down](https://talhablog.com/blog/cut-weekly-laundry-costs-down/)
 - [Save Money On Home Repairs](https://talhablog.com/blog/save-money-on-home-repairs/)
 
+
+For example: five average bottles at Rs 800 each cost 5 × Rs 800 = Rs 4,000, while one good bottle at Rs 1,500 plus a refill at Rs 1,000 costs Rs 1,500 + Rs 1,000 = Rs 2,500 — a saving of Rs 4,000 − Rs 2,500 = Rs 1,500. Ye ek misal hai, asli qeemat se farq ho sakti hai.
+
 ## My Take: Home Cleaning Savings Hide in One Good Bottle
 
 The post offers six habits. One good bottle instead of five average ones. Simple basics that do the real work. A little every day beats one big expensive clean. Cloths you wash beat wipes you throw away. Refills and the price per use. What cheaper cleaning cannot fix. One good bottle that does the main job well replaces five average bottles. A little every day prevents build-up. 

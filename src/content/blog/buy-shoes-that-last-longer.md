@@ -17,7 +17,7 @@ This post walks that same road in detail. It explains how to judge shoes by what
 
 The price on the tag is not the real price of a pair of shoes. The real price is the tag price divided by the number of days the shoes actually serve. A shoe is a tool worn daily, and tools should be judged by their working life, not by their sticker.
 
-Take a simple example, using round numbers only to show the maths. A pair costing 4,000 and worn for 200 days costs 20 per day of wear. A pair costing 1,500 and worn for only 30 days costs 50 per day of wear. The cheaper-looking pair costs more than twice as much for every day it serves, and then it must be replaced, starting the spending again. This measure has a plain name: cost per wear. Once a buyer starts thinking in cost per wear, shop windows look different. Flashy discounts lose their shine, and quiet, well-made shoes start looking like bargains.
+Take a simple example, using round numbers only to show the maths. A pair costing Rs 4,000 and worn for 200 days costs Rs 20 per day of wear. A pair costing Rs 1,500 and worn for only 30 days costs Rs 50 per day of wear. The cheaper-looking pair costs more than twice as much for every day it serves, and then it must be replaced, starting the spending again. This measure has a plain name: cost per wear. Once a buyer starts thinking in cost per wear, shop windows look different. Flashy discounts lose their shine, and quiet, well-made shoes start looking like bargains.
 
 A shoe is a covering for the foot, built from a sole, an upper, and stitching or glue holding them together. Those three parts decide its life. A thick sole resists roads. A strong upper resists tearing. Good stitching holds both together long after glue alone would give up. The eye sees colour and style first, but the road tests soles, uppers, and stitching, and the road always wins in the end.
 
@@ -66,7 +66,7 @@ There is a second limit: feet differ. Some feet need special support, wide fitti
 
 ## My Take: Shoes Are Cheap Only When They Last
 
-The post opens with two pairs walking the same road. The cheap, bright pair peeled and failed within a month. The pair costing more than twice as much walked for two years, and proved cheaper in the end. Its maths uses round numbers only: a pair costing 4,000 and worn 200 days costs 20 per day, while a pair costing 1,500 and worn 30 days costs 50 per day.
+The post opens with two pairs walking the same road. The cheap, bright pair peeled and failed within a month. The pair costing more than twice as much walked for two years, and proved cheaper in the end. Its maths uses round numbers only: a pair costing Rs 4,000 and worn 200 days costs Rs 20 per day, while a pair costing Rs 1,500 and worn 30 days costs Rs 50 per day.
 
 In my view, cost per wear changes shopping more than any discount ever could, because it moves the judgement from the shop window to the road. The eye sees colour and style first, but the road tests soles, uppers, and stitching, and the road always wins. I think the check before paying is the habit that saves the most money for the least effort. My call is that comfort on the first walk is the cheapest feature a shoe can have.
 
@@ -78,7 +78,7 @@ What should a reader do differently? First, ask before every purchase how many p
 
 **What is cost per wear, and why does it matter for shoes?**
 
-Cost per wear is the price of a pair divided by the number of days it is actually worn. A 4,000 pair worn 200 days costs 20 per day, while a 1,500 pair worn only 30 days costs 50 per day. It matters because it reveals which pair is truly cheaper over its whole life.
+Cost per wear is the price of a pair divided by the number of days it is actually worn. A Rs 4,000 pair worn 200 days costs Rs 20 per day, while a Rs 1,500 pair worn only 30 days costs Rs 50 per day. It matters because it reveals which pair is truly cheaper over its whole life.
 
 **How can I tell if a shoe is well made before buying?**
 

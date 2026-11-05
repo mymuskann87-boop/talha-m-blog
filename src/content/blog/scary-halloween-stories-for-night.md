@@ -90,3 +90,7 @@ The friendly ghost is perfect for younger listeners who want a thrill without fe
 **What makes a good scary storyteller?**
 
 A storyteller does not need special effects. A pause at the right moment does more than any sound effect, and a quiet voice, a slow build, and a surprise at the end are enough to make a whole room gasp. The same story in daylight feels ordinary, but at night, with shadows on the walls and silence between the words, it feels alive, and that is why Halloween night and scary stories belong together.
+
+## Sources
+
+- DLTK's Holiday Crafts for Kids — Halloween Ghost Stories: https://www.dltk-holidays.com/halloween/stories/ghost/index.htm

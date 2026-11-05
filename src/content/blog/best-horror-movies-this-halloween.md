@@ -92,3 +92,7 @@ The light and funny films are the safe start when children are in the room. Hocu
 **What should older viewers watch after the kids go to bed?**
 
 The Nightmare Before Christmas is a beautiful mix of Halloween and Christmas, with songs, strange creatures, and a hero who means well, and it is more magical than frightening. Coraline is a clever, slightly creepy story about a girl who finds a secret door in her new home, tense and mysterious, and it works best for older children and adults. Gremlins starts cute and turns chaotic, as small furry creatures cause big trouble in a small town, balancing comedy and chaos in a way that still feels fresh.
+
+## Sources
+
+- Film Daily — The best horror movies on Rotten Tomatoes to watch tonight: https://filmdaily.co/news/the-best-horror-movies-on-rotten-tomatoes-to-watch-tonight/

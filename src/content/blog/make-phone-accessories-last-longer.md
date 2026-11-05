@@ -66,6 +66,8 @@ Also, safety comes before saving. A cable with exposed wires, a swollen battery 
 - [Save Money On Mobile Accessories](https://talhablog.com/blog/save-money-on-mobile-accessories/)
 - [Make Your Laptop Last Longer](https://talhablog.com/blog/make-your-laptop-last-longer/)
 
+Misal: aik cable Rs 500 ki ho aur saal me 4 cable toot jayein to kharcha 4 x Rs 500 = Rs 2,000; ehtiyat se aik hi cable chale to sirf Rs 500, yani Rs 1,500 ki bachat. Ye ek misal hai, asli qeemat dukaan se farq ho sakti hai.
+
 ## My Take: Phone Accessories Die From Handling, Not Old Age
 
 The post follows one cable through its life and argues that most cables do not die of old age. They die of rough handling, and accessories can last two or three times longer with small habits. The single biggest killer is the yank: grabbing the cord and pulling stretches tiny wires near the plug, and a hundred yanks break them. The fix costs nothing: pull from the plug itself, with a firm grip on the hard head, and teach children the same habit. Damage is almost always at the joint where cord meets plug, so leave a gentle curve, never bend sharply at the plug, coil loosely in wide loops, and let bends happen in the middle of the cord. Earphones should be coiled in loose loops in a case, not stuffed loose in a pocket to knot and be yanked.

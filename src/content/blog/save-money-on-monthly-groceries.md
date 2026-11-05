@@ -55,6 +55,8 @@ The maths is gentle but real. For example, saving even a small amount every week
 
 - [Sew Clothes Save Money Monthly](https://talhablog.com/blog/sew-clothes-save-money-monthly/)
 
+Misal: mahine ka grocery budget Rs 30,000 ho to atta/chawal Rs 12,000 + daal/sabzi Rs 10,000 + doodh Rs 5,000 + masale Rs 3,000 = Rs 30,000. Ye ek misal hai, asli budget family se farq ho sakta hai.
+
 ## My Take: Monthly groceries shrink when meals decide shopping
 
 The basket gave the family away before they reached the till. On top sat the week's real food, rice, lentils, onions, a bag of flour. Underneath, half-buried like evidence, were extras: two packs of biscuits nobody planned, a fancy sauce, a big bottle of juice, and a chocolate bar that had clearly jumped in at the last aisle. The bill would be a third higher than needed, and nobody could have said why. That is the grocery mystery in most homes. Money does not vanish in one big purchase. It leaks, item by item, visit by visit, until the month ends and the food budget is already gone. Groceries are the biggest cost most families can actually control. Rent is fixed. Bills arrive as they arrive. Food shopping is a choice made three or four times a month, and every choice can be changed. The detective work starts before anyone leaves the house.

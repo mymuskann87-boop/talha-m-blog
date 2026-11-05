@@ -11,7 +11,7 @@ tags: ["Harry Brook", "ODI double century", "England cricket"]
 
 ## The Innings of a Lifetime
 
-Wednesday in Rawalpindi began like a dream for Harry Brook.
+Thursday in Rawalpindi began like a dream for Harry Brook.
 
 The England batter walked into a one-day international tri-series match and played the innings of his life. Ball after ball disappeared to the boundary. The crowd rose again and again. And before the innings ended, Brook had done something no cricketer in the long history of one-day internationals had ever done before: he had scored a double century faster than anyone, ever, according to reports of the match.
 
@@ -51,7 +51,7 @@ Sri Lanka came out to bat needing 430 to win, and they refused to read the scrip
 
 Chasing a total like that is a test of nerve as much as skill. The scoreboard pressure is brutal: fall behind the rate and panic spreads; lose early wickets and the dressing room starts doing sad mathematics. Sri Lanka instead built their innings around a magnificent century of their own. Pavan Rathnayake scored 130, a huge innings played under the heaviest pressure a batter can face, with the target towering over every single ball.
 
-And Sri Lanka kept going. Wicket by wicket, over by over, they stayed alive in a chase that should have died long before the end. With five balls to spare — at 49.5 overs — they reached 430 for 8 and won the match by two wickets.
+And Sri Lanka kept going. Wicket by wicket, over by over, they stayed alive in a chase that should have died long before the end. With one ball to spare — at 49.5 overs — they reached 430 for 8 and won the match by two wickets.
 
 Read that scorecard again, because it tells the whole cruel story in two lines. England: 429 for 4. Sri Lanka: 430 for 8. One run of difference in the totals, a world of difference in the mood at the end of the night. Sri Lanka's chase stands as the second-highest successful chase in the history of one-day international cricket — a record in itself, carved out of the same extraordinary match.
 
@@ -83,7 +83,7 @@ That is why cricket fans will remember this match long after ordinary wins and l
 
 ## My Take: Brook's Record Lost, and That Makes It Greater
 
-Harry Brook scored a double century in a one-day international in Rawalpindi, faster than anyone before him, according to reports of the match. England closed on 429 for 4, a mountain total that almost always wins, and Brook's innings was the headline performance. Sri Lanka chased 430 and reached it with five balls to spare, at 49.5 overs, winning by two wickets at 430 for 8. Pavan Rathnayake scored 130 in the chase, and Sri Lanka's effort stands as the second-highest successful chase in one-day international history. A chase of 430 must average well over eight runs in every over, with no room for a slow start.
+Harry Brook scored a double century in a one-day international in Rawalpindi, faster than anyone before him, according to reports of the match. England closed on 429 for 4, a mountain total that almost always wins, and Brook's innings was the headline performance. Sri Lanka chased 430 and reached it with one ball to spare, at 49.5 overs, winning by two wickets at 430 for 8. Pavan Rathnayake scored 130 in the chase, and Sri Lanka's effort stands as the second-highest successful chase in one-day international history. A chase of 430 must average well over eight runs in every over, with no room for a slow start.
 
 In my view, the shadow beside Brook's record makes the innings greater, not smaller, and that judgement goes against the usual way sport is remembered. Records measure the player. Results measure the day. Brook walked that tightrope at full sprint and never fell, choosing attack again and again, and that steadiness under risk is what made the innings historic. My call is that readers who call the innings wasted, because England lost, have confused the scoreboard with the performance.
 
@@ -99,11 +99,11 @@ England batter Harry Brook, who played the innings of his life in a one-day inte
 
 **What was the final result of the match?**
 
-Sri Lanka won one of the most extraordinary matches in one-day history. England closed on 429 for 4, a mountain of a total that almost always wins before the other team picks up a bat. Sri Lanka refused to follow the script, stayed alive wicket by wicket and over by over, and reached 430 for 8 with five balls to spare, at 49.5 overs, winning by two wickets. England scored 429, Sri Lanka scored 430, and one run of difference in the totals meant a world of difference in the mood at the end of the night.
+Sri Lanka won one of the most extraordinary matches in one-day history. England closed on 429 for 4, a mountain of a total that almost always wins before the other team picks up a bat. Sri Lanka refused to follow the script, stayed alive wicket by wicket and over by over, and reached 430 for 8 with one ball to spare, at 49.5 overs, winning by two wickets. England scored 429, Sri Lanka scored 430, and one run of difference in the totals meant a world of difference in the mood at the end of the night.
 
 **Where was the match played?**
 
-The ODI tri-series match was played in Rawalpindi, Pakistan, on a Wednesday when the crowd rose again and again as ball after ball disappeared to the boundary. Rawalpindi was the stage for both records made that day: Brook's fastest double century in the first innings, and Sri Lanka's record chase in the second. The ground, the crowd and the occasion all belonged to a match that fans will remember long after ordinary wins and losses fade.
+The ODI tri-series match was played in Rawalpindi, Pakistan, on a Thursday when the crowd rose again and again as ball after ball disappeared to the boundary. Rawalpindi was the stage for both records made that day: Brook's fastest double century in the first innings, and Sri Lanka's record chase in the second. The ground, the crowd and the occasion all belonged to a match that fans will remember long after ordinary wins and losses fade.
 
 **Who was Sri Lanka's top scorer in the chase?**
 
@@ -115,5 +115,5 @@ Because reaching a target of 430 made it the second-highest successful run chase
 
 ## Sources
 
-- Arab News Pakistan (AFP report, Brook's fastest ODI double century) — https://www.arabnews.pk/pakistan
-- MyKhel (Sports Bulletin, 23 October 2026) — https://www.mykhel.com/news/sports-bulletin-october-23-naman-dhir-stars-against-new-zealand-sheetal-devi-wins-double-gold-457041.html
+- ProPakistani — Multiple Records Shattered as Sri Lanka Stun England in ODI Tri-Series Thriller, 23 October 2026: https://propakistani.pk/?p=1104743
+- MR Cricket — ODI Double Centuries List: Players with Fastest Double Centuries: https://www.mrcricketuae.com/cricket-stats/odi-double-centuries-list-fastest-double-century/

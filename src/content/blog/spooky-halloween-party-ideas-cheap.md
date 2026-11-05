@@ -70,3 +70,7 @@ Give ordinary snacks spooky names and watch guests smile: sausages become witch 
 **What makes a Halloween party memorable?**
 
 The best parties are the ones where the host had fun making things, not the ones where the host spent the most money. A dark room, a few clever decorations, and food with silly names do more than any expensive display, because guests remember the feeling of the evening: low lights, paper ghosts, a smoking punch bowl, and friends laughing together. That feeling, not the spending, is what people carry home.
+
+## Sources
+
+- AlternativeFix — Throw a Halloween Party So Good, It's Scary (budget-friendly party tips): https://alternativefix.com/throw-a-halloween-party-so-good/

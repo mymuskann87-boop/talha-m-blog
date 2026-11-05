@@ -126,7 +126,7 @@ Bell recorded the words in his laboratory notebook on the night itself, 10 March
 
 ## Sources
 
-- Library of Congress, "Alexander Graham Bell Family Papers" (finding aid): https://tile.loc.gov/storage-services/service/gdc/gdcfindingaidpdfs/ms000011/ms000011.pdf
+- OUPblog, "Alexander Graham Bell makes world’s first telephone call": https://blog.oup.com/2012/03/alexander-graham-bell-first-telephone-call/
 - Linda Hall Library, "Alexander Graham Bell — Scientist of the Day": https://www.lindahall.org/about/news/scientist-of-the-day/alexander-graham-bell/
 - EBSCO Research Starters, "Telephone — History": https://www.ebsco.com/research-starters/history/telephone
 - Wikipedia, "History of the Telephone": https://en.wikipedia.org/wiki/History_of_the_telephone

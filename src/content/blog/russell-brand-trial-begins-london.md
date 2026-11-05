@@ -133,6 +133,5 @@ Russell Brand is 51 years old. He was born on 4 June 1975 in Grays, Essex, Engla
 
 ## Sources
 
-- Newsmax — https://www.newsmax.com/thewire/russell-brand-trial-rape/2026/10/13/id/1272609
 - The Express Tribune — http://tribune.com.pk/story/2634423/russell-brands-criminal-trial-begins-in-london-over-rape-and-sexual-assault-charges
 - New York Post — https://nypost.com/2026/10/13/world-news/rape-trial-to-kick-off-against-british-actor-russell-brand/

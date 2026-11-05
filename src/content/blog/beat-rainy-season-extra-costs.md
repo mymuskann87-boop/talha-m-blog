@@ -58,6 +58,8 @@ There are honest limits. Some rain damage cannot be prevented. A truly exception
 - [Save Money On Home Repairs](https://talhablog.com/blog/save-money-on-home-repairs/)
 - [Save Money On Winter Heating](https://talhablog.com/blog/save-money-on-winter-heating/)
 
+Misal: barish ke mahine ka extra budget Rs 2,500 rakha jaye: chhata Rs 800 + raincoat Rs 1,200 + juton ki dekh-bhaal Rs 500 = Rs 2,500. Ye ek misal hai, asli qeemat dukaan se farq ho sakti hai.
+
 ## My Take: Rainy Season Costs Fall to Early, Cheap Preparation
 
 The rainy season does not send one big bill. The post follows one house through five lessons: check roofs, drains, and seals before the rains; protect shoes, bags, and electronics; keep a small stock of essentials; dry clothes with air flow; and plan travel with rain in mind. Sealing a gap costs a little time and a small tube of sealant. Repairing a flooded room costs plaster, paint, possibly furniture, and days of disruption. Covers are cheap, and a failed phone is one of the most expensive rainy-season costs there is.

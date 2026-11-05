@@ -112,4 +112,4 @@ The president may grant reprieves and pardons for federal offences, except in ca
 
 ## Sources
 
-- Vote Smart — https://votesmart.org/education/president
+- Encyclopaedia Britannica — United States: The Executive Branch: https://www.britannica.com/place/United-States/The-executive-branch

@@ -91,5 +91,5 @@ No player has scored 1,000 official senior goals under modern statistical counti
 
 ## Sources
 
-- beIN Sports — Cristiano Ronaldo hits 982 career goals: https://www.beinsports.com/en-us/soccer/saudi-pro-league/articles-video/cristiano-ronaldo-hits-982-career-goals-as-al-nassr-beat-al-faisaly-2026-10-27
-- ESPN — Ronaldo celebrates 982nd goal, but it may go down as own goal: https://www.espn.com/soccer/story/_/id/46812345/cristiano-ronaldo-982nd-goal-own-goal-al-nassr
+- beIN Sports — Cristiano Ronaldo's "Ghost Goals" Spark Huge Al Nassr Controversy: https://www.beinsports.com/en-us/soccer/articles/cristiano-ronaldo-s-ghost-goals-spark-huge-al-nassr-controversy-2026-10-27
+- ESPN — Cristiano Ronaldo claims disputed goal in Al Nassr win: https://www.espn.ph/football/story/_/id/50258631/cristiano-ronaldo-portugal-al-nassr-goal-saudi-pro-league

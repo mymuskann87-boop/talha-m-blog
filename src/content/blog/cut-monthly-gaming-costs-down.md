@@ -57,6 +57,9 @@ None of this is an argument against gaming. Gaming is real entertainment, real s
 
 The honest goal is smaller: spend on games the way you spend on anything you love — deliberately, within a number you chose, and on the games you actually play. The shelf stops growing. The wallet stops leaking. And the games themselves, played properly instead of collected anxiously, become fun again.
 
+
+For example: a game at Rs 4,000 on launch day, compared with the same game at Rs 2,000 in a genuine sale, saves Rs 4,000 − Rs 2,000 = Rs 2,000 per game — or Rs 2,000 × 3 = Rs 6,000 across three games. Ye ek misal hai, asli qeemat se farq ho sakti hai.
+
 ## My Take: Gaming Budgets Reward Finishing Before Buying
 
 The post offers five habits. Finish the backlog before buying anything new. Wait for genuine sales instead of launch-day prices. Try before you buy with free games and free weekends. Give gaming a monthly budget like any other pleasure. Sell or swap finished games where the platform allows. 

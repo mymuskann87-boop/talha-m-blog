@@ -57,6 +57,8 @@ The best gym, in my opinion, is the one you actually visit — even if that gym 
 
 - [Study Free Without Costly Books](https://talhablog.com/blog/study-free-without-costly-books/)
 
+Misal: gym fee mahina Rs 3,000 ho to saal me 12 x Rs 3,000 = Rs 36,000 bante hain; park me muft walk aur bodyweight exercise Rs 0 me ho jati hai, yani saal me Rs 36,000 ki bachat. Ye ek misal hai, asli gym fee se farq ho sakta hai.
+
 ## My Take: Free Workouts Beat Costly Gyms Only When Repeated
 
 The post argues that free workouts can replace costly gyms, and it makes the case with exercises that need no equipment: walking, running, bodyweight movements such as push-ups, squats, and planks, stretching, and routines built from household items and outdoor spaces such as parks and stairs. It stresses consistency over intensity, proper form to avoid injury, warming up and cooling down, and using free videos and apps for guidance, while warning that a gym's real value is not only machines but structure, coaching, community, and accountability. The post also notes that a gym membership is wasted if it is rarely used, and that many people pay for months they never attend, while a free routine done daily beats an expensive routine done twice. That comparison, habit against membership, is the fact my judgement starts from.

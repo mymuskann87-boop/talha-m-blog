@@ -15,7 +15,7 @@ Eid is a Muslim festival marking celebration, family gatherings, new clothes and
 
 ## Start Eid shopping with a list, not a wallet
 
-The first step costs nothing and saves the most: write the Eid list early. Sit down with the family two or three weeks before Eid and name everything — clothes for each person, shoes, gifts, food and sweets, decorations. Then write one number beside the whole list: the total budget for Eid shopping. Not a budget per shop, not a vague "we will see" — one total number the whole family knows.
+The first step costs nothing and saves the most: write the Eid list early. Sit down with the family two or three weeks before Eid and name everything — clothes for each person, shoes, gifts, food and sweets, decorations. Then write one number beside the whole list: the total budget for Eid shopping. Not a budget per shop, not a vague "we will see" — one total number the whole family knows. Misal: kul budget Rs 20,000 ho to kapre Rs 10,000, mithai Rs 4,000, gifts Rs 3,000 aur Eidi Rs 3,000 — kul Rs 20,000. Ye ek misal hai, asli budget family se farq ho sakta hai.
 
 Why does this work? A list turns a bazaar visit from a wandering trip into a mission. When the list says two shirts for the elder son, the third glittering shirt has to argue its way in, and most of the time it loses. Without a list, every shop is a new temptation and every temptation feels like a small thing, until the small things form a large bill.
 

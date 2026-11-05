@@ -53,6 +53,8 @@ Home food has one more quiet advantage worth naming. Cooking at home lets the co
 
 - [Pay Loans Faster Save Interest](https://talhablog.com/blog/pay-loans-faster-save-interest/)
 
+Misal: 1 haftay me 5 takeaway Rs 800 each = Rs 4,000. Ghar ka khana 5 din Rs 300 each = Rs 1,500, yani saving Rs 2,500. Ye ek misal hai, asli qeemat sheher se farq ho sakti hai.
+
 ## My Take: Three Home Dinners Beat Seven Promised Ones
 
 A home pot of lentils with rice steaming beside it holds enough for tonight and for tomorrow's lunch, at a fraction of the price of a takeaway meal. The honest limit is stated plainly: three home-cooked dinners a week instead of none is a real saving, four is better, and seven is a bonus, not a duty.

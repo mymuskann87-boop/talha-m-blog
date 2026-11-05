@@ -103,5 +103,5 @@ Incredibly close. Sri Lanka reached 430 for 8 in 49.5 overs, out of fifty, with 
 
 ## Sources
 
-- MyKhel, Sports Bulletin, 23 October 2026 — https://www.mykhel.com/news/sports-bulletin-october-23-naman-dhir-stars-against-new-zealand-sheetal-devi-wins-double-gold-457041.html
-- Arab News Pakistan (AFP match report) — https://www.arabnews.pk/pakistan
+- ProPakistani — Multiple Records Shattered as Sri Lanka Stun England in ODI Tri-Series Thriller, 23 October 2026: https://propakistani.pk/?p=1104743
+- MR Cricket — ODI Double Centuries List: Players with Fastest Double Centuries: https://www.mrcricketuae.com/cricket-stats/odi-double-centuries-list-fastest-double-century/

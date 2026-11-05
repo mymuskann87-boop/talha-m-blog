@@ -25,7 +25,7 @@ Colour helps too. Neutral colours — white, black, navy, grey, brown — mix wi
 
 The most useful piece of maths in this whole post fits in one sentence: divide the price by the number of times you wear it. That number is the true price of the piece.
 
-For example, a jacket that costs 3,000 and is worn 100 times costs 30 per wear. A shirt that costs 1,000 and is worn twice costs 500 per wear. The jacket looked expensive in the shop. The shirt looked cheap. The maths says the opposite. The shirt was the expensive purchase, because almost all of its price was thrown away after two outings.
+For example, a jacket that costs Rs 3,000 and is worn 100 times costs Rs 30 per wear. A shirt that costs Rs 1,000 and is worn twice costs Rs 500 per wear. The jacket looked expensive in the shop. The shirt looked cheap. The maths says the opposite. The shirt was the expensive purchase, because almost all of its price was thrown away after two outings.
 
 In my view, the cheapest shirt in any closet is the one you actually wear — the rest are just expensive decorations hanging in the dark.
 
@@ -71,7 +71,7 @@ My wardrobe audit took one Sunday afternoon. The bed was covered, the pile of un
 
 ## My Take: Clothes Earn Their Place by Being Worn
 
-A wardrobe audit tells a plain truth. Most money goes into a few pieces worn all the time. Most waste goes into pieces barely worn at all. The post's central maths is simple: divide the price by the number of times you wear it. A jacket costing 3,000 and worn 100 times costs 30 per wear. A shirt costing 1,000 and worn twice costs 500 per wear.
+A wardrobe audit tells a plain truth. Most money goes into a few pieces worn all the time. Most waste goes into pieces barely worn at all. The post's central maths is simple: divide the price by the number of times you wear it. A jacket costing Rs 3,000 and worn 100 times costs Rs 30 per wear. A shirt costing Rs 1,000 and worn twice costs Rs 500 per wear.
 
 In my view, cost per wear is the most honest number in personal finance, because it punishes the exact mistake shops are designed to cause. A sale sign makes a shirt look cheap in the moment. The maths waits until the shirt has been worn twice and reveals the truth. My call is that every shopper should do this division in their head before paying, and put the piece back if the honest answer is maybe twice. The shop will still be there tomorrow, and the money will still be in your pocket.
 
@@ -83,7 +83,7 @@ What should a reader do differently? First, audit the closet honestly, piece by 
 
 **What is cost per wear, in simple words?**
 
-It is the price of a piece divided by the number of times you wear it. A 3,000 jacket worn 100 times costs 30 per wear. A 1,000 shirt worn twice costs 500 per wear. The number tells you which purchase was truly cheap and which one quietly wasted money.
+It is the price of a piece divided by the number of times you wear it. A Rs 3,000 jacket worn 100 times costs Rs 30 per wear. A Rs 1,000 shirt worn twice costs Rs 500 per wear. The number tells you which purchase was truly cheap and which one quietly wasted money.
 
 **How many clothes does a person really need?**
 

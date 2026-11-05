@@ -82,3 +82,8 @@ Teach children to wait on the doorstep, not to step inside a stranger's house, e
 **Should children eat sweets while trick-or-treating?**
 
 Never eat treats on the street. Wait until you are home, where an adult can check everything first, and throw away anything unwrapped or damaged. These rules are not meant to spoil the fun: they are meant to protect it, so that every child comes home tired, happy, and safe, and the evening stays a happy memory instead of a spoiled one.
+
+## Sources
+
+- American Academy of Pediatrics (HealthyChildren.org) — Halloween Fun & Safety Tips for Kids of All Ages: https://www.healthychildren.org/english/safety-prevention/all-around/pages/halloween-safety-tips.aspx
+- Safe Kids Worldwide — 10 Easy Things You Can Do to Keep Kids Safe on Halloween: https://www.safekids.org/press-release/10-easy-things-you-can-do-keep-kids-safe-halloween

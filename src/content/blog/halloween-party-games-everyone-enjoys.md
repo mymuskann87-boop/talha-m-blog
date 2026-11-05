@@ -80,3 +80,7 @@ Cut a hole in the side of a cardboard box, big enough for a hand, and fill the b
 **What is costume bingo at a Halloween party?**
 
 Before the party, make a simple bingo card with squares like someone wearing a hat, someone dressed as an animal, or someone with face paint, and hand one card to each guest. As the evening goes on, players tick off what they spot, and the first full row wins a small prize, like a bag of sweets. It is a quiet game that runs in the background and keeps people looking around the room.
+
+## Sources
+
+- Beanstalk Mums — 10 Kids Halloween Games To Play At Home: https://beanstalkmums.com.au/life/seasonal/halloween/kids-halloween-games/

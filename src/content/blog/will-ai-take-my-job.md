@@ -97,5 +97,4 @@ The skills AI does not do well: judgement, creativity, communication, problem-so
 
 ## Sources
 
-- Bushe — AI Taking Jobs: https://www.bushe.com/blog/ai-taking-jobs/
 - World Economic Forum — Future of Jobs Report 2025 (press release): https://www.weforum.org/press/2025/01/170-million-new-jobs-to-be-created-this-decade-as-the-future-of-jobs-report-2025/

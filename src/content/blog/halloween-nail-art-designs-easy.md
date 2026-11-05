@@ -98,3 +98,7 @@ Paint the nail black or dark purple. Then paint a white blob shape in the middle
 **What do I need for Halloween nail art at home?**
 
 A base coat, so the colour does not stain your nails; orange, black, white, and purple polish; a toothpick or a bobby pin for dots and lines; a top coat to seal everything; and nail polish remover and cotton buds for quick fixes. That is all. No special pens, no salon visit, and no kit ordered online are needed.
+
+## Sources
+
+- InStyle — 15 Easy Halloween Nail Art Ideas, From Vampire Bites to Chrome Ghosts: https://www.instyle.com/easy-halloween-nail-art-12171932

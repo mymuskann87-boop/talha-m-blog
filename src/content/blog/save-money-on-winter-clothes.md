@@ -62,6 +62,8 @@ There are honest limits. In very cold places, proper winter clothing is a need, 
 - [Buy Shoes That Last Longer](https://talhablog.com/blog/buy-shoes-that-last-longer/)
 - [Save Money On Summer Clothes](https://talhablog.com/blog/save-money-on-summer-clothes/)
 
+Misal: sardi ke kapre: 2 sweater Rs 3,000 each = Rs 6,000 + jacket Rs 4,000 = Rs 10,000. Pichle saal ke kapre dobara pehnne par naya kharcha Rs 0. Ye ek misal hai, asli qeemat dukaan se farq ho sakti hai.
+
 ## My Take: Winter clothes cost less bought early and layered
 
 Open the winter wardrobe one drawer at a time, and it will tell the truth about last year's spending. At the top, the coat worn every day, now a little faded at the cuffs but still warm. Under it, the sweater bought on impulse that never quite matched anything. At the bottom, children's jackets, all outgrown by spring, all bought at full price in November. Winter clothes are expensive because they are bought in a hurry, in the cold, when every shop knows the buyer cannot wait. This post is about buying them the other way round: slowly, wisely, and mostly before winter even arrives. The single biggest saving is timing. Buy winter clothes at end-of-winter sales for next year. The same coat costing full price in November often costs far less in March, when shops clear space for summer stock. The coat has not changed. Only the calendar has.

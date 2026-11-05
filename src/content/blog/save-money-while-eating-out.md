@@ -69,6 +69,8 @@ And that is the whole change, really. Not a smaller life, not fewer celebrations
 
 - [Quit Smoking Save Money Daily](https://talhablog.com/blog/quit-smoking-save-money-daily/)
 
+Misal: bahar khana: 2 afraad ka bill Rs 3,000 + drink Rs 600 = Rs 3,600. Ghar se pehle nashta karke sirf main dish Rs 2,000 ho to saving Rs 1,600. Ye ek misal hai, asli qeemat restaurant se farq ho sakti hai.
+
 ## My Take: Eating out stays joyful with lunch and shared plates
 
 The bill arrived on a small plate, the way bills always do, and the waiter set it down with a smile suggesting everything was fine. It was not fine. Four people, one ordinary meal, and a total that made everyone at the table suddenly quiet. Nobody had ordered anything wild. Nobody had asked for gold on their rice. Yet there it was. If you have ever stared at a restaurant bill and wondered where the money went, this post is for you. Eating out is joy. It is birthdays, tired Fridays, friends finally caught up with. The goal is not to stop it. The goal is to read the bill before it reads you. Let us split one ordinary bill open on the table and look at it line by line. The first line is the meal itself, and here is a quiet secret: the same kitchen often charges less at midday. Lunch menus exist for a reason. Restaurants want full tables in the afternoon, so they offer smaller portions or set menus at gentler prices, the same cooks, the same recipes, a calmer bill.

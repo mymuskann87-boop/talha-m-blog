@@ -72,3 +72,8 @@ Halloween happens after dark, so being visible matters a lot. Bright costumes ar
 **How should families plan the Halloween route?**
 
 Pick a route before you leave the house, and agree on a meeting point in case anyone gets separated. A familiar street with good lighting beats a new street in the dark every time. Walk on sidewalks wherever they exist, cross roads only at corners or crossings, hold hands with little ones near traffic, and remind older children to look both ways even when they are excited. Costumes can be long and masks can block side vision, so remind children to turn their whole head when they look for cars.
+
+## Sources
+
+- American Academy of Pediatrics (HealthyChildren.org) — Halloween Fun & Safety Tips for Kids of All Ages: https://www.healthychildren.org/english/safety-prevention/all-around/pages/halloween-safety-tips.aspx
+- Safe Kids Worldwide — 10 Easy Things You Can Do to Keep Kids Safe on Halloween: https://www.safekids.org/press-release/10-easy-things-you-can-do-keep-kids-safe-halloween

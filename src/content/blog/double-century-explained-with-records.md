@@ -21,17 +21,17 @@ The achievement is different from a double century in Test cricket, where there 
 
 The first double century in ODI cricket was scored by Sachin Tendulkar of India, against South Africa at Gwalior, on 24 February 2010. Tendulkar scored 200 not out off 147 balls, and India won the match. Before that day, the highest ODI score was 194, by Saeed Anwar of Pakistan in 1997, and by Charles Coventry of Zimbabwe in 2009, who matched it. The 200 mark seemed like a barrier that might never be broken in 50 overs. Tendulkar broke it, and he did it without being dismissed, carrying his bat through the innings.
 
-Tendulkar's innings changed how people thought about ODI batting. If 200 was possible, then the limits of the format were higher than anyone had assumed. Within a year, Virender Sehwag of India scored 219 against the West Indies. Within two years, Rohit Sharma began the run of scores that would make him the only player with three ODI double centuries. The barrier, once broken, was broken repeatedly, but it remained rare. As of late 2026, only 11 batsmen had scored 14 double centuries in ODI cricket, according to SportsAdda's list.
+Tendulkar's innings changed how people thought about ODI batting. If 200 was possible, then the limits of the format were higher than anyone had assumed. Within a year, Virender Sehwag of India scored 219 against the West Indies. Within two years, Rohit Sharma began the run of scores that would make him the only player with three ODI double centuries. The barrier, once broken, was broken repeatedly, but it remained rare. As of late 2026, only 11 batsmen had scored 14 double centuries in ODI cricket, according to MR Cricket's list.
 
 ## The Fastest: Harry Brook's 114 Balls
 
-The fastest ODI double century, by balls faced, was scored by Harry Brook of England, against Sri Lanka at Rawalpindi, on 22 October 2026. Brook reached 200 off 114 balls, and finished with 202 off 116 balls, including 21 fours and 10 sixes. SportsAdda reported it as the fastest double century in ODI history, beating the previous record by one ball. The innings was remarkable for its speed and its power: Brook attacked from the start, hit the ball to all parts of the ground, and reached the milestone in less than 20 overs of batting.
+The fastest ODI double century, by balls faced, was scored by Harry Brook of England, against Sri Lanka at Rawalpindi, on 22 October 2026. Brook reached 200 off 114 balls, and finished with 202 off 116 balls, including 21 fours and 10 sixes. MR Cricket reported it as the fastest double century in ODI history, beating the previous record by one ball. The innings was remarkable for its speed and its power: Brook attacked from the start, hit the ball to all parts of the ground, and reached the milestone in less than 20 overs of batting.
 
 Brook's innings had a painful twist. England lost the match, making Brook the only batsman to score an ODI double century in a losing side. Sri Lanka chased down England's total, and Brook's 202 was not enough. That does not diminish the innings. It makes it more memorable, because it shows that even the greatest individual performance cannot always save a team. The record book will show the fastest double century, and the result book will show a defeat, on the same day, for the same player.
 
 ## The List In Order Of Speed
 
-SportsAdda's list of the fastest ODI double centuries, by balls faced, shows how the record has been pushed lower over time. After Brook's 114 balls, the next fastest are Shubman Gill of India, who reached 200 off 117 balls against New Zealand at Guwahati on 30 September 2026, scoring 117 in that innings, and Ishan Kishan of India, who reached 200 off 126 balls in 2022. Glenn Maxwell of Australia reached 200 off 128 balls, and Pathum Nissanka of Sri Lanka off 136 balls. Chris Gayle of the West Indies reached 200 off 138 balls, and Virender Sehwag off 140.
+MR Cricket's list of the fastest ODI double centuries, by balls faced, shows how the record has been pushed lower over time. After Brook's 114 balls, the next fastest are Shubman Gill of India, who reached 200 off 117 balls against West Indies at Guwahati on 30 September 2026, finishing 223 not out off 133 balls, and Ishan Kishan of India, who reached 200 off 126 balls in 2022. Glenn Maxwell of Australia reached 200 off 128 balls, and Pathum Nissanka of Sri Lanka off 136 balls. Chris Gayle of the West Indies reached 200 off 138 balls, and Virender Sehwag off 140.
 
 Further down the list are Shubman Gill again, reaching 200 off 145 balls in another innings, Sachin Tendulkar off 147, Fakhar Zaman of Pakistan off 148, and Rohit Sharma off 151 balls, twice, and off 156 balls in his third double century. Martin Guptill of New Zealand reached 200 off 152 balls. The list shows a clear pattern: the fastest double centuries have mostly come in the last few years, as batting has become more aggressive and as batsmen have learned to score quickly from the start of an innings.
 
@@ -77,7 +77,7 @@ A double century means one batsman scores 200 or more runs in a single innings. 
 
 **Who scored the fastest double century in ODI cricket?**
 
-Harry Brook of England scored the fastest ODI double century, reaching 200 off 114 balls against Sri Lanka at Rawalpindi on 22 October 2026, and finishing with 202 off 116 balls, including 21 fours and 10 sixes. SportsAdda reported it as the fastest double century in ODI history, beating the previous record by one ball. Brook is also the only batsman to score an ODI double century in a losing side, as Sri Lanka chased down England's total and won the match.
+Harry Brook of England scored the fastest ODI double century, reaching 200 off 114 balls against Sri Lanka at Rawalpindi on 22 October 2026, and finishing with 202 off 116 balls, including 21 fours and 10 sixes. MR Cricket reported it as the fastest double century in ODI history, beating the previous record by one ball. Brook is also the only batsman to score an ODI double century in a losing side, as Sri Lanka chased down England's total and won the match.
 
 **Who was the first to score a double century in ODI cricket?**
 
@@ -89,9 +89,9 @@ Rohit Sharma of India has the highest individual score in ODI cricket: 264 again
 
 **How many ODI double centuries have there been?**
 
-As of late 2026, there had been 14 double centuries in ODI cricket, scored by 11 different batsmen, according to SportsAdda's list. That is roughly one double century in every 300 ODI matches, in more than 4,000 matches played since the format began in 1971. The first came in 2010, and most have come since then, as batting has become more aggressive and batsmen have learned to believe 200 is possible in 50 overs.
+As of late 2026, there had been 14 double centuries in ODI cricket, scored by 11 different batsmen, according to MR Cricket's list. That is roughly one double century in every 300 ODI matches, in more than 4,000 matches played since the format began in 1971. The first came in 2010, and most have come since then, as batting has become more aggressive and batsmen have learned to believe 200 is possible in 50 overs.
 
 ## Sources
 
-- SportsAdda — Fastest double century in ODI: https://www.sportsadda.com/cricket/features/fastest-double-century-in-odi/
+- MR Cricket — ODI Double Centuries List: Players with Fastest Double Centuries: https://www.mrcricketuae.com/cricket-stats/odi-double-centuries-list-fastest-double-century/
 - Vedantu — Double Century in Cricket: https://www.vedantu.com/sports/double-century-in-cricket

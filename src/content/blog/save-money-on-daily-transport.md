@@ -21,7 +21,7 @@ In my view, short walks are money and mood at the same time, because the walker 
 
 ## The monthly pass versus the daily ticket
 
-For the regular route — the one taken five or six days a week — the maths deserves five quiet minutes. A daily ticket looks cheap. A monthly pass looks expensive. But multiply the daily ticket by the number of working days, and compare it honestly with the pass price. On a route taken almost daily, the pass usually wins, sometimes by a wide margin. On a route taken twice a week, the daily ticket usually wins, and the pass would be a waste.
+For the regular route — the one taken five or six days a week — the maths deserves five quiet minutes. A daily ticket looks cheap. A monthly pass looks expensive. Misal: daily ticket Rs 100 x 22 working days = Rs 2,200, aur monthly pass Rs 1,500 ho to saving Rs 700 hai. Ye ek misal hai, asli qeemat route se farq ho sakti hai. On a route taken almost daily, the pass usually wins, sometimes by a wide margin. On a route taken twice a week, the daily ticket usually wins, and the pass would be a waste.
 
 The key word is "your" route. Someone else's answer means nothing. Count your own trips for two normal weeks, multiply, and let the numbers decide. And remember the pass has a second value: it removes the daily decision. No fumbling for change, no queue at the counter, no day when the fare quietly rises without you noticing. The pass turns transport from a daily purchase into a monthly fact, and monthly facts are easier to budget around.
 

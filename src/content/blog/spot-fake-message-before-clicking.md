@@ -142,8 +142,7 @@ Do not waste time on shame, spend it on speed. If you gave away personal or fina
 
 ## Sources
 
-- U.S. Federal Trade Commission — Protect yourself from phishing scams: https://consumer.ftc.gov/consumer-alerts/2025/04/protect-yourself-phishing-scams
-- U.S. Federal Trade Commission — Those urgent emails from MetaMask and PayPal are phishing scams: https://consumer.ftc.gov/consumer-alerts/2023/05/those-urgent-emails-metamask-and-paypal-are-phishing-scams?page=0
+- CISA — Recognize and report phishing: https://www.cisa.gov/news-events/news/national-internet-safety-month-june-take-4-easy-steps-stay-safe-online
 - UK Government, Stop! Think Fraud — How to spot a fake text message: https://stopthinkfraud.campaign.gov.uk/how-to-spot-fraud/how-to-spot-a-fake-text-message/
 - WhatsApp Help Center — About two-step verification: https://faq.whatsapp.com/general/verification/about-two-step-verification
 - Bitdefender — Received a WhatsApp verification code without requesting it? (quoting WhatsApp's official warning): https://www.bitdefender.com/blog/hotforsecurity/received-a-whatsapp-verification-code-without-requesting-it-beware-you-might-be-about-to-have-your-account-stolen/

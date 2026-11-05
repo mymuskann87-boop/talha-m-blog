@@ -77,6 +77,8 @@ Close the notebook when the last payment is written in. The celebration is over,
 
 - [Save Money On Gardening Costs](https://talhablog.com/blog/save-money-on-gardening-costs/)
 
+Misal: khana Rs 500 per shakhs ho to 200 mehman = Rs 100,000, aur 100 mehman = Rs 50,000, yani saving Rs 50,000. Ye ek misal hai, asli qeemat hall se farq ho sakti hai.
+
 ## My Take: Wedding costs follow guest list before venue charm
 
 The notebook was already half full before the wedding was two months away. One column for the item, one for the promised price, one for what was actually paid. The bride's mother turned the pages slowly, the way people turn pages when numbers have started to feel heavier than the celebration. A wedding is a ceremony celebrating a marriage, often with family gatherings, food, and decoration. It is one of the happiest days a family plans, and one of the easiest days to overspend, because every decision feels emotional and every seller knows it. This post is that notebook, kept honestly: six decisions, in the order that matters, that protect both the celebration and the budget. Nothing here mocks tradition. Family expectations are real, and honouring them matters. The ideas below are cheaper ways to honour them, not ways to dodge them.

@@ -59,6 +59,8 @@ The same goes for swollen batteries. A battery that has puffed up is a safety ri
 
 The rule is kind and simple: fix what is safe and simple, and pay a professional for what is not. Saving money never means risking the phone, or yourself.
 
+Misal: screen tootne par repair Rs 8,000 + fitting Rs 1,500 = Rs 9,500 banta hai, jabke cover Rs 500 aur protector Rs 300 = Rs 800 me pehle se hifazat ho sakti hai. Ye ek misal hai, asli qeemat model se farq ho sakti hai.
+
 ## My Take: Phone repairs cost less after prevention and comparison
 
 The bell over the repair shop door rings all day. A student comes in holding a phone with a spiderwebbed screen. A delivery rider follows with a phone that fell off his bike. By evening, a tray behind the counter holds a small graveyard of cracked glass, swollen batteries, and charging ports full of pocket lint. The repairer barely looks up. He has seen every one of these before, and most of them, he will tell you, never needed to happen at all. That is the first truth about repair bills. They rarely arrive out of nowhere. They grow out of small habits: a phone carried without a case, a cable yanked sideways, a charger borrowed from a drawer full of cheap copies. Change the habits, and the bills shrink. When a repair truly is needed, a few calm questions at the counter can cut the price without cutting quality.

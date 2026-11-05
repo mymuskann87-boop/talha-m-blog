@@ -143,4 +143,3 @@ It is the idea, from Kruger and Dunning's 1999 studies, that people with low abi
 
 - Wikipedia — "1995 Greater Pittsburgh bank robberies": https://en.wikipedia.org/wiki/1995_Greater_Pittsburgh_bank_robberies
 - Kruger & Dunning (1999) — "Unskilled and Unaware of It: How Difficulties in Recognizing One's Own Incompetence Lead to Inflated Self-Assessments", Journal of Personality and Social Psychology (full text): https://esthermofet.com/2010/12/01/
-- Space Daily — "In the original Dunning-Kruger studies, bottom-quartile performers greatly overestimated their percentile": https://spacedaily.com/d-people-with-the-least-competence-in-a-given-subject-consistently-rate-themselves-as-the-most-competent-a-phenomenon-called-the-dunning-kruger-effect-identified-by-cornell-psychologists-in-1/

@@ -68,6 +68,9 @@ Also, a smaller package is not always the answer. After cutting waste, check wha
 - [Pick Cheapest Mobile Recharge Plan](https://talhablog.com/blog/pick-cheapest-mobile-recharge-plan/)
 - [Save Money On Internet Package](https://talhablog.com/blog/save-money-on-internet-package/)
 
+
+For example: streaming at 2 GB a day for 7 days uses 2 × 7 = 14 GB, while the same viewing at standard quality at 1 GB a day for 7 days uses 1 × 7 = 7 GB — a saving of 14 − 7 = 7 GB in the week, with no change to the number of days watched.
+
 ## My Take: Mobile Data Savings Start With Two Hungry Apps
 
 The post offers six habits. Find the top two hungry apps first. Download on Wi-Fi, watch offline. Set video to standard quality on mobile data. Turn off background refresh for heavy apps. Use Wi-Fi for the big jobs, wherever it is trusted. A week of data, planned. Finding the top two turns a vague worry into named causes. 

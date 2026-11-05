@@ -57,6 +57,8 @@ There is also the other side of the table: receiving. A person who receives a mo
 
 - [Save Money On Dinner Parties](https://talhablog.com/blog/save-money-on-dinner-parties/)
 
+Misal: 5 gifts Rs 2,000 each = Rs 10,000. Pehle se list bana kar sale me Rs 1,500 each = Rs 7,500, yani saving Rs 2,500. Ye ek misal hai, asli qeemat dukaan se farq ho sakti hai.
+
 ## My Take: Gift Giving Fails on Guessing, Not on Spending Less
 
 The post defines a gift as something given willingly, without payment, usually to show care or to celebrate, and argues that the care is the gift while the price tag is only the wrapping. It advises a limit for each occasion before shopping, adding the occasions up once a year, and setting a small amount aside every month, so a birthday gift feels paid for calmly months ago. It praises handmade gifts, a proper letter, a framed photo, a cooked meal, or a skill offered as help, and argues that one good group gift beats five small ones, because five friends buying separately spend more in total and leave the receiver with clutter. It advises buying early in sales, keeping a list of names, dates, and ideas through the year, storing bought-ahead gifts in one place with a tag, and respecting customs while honouring generosity without debt. 

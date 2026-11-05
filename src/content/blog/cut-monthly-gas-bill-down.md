@@ -58,6 +58,9 @@ Keep burner caps clean as well. Food spills block the small holes in a burner ca
 - [Save Money On Electricity Bill](https://talhablog.com/blog/save-money-on-electricity-bill/)
 - [Save Money On Winter Heating](https://talhablog.com/blog/save-money-on-winter-heating/)
 
+
+For example: a monthly gas bill of Rs 6,000 falling to Rs 4,500 after lids, matched pots and pressure-cooker cooking gives a saving of Rs 6,000 − Rs 4,500 = Rs 1,500 for that month. Ye ek misal hai, asli qeemat se farq ho sakti hai.
+
 ## My Take: Gas Savings Live in the Lid and Meter
 
 The post offers seven habits. Put a lid on it. Match the pot to the burner. Let the pressure cooker do the slow work. A gas smell is never a saving opportunity. Read the meter, catch the jump. The honest limits of saving gas. Use the right heat at the right time. A lid keeps heat in the pot. A pot matched to the burner puts flame where food is. A pressure cooker does slow work faster, under pressure. 
